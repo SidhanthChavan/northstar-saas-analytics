@@ -10,6 +10,8 @@ Short answer: yes. Accounts that suffer three or more P1/P2 SLA breaches in a qu
 
 > **Note on the data:** the data is synthetic. A Python generator simulates three years of CRM, billing, helpdesk and product-usage extracts, with realistic seasonality, messy source data and cause-and-effect built in (slow support → lower health → churn at renewal). The numbers below come from running the SQL in this repo against that data, not from any real company.
 
+📄 **Full project report (plain English, 11 pages):** [docs/NorthStar_Cloud_Project_Report.pdf](docs/NorthStar_Cloud_Project_Report.pdf)
+
 ---
 
 ## Executive summary
@@ -81,6 +83,21 @@ The £271k is a simple expected-value estimate (ARR × excess churn probability)
 
 ---
 
+## Dashboard
+
+Three pages, one per leadership conversation. These images show the dashboard design with the September 2026 figures, drawn directly from the project's data. The full layout spec is in [docs/05_dashboard_wireframe.md](docs/05_dashboard_wireframe.md).
+
+**Page 1: Revenue & Retention.** Is the growth the right kind?
+![Dashboard page 1: revenue and retention overview](docs/images/dashboard_page1_revenue.png)
+
+**Page 2: Churn & Customer Health.** Why are customers leaving, and who is next?
+![Dashboard page 2: churn reasons, cohort retention, customer health and the at-risk call list](docs/images/dashboard_page2_churn.png)
+
+**Page 3: Support SLA & Efficiency.** Where is support getting stuck?
+![Dashboard page 3: support performance against the 92% target](docs/images/dashboard_page3_support.png)
+
+---
+
 ## Architecture
 
 ```mermaid
@@ -130,6 +147,8 @@ northstar-saas-analytics/
     ├── 02_data_dictionary.md        # raw columns, known data issues, warehouse layers
     ├── 04_powerbi_data_model.md     # star schema, relationships, build steps
     ├── 05_dashboard_wireframe.md    # page-by-page visual spec
+    ├── NorthStar_Cloud_Project_Report.pdf  # plain-English project report
+    ├── images/                      # dashboard page images
     ├── output_data_quality_report.txt
     └── output_ad_hoc_investigation.txt
 ```
@@ -186,11 +205,7 @@ To run a step by hand: `psql -f sql/02_business_logic_views.sql`. To try a diffe
 
 **Power BI:** follow `docs/04_powerbi_data_model.md`. Connect to the `mart` views (or load `data/marts/*.csv`), build the relationships, paste in `powerbi/measures.dax`, then lay out the pages from `docs/05_dashboard_wireframe.md`. Expected headline values to check against: Total MRR £3,220,685 and NRR (TTM) 94.9% for September 2026.
 
-<!-- Add screenshots once the report is built:
-![Executive overview](docs/images/page1_executive.png)
-![Churn diagnostics](docs/images/page2_churn.png)
-![Support SLA](docs/images/page3_support.png)
--->
+
 
 ---
 
