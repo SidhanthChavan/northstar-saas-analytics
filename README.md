@@ -190,7 +190,7 @@ From `docs/output_data_quality_report.txt`:
 **You need:** Python 3.10+, PostgreSQL 14+ (with `psql` on your PATH) and Power BI Desktop (Windows) for the report.
 
 ```bash
-git clone https://github.com/<your-username>/northstar-saas-analytics.git
+git clone https://github.com/SidhanthChavan/northstar-saas-analytics.git
 cd northstar-saas-analytics
 pip install -r requirements.txt
 
@@ -204,8 +204,6 @@ That takes around 30 seconds. It regenerates the data (same seed, same numbers),
 To run a step by hand: `psql -f sql/02_business_logic_views.sql`. To try a different scenario: `SEED=7 ./scripts/run_pipeline.sh`.
 
 **Power BI:** follow `docs/04_powerbi_data_model.md`. Connect to the `mart` views (or load `data/marts/*.csv`), build the relationships, paste in `powerbi/measures.dax`, then lay out the pages from `docs/05_dashboard_wireframe.md`. Expected headline values to check against: Total MRR £3,220,685 and NRR (TTM) 94.9% for September 2026.
-
-
 
 ---
 
@@ -223,7 +221,11 @@ To run a step by hand: `psql -f sql/02_business_logic_views.sql`. To try a diffe
 - Schedule the pipeline (dbt + Airflow, or Fabric) with tests on the reconciliation and PK uniqueness
 - Add row-level security so each account manager sees only their own book
 
+## Licence
+
+MIT. See [LICENSE](LICENSE).
+
 ---
 
 **Sidhanth Chavan** · MSc Data Science (Distinction), Manchester Metropolitan University
-[LinkedIn](https://www.linkedin.com/in/<your-profile>) · [Email](mailto:<you@example.com>)
+[LinkedIn](https://www.linkedin.com/in/sidhanth-chavan/) · [GitHub](https://github.com/SidhanthChavan)
