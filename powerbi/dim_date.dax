@@ -1,0 +1,28 @@
+// ============================================================================
+//  dim_date - calculated table (Modeling > New table)
+//  Alternative: import mart.dim_date from PostgreSQL (same columns).
+//  After creating: Table tools > Mark as date table > dim_date[date]
+// ============================================================================
+
+dim_date =
+VAR _start = DATE ( 2023, 10, 1 )                                   // history start
+VAR _end   = EOMONTH ( MAX ( fact_mrr_movements[month_date] ), 0 )  // last data month
+RETURN
+    ADDCOLUMNS (
+        CALENDAR ( _start, _end ),
+        "month_start",    DATE ( YEAR ( [Date] ), MONTH ( [Date] ), 1 ),
+        "year",           YEAR ( [Date] ),
+        "quarter_label",  "Q" & QUARTER ( [Date] ) & " " & YEAR ( [Date] ),
+        "month_label",    FORMAT ( [Date], "mmm yyyy" ),
+        "year_month_key", YEAR ( [Date] ) * 100 + MONTH ( [Date] ),     // sort month_label by this
+        "month_number",   MONTH ( [Date] ),
+        // UK fiscal year, April start: FY2025/26 = 1 Apr 2025 - 31 Mar 2026
+        "fiscal_year",
+            VAR _fyStart = IF ( MONTH ( [Date] ) >= 4, YEAR ( [Date] ), YEAR ( [Date] ) - 1 )
+            RETURN "FY" & _fyStart & "/" & RIGHT ( _fyStart + 1, 2 ),
+        "is_weekend",     WEEKDAY ( [Date], 2 ) > 5
+    )
+
+// Rename the generated [Date] column to "date" so the relationship and the
+// measures (dim_date[date]) line up. Sort month_label by year_month_key and
+// quarter_label by year_month_key.

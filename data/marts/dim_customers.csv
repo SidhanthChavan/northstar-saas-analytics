@@ -1,0 +1,1545 @@
+account_id,company_name,industry,region,tier,tier_sort,account_manager,signup_date,cohort_month,cohort_quarter,is_pre_history_account,plan_type
+NSC-10001,Ember Partners Ltd,Public Sector,Scotland,Mid-Market,2,Aisha Patel,2020-11-26,2020-11-01,2020-Q4,t,Monthly
+NSC-10002,Westmoor Capital Group,Public Sector,Midlands,SMB,3,Ravi Mehta,2022-06-14,2022-06-01,2022-Q2,t,Monthly
+NSC-10003,Fenwick Medical Ltd,Healthcare,South West & Wales,Mid-Market,2,Hannah Doyle,2021-09-12,2021-09-01,2021-Q3,t,Annual
+NSC-10004,Ember Manufacturing plc,Manufacturing,Scotland,Mid-Market,2,Callum Reid,2023-06-30,2023-06-01,2023-Q2,t,Annual
+NSC-10005,Mersey Foods Ltd,Manufacturing,South West & Wales,SMB,3,Sophie Turner,2020-03-20,2020-03-01,2020-Q1,t,Monthly
+NSC-10006,Clyde Capital Ltd,Public Sector,North West,Enterprise,1,Priya Raman,2022-05-02,2022-05-01,2022-Q2,t,Annual
+NSC-10007,Sterling Advisory Holdings,Education,Yorkshire & North East,Mid-Market,2,Aisha Patel,2022-01-15,2022-01-01,2022-Q1,t,Monthly
+NSC-10008,Harbour Advisory Ltd,Professional Services,Yorkshire & North East,Mid-Market,2,Aisha Patel,2019-11-24,2019-11-01,2019-Q4,t,Annual
+NSC-10009,Lantern Health Holdings,Logistics,Midlands,SMB,3,Owen Price,2021-09-05,2021-09-01,2021-Q3,t,Monthly
+NSC-10010,Cobalt Energy Ltd,Professional Services,Scotland,SMB,3,Ravi Mehta,2020-07-12,2020-07-01,2020-Q3,t,Annual
+NSC-10011,Ember Learning Ltd,Unknown,London & South East,SMB,3,Owen Price,2022-10-02,2022-10-01,2022-Q4,t,Monthly
+NSC-10012,Saxon Health LLP,Professional Services,Scotland,Enterprise,1,Tom Whitfield,2020-04-30,2020-04-01,2020-Q2,t,Monthly
+NSC-10013,Redbrick Freight Ltd,Retail,London & South East,Mid-Market,2,Aisha Patel,2021-07-30,2021-07-01,2021-Q3,t,Annual
+NSC-10014,Orchard Consulting Ltd,Healthcare,London & South East,Mid-Market,2,Unassigned,2022-11-17,2022-11-01,2022-Q4,t,Monthly
+NSC-10015,Ironbridge Freight Holdings,Retail,Midlands,SMB,3,Sophie Turner,2022-10-28,2022-10-01,2022-Q4,t,Monthly
+NSC-10016,Calder Capital Ltd,Logistics,Yorkshire & North East,SMB,3,Owen Price,2020-07-26,2020-07-01,2020-Q3,t,Monthly
+NSC-10017,Pennine Advisory Group,Financial Services,London & South East,Mid-Market,2,Daniel Hughes,2023-02-14,2023-02-01,2023-Q1,t,Annual
+NSC-10018,Ashford Logistics Ltd,Education,London & South East,SMB,3,Liam Carter,2023-06-21,2023-06-01,2023-Q2,t,Monthly
+NSC-10019,Fenwick Medical Group,Manufacturing,London & South East,Mid-Market,2,Callum Reid,2022-01-23,2022-01-01,2022-Q1,t,Monthly
+NSC-10020,Castlefield Logistics Ltd,Logistics,London & South East,Mid-Market,2,Daniel Hughes,2022-05-17,2022-05-01,2022-Q2,t,Annual
+NSC-10021,Ironbridge Supplies Holdings,Education,London & South East,Mid-Market,2,Daniel Hughes,2022-10-07,2022-10-01,2022-Q4,t,Annual
+NSC-10022,Sterling Engineering plc,Retail,London & South East,SMB,3,Unassigned,2020-01-27,2020-01-01,2020-Q1,t,Annual
+NSC-10023,Ashford Retail plc,Logistics,London & South East,Enterprise,1,Grace Okafor,2020-12-01,2020-12-01,2020-Q4,t,Annual
+NSC-10024,Bluebell Supplies Ltd,Financial Services,Midlands,Enterprise,1,Grace Okafor,2020-12-14,2020-12-01,2020-Q4,t,Annual
+NSC-10025,Sterling Analytics Holdings,Healthcare,Midlands,Mid-Market,2,Daniel Hughes,2023-02-25,2023-02-01,2023-Q1,t,Annual
+NSC-10026,Peak Logistics Ltd,Financial Services,North West,SMB,3,Megan Shaw,2021-07-02,2021-07-01,2021-Q3,t,Annual
+NSC-10027,Saxon Advisory Ltd,Healthcare,North West,SMB,3,Ravi Mehta,2023-01-16,2023-01-01,2023-Q1,t,Monthly
+NSC-10028,Lantern Medical LLP,Professional Services,London & South East,SMB,3,Ravi Mehta,2020-10-18,2020-10-01,2020-Q4,t,Annual
+NSC-10029,Orchard Freight plc,Manufacturing,North West,SMB,3,Liam Carter,2022-11-05,2022-11-01,2022-Q4,t,Monthly
+NSC-10030,Pennine Freight Ltd,Healthcare,London & South East,Mid-Market,2,Hannah Doyle,2021-04-24,2021-04-01,2021-Q2,t,Monthly
+NSC-10031,Meridian Logistics Group,Public Sector,Yorkshire & North East,Mid-Market,2,Callum Reid,2021-10-18,2021-10-01,2021-Q4,t,Annual
+NSC-10032,Wessex Advisory plc,Logistics,London & South East,Enterprise,1,Priya Raman,2021-09-23,2021-09-01,2021-Q3,t,Annual
+NSC-10033,Moorland Care plc,Professional Services,London & South East,SMB,3,Ravi Mehta,2020-10-04,2020-10-01,2020-Q4,t,Monthly
+NSC-10034,Highland Consulting Ltd,Healthcare,North West,SMB,3,Ravi Mehta,2022-03-20,2022-03-01,2022-Q1,t,Monthly
+NSC-10035,Ember Consulting Ltd,Public Sector,South West & Wales,SMB,3,Liam Carter,2023-02-22,2023-02-01,2023-Q1,t,Monthly
+NSC-10036,Castlefield Systems Holdings,Healthcare,Midlands,SMB,3,Ravi Mehta,2020-08-16,2020-08-01,2020-Q3,t,Annual
+NSC-10037,Harbour Partners plc,Healthcare,Ireland,SMB,3,Liam Carter,2022-03-07,2022-03-01,2022-Q1,t,Monthly
+NSC-10038,Cobalt Manufacturing Ltd,Professional Services,London & South East,SMB,3,Megan Shaw,2020-06-18,2020-06-01,2020-Q2,t,Monthly
+NSC-10039,Northgate Foods Ltd,Manufacturing,North West,SMB,3,Liam Carter,2020-09-18,2020-09-01,2020-Q3,t,Monthly
+NSC-10040,Bluebell Capital Ltd,Professional Services,London & South East,Mid-Market,2,Callum Reid,2020-01-22,2020-01-01,2020-Q1,t,Annual
+NSC-10041,Cobalt Supplies plc,Professional Services,Midlands,SMB,3,Unassigned,2020-09-23,2020-09-01,2020-Q3,t,Monthly
+NSC-10042,Redbrick Learning LLP,Logistics,London & South East,Mid-Market,2,Callum Reid,2020-02-12,2020-02-01,2020-Q1,t,Annual
+NSC-10043,Oakridge Consulting LLP,Education,London & South East,Mid-Market,2,Hannah Doyle,2020-09-22,2020-09-01,2020-Q3,t,Monthly
+NSC-10044,Fenwick Learning plc,Retail,South West & Wales,SMB,3,Liam Carter,2021-07-18,2021-07-01,2021-Q3,t,Monthly
+NSC-10045,Ember Analytics Ltd,Education,South West & Wales,Mid-Market,2,Aisha Patel,2020-05-08,2020-05-01,2020-Q2,t,Monthly
+NSC-10046,Riverside Consulting Ltd,Manufacturing,North West,Mid-Market,2,Aisha Patel,2020-05-14,2020-05-01,2020-Q2,t,Annual
+NSC-10047,Ashford Learning Holdings,Logistics,North West,SMB,3,Owen Price,2021-06-07,2021-06-01,2021-Q2,t,Annual
+NSC-10048,Ironbridge Energy Ltd,Education,Yorkshire & North East,SMB,3,Sophie Turner,2019-10-04,2019-10-01,2019-Q4,t,Annual
+NSC-10049,Lowther Logistics Ltd,Financial Services,London & South East,Mid-Market,2,Callum Reid,2023-01-22,2023-01-01,2023-Q1,t,Monthly
+NSC-10050,Saxon Analytics Ltd,Retail,London & South East,SMB,3,Ravi Mehta,2020-10-26,2020-10-01,2020-Q4,t,Monthly
+NSC-10051,Tamar Consulting Ltd,Logistics,London & South East,SMB,3,Liam Carter,2022-10-19,2022-10-01,2022-Q4,t,Monthly
+NSC-10052,Bluebell Partners Group,Logistics,North West,SMB,3,Ravi Mehta,2021-12-17,2021-12-01,2021-Q4,t,Monthly
+NSC-10053,Albion Manufacturing Holdings,Logistics,London & South East,Mid-Market,2,Aisha Patel,2022-11-17,2022-11-01,2022-Q4,t,Annual
+NSC-10054,Kingsway Supplies Ltd,Education,London & South East,Mid-Market,2,Hannah Doyle,2022-12-23,2022-12-01,2022-Q4,t,Annual
+NSC-10055,Heathrow Partners Ltd,Manufacturing,North West,Mid-Market,2,Callum Reid,2022-09-06,2022-09-01,2022-Q3,t,Annual
+NSC-10056,Calder Distribution LLP,Logistics,London & South East,Mid-Market,2,Callum Reid,2022-08-25,2022-08-01,2022-Q3,t,Annual
+NSC-10057,Ashford Freight Ltd,Manufacturing,London & South East,SMB,3,Sophie Turner,2020-08-15,2020-08-01,2020-Q3,t,Annual
+NSC-10058,Mersey Care Ltd,Retail,London & South East,Mid-Market,2,Daniel Hughes,2021-01-03,2021-01-01,2021-Q1,t,Annual
+NSC-10059,Peak Capital Holdings,Professional Services,Scotland,SMB,3,Megan Shaw,2023-07-17,2023-07-01,2023-Q3,t,Monthly
+NSC-10060,Beacon Advisory Ltd,Financial Services,Ireland,SMB,3,Owen Price,2021-08-10,2021-08-01,2021-Q3,t,Monthly
+NSC-10061,Redbrick Distribution Ltd,Retail,North West,Mid-Market,2,Hannah Doyle,2021-10-29,2021-10-01,2021-Q4,t,Monthly
+NSC-10062,Wessex Distribution Ltd,Retail,North West,SMB,3,Sophie Turner,2021-03-10,2021-03-01,2021-Q1,t,Annual
+NSC-10063,Highland Advisory Ltd,Manufacturing,Yorkshire & North East,Mid-Market,2,Hannah Doyle,2019-11-17,2019-11-01,2019-Q4,t,Monthly
+NSC-10064,Heathrow Capital Holdings,Financial Services,North West,Mid-Market,2,Aisha Patel,2023-06-18,2023-06-01,2023-Q2,t,Monthly
+NSC-10065,Redbrick Systems Ltd,Public Sector,Ireland,Mid-Market,2,Callum Reid,2023-08-25,2023-08-01,2023-Q3,t,Monthly
+NSC-10066,Tamar Manufacturing Ltd,Manufacturing,North West,Mid-Market,2,Hannah Doyle,2019-11-26,2019-11-01,2019-Q4,t,Annual
+NSC-10067,Peak Partners plc,Manufacturing,London & South East,Mid-Market,2,Aisha Patel,2022-03-21,2022-03-01,2022-Q1,t,Monthly
+NSC-10068,Pennine Systems Ltd,Logistics,Ireland,SMB,3,Liam Carter,2023-02-18,2023-02-01,2023-Q1,t,Monthly
+NSC-10069,Wessex Logistics Ltd,Public Sector,Ireland,SMB,3,Owen Price,2022-01-30,2022-01-01,2022-Q1,t,Annual
+NSC-10070,Avon Medical Ltd,Financial Services,South West & Wales,SMB,3,Ravi Mehta,2021-08-16,2021-08-01,2021-Q3,t,Monthly
+NSC-10071,Kingsway Health LLP,Professional Services,Scotland,SMB,3,Ravi Mehta,2021-06-12,2021-06-01,2021-Q2,t,Monthly
+NSC-10072,Redbrick Foods LLP,Financial Services,North West,SMB,3,Ravi Mehta,2021-03-20,2021-03-01,2021-Q1,t,Monthly
+NSC-10073,Ashford Supplies Ltd,Public Sector,London & South East,Mid-Market,2,Aisha Patel,2022-02-26,2022-02-01,2022-Q1,t,Monthly
+NSC-10074,Wessex Medical Ltd,Manufacturing,London & South East,SMB,3,Owen Price,2021-08-25,2021-08-01,2021-Q3,t,Monthly
+NSC-10075,Peak Analytics Group,Professional Services,Midlands,SMB,3,Owen Price,2021-03-22,2021-03-01,2021-Q1,t,Monthly
+NSC-10076,Quayside Capital Holdings,Financial Services,Midlands,SMB,3,Liam Carter,2022-12-14,2022-12-01,2022-Q4,t,Monthly
+NSC-10077,Severn Housing LLP,Logistics,Ireland,SMB,3,Liam Carter,2023-04-13,2023-04-01,2023-Q2,t,Monthly
+NSC-10078,Kingsway Supplies Holdings,Retail,Yorkshire & North East,Mid-Market,2,Callum Reid,2021-10-31,2021-10-01,2021-Q4,t,Monthly
+NSC-10079,Fenwick Distribution LLP,Logistics,London & South East,Mid-Market,2,Aisha Patel,2021-04-28,2021-04-01,2021-Q2,t,Monthly
+NSC-10080,Mersey Partners Ltd,Professional Services,Yorkshire & North East,Mid-Market,2,Hannah Doyle,2021-03-19,2021-03-01,2021-Q1,t,Annual
+NSC-10081,Redbrick Retail Ltd,Unknown,Scotland,Mid-Market,2,Callum Reid,2020-07-11,2020-07-01,2020-Q3,t,Monthly
+NSC-10082,Westmoor Engineering Ltd,Retail,London & South East,SMB,3,Megan Shaw,2020-09-27,2020-09-01,2020-Q3,t,Annual
+NSC-10083,Wessex Logistics Holdings,Public Sector,Midlands,Mid-Market,2,Aisha Patel,2020-04-19,2020-04-01,2020-Q2,t,Monthly
+NSC-10084,Calder Distribution Holdings,Professional Services,London & South East,SMB,3,Owen Price,2020-03-08,2020-03-01,2020-Q1,t,Annual
+NSC-10085,Orchard Analytics plc,Public Sector,North West,SMB,3,Ravi Mehta,2020-08-26,2020-08-01,2020-Q3,t,Annual
+NSC-10086,Cobalt Capital LLP,Professional Services,London & South East,SMB,3,Liam Carter,2021-06-27,2021-06-01,2021-Q2,t,Monthly
+NSC-10087,Beacon Advisory Group,Healthcare,Scotland,Mid-Market,2,Callum Reid,2019-10-04,2019-10-01,2019-Q4,t,Annual
+NSC-10088,Tamar Partners LLP,Logistics,North West,SMB,3,Ravi Mehta,2020-08-24,2020-08-01,2020-Q3,t,Monthly
+NSC-10089,Kingsway Retail Ltd,Retail,North West,SMB,3,Sophie Turner,2022-12-28,2022-12-01,2022-Q4,t,Annual
+NSC-10090,Oakridge Consulting Ltd,Education,Scotland,SMB,3,Megan Shaw,2020-01-20,2020-01-01,2020-Q1,t,Annual
+NSC-10091,Redbrick Consulting Ltd,Healthcare,Midlands,SMB,3,Owen Price,2022-08-03,2022-08-01,2022-Q3,t,Annual
+NSC-10092,Castlefield Manufacturing plc,Logistics,Scotland,Mid-Market,2,Hannah Doyle,2020-08-08,2020-08-01,2020-Q3,t,Monthly
+NSC-10093,Tamar Advisory Ltd,Financial Services,Midlands,SMB,3,Owen Price,2023-06-12,2023-06-01,2023-Q2,t,Monthly
+NSC-10094,Mersey Energy Group,Professional Services,South West & Wales,SMB,3,Ravi Mehta,2021-05-21,2021-05-01,2021-Q2,t,Monthly
+NSC-10095,Calder Partners Holdings,Retail,Ireland,SMB,3,Owen Price,2021-02-01,2021-02-01,2021-Q1,t,Monthly
+NSC-10096,Avon Housing Ltd,Financial Services,London & South East,Mid-Market,2,Callum Reid,2020-03-17,2020-03-01,2020-Q1,t,Annual
+NSC-10097,Highland Engineering LLP,Education,London & South East,SMB,3,Unassigned,2020-05-17,2020-05-01,2020-Q2,t,Monthly
+NSC-10098,Peak Partners Ltd,Financial Services,Yorkshire & North East,SMB,3,Owen Price,2021-08-03,2021-08-01,2021-Q3,t,Annual
+NSC-10099,Mersey Analytics Ltd,Healthcare,London & South East,SMB,3,Liam Carter,2023-06-10,2023-06-01,2023-Q2,t,Annual
+NSC-10100,Pennine Manufacturing Group,Manufacturing,Midlands,Enterprise,1,Grace Okafor,2023-04-26,2023-04-01,2023-Q2,t,Annual
+NSC-10101,Calder Energy Holdings,Retail,Yorkshire & North East,Enterprise,1,Tom Whitfield,2023-01-04,2023-01-01,2023-Q1,t,Annual
+NSC-10102,Bluebell Consulting plc,Manufacturing,Midlands,Mid-Market,2,Unassigned,2020-04-25,2020-04-01,2020-Q2,t,Monthly
+NSC-10103,Mersey Foods Holdings,Healthcare,Scotland,SMB,3,Megan Shaw,2023-02-20,2023-02-01,2023-Q1,t,Monthly
+NSC-10104,Severn Advisory LLP,Logistics,Midlands,Enterprise,1,Grace Okafor,2021-07-21,2021-07-01,2021-Q3,t,Monthly
+NSC-10105,Ironbridge Logistics LLP,Professional Services,Yorkshire & North East,Mid-Market,2,Aisha Patel,2021-10-13,2021-10-01,2021-Q4,t,Annual
+NSC-10106,Peak Consulting Holdings,Healthcare,South West & Wales,Mid-Market,2,Hannah Doyle,2023-04-04,2023-04-01,2023-Q2,t,Monthly
+NSC-10107,Quayside Advisory Ltd,Financial Services,Midlands,SMB,3,Ravi Mehta,2021-09-16,2021-09-01,2021-Q3,t,Monthly
+NSC-10108,Granite Advisory Ltd,Retail,Midlands,SMB,3,Unassigned,2022-03-08,2022-03-01,2022-Q1,t,Monthly
+NSC-10109,Granite Supplies Ltd,Healthcare,Scotland,SMB,3,Owen Price,2021-06-22,2021-06-01,2021-Q2,t,Monthly
+NSC-10110,Kingsway Analytics Ltd,Professional Services,London & South East,Enterprise,1,Tom Whitfield,2023-03-25,2023-03-01,2023-Q1,t,Annual
+NSC-10111,Mersey Partners LLP,Healthcare,Yorkshire & North East,SMB,3,Liam Carter,2021-04-17,2021-04-01,2021-Q2,t,Monthly
+NSC-10112,Severn Retail Ltd,Professional Services,London & South East,SMB,3,Sophie Turner,2020-04-04,2020-04-01,2020-Q2,t,Monthly
+NSC-10113,Saxon Engineering Ltd,Healthcare,North West,SMB,3,Liam Carter,2021-12-12,2021-12-01,2021-Q4,t,Monthly
+NSC-10114,Ember Energy LLP,Education,Ireland,Mid-Market,2,Hannah Doyle,2021-06-12,2021-06-01,2021-Q2,t,Annual
+NSC-10115,Moorland Housing Ltd,Professional Services,Scotland,SMB,3,Owen Price,2023-06-07,2023-06-01,2023-Q2,t,Monthly
+NSC-10116,Ironbridge Medical plc,Healthcare,South West & Wales,Mid-Market,2,Callum Reid,2021-10-26,2021-10-01,2021-Q4,t,Annual
+NSC-10117,Moorland Systems Ltd,Manufacturing,London & South East,Mid-Market,2,Aisha Patel,2021-05-11,2021-05-01,2021-Q2,t,Annual
+NSC-10118,Cobalt Capital Ltd,Education,North West,Mid-Market,2,Aisha Patel,2023-05-23,2023-05-01,2023-Q2,t,Annual
+NSC-10119,Thames Consulting Group,Manufacturing,North West,SMB,3,Liam Carter,2023-02-11,2023-02-01,2023-Q1,t,Monthly
+NSC-10120,Oakridge Engineering plc,Logistics,Midlands,Mid-Market,2,Hannah Doyle,2021-11-24,2021-11-01,2021-Q4,t,Annual
+NSC-10121,Quayside Energy plc,Public Sector,Ireland,Mid-Market,2,Callum Reid,2022-04-26,2022-04-01,2022-Q2,t,Annual
+NSC-10122,Redbrick Partners Ltd,Financial Services,Ireland,Mid-Market,2,Aisha Patel,2021-07-27,2021-07-01,2021-Q3,t,Annual
+NSC-10123,Falcon Consulting Ltd,Education,North West,SMB,3,Owen Price,2021-10-22,2021-10-01,2021-Q4,t,Annual
+NSC-10124,Granite Distribution Ltd,Manufacturing,London & South East,SMB,3,Owen Price,2022-05-19,2022-05-01,2022-Q2,t,Annual
+NSC-10125,Thames Engineering Ltd,Retail,London & South East,SMB,3,Ravi Mehta,2021-01-10,2021-01-01,2021-Q1,t,Monthly
+NSC-10126,Heathrow Foods LLP,Public Sector,North West,SMB,3,Owen Price,2021-01-04,2021-01-01,2021-Q1,t,Monthly
+NSC-10127,Peak Retail Holdings,Healthcare,London & South East,SMB,3,Sophie Turner,2023-01-12,2023-01-01,2023-Q1,t,Annual
+NSC-10128,Highland Consulting Holdings,Public Sector,South West & Wales,SMB,3,Liam Carter,2022-01-11,2022-01-01,2022-Q1,t,Monthly
+NSC-10129,Westmoor Analytics Holdings,Public Sector,London & South East,SMB,3,Sophie Turner,2021-09-10,2021-09-01,2021-Q3,t,Monthly
+NSC-10130,Cobalt Freight Ltd,Healthcare,North West,Mid-Market,2,Hannah Doyle,2022-08-02,2022-08-01,2022-Q3,t,Annual
+NSC-10131,Quayside Freight LLP,Retail,London & South East,SMB,3,Owen Price,2023-07-03,2023-07-01,2023-Q3,t,Monthly
+NSC-10132,Bluebell Systems Ltd,Professional Services,London & South East,Enterprise,1,Grace Okafor,2021-04-15,2021-04-01,2021-Q2,t,Annual
+NSC-10133,Thames Health Ltd,Professional Services,London & South East,Mid-Market,2,Callum Reid,2021-08-10,2021-08-01,2021-Q3,t,Annual
+NSC-10134,Harbour Freight LLP,Financial Services,London & South East,SMB,3,Megan Shaw,2022-03-08,2022-03-01,2022-Q1,t,Monthly
+NSC-10135,Mersey Care LLP,Retail,London & South East,Mid-Market,2,Aisha Patel,2023-04-06,2023-04-01,2023-Q2,t,Monthly
+NSC-10136,Brightwater Energy Ltd,Professional Services,South West & Wales,SMB,3,Owen Price,2021-04-09,2021-04-01,2021-Q2,t,Monthly
+NSC-10137,Kingsway Capital LLP,Manufacturing,North West,Enterprise,1,Priya Raman,2023-02-18,2023-02-01,2023-Q1,t,Annual
+NSC-10138,Highland Care Ltd,Retail,Yorkshire & North East,SMB,3,Owen Price,2023-08-08,2023-08-01,2023-Q3,t,Monthly
+NSC-10139,Ironbridge Manufacturing Ltd,Professional Services,Scotland,Mid-Market,2,Callum Reid,2019-10-22,2019-10-01,2019-Q4,t,Monthly
+NSC-10140,Meridian Housing LLP,Healthcare,London & South East,SMB,3,Owen Price,2020-11-22,2020-11-01,2020-Q4,t,Monthly
+NSC-10141,Saxon Logistics Ltd,Logistics,London & South East,SMB,3,Megan Shaw,2020-03-11,2020-03-01,2020-Q1,t,Monthly
+NSC-10142,Calder Consulting plc,Education,Ireland,SMB,3,Ravi Mehta,2022-11-04,2022-11-01,2022-Q4,t,Monthly
+NSC-10143,Holloway Logistics Ltd,Retail,London & South East,Enterprise,1,Priya Raman,2023-05-12,2023-05-01,2023-Q2,t,Annual
+NSC-10144,Kingsway Freight Ltd,Retail,Yorkshire & North East,Mid-Market,2,Daniel Hughes,2023-03-11,2023-03-01,2023-Q1,t,Annual
+NSC-10145,Northgate Health Ltd,Professional Services,London & South East,SMB,3,Ravi Mehta,2020-04-08,2020-04-01,2020-Q2,t,Annual
+NSC-10146,Oakridge Supplies Ltd,Logistics,Scotland,SMB,3,Ravi Mehta,2020-10-15,2020-10-01,2020-Q4,t,Monthly
+NSC-10147,Thames Systems Group,Retail,London & South East,SMB,3,Sophie Turner,2023-06-19,2023-06-01,2023-Q2,t,Monthly
+NSC-10148,Moorland Distribution Ltd,Logistics,Scotland,SMB,3,Liam Carter,2022-11-02,2022-11-01,2022-Q4,t,Annual
+NSC-10149,Kingsway Advisory Ltd,Healthcare,London & South East,SMB,3,Sophie Turner,2019-10-21,2019-10-01,2019-Q4,t,Monthly
+NSC-10150,Quayside Supplies Ltd,Public Sector,Yorkshire & North East,SMB,3,Ravi Mehta,2020-12-16,2020-12-01,2020-Q4,t,Monthly
+NSC-10151,Quayside Retail Ltd,Professional Services,London & South East,Mid-Market,2,Daniel Hughes,2019-11-08,2019-11-01,2019-Q4,t,Monthly
+NSC-10152,Saxon Systems Ltd,Manufacturing,Ireland,Enterprise,1,Priya Raman,2023-06-14,2023-06-01,2023-Q2,t,Annual
+NSC-10153,Holloway Distribution Ltd,Retail,Midlands,SMB,3,Liam Carter,2021-05-14,2021-05-01,2021-Q2,t,Monthly
+NSC-10154,Riverside Advisory Holdings,Manufacturing,London & South East,Mid-Market,2,Aisha Patel,2022-12-05,2022-12-01,2022-Q4,t,Annual
+NSC-10155,Pennine Housing Ltd,Retail,London & South East,SMB,3,Owen Price,2021-05-08,2021-05-01,2021-Q2,t,Annual
+NSC-10156,Peak Supplies Group,Professional Services,Scotland,Mid-Market,2,Callum Reid,2020-01-27,2020-01-01,2020-Q1,t,Annual
+NSC-10157,Riverside Engineering LLP,Financial Services,London & South East,SMB,3,Ravi Mehta,2023-03-27,2023-03-01,2023-Q1,t,Monthly
+NSC-10158,Sterling Supplies Group,Retail,London & South East,Mid-Market,2,Aisha Patel,2020-11-11,2020-11-01,2020-Q4,t,Annual
+NSC-10159,Beacon Care Holdings,Education,London & South East,Mid-Market,2,Callum Reid,2023-04-16,2023-04-01,2023-Q2,t,Monthly
+NSC-10160,Riverside Medical plc,Professional Services,North West,Mid-Market,2,Aisha Patel,2022-09-02,2022-09-01,2022-Q3,t,Annual
+NSC-10161,Peak Consulting plc,Financial Services,Yorkshire & North East,SMB,3,Owen Price,2023-08-15,2023-08-01,2023-Q3,t,Monthly
+NSC-10162,Pennine Retail LLP,Financial Services,Midlands,Enterprise,1,Unassigned,2019-10-13,2019-10-01,2019-Q4,t,Annual
+NSC-10163,Wessex Partners Ltd,Manufacturing,South West & Wales,SMB,3,Megan Shaw,2022-02-12,2022-02-01,2022-Q1,t,Annual
+NSC-10164,Holloway Engineering Ltd,Financial Services,North West,SMB,3,Ravi Mehta,2022-07-18,2022-07-01,2022-Q3,t,Monthly
+NSC-10165,Fenwick Foods Holdings,Financial Services,Scotland,Mid-Market,2,Callum Reid,2020-08-30,2020-08-01,2020-Q3,t,Annual
+NSC-10166,Oakridge Freight Holdings,Healthcare,North West,SMB,3,Sophie Turner,2020-07-09,2020-07-01,2020-Q3,t,Monthly
+NSC-10167,Bluebell Freight Ltd,Retail,London & South East,Mid-Market,2,Hannah Doyle,2022-11-23,2022-11-01,2022-Q4,t,Annual
+NSC-10168,Highland Capital LLP,Professional Services,Midlands,Mid-Market,2,Callum Reid,2023-05-07,2023-05-01,2023-Q2,t,Monthly
+NSC-10169,Heathrow Engineering Holdings,Professional Services,North West,SMB,3,Ravi Mehta,2022-05-04,2022-05-01,2022-Q2,t,Monthly
+NSC-10170,Kingsway Systems plc,Education,London & South East,Enterprise,1,Grace Okafor,2020-01-15,2020-01-01,2020-Q1,t,Annual
+NSC-10171,Fenwick Energy Holdings,Professional Services,North West,SMB,3,Megan Shaw,2021-06-13,2021-06-01,2021-Q2,t,Monthly
+NSC-10172,Severn Partners Ltd,Retail,South West & Wales,SMB,3,Ravi Mehta,2020-07-14,2020-07-01,2020-Q3,t,Monthly
+NSC-10173,Highland Distribution LLP,Financial Services,South West & Wales,SMB,3,Sophie Turner,2019-12-22,2019-12-01,2019-Q4,t,Annual
+NSC-10174,Granite Advisory Group,Financial Services,Midlands,Enterprise,1,Priya Raman,2022-10-08,2022-10-01,2022-Q4,t,Annual
+NSC-10175,Westmoor Consulting Ltd,Retail,London & South East,SMB,3,Owen Price,2021-12-28,2021-12-01,2021-Q4,t,Monthly
+NSC-10176,Westmoor Supplies Ltd,Professional Services,London & South East,SMB,3,Megan Shaw,2022-08-30,2022-08-01,2022-Q3,t,Monthly
+NSC-10177,Avon Supplies plc,Manufacturing,Midlands,SMB,3,Megan Shaw,2022-12-09,2022-12-01,2022-Q4,t,Monthly
+NSC-10178,Clyde Analytics Ltd,Healthcare,Scotland,Enterprise,1,Priya Raman,2021-05-14,2021-05-01,2021-Q2,t,Annual
+NSC-10179,Lantern Retail Ltd,Retail,London & South East,Enterprise,1,Tom Whitfield,2020-03-11,2020-03-01,2020-Q1,t,Annual
+NSC-10180,Peak Analytics Holdings,Manufacturing,Midlands,Mid-Market,2,Hannah Doyle,2021-05-27,2021-05-01,2021-Q2,t,Monthly
+NSC-10181,Riverside Freight plc,Healthcare,London & South East,Enterprise,1,Grace Okafor,2022-04-14,2022-04-01,2022-Q2,t,Annual
+NSC-10182,Pennine Energy Ltd,Manufacturing,London & South East,Enterprise,1,Grace Okafor,2021-12-05,2021-12-01,2021-Q4,t,Monthly
+NSC-10183,Granite Systems Ltd,Manufacturing,Yorkshire & North East,SMB,3,Ravi Mehta,2019-12-05,2019-12-01,2019-Q4,t,Monthly
+NSC-10184,Pennine Care plc,Healthcare,London & South East,SMB,3,Liam Carter,2021-04-10,2021-04-01,2021-Q2,t,Monthly
+NSC-10185,Falcon Foods Ltd,Financial Services,North West,Mid-Market,2,Unassigned,2020-08-30,2020-08-01,2020-Q3,t,Annual
+NSC-10186,Lowther Energy plc,Financial Services,London & South East,Mid-Market,2,Aisha Patel,2022-01-16,2022-01-01,2022-Q1,t,Annual
+NSC-10187,Clyde Partners Ltd,Financial Services,London & South East,SMB,3,Unassigned,2022-09-10,2022-09-01,2022-Q3,t,Annual
+NSC-10188,Redbrick Foods Ltd,Manufacturing,North West,SMB,3,Liam Carter,2020-11-24,2020-11-01,2020-Q4,t,Monthly
+NSC-10189,Highland Distribution plc,Logistics,Midlands,Mid-Market,2,Callum Reid,2022-03-01,2022-03-01,2022-Q1,t,Monthly
+NSC-10190,Harbour Learning plc,Manufacturing,Yorkshire & North East,SMB,3,Liam Carter,2020-06-13,2020-06-01,2020-Q2,t,Monthly
+NSC-10191,Ironbridge Housing Ltd,Logistics,London & South East,Enterprise,1,Tom Whitfield,2021-08-27,2021-08-01,2021-Q3,t,Monthly
+NSC-10192,Northgate Advisory LLP,Logistics,Scotland,SMB,3,Ravi Mehta,2023-08-17,2023-08-01,2023-Q3,t,Annual
+NSC-10193,Mersey Learning Ltd,Logistics,Midlands,SMB,3,Liam Carter,2022-11-25,2022-11-01,2022-Q4,t,Monthly
+NSC-10194,Thames Medical Ltd,Professional Services,Yorkshire & North East,Mid-Market,2,Callum Reid,2022-08-30,2022-08-01,2022-Q3,t,Monthly
+NSC-10195,Falcon Partners Ltd,Manufacturing,Scotland,SMB,3,Liam Carter,2022-12-26,2022-12-01,2022-Q4,t,Monthly
+NSC-10196,Bluebell Manufacturing Holdings,Manufacturing,London & South East,SMB,3,Sophie Turner,2020-04-10,2020-04-01,2020-Q2,t,Annual
+NSC-10197,Severn Energy Group,Healthcare,Yorkshire & North East,Mid-Market,2,Callum Reid,2020-09-30,2020-09-01,2020-Q3,t,Monthly
+NSC-10198,Oakridge Foods Ltd,Healthcare,South West & Wales,Enterprise,1,Priya Raman,2021-12-17,2021-12-01,2021-Q4,t,Annual
+NSC-10199,Avon Logistics Ltd,Manufacturing,North West,SMB,3,Liam Carter,2021-04-23,2021-04-01,2021-Q2,t,Monthly
+NSC-10200,Heathrow Engineering Ltd,Logistics,Yorkshire & North East,SMB,3,Liam Carter,2022-02-22,2022-02-01,2022-Q1,t,Monthly
+NSC-10201,Wessex Health Group,Retail,London & South East,Mid-Market,2,Daniel Hughes,2020-08-08,2020-08-01,2020-Q3,t,Annual
+NSC-10202,Northgate Manufacturing Ltd,Healthcare,London & South East,Enterprise,1,Tom Whitfield,2020-10-20,2020-10-01,2020-Q4,t,Annual
+NSC-10203,Quayside Care Holdings,Education,South West & Wales,SMB,3,Sophie Turner,2020-06-17,2020-06-01,2020-Q2,t,Monthly
+NSC-10204,Westmoor Energy Ltd,Manufacturing,London & South East,SMB,3,Megan Shaw,2019-11-22,2019-11-01,2019-Q4,t,Monthly
+NSC-10205,Quayside Learning Holdings,Healthcare,London & South East,SMB,3,Sophie Turner,2022-07-26,2022-07-01,2022-Q3,t,Monthly
+NSC-10206,Kingsway Retail Group,Education,London & South East,SMB,3,Megan Shaw,2023-06-04,2023-06-01,2023-Q2,t,Monthly
+NSC-10207,Calder Advisory Ltd,Professional Services,Midlands,SMB,3,Liam Carter,2023-07-02,2023-07-01,2023-Q3,t,Monthly
+NSC-10208,Kingsway Systems Ltd,Logistics,London & South East,Mid-Market,2,Hannah Doyle,2022-07-05,2022-07-01,2022-Q3,t,Annual
+NSC-10209,Brightwater Capital plc,Manufacturing,Ireland,SMB,3,Liam Carter,2020-01-31,2020-01-01,2020-Q1,t,Monthly
+NSC-10210,Saxon Manufacturing Ltd,Healthcare,North West,SMB,3,Ravi Mehta,2021-10-18,2021-10-01,2021-Q4,t,Annual
+NSC-10211,Oakridge Distribution Group,Manufacturing,North West,Mid-Market,2,Callum Reid,2022-12-27,2022-12-01,2022-Q4,t,Annual
+NSC-10212,Brightwater Engineering Ltd,Logistics,North West,Mid-Market,2,Daniel Hughes,2021-06-10,2021-06-01,2021-Q2,t,Monthly
+NSC-10213,Holloway Consulting plc,Professional Services,Yorkshire & North East,SMB,3,Ravi Mehta,2020-12-03,2020-12-01,2020-Q4,t,Annual
+NSC-10214,Kingsway Care Ltd,Healthcare,London & South East,Mid-Market,2,Aisha Patel,2021-11-04,2021-11-01,2021-Q4,t,Annual
+NSC-10215,Tamar Distribution Ltd,Professional Services,South West & Wales,Mid-Market,2,Aisha Patel,2019-12-07,2019-12-01,2019-Q4,t,Annual
+NSC-10216,Thames Consulting plc,Logistics,London & South East,Mid-Market,2,Daniel Hughes,2022-01-18,2022-01-01,2022-Q1,t,Annual
+NSC-10217,Peak Advisory Ltd,Manufacturing,Yorkshire & North East,SMB,3,Owen Price,2020-12-10,2020-12-01,2020-Q4,t,Monthly
+NSC-10218,Granite Retail Ltd,Healthcare,Midlands,SMB,3,Liam Carter,2022-01-14,2022-01-01,2022-Q1,t,Monthly
+NSC-10219,Northgate Advisory Ltd,Financial Services,North West,Enterprise,1,Grace Okafor,2021-03-17,2021-03-01,2021-Q1,t,Annual
+NSC-10220,Thames Systems plc,Logistics,South West & Wales,SMB,3,Ravi Mehta,2021-12-03,2021-12-01,2021-Q4,t,Monthly
+NSC-10221,Mersey Logistics Ltd,Unknown,Scotland,SMB,3,Owen Price,2020-01-01,2020-01-01,2020-Q1,t,Monthly
+NSC-10222,Holloway Health Ltd,Retail,North West,SMB,3,Sophie Turner,2023-04-22,2023-04-01,2023-Q2,t,Monthly
+NSC-10223,Calder Learning Holdings,Manufacturing,Scotland,Mid-Market,2,Hannah Doyle,2021-08-12,2021-08-01,2021-Q3,t,Annual
+NSC-10224,Pennine Distribution LLP,Manufacturing,London & South East,Enterprise,1,Priya Raman,2020-03-01,2020-03-01,2020-Q1,t,Annual
+NSC-10225,Northgate Supplies plc,Education,London & South East,SMB,3,Liam Carter,2022-04-24,2022-04-01,2022-Q2,t,Monthly
+NSC-10226,Avon Distribution LLP,Financial Services,Ireland,Enterprise,1,Tom Whitfield,2021-02-02,2021-02-01,2021-Q1,t,Annual
+NSC-10227,Heathrow Retail Ltd,Manufacturing,London & South East,SMB,3,Megan Shaw,2021-12-12,2021-12-01,2021-Q4,t,Monthly
+NSC-10228,Tamar Energy LLP,Logistics,Midlands,Mid-Market,2,Callum Reid,2023-06-22,2023-06-01,2023-Q2,t,Annual
+NSC-10229,Thames Learning Ltd,Logistics,Midlands,Mid-Market,2,Aisha Patel,2023-06-16,2023-06-01,2023-Q2,t,Annual
+NSC-10230,Fenwick Freight Group,Manufacturing,London & South East,SMB,3,Liam Carter,2021-12-29,2021-12-01,2021-Q4,t,Annual
+NSC-10231,Tamar Logistics LLP,Financial Services,London & South East,SMB,3,Liam Carter,2023-04-09,2023-04-01,2023-Q2,t,Monthly
+NSC-10232,Mersey Logistics Group,Professional Services,Scotland,SMB,3,Sophie Turner,2023-07-13,2023-07-01,2023-Q3,t,Monthly
+NSC-10234,Ironbridge Advisory Ltd,Unknown,Midlands,Mid-Market,2,Aisha Patel,2020-01-08,2020-01-01,2020-Q1,t,Monthly
+NSC-10235,Moorland Manufacturing Ltd,Manufacturing,North West,Enterprise,1,Grace Okafor,2023-03-01,2023-03-01,2023-Q1,t,Annual
+NSC-10236,Falcon Medical plc,Healthcare,Midlands,Mid-Market,2,Hannah Doyle,2021-08-20,2021-08-01,2021-Q3,t,Annual
+NSC-10237,Highland Analytics Ltd,Logistics,London & South East,SMB,3,Owen Price,2020-09-02,2020-09-01,2020-Q3,t,Monthly
+NSC-10238,Lantern Housing plc,Education,London & South East,Mid-Market,2,Daniel Hughes,2022-07-02,2022-07-01,2022-Q3,t,Annual
+NSC-10239,Sterling Logistics Holdings,Financial Services,South West & Wales,SMB,3,Owen Price,2022-05-18,2022-05-01,2022-Q2,t,Monthly
+NSC-10240,Northgate Systems plc,Retail,Scotland,SMB,3,Ravi Mehta,2021-03-25,2021-03-01,2021-Q1,t,Annual
+NSC-10241,Clyde Logistics Holdings,Professional Services,North West,Mid-Market,2,Callum Reid,2022-07-25,2022-07-01,2022-Q3,t,Monthly
+NSC-10242,Oakridge Analytics Group,Logistics,Ireland,Mid-Market,2,Daniel Hughes,2020-11-02,2020-11-01,2020-Q4,t,Monthly
+NSC-10243,Fenwick Energy Ltd,Logistics,London & South East,SMB,3,Megan Shaw,2022-09-25,2022-09-01,2022-Q3,t,Annual
+NSC-10244,Wessex Capital Holdings,Public Sector,Midlands,SMB,3,Sophie Turner,2022-11-21,2022-11-01,2022-Q4,t,Annual
+NSC-10245,Cobalt Engineering Ltd,Public Sector,Midlands,Mid-Market,2,Hannah Doyle,2022-02-03,2022-02-01,2022-Q1,t,Annual
+NSC-10246,Harbour Analytics LLP,Logistics,Scotland,Mid-Market,2,Daniel Hughes,2022-01-15,2022-01-01,2022-Q1,t,Annual
+NSC-10247,Ember Supplies Ltd,Logistics,North West,Mid-Market,2,Callum Reid,2021-12-25,2021-12-01,2021-Q4,t,Annual
+NSC-10248,Mersey Retail Ltd,Manufacturing,North West,SMB,3,Sophie Turner,2020-03-23,2020-03-01,2020-Q1,t,Monthly
+NSC-10249,Lantern Health LLP,Healthcare,North West,SMB,3,Megan Shaw,2020-01-19,2020-01-01,2020-Q1,t,Annual
+NSC-10250,Moorland Health Holdings,Professional Services,North West,SMB,3,Owen Price,2021-10-05,2021-10-01,2021-Q4,t,Annual
+NSC-10251,Fenwick Health Ltd,Retail,Yorkshire & North East,Mid-Market,2,Hannah Doyle,2023-07-08,2023-07-01,2023-Q3,t,Monthly
+NSC-10252,Lowther Analytics Holdings,Financial Services,Midlands,Mid-Market,2,Hannah Doyle,2021-12-13,2021-12-01,2021-Q4,t,Annual
+NSC-10253,Beacon Partners Ltd,Education,Midlands,SMB,3,Megan Shaw,2020-11-03,2020-11-01,2020-Q4,t,Annual
+NSC-10254,Pennine Supplies Holdings,Logistics,Yorkshire & North East,SMB,3,Owen Price,2021-05-26,2021-05-01,2021-Q2,t,Annual
+NSC-10255,Meridian Care Ltd,Healthcare,London & South East,SMB,3,Liam Carter,2021-05-25,2021-05-01,2021-Q2,t,Annual
+NSC-10256,Meridian Freight Ltd,Manufacturing,South West & Wales,Mid-Market,2,Unassigned,2020-01-14,2020-01-01,2020-Q1,t,Monthly
+NSC-10257,Lantern Learning Ltd,Professional Services,South West & Wales,Mid-Market,2,Aisha Patel,2021-10-31,2021-10-01,2021-Q4,t,Annual
+NSC-10258,Northgate Logistics Holdings,Manufacturing,Yorkshire & North East,SMB,3,Liam Carter,2022-10-13,2022-10-01,2022-Q4,t,Monthly
+NSC-10259,Riverside Manufacturing Ltd,Professional Services,Midlands,SMB,3,Ravi Mehta,2023-08-11,2023-08-01,2023-Q3,t,Monthly
+NSC-10260,Riverside Energy Group,Financial Services,London & South East,Mid-Market,2,Callum Reid,2023-02-17,2023-02-01,2023-Q1,t,Monthly
+NSC-10261,Mersey Distribution Group,Retail,North West,SMB,3,Megan Shaw,2023-02-28,2023-02-01,2023-Q1,t,Annual
+NSC-10262,Riverside Housing plc,Retail,North West,Mid-Market,2,Daniel Hughes,2020-12-25,2020-12-01,2020-Q4,t,Annual
+NSC-10263,Moorland Logistics Group,Logistics,Yorkshire & North East,SMB,3,Liam Carter,2021-12-06,2021-12-01,2021-Q4,t,Monthly
+NSC-10264,Ashford Retail Holdings,Public Sector,North West,SMB,3,Liam Carter,2022-04-28,2022-04-01,2022-Q2,t,Annual
+NSC-10265,Lowther Engineering Ltd,Public Sector,Scotland,Enterprise,1,Grace Okafor,2020-06-22,2020-06-01,2020-Q2,t,Annual
+NSC-10266,Pennine Foods Holdings,Healthcare,London & South East,SMB,3,Liam Carter,2020-01-12,2020-01-01,2020-Q1,t,Monthly
+NSC-10267,Wessex Capital plc,Financial Services,South West & Wales,SMB,3,Sophie Turner,2023-04-05,2023-04-01,2023-Q2,t,Monthly
+NSC-10268,Avon Health Ltd,Manufacturing,Midlands,SMB,3,Megan Shaw,2022-02-26,2022-02-01,2022-Q1,t,Annual
+NSC-10269,Fenwick Freight Ltd,Financial Services,London & South East,SMB,3,Megan Shaw,2020-06-04,2020-06-01,2020-Q2,t,Annual
+NSC-10270,Moorland Supplies Ltd,Retail,Ireland,SMB,3,Megan Shaw,2022-05-26,2022-05-01,2022-Q2,t,Monthly
+NSC-10271,Peak Freight Ltd,Financial Services,London & South East,SMB,3,Liam Carter,2019-12-21,2019-12-01,2019-Q4,t,Monthly
+NSC-10272,Redbrick Learning Ltd,Financial Services,Yorkshire & North East,SMB,3,Sophie Turner,2021-06-04,2021-06-01,2021-Q2,t,Monthly
+NSC-10273,Holloway Freight Ltd,Logistics,London & South East,SMB,3,Sophie Turner,2023-04-30,2023-04-01,2023-Q2,t,Monthly
+NSC-10274,Westmoor Health Group,Logistics,London & South East,Mid-Market,2,Daniel Hughes,2021-02-20,2021-02-01,2021-Q1,t,Annual
+NSC-10275,Falcon Health Ltd,Healthcare,London & South East,Mid-Market,2,Callum Reid,2021-04-09,2021-04-01,2021-Q2,t,Annual
+NSC-10276,Peak Capital Ltd,Manufacturing,Midlands,SMB,3,Ravi Mehta,2022-09-03,2022-09-01,2022-Q3,t,Monthly
+NSC-10277,Cobalt Medical Holdings,Healthcare,London & South East,SMB,3,Owen Price,2023-03-08,2023-03-01,2023-Q1,t,Annual
+NSC-10278,Clyde Advisory Ltd,Professional Services,Ireland,SMB,3,Sophie Turner,2021-12-10,2021-12-01,2021-Q4,t,Monthly
+NSC-10279,Harbour Energy Group,Manufacturing,North West,Enterprise,1,Grace Okafor,2022-11-07,2022-11-01,2022-Q4,t,Annual
+NSC-10280,Sterling Housing Ltd,Financial Services,South West & Wales,Mid-Market,2,Aisha Patel,2022-12-26,2022-12-01,2022-Q4,t,Annual
+NSC-10281,Kingsway Engineering Ltd,Manufacturing,Midlands,SMB,3,Sophie Turner,2021-01-14,2021-01-01,2021-Q1,t,Monthly
+NSC-10282,Brightwater Housing plc,Financial Services,London & South East,SMB,3,Ravi Mehta,2020-12-23,2020-12-01,2020-Q4,t,Monthly
+NSC-10283,Quayside Housing Ltd,Professional Services,South West & Wales,SMB,3,Owen Price,2022-05-04,2022-05-01,2022-Q2,t,Monthly
+NSC-10284,Brightwater Foods Ltd,Financial Services,London & South East,SMB,3,Owen Price,2022-02-28,2022-02-01,2022-Q1,t,Monthly
+NSC-10285,Lantern Foods Ltd,Logistics,Yorkshire & North East,Mid-Market,2,Hannah Doyle,2022-12-29,2022-12-01,2022-Q4,t,Annual
+NSC-10286,Oakridge Engineering LLP,Retail,South West & Wales,SMB,3,Owen Price,2021-12-18,2021-12-01,2021-Q4,t,Monthly
+NSC-10287,Northgate Freight Ltd,Retail,Scotland,SMB,3,Liam Carter,2020-11-16,2020-11-01,2020-Q4,t,Monthly
+NSC-10288,Severn Medical Ltd,Logistics,London & South East,SMB,3,Ravi Mehta,2021-06-29,2021-06-01,2021-Q2,t,Annual
+NSC-10289,Westmoor Health Ltd,Healthcare,London & South East,SMB,3,Megan Shaw,2022-01-20,2022-01-01,2022-Q1,t,Monthly
+NSC-10290,Harbour Distribution plc,Healthcare,Yorkshire & North East,SMB,3,Sophie Turner,2022-11-12,2022-11-01,2022-Q4,t,Monthly
+NSC-10291,Westmoor Manufacturing Ltd,Financial Services,London & South East,Mid-Market,2,Daniel Hughes,2023-05-23,2023-05-01,2023-Q2,t,Monthly
+NSC-10292,Quayside Manufacturing Holdings,Professional Services,North West,SMB,3,Owen Price,2022-02-10,2022-02-01,2022-Q1,t,Monthly
+NSC-10293,Ashford Capital Group,Professional Services,London & South East,Enterprise,1,Tom Whitfield,2021-09-04,2021-09-01,2021-Q3,t,Annual
+NSC-10294,Sterling Housing plc,Retail,Scotland,SMB,3,Owen Price,2020-01-15,2020-01-01,2020-Q1,t,Monthly
+NSC-10295,Redbrick Manufacturing Holdings,Education,London & South East,Mid-Market,2,Daniel Hughes,2020-07-24,2020-07-01,2020-Q3,t,Monthly
+NSC-10296,Moorland Foods Group,Financial Services,Midlands,Enterprise,1,Grace Okafor,2020-02-19,2020-02-01,2020-Q1,t,Annual
+NSC-10297,Kingsway Freight Holdings,Manufacturing,Midlands,Enterprise,1,Grace Okafor,2021-07-31,2021-07-01,2021-Q3,t,Annual
+NSC-10298,Moorland Medical plc,Manufacturing,London & South East,Mid-Market,2,Unassigned,2021-12-05,2021-12-01,2021-Q4,t,Annual
+NSC-10299,Tamar Systems Ltd,Logistics,London & South East,Mid-Market,2,Hannah Doyle,2022-11-17,2022-11-01,2022-Q4,t,Annual
+NSC-10300,Redbrick Advisory Holdings,Education,Midlands,Mid-Market,2,Aisha Patel,2020-03-01,2020-03-01,2020-Q1,t,Annual
+NSC-10301,Saxon Systems LLP,Healthcare,Midlands,Mid-Market,2,Callum Reid,2020-05-29,2020-05-01,2020-Q2,t,Monthly
+NSC-10302,Severn Foods plc,Healthcare,Midlands,SMB,3,Sophie Turner,2022-02-26,2022-02-01,2022-Q1,t,Monthly
+NSC-10303,Harbour Analytics plc,Retail,London & South East,SMB,3,Ravi Mehta,2023-01-02,2023-01-01,2023-Q1,t,Monthly
+NSC-10304,Quayside Foods Holdings,Logistics,Scotland,SMB,3,Megan Shaw,2023-03-11,2023-03-01,2023-Q1,t,Monthly
+NSC-10305,Quayside Capital Group,Logistics,Yorkshire & North East,Mid-Market,2,Aisha Patel,2020-07-17,2020-07-01,2020-Q3,t,Annual
+NSC-10306,Northgate Engineering Ltd,Manufacturing,North West,SMB,3,Owen Price,2019-12-29,2019-12-01,2019-Q4,t,Annual
+NSC-10307,Northgate Distribution Holdings,Healthcare,London & South East,SMB,3,Unassigned,2022-12-08,2022-12-01,2022-Q4,t,Monthly
+NSC-10308,Tamar Consulting plc,Logistics,Scotland,Mid-Market,2,Callum Reid,2023-01-25,2023-01-01,2023-Q1,t,Monthly
+NSC-10309,Lowther Care Ltd,Public Sector,London & South East,SMB,3,Ravi Mehta,2019-11-09,2019-11-01,2019-Q4,t,Annual
+NSC-10310,Peak Systems Ltd,Financial Services,London & South East,SMB,3,Megan Shaw,2023-01-28,2023-01-01,2023-Q1,t,Monthly
+NSC-10311,Riverside Capital Ltd,Unknown,Midlands,SMB,3,Ravi Mehta,2020-03-16,2020-03-01,2020-Q1,t,Monthly
+NSC-10312,Castlefield Energy Group,Financial Services,Midlands,SMB,3,Liam Carter,2021-08-12,2021-08-01,2021-Q3,t,Monthly
+NSC-10313,Lowther Supplies Ltd,Logistics,London & South East,SMB,3,Sophie Turner,2020-07-23,2020-07-01,2020-Q3,t,Monthly
+NSC-10314,Lowther Housing Ltd,Professional Services,Yorkshire & North East,SMB,3,Owen Price,2022-06-29,2022-06-01,2022-Q2,t,Annual
+NSC-10315,Clyde Foods Holdings,Logistics,North West,SMB,3,Ravi Mehta,2021-03-01,2021-03-01,2021-Q1,t,Annual
+NSC-10316,Calder Consulting Ltd,Manufacturing,London & South East,SMB,3,Liam Carter,2023-06-24,2023-06-01,2023-Q2,t,Monthly
+NSC-10317,Quayside Logistics Ltd,Professional Services,London & South East,SMB,3,Owen Price,2020-04-17,2020-04-01,2020-Q2,t,Monthly
+NSC-10318,Fenwick Analytics Holdings,Professional Services,London & South East,Mid-Market,2,Daniel Hughes,2021-01-30,2021-01-01,2021-Q1,t,Annual
+NSC-10319,Brightwater Manufacturing Ltd,Healthcare,North West,SMB,3,Ravi Mehta,2021-01-27,2021-01-01,2021-Q1,t,Monthly
+NSC-10320,Orchard Freight Ltd,Public Sector,Yorkshire & North East,Enterprise,1,Tom Whitfield,2023-02-24,2023-02-01,2023-Q1,t,Annual
+NSC-10321,Westmoor Systems Holdings,Retail,London & South East,Enterprise,1,Priya Raman,2020-12-05,2020-12-01,2020-Q4,t,Annual
+NSC-10322,Meridian Consulting Holdings,Retail,London & South East,SMB,3,Liam Carter,2022-07-23,2022-07-01,2022-Q3,t,Annual
+NSC-10323,Ashford Capital Ltd,Healthcare,London & South East,SMB,3,Sophie Turner,2022-08-19,2022-08-01,2022-Q3,t,Monthly
+NSC-10324,Orchard Distribution Holdings,Logistics,London & South East,SMB,3,Megan Shaw,2021-06-07,2021-06-01,2021-Q2,t,Monthly
+NSC-10325,Ashford Health Group,Retail,Scotland,Mid-Market,2,Callum Reid,2022-01-14,2022-01-01,2022-Q1,t,Annual
+NSC-10326,Lantern Supplies LLP,Logistics,Scotland,Mid-Market,2,Hannah Doyle,2019-10-13,2019-10-01,2019-Q4,t,Monthly
+NSC-10327,Ember Foods Group,Manufacturing,North West,Mid-Market,2,Daniel Hughes,2022-01-07,2022-01-01,2022-Q1,t,Annual
+NSC-10328,Beacon Health plc,Healthcare,North West,SMB,3,Owen Price,2021-10-17,2021-10-01,2021-Q4,t,Monthly
+NSC-10329,Avon Freight Ltd,Financial Services,Midlands,Mid-Market,2,Callum Reid,2021-12-18,2021-12-01,2021-Q4,t,Annual
+NSC-10330,Lowther Medical Ltd,Healthcare,South West & Wales,SMB,3,Sophie Turner,2022-08-15,2022-08-01,2022-Q3,t,Monthly
+NSC-10331,Oakridge Logistics plc,Manufacturing,South West & Wales,Mid-Market,2,Aisha Patel,2022-04-23,2022-04-01,2022-Q2,t,Annual
+NSC-10332,Wessex Foods Ltd,Public Sector,Midlands,SMB,3,Ravi Mehta,2023-07-21,2023-07-01,2023-Q3,t,Monthly
+NSC-10333,Pennine Manufacturing Ltd,Logistics,North West,Mid-Market,2,Aisha Patel,2021-09-11,2021-09-01,2021-Q3,t,Annual
+NSC-10334,Castlefield Advisory Holdings,Retail,Yorkshire & North East,Mid-Market,2,Aisha Patel,2021-11-01,2021-11-01,2021-Q4,t,Monthly
+NSC-10335,Fenwick Systems LLP,Professional Services,North West,SMB,3,Ravi Mehta,2023-02-18,2023-02-01,2023-Q1,t,Annual
+NSC-10336,Beacon Capital plc,Manufacturing,Midlands,Mid-Market,2,Aisha Patel,2021-10-26,2021-10-01,2021-Q4,t,Annual
+NSC-10337,Calder Learning Group,Retail,North West,SMB,3,Megan Shaw,2019-12-26,2019-12-01,2019-Q4,t,Annual
+NSC-10338,Avon Learning Holdings,Logistics,London & South East,Mid-Market,2,Hannah Doyle,2020-08-07,2020-08-01,2020-Q3,t,Annual
+NSC-10339,Harbour Learning Group,Professional Services,London & South East,SMB,3,Liam Carter,2023-03-10,2023-03-01,2023-Q1,t,Monthly
+NSC-10340,Castlefield Analytics plc,Education,London & South East,Enterprise,1,Grace Okafor,2020-04-15,2020-04-01,2020-Q2,t,Annual
+NSC-10341,Albion Learning Ltd,Financial Services,Midlands,SMB,3,Owen Price,2020-08-19,2020-08-01,2020-Q3,t,Annual
+NSC-10342,Wessex Retail Holdings,Logistics,Yorkshire & North East,Enterprise,1,Grace Okafor,2020-03-09,2020-03-01,2020-Q1,t,Monthly
+NSC-11510,Peak Analytics LLP,Education,North West,SMB,3,Megan Shaw,2026-08-12,2026-08-01,2026-Q3,f,Monthly
+NSC-10343,Orchard Partners plc,Professional Services,North West,Mid-Market,2,Hannah Doyle,2022-02-15,2022-02-01,2022-Q1,t,Annual
+NSC-10344,Meridian Systems Ltd,Public Sector,London & South East,Mid-Market,2,Aisha Patel,2023-02-10,2023-02-01,2023-Q1,t,Monthly
+NSC-10345,Lowther Capital Ltd,Healthcare,North West,Mid-Market,2,Aisha Patel,2023-04-09,2023-04-01,2023-Q2,t,Annual
+NSC-10346,Tamar Housing Ltd,Healthcare,South West & Wales,Mid-Market,2,Callum Reid,2020-11-11,2020-11-01,2020-Q4,t,Annual
+NSC-10347,Riverside Engineering Ltd,Education,London & South East,Enterprise,1,Priya Raman,2020-01-05,2020-01-01,2020-Q1,t,Annual
+NSC-10348,Ironbridge Logistics plc,Manufacturing,London & South East,SMB,3,Megan Shaw,2020-12-02,2020-12-01,2020-Q4,t,Monthly
+NSC-10349,Lowther Energy Ltd,Retail,London & South East,Mid-Market,2,Daniel Hughes,2022-01-23,2022-01-01,2022-Q1,t,Annual
+NSC-10350,Severn Care LLP,Healthcare,London & South East,SMB,3,Owen Price,2022-06-19,2022-06-01,2022-Q2,t,Monthly
+NSC-10351,Meridian Learning Holdings,Manufacturing,Yorkshire & North East,Mid-Market,2,Hannah Doyle,2022-05-05,2022-05-01,2022-Q2,t,Annual
+NSC-10352,Severn Manufacturing Ltd,Education,Scotland,SMB,3,Owen Price,2022-02-02,2022-02-01,2022-Q1,t,Monthly
+NSC-10353,Moorland Supplies Holdings,Logistics,Midlands,Mid-Market,2,Aisha Patel,2022-05-23,2022-05-01,2022-Q2,t,Annual
+NSC-10354,Bluebell Care Group,Public Sector,London & South East,Mid-Market,2,Daniel Hughes,2021-04-05,2021-04-01,2021-Q2,t,Monthly
+NSC-10355,Oakridge Health plc,Financial Services,Midlands,SMB,3,Owen Price,2020-07-05,2020-07-01,2020-Q3,t,Annual
+NSC-10357,Fenwick Foods Ltd,Public Sector,North West,Mid-Market,2,Daniel Hughes,2021-09-08,2021-09-01,2021-Q3,t,Monthly
+NSC-10358,Sterling Logistics plc,Manufacturing,Yorkshire & North East,Mid-Market,2,Callum Reid,2020-06-01,2020-06-01,2020-Q2,t,Monthly
+NSC-10359,Beacon Consulting plc,Professional Services,London & South East,SMB,3,Owen Price,2020-06-05,2020-06-01,2020-Q2,t,Monthly
+NSC-10360,Fenwick Consulting plc,Financial Services,London & South East,Mid-Market,2,Callum Reid,2023-05-06,2023-05-01,2023-Q2,t,Annual
+NSC-10361,Falcon Partners plc,Logistics,London & South East,Enterprise,1,Priya Raman,2021-12-12,2021-12-01,2021-Q4,t,Annual
+NSC-10362,Clyde Distribution Ltd,Healthcare,Yorkshire & North East,SMB,3,Liam Carter,2021-06-21,2021-06-01,2021-Q2,t,Monthly
+NSC-10363,Orchard Advisory Group,Logistics,North West,SMB,3,Ravi Mehta,2023-04-29,2023-04-01,2023-Q2,t,Monthly
+NSC-10364,Heathrow Medical Ltd,Healthcare,London & South East,SMB,3,Sophie Turner,2022-07-02,2022-07-01,2022-Q3,t,Annual
+NSC-10365,Harbour Supplies Ltd,Financial Services,South West & Wales,Mid-Market,2,Daniel Hughes,2022-12-01,2022-12-01,2022-Q4,t,Annual
+NSC-10366,Harbour Housing Holdings,Financial Services,London & South East,SMB,3,Megan Shaw,2020-10-03,2020-10-01,2020-Q4,t,Annual
+NSC-10367,Tamar Systems Holdings,Public Sector,South West & Wales,Mid-Market,2,Daniel Hughes,2022-12-29,2022-12-01,2022-Q4,t,Annual
+NSC-10368,Pennine Foods Ltd,Financial Services,North West,Mid-Market,2,Hannah Doyle,2021-04-14,2021-04-01,2021-Q2,t,Annual
+NSC-10369,Ironbridge Manufacturing LLP,Logistics,North West,SMB,3,Liam Carter,2023-02-17,2023-02-01,2023-Q1,t,Monthly
+NSC-10370,Severn Learning Ltd,Healthcare,Scotland,Enterprise,1,Tom Whitfield,2023-03-29,2023-03-01,2023-Q1,t,Annual
+NSC-10371,Ember Supplies Holdings,Logistics,London & South East,Mid-Market,2,Aisha Patel,2020-09-22,2020-09-01,2020-Q3,t,Monthly
+NSC-10372,Peak Housing LLP,Professional Services,Ireland,SMB,3,Liam Carter,2021-10-24,2021-10-01,2021-Q4,t,Monthly
+NSC-10373,Kingsway Housing Ltd,Financial Services,South West & Wales,SMB,3,Sophie Turner,2019-12-16,2019-12-01,2019-Q4,t,Monthly
+NSC-10374,Quayside Housing plc,Logistics,Midlands,SMB,3,Sophie Turner,2021-01-19,2021-01-01,2021-Q1,t,Monthly
+NSC-10375,Sterling Partners Ltd,Education,North West,SMB,3,Megan Shaw,2019-12-02,2019-12-01,2019-Q4,t,Annual
+NSC-10376,Quayside Foods Ltd,Professional Services,Yorkshire & North East,SMB,3,Sophie Turner,2022-05-20,2022-05-01,2022-Q2,t,Annual
+NSC-10377,Moorland Supplies LLP,Retail,London & South East,Enterprise,1,Tom Whitfield,2022-07-28,2022-07-01,2022-Q3,t,Annual
+NSC-10378,Meridian Consulting Ltd,Manufacturing,North West,SMB,3,Megan Shaw,2020-09-05,2020-09-01,2020-Q3,t,Monthly
+NSC-10379,Highland Energy Ltd,Retail,London & South East,SMB,3,Ravi Mehta,2022-03-30,2022-03-01,2022-Q1,t,Monthly
+NSC-10380,Beacon Learning Ltd,Healthcare,London & South East,Mid-Market,2,Hannah Doyle,2023-05-27,2023-05-01,2023-Q2,t,Monthly
+NSC-10381,Calder Retail Group,Retail,London & South East,Mid-Market,2,Aisha Patel,2022-02-02,2022-02-01,2022-Q1,t,Monthly
+NSC-10382,Ashford Energy Ltd,Unknown,London & South East,Enterprise,1,Priya Raman,2022-05-24,2022-05-01,2022-Q2,t,Annual
+NSC-10383,Orchard Care Ltd,Professional Services,London & South East,Mid-Market,2,Aisha Patel,2020-08-20,2020-08-01,2020-Q3,t,Monthly
+NSC-10384,Beacon Freight Group,Professional Services,London & South East,SMB,3,Owen Price,2022-07-05,2022-07-01,2022-Q3,t,Annual
+NSC-10385,Severn Consulting Ltd,Retail,Midlands,SMB,3,Ravi Mehta,2020-06-02,2020-06-01,2020-Q2,t,Monthly
+NSC-10386,Heathrow Foods Ltd,Logistics,Yorkshire & North East,Enterprise,1,Tom Whitfield,2021-08-28,2021-08-01,2021-Q3,t,Annual
+NSC-10387,Wessex Manufacturing LLP,Public Sector,London & South East,Mid-Market,2,Daniel Hughes,2023-03-27,2023-03-01,2023-Q1,t,Monthly
+NSC-10388,Calder Logistics Ltd,Education,South West & Wales,Enterprise,1,Grace Okafor,2023-04-16,2023-04-01,2023-Q2,t,Annual
+NSC-10389,Avon Advisory Ltd,Logistics,London & South East,SMB,3,Sophie Turner,2023-02-09,2023-02-01,2023-Q1,t,Annual
+NSC-10390,Riverside Capital plc,Logistics,Midlands,Mid-Market,2,Daniel Hughes,2021-11-03,2021-11-01,2021-Q4,t,Annual
+NSC-10391,Sterling Engineering Ltd,Manufacturing,London & South East,Mid-Market,2,Aisha Patel,2021-11-01,2021-11-01,2021-Q4,t,Monthly
+NSC-10392,Mersey Systems Ltd,Manufacturing,North West,SMB,3,Megan Shaw,2020-10-23,2020-10-01,2020-Q4,t,Monthly
+NSC-10393,Quayside Learning Ltd,Retail,London & South East,Mid-Market,2,Aisha Patel,2023-08-31,2023-08-01,2023-Q3,t,Annual
+NSC-10394,Riverside Retail Ltd,Unknown,London & South East,Mid-Market,2,Daniel Hughes,2022-07-21,2022-07-01,2022-Q3,t,Monthly
+NSC-10395,Tamar Logistics Ltd,Public Sector,Yorkshire & North East,SMB,3,Sophie Turner,2021-06-10,2021-06-01,2021-Q2,t,Monthly
+NSC-10396,Brightwater Consulting plc,Manufacturing,North West,SMB,3,Owen Price,2020-05-03,2020-05-01,2020-Q2,t,Monthly
+NSC-10397,Bluebell Advisory plc,Logistics,South West & Wales,Mid-Market,2,Aisha Patel,2020-02-04,2020-02-01,2020-Q1,t,Annual
+NSC-10398,Lantern Consulting Ltd,Manufacturing,London & South East,SMB,3,Megan Shaw,2020-02-08,2020-02-01,2020-Q1,t,Monthly
+NSC-10399,Brightwater Supplies plc,Professional Services,Scotland,SMB,3,Liam Carter,2019-10-31,2019-10-01,2019-Q4,t,Monthly
+NSC-10400,Harbour Housing Group,Manufacturing,North West,SMB,3,Liam Carter,2023-06-09,2023-06-01,2023-Q2,t,Monthly
+NSC-10401,Moorland Advisory Ltd,Financial Services,Midlands,SMB,3,Liam Carter,2022-08-15,2022-08-01,2022-Q3,t,Annual
+NSC-10402,Redbrick Logistics Ltd,Manufacturing,London & South East,Enterprise,1,Tom Whitfield,2022-04-04,2022-04-01,2022-Q2,t,Annual
+NSC-10403,Ironbridge Capital Ltd,Professional Services,North West,Mid-Market,2,Callum Reid,2020-03-05,2020-03-01,2020-Q1,t,Monthly
+NSC-10404,Ironbridge Retail Ltd,Financial Services,London & South East,SMB,3,Sophie Turner,2020-09-28,2020-09-01,2020-Q3,t,Monthly
+NSC-10405,Quayside Learning plc,Retail,South West & Wales,Enterprise,1,Tom Whitfield,2021-07-29,2021-07-01,2021-Q3,t,Annual
+NSC-10406,Albion Analytics Ltd,Logistics,London & South East,Enterprise,1,Grace Okafor,2020-05-19,2020-05-01,2020-Q2,t,Annual
+NSC-10407,Tamar Freight Ltd,Healthcare,South West & Wales,SMB,3,Liam Carter,2021-01-13,2021-01-01,2021-Q1,t,Monthly
+NSC-10408,Pennine Manufacturing Holdings,Education,Yorkshire & North East,Mid-Market,2,Hannah Doyle,2021-01-01,2021-01-01,2021-Q1,t,Annual
+NSC-10409,Falcon Capital Ltd,Manufacturing,London & South East,SMB,3,Megan Shaw,2022-01-23,2022-01-01,2022-Q1,t,Annual
+NSC-10410,Beacon Analytics Ltd,Healthcare,Midlands,Enterprise,1,Grace Okafor,2021-09-26,2021-09-01,2021-Q3,t,Annual
+NSC-10411,Granite Retail Holdings,Healthcare,Yorkshire & North East,Mid-Market,2,Hannah Doyle,2021-01-20,2021-01-01,2021-Q1,t,Monthly
+NSC-10412,Harbour Manufacturing LLP,Education,Yorkshire & North East,Mid-Market,2,Callum Reid,2020-03-23,2020-03-01,2020-Q1,t,Annual
+NSC-10413,Quayside Care Ltd,Professional Services,Midlands,SMB,3,Megan Shaw,2020-12-26,2020-12-01,2020-Q4,t,Monthly
+NSC-10414,Holloway Systems LLP,Healthcare,North West,Enterprise,1,Tom Whitfield,2023-05-18,2023-05-01,2023-Q2,t,Annual
+NSC-10415,Moorland Partners Ltd,Education,Midlands,SMB,3,Unassigned,2023-01-18,2023-01-01,2023-Q1,t,Monthly
+NSC-10416,Mersey Supplies Ltd,Logistics,Scotland,SMB,3,Megan Shaw,2019-12-29,2019-12-01,2019-Q4,t,Monthly
+NSC-10417,Peak Consulting Group,Logistics,Yorkshire & North East,SMB,3,Megan Shaw,2019-10-10,2019-10-01,2019-Q4,t,Monthly
+NSC-10418,Ashford Retail Group,Manufacturing,London & South East,Mid-Market,2,Daniel Hughes,2022-03-21,2022-03-01,2022-Q1,t,Annual
+NSC-10419,Severn Capital LLP,Logistics,Ireland,SMB,3,Unassigned,2020-11-17,2020-11-01,2020-Q4,t,Monthly
+NSC-10420,Lantern Energy Holdings,Education,Midlands,Enterprise,1,Tom Whitfield,2021-08-05,2021-08-01,2021-Q3,t,Annual
+NSC-10421,Falcon Manufacturing Holdings,Professional Services,South West & Wales,Mid-Market,2,Daniel Hughes,2020-11-07,2020-11-01,2020-Q4,t,Annual
+NSC-10422,Riverside Supplies Ltd,Public Sector,London & South East,SMB,3,Liam Carter,2022-07-10,2022-07-01,2022-Q3,t,Monthly
+NSC-10423,Oakridge Energy Ltd,Professional Services,London & South East,SMB,3,Owen Price,2023-08-03,2023-08-01,2023-Q3,t,Annual
+NSC-10424,Granite Foods Ltd,Financial Services,London & South East,SMB,3,Megan Shaw,2022-08-20,2022-08-01,2022-Q3,t,Monthly
+NSC-10425,Ashford Retail Ltd,Manufacturing,Scotland,Mid-Market,2,Aisha Patel,2023-05-10,2023-05-01,2023-Q2,t,Annual
+NSC-10426,Northgate Learning Ltd,Financial Services,Scotland,Mid-Market,2,Callum Reid,2022-02-27,2022-02-01,2022-Q1,t,Annual
+NSC-10427,Pennine Learning Ltd,Education,Midlands,SMB,3,Liam Carter,2021-06-07,2021-06-01,2021-Q2,t,Monthly
+NSC-10428,Albion Health Ltd,Manufacturing,South West & Wales,Mid-Market,2,Aisha Patel,2022-03-12,2022-03-01,2022-Q1,t,Monthly
+NSC-10429,Westmoor Foods Holdings,Professional Services,Ireland,SMB,3,Owen Price,2019-11-13,2019-11-01,2019-Q4,t,Monthly
+NSC-10430,Meridian Capital Group,Financial Services,London & South East,Mid-Market,2,Aisha Patel,2019-11-02,2019-11-01,2019-Q4,t,Annual
+NSC-10431,Avon Energy Holdings,Public Sector,Midlands,Enterprise,1,Tom Whitfield,2021-11-11,2021-11-01,2021-Q4,t,Annual
+NSC-10432,Thames Logistics Ltd,Logistics,Midlands,Mid-Market,2,Daniel Hughes,2022-02-23,2022-02-01,2022-Q1,t,Monthly
+NSC-10433,Northgate Consulting plc,Education,London & South East,Mid-Market,2,Daniel Hughes,2020-03-23,2020-03-01,2020-Q1,t,Annual
+NSC-10434,Albion Capital Ltd,Manufacturing,London & South East,Mid-Market,2,Hannah Doyle,2023-03-10,2023-03-01,2023-Q1,t,Monthly
+NSC-10436,Bluebell Engineering Ltd,Logistics,North West,SMB,3,Ravi Mehta,2021-07-27,2021-07-01,2021-Q3,t,Annual
+NSC-10437,Granite Supplies Group,Logistics,North West,SMB,3,Liam Carter,2021-04-26,2021-04-01,2021-Q2,t,Monthly
+NSC-10438,Clyde Freight LLP,Professional Services,London & South East,SMB,3,Sophie Turner,2022-09-12,2022-09-01,2022-Q3,t,Annual
+NSC-10439,Calder Manufacturing Ltd,Manufacturing,Scotland,Mid-Market,2,Callum Reid,2022-05-19,2022-05-01,2022-Q2,t,Annual
+NSC-10440,Beacon Partners Group,Logistics,London & South East,Mid-Market,2,Aisha Patel,2020-08-31,2020-08-01,2020-Q3,t,Monthly
+NSC-10441,Falcon Freight Ltd,Public Sector,North West,Mid-Market,2,Callum Reid,2020-01-08,2020-01-01,2020-Q1,t,Annual
+NSC-10442,Orchard Advisory plc,Professional Services,Yorkshire & North East,SMB,3,Megan Shaw,2022-10-15,2022-10-01,2022-Q4,t,Monthly
+NSC-10443,Granite Systems Holdings,Retail,Scotland,Mid-Market,2,Daniel Hughes,2022-11-22,2022-11-01,2022-Q4,t,Annual
+NSC-10444,Albion Care Group,Retail,London & South East,SMB,3,Liam Carter,2023-06-20,2023-06-01,2023-Q2,t,Annual
+NSC-10445,Lowther Foods Ltd,Manufacturing,London & South East,SMB,3,Sophie Turner,2020-05-10,2020-05-01,2020-Q2,t,Monthly
+NSC-10446,Fenwick Care Ltd,Retail,Yorkshire & North East,Mid-Market,2,Daniel Hughes,2023-01-23,2023-01-01,2023-Q1,t,Monthly
+NSC-10447,Kingsway Manufacturing Ltd,Manufacturing,North West,Enterprise,1,Priya Raman,2023-08-01,2023-08-01,2023-Q3,t,Annual
+NSC-10448,Tamar Foods Ltd,Logistics,Yorkshire & North East,Mid-Market,2,Callum Reid,2020-05-28,2020-05-01,2020-Q2,t,Monthly
+NSC-10449,Beacon Logistics Ltd,Professional Services,London & South East,SMB,3,Liam Carter,2021-11-22,2021-11-01,2021-Q4,t,Monthly
+NSC-10450,Thames Freight Ltd,Professional Services,South West & Wales,Mid-Market,2,Hannah Doyle,2020-12-10,2020-12-01,2020-Q4,t,Monthly
+NSC-10451,Lantern Medical Group,Financial Services,London & South East,SMB,3,Sophie Turner,2023-03-23,2023-03-01,2023-Q1,t,Annual
+NSC-10452,Tamar Capital Ltd,Financial Services,Midlands,Enterprise,1,Grace Okafor,2020-11-02,2020-11-01,2020-Q4,t,Annual
+NSC-10453,Oakridge Analytics Holdings,Manufacturing,North West,Mid-Market,2,Unassigned,2019-10-24,2019-10-01,2019-Q4,t,Annual
+NSC-10454,Calder Capital plc,Education,South West & Wales,SMB,3,Megan Shaw,2022-09-09,2022-09-01,2022-Q3,t,Monthly
+NSC-10455,Harbour Partners Holdings,Retail,Midlands,SMB,3,Owen Price,2020-03-26,2020-03-01,2020-Q1,t,Monthly
+NSC-10456,Wessex Freight LLP,Retail,London & South East,SMB,3,Sophie Turner,2020-02-20,2020-02-01,2020-Q1,t,Monthly
+NSC-10457,Kingsway Supplies plc,Logistics,Ireland,Enterprise,1,Priya Raman,2022-07-05,2022-07-01,2022-Q3,t,Annual
+NSC-10458,Clyde Logistics plc,Professional Services,London & South East,SMB,3,Sophie Turner,2019-10-24,2019-10-01,2019-Q4,t,Annual
+NSC-10459,Lowther Logistics Group,Financial Services,Ireland,Mid-Market,2,Hannah Doyle,2022-11-09,2022-11-01,2022-Q4,t,Annual
+NSC-10460,Meridian Foods Holdings,Logistics,London & South East,Mid-Market,2,Aisha Patel,2022-06-03,2022-06-01,2022-Q2,t,Annual
+NSC-10461,Riverside Care Ltd,Retail,South West & Wales,Mid-Market,2,Callum Reid,2023-03-22,2023-03-01,2023-Q1,t,Annual
+NSC-10462,Holloway Logistics LLP,Professional Services,London & South East,SMB,3,Liam Carter,2021-03-19,2021-03-01,2021-Q1,t,Monthly
+NSC-10463,Avon Engineering Ltd,Professional Services,London & South East,Enterprise,1,Grace Okafor,2022-07-21,2022-07-01,2022-Q3,t,Annual
+NSC-10464,Ember Logistics Ltd,Professional Services,North West,SMB,3,Owen Price,2020-08-08,2020-08-01,2020-Q3,t,Monthly
+NSC-10465,Northgate Learning Group,Public Sector,London & South East,Mid-Market,2,Daniel Hughes,2022-09-14,2022-09-01,2022-Q3,t,Monthly
+NSC-10466,Holloway Learning Ltd,Retail,Midlands,Mid-Market,2,Callum Reid,2022-05-25,2022-05-01,2022-Q2,t,Monthly
+NSC-10467,Lantern Capital Ltd,Logistics,North West,Mid-Market,2,Hannah Doyle,2020-03-26,2020-03-01,2020-Q1,t,Monthly
+NSC-10468,Clyde Retail Ltd,Retail,London & South East,Enterprise,1,Priya Raman,2022-05-03,2022-05-01,2022-Q2,t,Annual
+NSC-10469,Peak Distribution Ltd,Professional Services,South West & Wales,SMB,3,Owen Price,2021-08-29,2021-08-01,2021-Q3,t,Annual
+NSC-10470,Thames Consulting Holdings,Healthcare,Scotland,SMB,3,Ravi Mehta,2021-01-19,2021-01-01,2021-Q1,t,Annual
+NSC-10471,Harbour Retail plc,Financial Services,Yorkshire & North East,SMB,3,Ravi Mehta,2023-05-12,2023-05-01,2023-Q2,t,Monthly
+NSC-10472,Tamar Engineering plc,Financial Services,Scotland,SMB,3,Owen Price,2020-09-20,2020-09-01,2020-Q3,t,Monthly
+NSC-10473,Pennine Advisory Holdings,Financial Services,London & South East,SMB,3,Ravi Mehta,2019-11-16,2019-11-01,2019-Q4,t,Monthly
+NSC-10474,Orchard Distribution Ltd,Logistics,London & South East,SMB,3,Unassigned,2019-10-21,2019-10-01,2019-Q4,t,Monthly
+NSC-10475,Lowther Partners Ltd,Public Sector,London & South East,SMB,3,Liam Carter,2023-01-16,2023-01-01,2023-Q1,t,Monthly
+NSC-10476,Orchard Manufacturing plc,Healthcare,Yorkshire & North East,SMB,3,Owen Price,2023-08-09,2023-08-01,2023-Q3,t,Monthly
+NSC-10477,Ironbridge Health Group,Logistics,Scotland,SMB,3,Owen Price,2021-02-16,2021-02-01,2021-Q1,t,Monthly
+NSC-10478,Ironbridge Advisory LLP,Financial Services,Midlands,Mid-Market,2,Callum Reid,2022-11-11,2022-11-01,2022-Q4,t,Annual
+NSC-10479,Lantern Medical Ltd,Professional Services,Scotland,Mid-Market,2,Hannah Doyle,2021-07-18,2021-07-01,2021-Q3,t,Annual
+NSC-10480,Harbour Systems plc,Education,Midlands,SMB,3,Megan Shaw,2021-10-19,2021-10-01,2021-Q4,t,Monthly
+NSC-10481,Tamar Analytics Ltd,Healthcare,North West,SMB,3,Unassigned,2023-07-25,2023-07-01,2023-Q3,t,Annual
+NSC-10482,Fenwick Partners plc,Logistics,London & South East,SMB,3,Megan Shaw,2020-02-02,2020-02-01,2020-Q1,t,Monthly
+NSC-10484,Lantern Systems Ltd,Public Sector,London & South East,SMB,3,Ravi Mehta,2023-03-01,2023-03-01,2023-Q1,t,Monthly
+NSC-10485,Wessex Manufacturing Ltd,Financial Services,Yorkshire & North East,SMB,3,Owen Price,2021-05-01,2021-05-01,2021-Q2,t,Annual
+NSC-10486,Avon Supplies Ltd,Logistics,Midlands,SMB,3,Owen Price,2021-04-27,2021-04-01,2021-Q2,t,Monthly
+NSC-10487,Castlefield Distribution Ltd,Public Sector,Midlands,SMB,3,Owen Price,2020-02-08,2020-02-01,2020-Q1,t,Monthly
+NSC-10488,Wessex Distribution LLP,Financial Services,North West,SMB,3,Megan Shaw,2022-11-17,2022-11-01,2022-Q4,t,Monthly
+NSC-10489,Orchard Capital Ltd,Logistics,North West,Mid-Market,2,Callum Reid,2020-11-07,2020-11-01,2020-Q4,t,Monthly
+NSC-10490,Tamar Energy Ltd,Retail,London & South East,Mid-Market,2,Daniel Hughes,2023-08-02,2023-08-01,2023-Q3,t,Annual
+NSC-10491,Clyde Systems Group,Manufacturing,Midlands,Mid-Market,2,Unassigned,2023-04-03,2023-04-01,2023-Q2,t,Annual
+NSC-10492,Riverside Freight Ltd,Education,Yorkshire & North East,Mid-Market,2,Callum Reid,2023-04-25,2023-04-01,2023-Q2,t,Monthly
+NSC-10493,Mersey Advisory Holdings,Professional Services,North West,Mid-Market,2,Aisha Patel,2019-10-16,2019-10-01,2019-Q4,t,Annual
+NSC-10494,Mersey Health Ltd,Financial Services,North West,SMB,3,Sophie Turner,2022-12-18,2022-12-01,2022-Q4,t,Annual
+NSC-10495,Pennine Supplies Ltd,Manufacturing,London & South East,Mid-Market,2,Hannah Doyle,2021-08-22,2021-08-01,2021-Q3,t,Monthly
+NSC-10496,Fenwick Manufacturing Ltd,Retail,London & South East,SMB,3,Megan Shaw,2023-06-04,2023-06-01,2023-Q2,t,Annual
+NSC-10497,Severn Manufacturing Holdings,Professional Services,Scotland,SMB,3,Ravi Mehta,2020-05-29,2020-05-01,2020-Q2,t,Monthly
+NSC-10498,Moorland Energy Ltd,Retail,Midlands,Mid-Market,2,Hannah Doyle,2019-10-21,2019-10-01,2019-Q4,t,Annual
+NSC-10499,Avon Consulting LLP,Manufacturing,Yorkshire & North East,SMB,3,Liam Carter,2021-08-24,2021-08-01,2021-Q3,t,Monthly
+NSC-10500,Quayside Energy Holdings,Professional Services,Yorkshire & North East,SMB,3,Megan Shaw,2020-02-15,2020-02-01,2020-Q1,t,Monthly
+NSC-10501,Harbour Retail Ltd,Education,North West,Mid-Market,2,Aisha Patel,2022-03-07,2022-03-01,2022-Q1,t,Annual
+NSC-10502,Tamar Care LLP,Public Sector,Midlands,Enterprise,1,Priya Raman,2022-12-24,2022-12-01,2022-Q4,t,Annual
+NSC-10503,Lantern Advisory Ltd,Manufacturing,Midlands,Enterprise,1,Grace Okafor,2020-09-14,2020-09-01,2020-Q3,t,Annual
+NSC-10504,Ember Housing plc,Education,Yorkshire & North East,SMB,3,Sophie Turner,2023-06-16,2023-06-01,2023-Q2,t,Monthly
+NSC-10505,Granite Distribution plc,Logistics,Ireland,SMB,3,Owen Price,2022-12-05,2022-12-01,2022-Q4,t,Monthly
+NSC-10506,Albion Advisory Holdings,Financial Services,London & South East,Mid-Market,2,Aisha Patel,2023-08-25,2023-08-01,2023-Q3,t,Annual
+NSC-10507,Albion Manufacturing Ltd,Unknown,South West & Wales,SMB,3,Liam Carter,2021-01-23,2021-01-01,2021-Q1,t,Monthly
+NSC-10508,Castlefield Foods plc,Retail,Ireland,Mid-Market,2,Unassigned,2022-01-31,2022-01-01,2022-Q1,t,Annual
+NSC-10509,Fenwick Capital Holdings,Healthcare,London & South East,SMB,3,Liam Carter,2022-10-20,2022-10-01,2022-Q4,t,Monthly
+NSC-10510,Peak Care plc,Professional Services,North West,SMB,3,Ravi Mehta,2021-08-16,2021-08-01,2021-Q3,t,Monthly
+NSC-10511,Heathrow Energy Ltd,Healthcare,London & South East,SMB,3,Megan Shaw,2022-10-11,2022-10-01,2022-Q4,t,Monthly
+NSC-10512,Lantern Logistics Holdings,Healthcare,Midlands,Mid-Market,2,Aisha Patel,2021-07-27,2021-07-01,2021-Q3,t,Annual
+NSC-10513,Riverside Housing LLP,Financial Services,Scotland,SMB,3,Owen Price,2019-12-07,2019-12-01,2019-Q4,t,Monthly
+NSC-10514,Orchard Supplies Ltd,Financial Services,South West & Wales,SMB,3,Owen Price,2020-02-28,2020-02-01,2020-Q1,t,Monthly
+NSC-10515,Thames Housing Holdings,Retail,Yorkshire & North East,SMB,3,Liam Carter,2022-06-23,2022-06-01,2022-Q2,t,Monthly
+NSC-10516,Westmoor Health LLP,Public Sector,Midlands,SMB,3,Ravi Mehta,2021-06-18,2021-06-01,2021-Q2,t,Monthly
+NSC-10517,Peak Health Group,Professional Services,London & South East,SMB,3,Owen Price,2020-07-02,2020-07-01,2020-Q3,t,Annual
+NSC-10518,Avon Distribution Ltd,Healthcare,North West,Mid-Market,2,Aisha Patel,2021-07-29,2021-07-01,2021-Q3,t,Annual
+NSC-10519,Severn Consulting LLP,Financial Services,Scotland,SMB,3,Owen Price,2020-12-19,2020-12-01,2020-Q4,t,Monthly
+NSC-10520,Westmoor Advisory Group,Financial Services,London & South East,Mid-Market,2,Hannah Doyle,2022-09-02,2022-09-01,2022-Q3,t,Annual
+NSC-10521,Moorland Logistics Ltd,Education,Yorkshire & North East,Mid-Market,2,Aisha Patel,2023-10-06,2023-10-01,2023-Q4,f,Annual
+NSC-10522,Granite Care Ltd,Retail,South West & Wales,SMB,3,Owen Price,2023-10-29,2023-10-01,2023-Q4,f,Annual
+NSC-10523,Ashford Housing Ltd,Logistics,London & South East,Mid-Market,2,Daniel Hughes,2023-10-29,2023-10-01,2023-Q4,f,Monthly
+NSC-10524,Harbour Energy Ltd,Manufacturing,Ireland,Mid-Market,2,Callum Reid,2023-10-30,2023-10-01,2023-Q4,f,Annual
+NSC-10525,Beacon Systems Ltd,Professional Services,London & South East,SMB,3,Unassigned,2023-10-22,2023-10-01,2023-Q4,f,Monthly
+NSC-10526,Heathrow Logistics Group,Public Sector,Yorkshire & North East,SMB,3,Sophie Turner,2023-10-04,2023-10-01,2023-Q4,f,Monthly
+NSC-10527,Sterling Distribution Group,Education,Yorkshire & North East,SMB,3,Ravi Mehta,2023-10-05,2023-10-01,2023-Q4,f,Annual
+NSC-10528,Northgate Freight LLP,Healthcare,London & South East,SMB,3,Owen Price,2023-10-16,2023-10-01,2023-Q4,f,Annual
+NSC-10529,Ironbridge Freight LLP,Unknown,Scotland,SMB,3,Megan Shaw,2023-10-22,2023-10-01,2023-Q4,f,Monthly
+NSC-10530,Pennine Analytics Holdings,Professional Services,Midlands,SMB,3,Owen Price,2023-10-28,2023-10-01,2023-Q4,f,Annual
+NSC-10531,Fenwick Partners Ltd,Professional Services,Midlands,Mid-Market,2,Hannah Doyle,2023-10-14,2023-10-01,2023-Q4,f,Annual
+NSC-10532,Calder Care LLP,Public Sector,Scotland,SMB,3,Sophie Turner,2023-10-04,2023-10-01,2023-Q4,f,Monthly
+NSC-10533,Albion Partners Ltd,Professional Services,Yorkshire & North East,SMB,3,Megan Shaw,2023-10-24,2023-10-01,2023-Q4,f,Monthly
+NSC-10534,Granite Capital Ltd,Financial Services,Yorkshire & North East,SMB,3,Sophie Turner,2023-10-03,2023-10-01,2023-Q4,f,Annual
+NSC-10535,Ironbridge Supplies Ltd,Financial Services,London & South East,SMB,3,Owen Price,2023-10-10,2023-10-01,2023-Q4,f,Annual
+NSC-10536,Quayside Manufacturing Ltd,Financial Services,North West,Enterprise,1,Tom Whitfield,2023-10-12,2023-10-01,2023-Q4,f,Annual
+NSC-10537,Moorland Care LLP,Financial Services,Midlands,SMB,3,Megan Shaw,2023-10-04,2023-10-01,2023-Q4,f,Monthly
+NSC-10538,Orchard Analytics Ltd,Financial Services,North West,SMB,3,Sophie Turner,2023-10-02,2023-10-01,2023-Q4,f,Monthly
+NSC-10539,Brightwater Energy Group,Logistics,London & South East,SMB,3,Sophie Turner,2023-10-12,2023-10-01,2023-Q4,f,Annual
+NSC-10540,Tamar Health plc,Professional Services,London & South East,SMB,3,Sophie Turner,2023-10-01,2023-10-01,2023-Q4,f,Monthly
+NSC-10541,Clyde Health LLP,Professional Services,Midlands,Mid-Market,2,Callum Reid,2023-10-14,2023-10-01,2023-Q4,f,Monthly
+NSC-10542,Northgate Retail Ltd,Professional Services,Scotland,Mid-Market,2,Callum Reid,2023-10-20,2023-10-01,2023-Q4,f,Annual
+NSC-10543,Redbrick Engineering Ltd,Public Sector,North West,SMB,3,Sophie Turner,2023-10-12,2023-10-01,2023-Q4,f,Monthly
+NSC-10544,Bluebell Learning LLP,Healthcare,Yorkshire & North East,Mid-Market,2,Aisha Patel,2023-10-21,2023-10-01,2023-Q4,f,Monthly
+NSC-10545,Ember Health Ltd,Education,London & South East,SMB,3,Megan Shaw,2023-10-20,2023-10-01,2023-Q4,f,Monthly
+NSC-10546,Granite Medical LLP,Logistics,North West,Mid-Market,2,Daniel Hughes,2023-10-20,2023-10-01,2023-Q4,f,Annual
+NSC-10547,Lantern Freight Group,Retail,South West & Wales,SMB,3,Ravi Mehta,2023-10-28,2023-10-01,2023-Q4,f,Monthly
+NSC-10548,Lowther Distribution Group,Public Sector,Scotland,SMB,3,Unassigned,2023-10-26,2023-10-01,2023-Q4,f,Annual
+NSC-10549,Quayside Freight Ltd,Manufacturing,Yorkshire & North East,Mid-Market,2,Hannah Doyle,2023-10-14,2023-10-01,2023-Q4,f,Annual
+NSC-10550,Falcon Logistics Group,Financial Services,Yorkshire & North East,Mid-Market,2,Unassigned,2023-10-27,2023-10-01,2023-Q4,f,Monthly
+NSC-10551,Northgate Housing Ltd,Retail,Yorkshire & North East,SMB,3,Megan Shaw,2023-10-22,2023-10-01,2023-Q4,f,Annual
+NSC-10552,Orchard Logistics Group,Professional Services,Scotland,Enterprise,1,Priya Raman,2023-10-22,2023-10-01,2023-Q4,f,Annual
+NSC-10553,Lowther Energy Holdings,Retail,Midlands,Mid-Market,2,Callum Reid,2023-10-25,2023-10-01,2023-Q4,f,Monthly
+NSC-10554,Meridian Medical plc,Public Sector,Yorkshire & North East,SMB,3,Ravi Mehta,2023-10-16,2023-10-01,2023-Q4,f,Monthly
+NSC-10555,Holloway Health Group,Retail,London & South East,Mid-Market,2,Aisha Patel,2023-10-22,2023-10-01,2023-Q4,f,Annual
+NSC-10556,Avon Manufacturing Ltd,Financial Services,London & South East,Mid-Market,2,Aisha Patel,2023-10-08,2023-10-01,2023-Q4,f,Annual
+NSC-10557,Ember Learning Holdings,Retail,Midlands,Mid-Market,2,Aisha Patel,2023-11-22,2023-11-01,2023-Q4,f,Monthly
+NSC-10558,Holloway Care LLP,Public Sector,Scotland,Mid-Market,2,Daniel Hughes,2023-11-26,2023-11-01,2023-Q4,f,Monthly
+NSC-10559,Bluebell Logistics Ltd,Professional Services,Scotland,SMB,3,Liam Carter,2023-11-26,2023-11-01,2023-Q4,f,Monthly
+NSC-10560,Harbour Manufacturing Ltd,Logistics,Yorkshire & North East,Enterprise,1,Tom Whitfield,2023-11-08,2023-11-01,2023-Q4,f,Annual
+NSC-10561,Albion Retail Ltd,Manufacturing,London & South East,Mid-Market,2,Aisha Patel,2023-11-18,2023-11-01,2023-Q4,f,Monthly
+NSC-10562,Northgate Housing plc,Retail,North West,SMB,3,Sophie Turner,2023-11-05,2023-11-01,2023-Q4,f,Annual
+NSC-10563,Sterling Retail LLP,Professional Services,Midlands,SMB,3,Liam Carter,2023-11-28,2023-11-01,2023-Q4,f,Monthly
+NSC-10565,Clyde Housing Ltd,Retail,Yorkshire & North East,SMB,3,Megan Shaw,2023-11-24,2023-11-01,2023-Q4,f,Monthly
+NSC-10566,Highland Freight Ltd,Professional Services,Midlands,Enterprise,1,Grace Okafor,2023-11-01,2023-11-01,2023-Q4,f,Annual
+NSC-10567,Saxon Retail Ltd,Financial Services,London & South East,Mid-Market,2,Aisha Patel,2023-11-23,2023-11-01,2023-Q4,f,Annual
+NSC-10568,Ironbridge Foods Group,Professional Services,Ireland,SMB,3,Ravi Mehta,2023-11-03,2023-11-01,2023-Q4,f,Monthly
+NSC-10569,Sterling Advisory LLP,Logistics,Ireland,SMB,3,Sophie Turner,2023-11-25,2023-11-01,2023-Q4,f,Annual
+NSC-10570,Oakridge Manufacturing LLP,Public Sector,North West,SMB,3,Megan Shaw,2023-11-01,2023-11-01,2023-Q4,f,Annual
+NSC-10571,Thames Energy Ltd,Professional Services,South West & Wales,SMB,3,Sophie Turner,2023-11-24,2023-11-01,2023-Q4,f,Monthly
+NSC-10572,Mersey Supplies Group,Retail,Scotland,SMB,3,Ravi Mehta,2023-11-11,2023-11-01,2023-Q4,f,Monthly
+NSC-10573,Meridian Medical Ltd,Education,Scotland,Mid-Market,2,Unassigned,2023-11-26,2023-11-01,2023-Q4,f,Annual
+NSC-10574,Granite Manufacturing Group,Healthcare,London & South East,Mid-Market,2,Hannah Doyle,2023-11-23,2023-11-01,2023-Q4,f,Annual
+NSC-10575,Brightwater Freight Holdings,Retail,London & South East,Enterprise,1,Priya Raman,2023-11-18,2023-11-01,2023-Q4,f,Monthly
+NSC-10576,Meridian Distribution plc,Financial Services,London & South East,SMB,3,Ravi Mehta,2023-11-15,2023-11-01,2023-Q4,f,Monthly
+NSC-10577,Ember Health plc,Healthcare,London & South East,SMB,3,Liam Carter,2023-11-02,2023-11-01,2023-Q4,f,Monthly
+NSC-10578,Lowther Learning plc,Healthcare,North West,Mid-Market,2,Callum Reid,2023-11-18,2023-11-01,2023-Q4,f,Monthly
+NSC-10579,Fenwick Retail Group,Logistics,London & South East,SMB,3,Ravi Mehta,2023-11-17,2023-11-01,2023-Q4,f,Monthly
+NSC-10580,Northgate Logistics Group,Retail,Ireland,SMB,3,Owen Price,2023-11-05,2023-11-01,2023-Q4,f,Monthly
+NSC-10581,Oakridge Systems Ltd,Financial Services,Midlands,Enterprise,1,Tom Whitfield,2023-11-24,2023-11-01,2023-Q4,f,Annual
+NSC-10582,Clyde Systems Ltd,Logistics,Yorkshire & North East,Mid-Market,2,Callum Reid,2023-11-11,2023-11-01,2023-Q4,f,Annual
+NSC-10583,Mersey Care Holdings,Education,Yorkshire & North East,SMB,3,Megan Shaw,2023-12-31,2023-12-01,2023-Q4,f,Monthly
+NSC-10584,Holloway Manufacturing Ltd,Logistics,London & South East,SMB,3,Ravi Mehta,2023-12-26,2023-12-01,2023-Q4,f,Monthly
+NSC-10585,Beacon Distribution Group,Logistics,South West & Wales,SMB,3,Ravi Mehta,2023-12-04,2023-12-01,2023-Q4,f,Annual
+NSC-10586,Sterling Foods Holdings,Professional Services,Ireland,Mid-Market,2,Hannah Doyle,2023-12-06,2023-12-01,2023-Q4,f,Monthly
+NSC-10587,Riverside Supplies LLP,Healthcare,Midlands,Mid-Market,2,Daniel Hughes,2023-12-01,2023-12-01,2023-Q4,f,Annual
+NSC-10588,Westmoor Manufacturing plc,Education,London & South East,SMB,3,Owen Price,2023-12-15,2023-12-01,2023-Q4,f,Annual
+NSC-10589,Holloway Distribution LLP,Manufacturing,Scotland,SMB,3,Ravi Mehta,2023-12-06,2023-12-01,2023-Q4,f,Monthly
+NSC-10590,Ironbridge Analytics Ltd,Professional Services,London & South East,Mid-Market,2,Callum Reid,2023-12-11,2023-12-01,2023-Q4,f,Monthly
+NSC-10591,Highland Analytics LLP,Manufacturing,North West,SMB,3,Liam Carter,2023-12-19,2023-12-01,2023-Q4,f,Annual
+NSC-10592,Meridian Logistics LLP,Manufacturing,Yorkshire & North East,SMB,3,Sophie Turner,2023-12-31,2023-12-01,2023-Q4,f,Annual
+NSC-10593,Ashford Analytics Ltd,Manufacturing,Midlands,SMB,3,Owen Price,2023-12-08,2023-12-01,2023-Q4,f,Annual
+NSC-10594,Northgate Supplies Ltd,Professional Services,London & South East,SMB,3,Sophie Turner,2023-12-29,2023-12-01,2023-Q4,f,Annual
+NSC-10595,Castlefield Energy Ltd,Public Sector,North West,Mid-Market,2,Callum Reid,2023-12-17,2023-12-01,2023-Q4,f,Annual
+NSC-10596,Cobalt Capital plc,Financial Services,Midlands,SMB,3,Sophie Turner,2023-12-22,2023-12-01,2023-Q4,f,Monthly
+NSC-10597,Kingsway Analytics LLP,Retail,Yorkshire & North East,Mid-Market,2,Aisha Patel,2023-12-06,2023-12-01,2023-Q4,f,Annual
+NSC-10598,Tamar Health Group,Financial Services,London & South East,Mid-Market,2,Callum Reid,2023-12-29,2023-12-01,2023-Q4,f,Annual
+NSC-10599,Thames Retail LLP,Professional Services,Scotland,SMB,3,Sophie Turner,2023-12-09,2023-12-01,2023-Q4,f,Annual
+NSC-10600,Granite Energy plc,Healthcare,South West & Wales,SMB,3,Ravi Mehta,2023-12-27,2023-12-01,2023-Q4,f,Monthly
+NSC-10601,Wessex Learning LLP,Financial Services,South West & Wales,SMB,3,Sophie Turner,2023-12-30,2023-12-01,2023-Q4,f,Monthly
+NSC-10602,Redbrick Advisory Ltd,Healthcare,London & South East,SMB,3,Sophie Turner,2023-12-07,2023-12-01,2023-Q4,f,Monthly
+NSC-10603,Granite Consulting plc,Logistics,London & South East,SMB,3,Sophie Turner,2023-12-31,2023-12-01,2023-Q4,f,Annual
+NSC-10604,Kingsway Analytics Group,Logistics,London & South East,SMB,3,Ravi Mehta,2023-12-14,2023-12-01,2023-Q4,f,Monthly
+NSC-10605,Orchard Analytics LLP,Logistics,Scotland,Mid-Market,2,Daniel Hughes,2023-12-11,2023-12-01,2023-Q4,f,Monthly
+NSC-10606,Pennine Systems plc,Professional Services,Midlands,Mid-Market,2,Hannah Doyle,2024-01-29,2024-01-01,2024-Q1,f,Monthly
+NSC-10607,Meridian Medical Group,Logistics,London & South East,Enterprise,1,Tom Whitfield,2024-01-06,2024-01-01,2024-Q1,f,Annual
+NSC-10608,Wessex Retail Ltd,Education,London & South East,SMB,3,Ravi Mehta,2024-01-01,2024-01-01,2024-Q1,f,Annual
+NSC-10609,Ashford Systems Group,Education,North West,Enterprise,1,Tom Whitfield,2024-01-31,2024-01-01,2024-Q1,f,Annual
+NSC-10610,Ember Care Holdings,Professional Services,Yorkshire & North East,SMB,3,Owen Price,2024-01-09,2024-01-01,2024-Q1,f,Monthly
+NSC-10611,Orchard Engineering plc,Manufacturing,South West & Wales,SMB,3,Sophie Turner,2024-01-01,2024-01-01,2024-Q1,f,Monthly
+NSC-10612,Severn Systems Ltd,Public Sector,Yorkshire & North East,Mid-Market,2,Callum Reid,2024-01-06,2024-01-01,2024-Q1,f,Annual
+NSC-10613,Saxon Engineering Holdings,Healthcare,South West & Wales,SMB,3,Megan Shaw,2024-01-06,2024-01-01,2024-Q1,f,Monthly
+NSC-10614,Holloway Foods Holdings,Retail,Ireland,Mid-Market,2,Daniel Hughes,2024-01-14,2024-01-01,2024-Q1,f,Monthly
+NSC-10615,Avon Analytics LLP,Manufacturing,London & South East,SMB,3,Sophie Turner,2024-01-01,2024-01-01,2024-Q1,f,Annual
+NSC-10616,Ironbridge Analytics Group,Healthcare,London & South East,SMB,3,Liam Carter,2024-01-17,2024-01-01,2024-Q1,f,Monthly
+NSC-10617,Redbrick Capital LLP,Financial Services,North West,Enterprise,1,Priya Raman,2024-01-05,2024-01-01,2024-Q1,f,Annual
+NSC-10618,Highland Supplies Group,Healthcare,Midlands,SMB,3,Owen Price,2024-01-30,2024-01-01,2024-Q1,f,Monthly
+NSC-10619,Lowther Health LLP,Financial Services,Yorkshire & North East,Mid-Market,2,Callum Reid,2024-01-12,2024-01-01,2024-Q1,f,Annual
+NSC-10620,Lantern Care Holdings,Public Sector,London & South East,Enterprise,1,Priya Raman,2024-01-22,2024-01-01,2024-Q1,f,Annual
+NSC-10621,Ember Retail Ltd,Manufacturing,London & South East,Mid-Market,2,Callum Reid,2024-01-30,2024-01-01,2024-Q1,f,Annual
+NSC-10622,Avon Retail Group,Manufacturing,Midlands,Enterprise,1,Tom Whitfield,2024-01-10,2024-01-01,2024-Q1,f,Annual
+NSC-10623,Mersey Care plc,Professional Services,Scotland,Enterprise,1,Grace Okafor,2024-01-10,2024-01-01,2024-Q1,f,Annual
+NSC-10624,Holloway Learning plc,Healthcare,Midlands,SMB,3,Megan Shaw,2024-01-23,2024-01-01,2024-Q1,f,Monthly
+NSC-10625,Highland Health LLP,Education,London & South East,Mid-Market,2,Daniel Hughes,2024-01-09,2024-01-01,2024-Q1,f,Monthly
+NSC-10626,Orchard Learning plc,Logistics,Yorkshire & North East,SMB,3,Liam Carter,2024-01-19,2024-01-01,2024-Q1,f,Monthly
+NSC-10627,Saxon Consulting LLP,Public Sector,Scotland,Mid-Market,2,Daniel Hughes,2024-01-29,2024-01-01,2024-Q1,f,Monthly
+NSC-10628,Ironbridge Retail Group,Manufacturing,London & South East,Mid-Market,2,Daniel Hughes,2024-01-29,2024-01-01,2024-Q1,f,Monthly
+NSC-10629,Beacon Consulting Ltd,Education,North West,SMB,3,Ravi Mehta,2024-01-05,2024-01-01,2024-Q1,f,Annual
+NSC-10630,Tamar Medical LLP,Professional Services,London & South East,Mid-Market,2,Aisha Patel,2024-01-03,2024-01-01,2024-Q1,f,Monthly
+NSC-10631,Falcon Care Ltd,Healthcare,Scotland,SMB,3,Liam Carter,2024-01-09,2024-01-01,2024-Q1,f,Monthly
+NSC-10632,Beacon Capital Group,Public Sector,Yorkshire & North East,Mid-Market,2,Callum Reid,2024-01-23,2024-01-01,2024-Q1,f,Monthly
+NSC-10633,Redbrick Energy Holdings,Public Sector,South West & Wales,SMB,3,Owen Price,2024-01-04,2024-01-01,2024-Q1,f,Annual
+NSC-10634,Mersey Medical Ltd,Healthcare,North West,SMB,3,Megan Shaw,2024-01-05,2024-01-01,2024-Q1,f,Monthly
+NSC-10635,Severn Logistics LLP,Healthcare,North West,Mid-Market,2,Hannah Doyle,2024-01-03,2024-01-01,2024-Q1,f,Monthly
+NSC-10636,Calder Energy Ltd,Financial Services,North West,SMB,3,Owen Price,2024-01-02,2024-01-01,2024-Q1,f,Monthly
+NSC-10637,Thames Foods Holdings,Professional Services,Yorkshire & North East,Mid-Market,2,Aisha Patel,2024-01-22,2024-01-01,2024-Q1,f,Monthly
+NSC-10638,Sterling Energy plc,Healthcare,Scotland,Mid-Market,2,Callum Reid,2024-01-10,2024-01-01,2024-Q1,f,Annual
+NSC-10639,Quayside Partners Holdings,Professional Services,London & South East,Mid-Market,2,Unassigned,2024-01-12,2024-01-01,2024-Q1,f,Monthly
+NSC-10640,Mersey Partners Group,Professional Services,Scotland,Mid-Market,2,Callum Reid,2024-02-11,2024-02-01,2024-Q1,f,Annual
+NSC-10641,Moorland Learning Group,Professional Services,North West,SMB,3,Liam Carter,2024-02-27,2024-02-01,2024-Q1,f,Monthly
+NSC-10642,Fenwick Consulting Group,Financial Services,Yorkshire & North East,SMB,3,Liam Carter,2024-02-14,2024-02-01,2024-Q1,f,Annual
+NSC-10643,Falcon Energy Ltd,Financial Services,South West & Wales,SMB,3,Megan Shaw,2024-02-05,2024-02-01,2024-Q1,f,Monthly
+NSC-10644,Meridian Logistics Holdings,Unknown,North West,SMB,3,Liam Carter,2024-02-12,2024-02-01,2024-Q1,f,Monthly
+NSC-10645,Lantern Analytics LLP,Healthcare,London & South East,Mid-Market,2,Callum Reid,2024-02-25,2024-02-01,2024-Q1,f,Monthly
+NSC-10646,Albion Energy Ltd,Logistics,London & South East,Enterprise,1,Priya Raman,2024-02-28,2024-02-01,2024-Q1,f,Annual
+NSC-10647,Saxon Foods Holdings,Professional Services,Yorkshire & North East,SMB,3,Liam Carter,2024-02-27,2024-02-01,2024-Q1,f,Annual
+NSC-10648,Westmoor Partners Holdings,Financial Services,Yorkshire & North East,Enterprise,1,Priya Raman,2024-02-13,2024-02-01,2024-Q1,f,Monthly
+NSC-10649,Northgate Manufacturing Group,Professional Services,London & South East,SMB,3,Liam Carter,2024-02-14,2024-02-01,2024-Q1,f,Monthly
+NSC-10650,Holloway Supplies Ltd,Financial Services,Yorkshire & North East,Mid-Market,2,Daniel Hughes,2024-02-25,2024-02-01,2024-Q1,f,Monthly
+NSC-10651,Cobalt Learning LLP,Financial Services,Ireland,Mid-Market,2,Aisha Patel,2024-02-25,2024-02-01,2024-Q1,f,Annual
+NSC-10652,Cobalt Partners Ltd,Education,London & South East,SMB,3,Liam Carter,2024-02-20,2024-02-01,2024-Q1,f,Monthly
+NSC-10653,Peak Health Ltd,Manufacturing,London & South East,Mid-Market,2,Aisha Patel,2024-02-06,2024-02-01,2024-Q1,f,Annual
+NSC-10654,Bluebell Consulting Ltd,Professional Services,Midlands,SMB,3,Liam Carter,2024-02-07,2024-02-01,2024-Q1,f,Annual
+NSC-10655,Northgate Distribution plc,Manufacturing,London & South East,Mid-Market,2,Aisha Patel,2024-02-03,2024-02-01,2024-Q1,f,Annual
+NSC-10656,Fenwick Systems Ltd,Education,London & South East,Mid-Market,2,Hannah Doyle,2024-02-17,2024-02-01,2024-Q1,f,Monthly
+NSC-10657,Westmoor Energy Group,Retail,London & South East,SMB,3,Liam Carter,2024-02-04,2024-02-01,2024-Q1,f,Monthly
+NSC-10658,Westmoor Housing Ltd,Financial Services,London & South East,SMB,3,Ravi Mehta,2024-02-06,2024-02-01,2024-Q1,f,Monthly
+NSC-10659,Oakridge Learning Ltd,Professional Services,North West,SMB,3,Megan Shaw,2024-02-05,2024-02-01,2024-Q1,f,Annual
+NSC-10660,Oakridge Systems Holdings,Professional Services,Ireland,SMB,3,Sophie Turner,2024-02-13,2024-02-01,2024-Q1,f,Monthly
+NSC-10661,Lowther Manufacturing Ltd,Retail,London & South East,Mid-Market,2,Daniel Hughes,2024-02-25,2024-02-01,2024-Q1,f,Annual
+NSC-10662,Highland Learning Ltd,Healthcare,Yorkshire & North East,Enterprise,1,Grace Okafor,2024-02-06,2024-02-01,2024-Q1,f,Annual
+NSC-10663,Ironbridge Logistics Ltd,Logistics,North West,SMB,3,Megan Shaw,2024-02-12,2024-02-01,2024-Q1,f,Annual
+NSC-10664,Riverside Capital Group,Professional Services,London & South East,SMB,3,Owen Price,2024-02-07,2024-02-01,2024-Q1,f,Monthly
+NSC-10665,Oakridge Advisory LLP,Unknown,London & South East,SMB,3,Unassigned,2024-02-05,2024-02-01,2024-Q1,f,Monthly
+NSC-10666,Calder Partners plc,Financial Services,Scotland,Mid-Market,2,Callum Reid,2024-02-04,2024-02-01,2024-Q1,f,Monthly
+NSC-10667,Severn Foods Ltd,Financial Services,Midlands,SMB,3,Owen Price,2024-02-04,2024-02-01,2024-Q1,f,Annual
+NSC-10668,Sterling Supplies Ltd,Professional Services,Midlands,SMB,3,Owen Price,2024-03-18,2024-03-01,2024-Q1,f,Annual
+NSC-10669,Westmoor Learning Holdings,Professional Services,London & South East,SMB,3,Megan Shaw,2024-03-24,2024-03-01,2024-Q1,f,Monthly
+NSC-10670,Peak Care Ltd,Manufacturing,South West & Wales,Enterprise,1,Priya Raman,2024-03-13,2024-03-01,2024-Q1,f,Annual
+NSC-10671,Falcon Supplies Group,Professional Services,Ireland,SMB,3,Ravi Mehta,2024-03-11,2024-03-01,2024-Q1,f,Monthly
+NSC-10672,Highland Logistics Ltd,Manufacturing,North West,SMB,3,Sophie Turner,2024-03-07,2024-03-01,2024-Q1,f,Monthly
+NSC-10673,Brightwater Distribution Group,Public Sector,South West & Wales,SMB,3,Liam Carter,2024-03-28,2024-03-01,2024-Q1,f,Monthly
+NSC-10674,Mersey Energy Ltd,Retail,Midlands,Mid-Market,2,Daniel Hughes,2024-03-05,2024-03-01,2024-Q1,f,Monthly
+NSC-10675,Calder Health Group,Manufacturing,South West & Wales,SMB,3,Unassigned,2024-03-03,2024-03-01,2024-Q1,f,Annual
+NSC-10676,Sterling Care Holdings,Healthcare,Ireland,SMB,3,Sophie Turner,2024-03-09,2024-03-01,2024-Q1,f,Annual
+NSC-10677,Wessex Health Holdings,Manufacturing,Midlands,Mid-Market,2,Daniel Hughes,2024-03-29,2024-03-01,2024-Q1,f,Annual
+NSC-10678,Saxon Consulting Group,Manufacturing,London & South East,SMB,3,Owen Price,2024-03-19,2024-03-01,2024-Q1,f,Monthly
+NSC-10679,Pennine Freight Holdings,Manufacturing,London & South East,SMB,3,Megan Shaw,2024-03-06,2024-03-01,2024-Q1,f,Annual
+NSC-10680,Calder Learning Ltd,Education,London & South East,Mid-Market,2,Daniel Hughes,2024-03-12,2024-03-01,2024-Q1,f,Monthly
+NSC-10681,Quayside Supplies Holdings,Public Sector,Yorkshire & North East,SMB,3,Liam Carter,2024-03-04,2024-03-01,2024-Q1,f,Annual
+NSC-10682,Mersey Freight Ltd,Professional Services,London & South East,Enterprise,1,Tom Whitfield,2024-03-16,2024-03-01,2024-Q1,f,Annual
+NSC-10683,Riverside Medical Ltd,Retail,London & South East,Mid-Market,2,Callum Reid,2024-03-13,2024-03-01,2024-Q1,f,Annual
+NSC-10684,Castlefield Distribution LLP,Retail,South West & Wales,SMB,3,Sophie Turner,2024-03-30,2024-03-01,2024-Q1,f,Monthly
+NSC-10685,Meridian Consulting LLP,Healthcare,Yorkshire & North East,SMB,3,Liam Carter,2024-03-04,2024-03-01,2024-Q1,f,Monthly
+NSC-10686,Beacon Housing LLP,Healthcare,North West,SMB,3,Liam Carter,2024-03-01,2024-03-01,2024-Q1,f,Monthly
+NSC-10687,Albion Systems Holdings,Healthcare,Midlands,Mid-Market,2,Daniel Hughes,2024-03-09,2024-03-01,2024-Q1,f,Annual
+NSC-10688,Mersey Medical LLP,Education,Scotland,Mid-Market,2,Daniel Hughes,2024-03-09,2024-03-01,2024-Q1,f,Monthly
+NSC-10689,Meridian Retail Ltd,Retail,Midlands,Mid-Market,2,Unassigned,2024-03-05,2024-03-01,2024-Q1,f,Annual
+NSC-10690,Heathrow Manufacturing Group,Education,London & South East,Mid-Market,2,Callum Reid,2024-03-31,2024-03-01,2024-Q1,f,Annual
+NSC-10691,Heathrow Logistics plc,Healthcare,North West,SMB,3,Liam Carter,2024-03-04,2024-03-01,2024-Q1,f,Monthly
+NSC-10692,Avon Care plc,Healthcare,London & South East,SMB,3,Owen Price,2024-03-06,2024-03-01,2024-Q1,f,Monthly
+NSC-10693,Thames Care Holdings,Retail,Scotland,Mid-Market,2,Hannah Doyle,2024-03-30,2024-03-01,2024-Q1,f,Annual
+NSC-10694,Riverside Consulting Holdings,Financial Services,Midlands,SMB,3,Ravi Mehta,2024-03-27,2024-03-01,2024-Q1,f,Annual
+NSC-10695,Peak Care Holdings,Education,Midlands,Mid-Market,2,Callum Reid,2024-03-19,2024-03-01,2024-Q1,f,Annual
+NSC-10696,Riverside Advisory Group,Professional Services,Yorkshire & North East,SMB,3,Ravi Mehta,2024-03-22,2024-03-01,2024-Q1,f,Monthly
+NSC-10697,Albion Systems Group,Manufacturing,London & South East,Mid-Market,2,Daniel Hughes,2024-03-26,2024-03-01,2024-Q1,f,Annual
+NSC-10698,Pennine Health Ltd,Healthcare,North West,SMB,3,Megan Shaw,2024-03-02,2024-03-01,2024-Q1,f,Monthly
+NSC-10700,Peak Systems LLP,Manufacturing,South West & Wales,SMB,3,Sophie Turner,2024-03-22,2024-03-01,2024-Q1,f,Monthly
+NSC-10701,Orchard Energy Ltd,Professional Services,London & South East,SMB,3,Megan Shaw,2024-03-20,2024-03-01,2024-Q1,f,Monthly
+NSC-10702,Holloway Freight Holdings,Logistics,London & South East,SMB,3,Sophie Turner,2024-03-21,2024-03-01,2024-Q1,f,Monthly
+NSC-10703,Orchard Housing Ltd,Financial Services,London & South East,Mid-Market,2,Daniel Hughes,2024-03-17,2024-03-01,2024-Q1,f,Annual
+NSC-10704,Ashford Engineering Group,Manufacturing,London & South East,SMB,3,Liam Carter,2024-03-24,2024-03-01,2024-Q1,f,Monthly
+NSC-10705,Northgate Retail Group,Financial Services,Ireland,Enterprise,1,Grace Okafor,2024-03-08,2024-03-01,2024-Q1,f,Annual
+NSC-10706,Cobalt Consulting plc,Retail,South West & Wales,SMB,3,Sophie Turner,2024-04-28,2024-04-01,2024-Q2,f,Monthly
+NSC-10707,Lantern Freight Holdings,Financial Services,Yorkshire & North East,Enterprise,1,Tom Whitfield,2024-04-25,2024-04-01,2024-Q2,f,Annual
+NSC-10708,Sterling Consulting plc,Financial Services,Ireland,SMB,3,Megan Shaw,2024-04-07,2024-04-01,2024-Q2,f,Monthly
+NSC-10709,Lowther Systems Group,Professional Services,Midlands,SMB,3,Megan Shaw,2024-04-15,2024-04-01,2024-Q2,f,Monthly
+NSC-10710,Orchard Engineering Ltd,Logistics,Scotland,Mid-Market,2,Hannah Doyle,2024-04-14,2024-04-01,2024-Q2,f,Annual
+NSC-10711,Wessex Partners Holdings,Professional Services,Scotland,Enterprise,1,Grace Okafor,2024-04-14,2024-04-01,2024-Q2,f,Annual
+NSC-10712,Clyde Learning Ltd,Professional Services,London & South East,SMB,3,Owen Price,2024-04-30,2024-04-01,2024-Q2,f,Monthly
+NSC-10713,Wessex Housing Holdings,Professional Services,Ireland,Mid-Market,2,Hannah Doyle,2024-04-21,2024-04-01,2024-Q2,f,Annual
+NSC-10714,Redbrick Supplies Group,Healthcare,Ireland,SMB,3,Sophie Turner,2024-04-17,2024-04-01,2024-Q2,f,Monthly
+NSC-10715,Orchard Housing Holdings,Retail,London & South East,Enterprise,1,Tom Whitfield,2024-04-15,2024-04-01,2024-Q2,f,Annual
+NSC-10716,Lantern Analytics Ltd,Financial Services,North West,SMB,3,Liam Carter,2024-04-22,2024-04-01,2024-Q2,f,Monthly
+NSC-10717,Harbour Partners Ltd,Manufacturing,North West,SMB,3,Megan Shaw,2024-04-15,2024-04-01,2024-Q2,f,Monthly
+NSC-10718,Wessex Supplies Holdings,Public Sector,London & South East,SMB,3,Sophie Turner,2024-04-07,2024-04-01,2024-Q2,f,Monthly
+NSC-10719,Cobalt Freight plc,Unknown,Yorkshire & North East,Mid-Market,2,Callum Reid,2024-04-06,2024-04-01,2024-Q2,f,Annual
+NSC-10720,Granite Partners Holdings,Unknown,North West,SMB,3,Sophie Turner,2024-04-02,2024-04-01,2024-Q2,f,Monthly
+NSC-10721,Castlefield Energy LLP,Healthcare,London & South East,SMB,3,Sophie Turner,2024-04-04,2024-04-01,2024-Q2,f,Monthly
+NSC-10722,Calder Engineering Holdings,Logistics,Midlands,Mid-Market,2,Daniel Hughes,2024-04-03,2024-04-01,2024-Q2,f,Annual
+NSC-10723,Mersey Energy Holdings,Healthcare,Scotland,SMB,3,Sophie Turner,2024-04-04,2024-04-01,2024-Q2,f,Monthly
+NSC-10724,Cobalt Distribution LLP,Education,North West,Mid-Market,2,Daniel Hughes,2024-04-17,2024-04-01,2024-Q2,f,Annual
+NSC-10725,Heathrow Learning Ltd,Logistics,North West,Mid-Market,2,Aisha Patel,2024-04-15,2024-04-01,2024-Q2,f,Annual
+NSC-10726,Westmoor Capital Ltd,Logistics,South West & Wales,Enterprise,1,Tom Whitfield,2024-04-29,2024-04-01,2024-Q2,f,Annual
+NSC-10727,Northgate Partners Ltd,Professional Services,London & South East,Enterprise,1,Priya Raman,2024-04-27,2024-04-01,2024-Q2,f,Annual
+NSC-10728,Heathrow Capital LLP,Logistics,London & South East,SMB,3,Megan Shaw,2024-04-10,2024-04-01,2024-Q2,f,Monthly
+NSC-10729,Mersey Care Group,Professional Services,Midlands,SMB,3,Owen Price,2024-04-19,2024-04-01,2024-Q2,f,Monthly
+NSC-10730,Granite Housing Ltd,Manufacturing,London & South East,SMB,3,Owen Price,2024-04-02,2024-04-01,2024-Q2,f,Monthly
+NSC-10731,Saxon Partners Ltd,Professional Services,London & South East,Mid-Market,2,Hannah Doyle,2024-04-29,2024-04-01,2024-Q2,f,Annual
+NSC-10732,Lowther Retail Group,Professional Services,Scotland,Mid-Market,2,Callum Reid,2024-04-21,2024-04-01,2024-Q2,f,Annual
+NSC-10733,Mersey Health Holdings,Logistics,North West,SMB,3,Megan Shaw,2024-04-14,2024-04-01,2024-Q2,f,Annual
+NSC-10734,Ironbridge Retail Holdings,Logistics,London & South East,SMB,3,Sophie Turner,2024-04-08,2024-04-01,2024-Q2,f,Annual
+NSC-10735,Meridian Learning Group,Retail,Midlands,Mid-Market,2,Hannah Doyle,2024-04-23,2024-04-01,2024-Q2,f,Annual
+NSC-10736,Albion Freight Group,Professional Services,Midlands,SMB,3,Sophie Turner,2024-04-09,2024-04-01,2024-Q2,f,Monthly
+NSC-10737,Highland Housing Ltd,Logistics,Yorkshire & North East,Mid-Market,2,Aisha Patel,2024-04-11,2024-04-01,2024-Q2,f,Monthly
+NSC-10738,Falcon Medical Holdings,Logistics,Midlands,SMB,3,Ravi Mehta,2024-04-21,2024-04-01,2024-Q2,f,Monthly
+NSC-10739,Thames Partners Group,Retail,North West,Mid-Market,2,Hannah Doyle,2024-04-24,2024-04-01,2024-Q2,f,Monthly
+NSC-10740,Fenwick Supplies Holdings,Financial Services,North West,Mid-Market,2,Aisha Patel,2024-04-23,2024-04-01,2024-Q2,f,Annual
+NSC-10741,Falcon Manufacturing Ltd,Manufacturing,London & South East,Mid-Market,2,Callum Reid,2024-04-10,2024-04-01,2024-Q2,f,Monthly
+NSC-10742,Bluebell Supplies Holdings,Professional Services,London & South East,SMB,3,Megan Shaw,2024-04-01,2024-04-01,2024-Q2,f,Annual
+NSC-10743,Castlefield Systems LLP,Logistics,South West & Wales,SMB,3,Liam Carter,2024-04-30,2024-04-01,2024-Q2,f,Monthly
+NSC-10744,Ember Manufacturing Group,Professional Services,Scotland,Enterprise,1,Tom Whitfield,2024-04-24,2024-04-01,2024-Q2,f,Annual
+NSC-10745,Castlefield Freight LLP,Professional Services,Midlands,SMB,3,Sophie Turner,2024-04-02,2024-04-01,2024-Q2,f,Monthly
+NSC-10746,Tamar Medical Holdings,Manufacturing,Yorkshire & North East,SMB,3,Ravi Mehta,2024-04-27,2024-04-01,2024-Q2,f,Monthly
+NSC-10747,Tamar Learning LLP,Public Sector,North West,SMB,3,Liam Carter,2024-04-05,2024-04-01,2024-Q2,f,Annual
+NSC-10748,Peak Consulting Ltd,Logistics,London & South East,Mid-Market,2,Hannah Doyle,2024-04-03,2024-04-01,2024-Q2,f,Monthly
+NSC-10749,Thames Supplies Group,Education,London & South East,Enterprise,1,Priya Raman,2024-04-04,2024-04-01,2024-Q2,f,Annual
+NSC-10750,Saxon Housing Group,Professional Services,North West,SMB,3,Sophie Turner,2024-05-14,2024-05-01,2024-Q2,f,Annual
+NSC-10751,Ember Foods LLP,Logistics,Yorkshire & North East,SMB,3,Sophie Turner,2024-05-02,2024-05-01,2024-Q2,f,Monthly
+NSC-10752,Northgate Systems Ltd,Unknown,Yorkshire & North East,SMB,3,Owen Price,2024-05-16,2024-05-01,2024-Q2,f,Monthly
+NSC-10753,Ember Advisory Ltd,Logistics,Ireland,SMB,3,Owen Price,2024-05-10,2024-05-01,2024-Q2,f,Monthly
+NSC-10754,Albion Supplies Ltd,Public Sector,Scotland,SMB,3,Megan Shaw,2024-05-24,2024-05-01,2024-Q2,f,Annual
+NSC-10755,Sterling Distribution Holdings,Retail,North West,SMB,3,Megan Shaw,2024-05-12,2024-05-01,2024-Q2,f,Annual
+NSC-10756,Peak Foods LLP,Retail,Scotland,SMB,3,Megan Shaw,2024-05-13,2024-05-01,2024-Q2,f,Monthly
+NSC-10757,Thames Analytics Ltd,Healthcare,London & South East,SMB,3,Liam Carter,2024-05-01,2024-05-01,2024-Q2,f,Monthly
+NSC-10758,Cobalt Care Holdings,Logistics,London & South East,Mid-Market,2,Unassigned,2024-05-13,2024-05-01,2024-Q2,f,Annual
+NSC-10759,Pennine Health plc,Logistics,Scotland,Enterprise,1,Tom Whitfield,2024-05-12,2024-05-01,2024-Q2,f,Annual
+NSC-10760,Granite Health LLP,Education,North West,SMB,3,Megan Shaw,2024-05-25,2024-05-01,2024-Q2,f,Monthly
+NSC-10762,Wessex Housing LLP,Professional Services,Ireland,SMB,3,Ravi Mehta,2024-05-28,2024-05-01,2024-Q2,f,Monthly
+NSC-10763,Brightwater Housing Ltd,Financial Services,London & South East,SMB,3,Ravi Mehta,2024-05-19,2024-05-01,2024-Q2,f,Monthly
+NSC-10764,Bluebell Partners Ltd,Retail,London & South East,SMB,3,Megan Shaw,2024-05-24,2024-05-01,2024-Q2,f,Annual
+NSC-10765,Westmoor Logistics LLP,Retail,Ireland,Enterprise,1,Priya Raman,2024-05-05,2024-05-01,2024-Q2,f,Annual
+NSC-10766,Albion Logistics Group,Manufacturing,Yorkshire & North East,SMB,3,Owen Price,2024-05-26,2024-05-01,2024-Q2,f,Monthly
+NSC-10767,Albion Engineering Group,Logistics,Scotland,SMB,3,Liam Carter,2024-05-04,2024-05-01,2024-Q2,f,Monthly
+NSC-10768,Harbour Analytics Group,Manufacturing,Yorkshire & North East,SMB,3,Sophie Turner,2024-05-28,2024-05-01,2024-Q2,f,Monthly
+NSC-10769,Severn Energy Ltd,Logistics,Midlands,Enterprise,1,Priya Raman,2024-05-24,2024-05-01,2024-Q2,f,Annual
+NSC-10770,Thames Manufacturing Holdings,Unknown,South West & Wales,Mid-Market,2,Callum Reid,2024-05-19,2024-05-01,2024-Q2,f,Annual
+NSC-10771,Orchard Retail Holdings,Professional Services,North West,SMB,3,Megan Shaw,2024-05-08,2024-05-01,2024-Q2,f,Monthly
+NSC-10772,Saxon Partners plc,Financial Services,Midlands,SMB,3,Sophie Turner,2024-05-18,2024-05-01,2024-Q2,f,Annual
+NSC-10773,Peak Medical Ltd,Education,Scotland,Enterprise,1,Priya Raman,2024-05-30,2024-05-01,2024-Q2,f,Annual
+NSC-10774,Severn Engineering Holdings,Education,South West & Wales,SMB,3,Megan Shaw,2024-05-01,2024-05-01,2024-Q2,f,Monthly
+NSC-10775,Clyde Advisory plc,Professional Services,North West,Enterprise,1,Priya Raman,2024-05-25,2024-05-01,2024-Q2,f,Annual
+NSC-10776,Saxon Capital Ltd,Financial Services,North West,SMB,3,Megan Shaw,2024-06-13,2024-06-01,2024-Q2,f,Annual
+NSC-10777,Orchard Retail Ltd,Retail,Scotland,SMB,3,Sophie Turner,2024-06-16,2024-06-01,2024-Q2,f,Annual
+NSC-10778,Falcon Housing Holdings,Healthcare,North West,SMB,3,Owen Price,2024-06-30,2024-06-01,2024-Q2,f,Monthly
+NSC-10779,Highland Manufacturing Ltd,Financial Services,Midlands,SMB,3,Sophie Turner,2024-06-06,2024-06-01,2024-Q2,f,Annual
+NSC-10780,Granite Freight Holdings,Healthcare,Midlands,Mid-Market,2,Hannah Doyle,2024-06-23,2024-06-01,2024-Q2,f,Annual
+NSC-10781,Castlefield Capital Ltd,Financial Services,South West & Wales,SMB,3,Sophie Turner,2024-06-04,2024-06-01,2024-Q2,f,Annual
+NSC-10782,Quayside Distribution LLP,Healthcare,Midlands,SMB,3,Megan Shaw,2024-06-01,2024-06-01,2024-Q2,f,Monthly
+NSC-10783,Ashford Foods Ltd,Retail,North West,Enterprise,1,Tom Whitfield,2024-06-22,2024-06-01,2024-Q2,f,Annual
+NSC-10784,Redbrick Learning Group,Education,Scotland,SMB,3,Megan Shaw,2024-06-24,2024-06-01,2024-Q2,f,Annual
+NSC-10785,Highland Foods Ltd,Professional Services,Midlands,Mid-Market,2,Aisha Patel,2024-06-10,2024-06-01,2024-Q2,f,Annual
+NSC-10786,Thames Health plc,Healthcare,North West,SMB,3,Sophie Turner,2024-06-11,2024-06-01,2024-Q2,f,Monthly
+NSC-10787,Mersey Engineering plc,Manufacturing,South West & Wales,Mid-Market,2,Daniel Hughes,2024-06-28,2024-06-01,2024-Q2,f,Monthly
+NSC-10788,Castlefield Manufacturing Ltd,Healthcare,North West,Mid-Market,2,Hannah Doyle,2024-06-16,2024-06-01,2024-Q2,f,Annual
+NSC-10789,Kingsway Logistics Ltd,Retail,London & South East,SMB,3,Megan Shaw,2024-06-25,2024-06-01,2024-Q2,f,Monthly
+NSC-10790,Northgate Freight Holdings,Unknown,Yorkshire & North East,SMB,3,Liam Carter,2024-06-24,2024-06-01,2024-Q2,f,Monthly
+NSC-10791,Lowther Freight Ltd,Healthcare,London & South East,Mid-Market,2,Aisha Patel,2024-06-09,2024-06-01,2024-Q2,f,Annual
+NSC-10792,Oakridge Logistics Holdings,Manufacturing,London & South East,SMB,3,Megan Shaw,2024-06-15,2024-06-01,2024-Q2,f,Monthly
+NSC-10793,Ember Housing Group,Unknown,Ireland,SMB,3,Liam Carter,2024-06-22,2024-06-01,2024-Q2,f,Annual
+NSC-10794,Avon Health Holdings,Logistics,London & South East,SMB,3,Ravi Mehta,2024-06-27,2024-06-01,2024-Q2,f,Monthly
+NSC-10795,Avon Systems plc,Retail,London & South East,SMB,3,Owen Price,2024-06-15,2024-06-01,2024-Q2,f,Monthly
+NSC-10796,Cobalt Energy Group,Financial Services,Scotland,Mid-Market,2,Callum Reid,2024-06-23,2024-06-01,2024-Q2,f,Monthly
+NSC-10797,Castlefield Learning LLP,Public Sector,Yorkshire & North East,Mid-Market,2,Hannah Doyle,2024-06-08,2024-06-01,2024-Q2,f,Monthly
+NSC-10798,Beacon Advisory plc,Retail,North West,Enterprise,1,Tom Whitfield,2024-06-30,2024-06-01,2024-Q2,f,Annual
+NSC-10799,Highland Capital Group,Financial Services,London & South East,SMB,3,Ravi Mehta,2024-06-24,2024-06-01,2024-Q2,f,Monthly
+NSC-10800,Falcon Retail Group,Education,South West & Wales,Enterprise,1,Tom Whitfield,2024-06-22,2024-06-01,2024-Q2,f,Annual
+NSC-10801,Northgate Advisory Group,Healthcare,London & South East,SMB,3,Megan Shaw,2024-06-08,2024-06-01,2024-Q2,f,Monthly
+NSC-10802,Ember Consulting plc,Logistics,Ireland,SMB,3,Sophie Turner,2024-06-13,2024-06-01,2024-Q2,f,Annual
+NSC-10803,Pennine Engineering plc,Education,Midlands,SMB,3,Sophie Turner,2024-06-01,2024-06-01,2024-Q2,f,Monthly
+NSC-10804,Lowther Systems Ltd,Manufacturing,London & South East,SMB,3,Liam Carter,2024-06-22,2024-06-01,2024-Q2,f,Annual
+NSC-10805,Holloway Advisory Group,Manufacturing,Yorkshire & North East,Mid-Market,2,Callum Reid,2024-06-20,2024-06-01,2024-Q2,f,Annual
+NSC-10806,Beacon Supplies Ltd,Professional Services,London & South East,SMB,3,Liam Carter,2024-06-03,2024-06-01,2024-Q2,f,Monthly
+NSC-10807,Northgate Distribution Ltd,Professional Services,Scotland,Mid-Market,2,Callum Reid,2024-06-16,2024-06-01,2024-Q2,f,Monthly
+NSC-10808,Redbrick Analytics Group,Public Sector,London & South East,SMB,3,Sophie Turner,2024-06-10,2024-06-01,2024-Q2,f,Monthly
+NSC-10809,Bluebell Advisory Ltd,Manufacturing,Scotland,Mid-Market,2,Aisha Patel,2024-06-05,2024-06-01,2024-Q2,f,Annual
+NSC-10810,Moorland Freight Holdings,Public Sector,London & South East,Mid-Market,2,Unassigned,2024-06-14,2024-06-01,2024-Q2,f,Monthly
+NSC-10811,Avon Care LLP,Education,Yorkshire & North East,SMB,3,Sophie Turner,2024-06-25,2024-06-01,2024-Q2,f,Monthly
+NSC-10812,Wessex Health Ltd,Education,Midlands,SMB,3,Liam Carter,2024-06-11,2024-06-01,2024-Q2,f,Monthly
+NSC-10813,Heathrow Capital Ltd,Retail,London & South East,SMB,3,Liam Carter,2024-06-16,2024-06-01,2024-Q2,f,Annual
+NSC-10814,Castlefield Analytics Group,Unknown,North West,SMB,3,Ravi Mehta,2024-06-28,2024-06-01,2024-Q2,f,Annual
+NSC-10815,Falcon Foods LLP,Logistics,Scotland,Mid-Market,2,Daniel Hughes,2024-06-05,2024-06-01,2024-Q2,f,Annual
+NSC-10816,Heathrow Systems plc,Professional Services,North West,Mid-Market,2,Callum Reid,2024-07-14,2024-07-01,2024-Q3,f,Monthly
+NSC-10817,Holloway Retail plc,Financial Services,North West,Mid-Market,2,Hannah Doyle,2024-07-01,2024-07-01,2024-Q3,f,Monthly
+NSC-10818,Quayside Capital plc,Retail,Midlands,SMB,3,Sophie Turner,2024-07-20,2024-07-01,2024-Q3,f,Monthly
+NSC-10819,Kingsway Medical Ltd,Unknown,Scotland,Enterprise,1,Priya Raman,2024-07-15,2024-07-01,2024-Q3,f,Annual
+NSC-10820,Lantern Logistics Ltd,Financial Services,Midlands,Mid-Market,2,Daniel Hughes,2024-07-30,2024-07-01,2024-Q3,f,Annual
+NSC-10821,Meridian Partners Group,Manufacturing,Ireland,Mid-Market,2,Callum Reid,2024-07-29,2024-07-01,2024-Q3,f,Monthly
+NSC-10822,Quayside Energy LLP,Manufacturing,Yorkshire & North East,Enterprise,1,Priya Raman,2024-07-01,2024-07-01,2024-Q3,f,Annual
+NSC-10823,Riverside Analytics Ltd,Professional Services,Yorkshire & North East,SMB,3,Owen Price,2024-07-05,2024-07-01,2024-Q3,f,Monthly
+NSC-10824,Castlefield Retail plc,Professional Services,Midlands,Mid-Market,2,Hannah Doyle,2024-07-02,2024-07-01,2024-Q3,f,Annual
+NSC-10825,Thames Manufacturing Group,Retail,Yorkshire & North East,Mid-Market,2,Daniel Hughes,2024-07-12,2024-07-01,2024-Q3,f,Annual
+NSC-10826,Orchard Supplies plc,Professional Services,London & South East,Mid-Market,2,Aisha Patel,2024-07-08,2024-07-01,2024-Q3,f,Monthly
+NSC-10827,Calder Energy Group,Public Sector,Midlands,SMB,3,Megan Shaw,2024-07-30,2024-07-01,2024-Q3,f,Monthly
+NSC-10828,Brightwater Freight Ltd,Manufacturing,Scotland,SMB,3,Ravi Mehta,2024-07-04,2024-07-01,2024-Q3,f,Monthly
+NSC-10829,Kingsway Foods plc,Public Sector,South West & Wales,Mid-Market,2,Aisha Patel,2024-07-28,2024-07-01,2024-Q3,f,Annual
+NSC-10830,Severn Engineering LLP,Financial Services,North West,SMB,3,Megan Shaw,2024-07-22,2024-07-01,2024-Q3,f,Monthly
+NSC-10831,Saxon Health Ltd,Retail,South West & Wales,SMB,3,Owen Price,2024-07-19,2024-07-01,2024-Q3,f,Monthly
+NSC-10832,Albion Consulting Group,Education,North West,SMB,3,Megan Shaw,2024-07-26,2024-07-01,2024-Q3,f,Monthly
+NSC-10833,Harbour Health Group,Manufacturing,London & South East,SMB,3,Ravi Mehta,2024-07-17,2024-07-01,2024-Q3,f,Annual
+NSC-10834,Castlefield Analytics Holdings,Healthcare,London & South East,SMB,3,Liam Carter,2024-07-04,2024-07-01,2024-Q3,f,Annual
+NSC-10835,Sterling Energy LLP,Education,London & South East,Mid-Market,2,Callum Reid,2024-07-25,2024-07-01,2024-Q3,f,Monthly
+NSC-10836,Lantern Housing Ltd,Professional Services,Yorkshire & North East,Mid-Market,2,Callum Reid,2024-07-17,2024-07-01,2024-Q3,f,Annual
+NSC-10837,Mersey Consulting Group,Public Sector,Scotland,Mid-Market,2,Daniel Hughes,2024-07-12,2024-07-01,2024-Q3,f,Annual
+NSC-10838,Redbrick Partners plc,Professional Services,London & South East,SMB,3,Liam Carter,2024-07-14,2024-07-01,2024-Q3,f,Monthly
+NSC-10839,Moorland Health Ltd,Education,Ireland,Mid-Market,2,Daniel Hughes,2024-07-11,2024-07-01,2024-Q3,f,Monthly
+NSC-10840,Avon Health Group,Professional Services,London & South East,SMB,3,Liam Carter,2024-07-09,2024-07-01,2024-Q3,f,Monthly
+NSC-10841,Albion Freight Ltd,Healthcare,London & South East,SMB,3,Ravi Mehta,2024-07-06,2024-07-01,2024-Q3,f,Monthly
+NSC-10842,Oakridge Partners Ltd,Logistics,South West & Wales,SMB,3,Liam Carter,2024-08-29,2024-08-01,2024-Q3,f,Monthly
+NSC-10843,Mersey Engineering Holdings,Professional Services,London & South East,SMB,3,Sophie Turner,2024-08-25,2024-08-01,2024-Q3,f,Annual
+NSC-10844,Orchard Learning Holdings,Professional Services,Midlands,Enterprise,1,Priya Raman,2024-08-12,2024-08-01,2024-Q3,f,Annual
+NSC-10845,Albion Engineering Ltd,Manufacturing,London & South East,SMB,3,Ravi Mehta,2024-08-28,2024-08-01,2024-Q3,f,Annual
+NSC-10846,Oakridge Foods Holdings,Education,Midlands,SMB,3,Owen Price,2024-08-15,2024-08-01,2024-Q3,f,Monthly
+NSC-10847,Pennine Partners Group,Retail,London & South East,Enterprise,1,Priya Raman,2024-08-29,2024-08-01,2024-Q3,f,Annual
+NSC-10848,Wessex Retail LLP,Retail,Midlands,SMB,3,Liam Carter,2024-08-15,2024-08-01,2024-Q3,f,Annual
+NSC-10849,Granite Analytics plc,Manufacturing,London & South East,SMB,3,Unassigned,2024-08-09,2024-08-01,2024-Q3,f,Monthly
+NSC-10850,Falcon Energy plc,Financial Services,London & South East,Mid-Market,2,Hannah Doyle,2024-08-21,2024-08-01,2024-Q3,f,Annual
+NSC-10851,Castlefield Systems Ltd,Healthcare,London & South East,Mid-Market,2,Callum Reid,2024-08-06,2024-08-01,2024-Q3,f,Annual
+NSC-10852,Highland Foods Group,Retail,London & South East,SMB,3,Liam Carter,2024-08-10,2024-08-01,2024-Q3,f,Monthly
+NSC-10853,Quayside Systems Holdings,Public Sector,Yorkshire & North East,SMB,3,Ravi Mehta,2024-08-31,2024-08-01,2024-Q3,f,Monthly
+NSC-10854,Lantern Learning plc,Healthcare,London & South East,Mid-Market,2,Hannah Doyle,2024-08-31,2024-08-01,2024-Q3,f,Annual
+NSC-10855,Albion Distribution LLP,Financial Services,Midlands,SMB,3,Liam Carter,2024-08-26,2024-08-01,2024-Q3,f,Annual
+NSC-10856,Ember Logistics Holdings,Professional Services,North West,Mid-Market,2,Callum Reid,2024-08-13,2024-08-01,2024-Q3,f,Annual
+NSC-10857,Westmoor Foods Ltd,Logistics,Yorkshire & North East,SMB,3,Owen Price,2024-08-20,2024-08-01,2024-Q3,f,Monthly
+NSC-10858,Moorland Freight LLP,Public Sector,London & South East,SMB,3,Megan Shaw,2024-08-05,2024-08-01,2024-Q3,f,Monthly
+NSC-10859,Meridian Engineering LLP,Logistics,London & South East,SMB,3,Ravi Mehta,2024-08-21,2024-08-01,2024-Q3,f,Monthly
+NSC-10860,Meridian Partners Ltd,Healthcare,London & South East,SMB,3,Owen Price,2024-08-26,2024-08-01,2024-Q3,f,Monthly
+NSC-10861,Mersey Freight Holdings,Financial Services,London & South East,SMB,3,Liam Carter,2024-08-21,2024-08-01,2024-Q3,f,Monthly
+NSC-10862,Northgate Systems Holdings,Financial Services,London & South East,Mid-Market,2,Callum Reid,2024-08-24,2024-08-01,2024-Q3,f,Annual
+NSC-10863,Lowther Care plc,Retail,London & South East,SMB,3,Ravi Mehta,2024-08-29,2024-08-01,2024-Q3,f,Annual
+NSC-10864,Northgate Health Group,Logistics,North West,SMB,3,Sophie Turner,2024-09-25,2024-09-01,2024-Q3,f,Monthly
+NSC-10865,Brightwater Systems Ltd,Manufacturing,London & South East,Mid-Market,2,Callum Reid,2024-09-22,2024-09-01,2024-Q3,f,Annual
+NSC-10866,Harbour Care Group,Public Sector,London & South East,SMB,3,Ravi Mehta,2024-09-04,2024-09-01,2024-Q3,f,Monthly
+NSC-10867,Pennine Capital Ltd,Retail,Scotland,Mid-Market,2,Aisha Patel,2024-09-13,2024-09-01,2024-Q3,f,Annual
+NSC-10868,Castlefield Foods Group,Professional Services,Yorkshire & North East,Mid-Market,2,Hannah Doyle,2024-09-29,2024-09-01,2024-Q3,f,Annual
+NSC-10869,Moorland Advisory LLP,Professional Services,Midlands,SMB,3,Liam Carter,2024-09-19,2024-09-01,2024-Q3,f,Monthly
+NSC-10870,Severn Care Ltd,Financial Services,North West,SMB,3,Owen Price,2024-09-21,2024-09-01,2024-Q3,f,Annual
+NSC-10871,Highland Systems LLP,Professional Services,Midlands,SMB,3,Megan Shaw,2024-09-02,2024-09-01,2024-Q3,f,Annual
+NSC-10872,Castlefield Analytics Ltd,Public Sector,Midlands,SMB,3,Megan Shaw,2024-09-15,2024-09-01,2024-Q3,f,Monthly
+NSC-10873,Clyde Foods Ltd,Professional Services,North West,SMB,3,Ravi Mehta,2024-09-21,2024-09-01,2024-Q3,f,Monthly
+NSC-10874,Harbour Learning Ltd,Financial Services,London & South East,SMB,3,Megan Shaw,2024-09-16,2024-09-01,2024-Q3,f,Monthly
+NSC-10875,Castlefield Medical Ltd,Retail,Scotland,Mid-Market,2,Hannah Doyle,2024-09-11,2024-09-01,2024-Q3,f,Annual
+NSC-10876,Sterling Distribution Ltd,Retail,North West,Mid-Market,2,Aisha Patel,2024-09-09,2024-09-01,2024-Q3,f,Annual
+NSC-10877,Oakridge Advisory plc,Professional Services,Midlands,SMB,3,Megan Shaw,2024-09-11,2024-09-01,2024-Q3,f,Monthly
+NSC-10878,Tamar Energy plc,Professional Services,London & South East,SMB,3,Ravi Mehta,2024-09-06,2024-09-01,2024-Q3,f,Monthly
+NSC-10879,Mersey Housing Ltd,Manufacturing,London & South East,Mid-Market,2,Callum Reid,2024-09-12,2024-09-01,2024-Q3,f,Annual
+NSC-10880,Albion Health Holdings,Logistics,London & South East,SMB,3,Owen Price,2024-09-27,2024-09-01,2024-Q3,f,Monthly
+NSC-10881,Moorland Retail Ltd,Retail,London & South East,SMB,3,Ravi Mehta,2024-09-29,2024-09-01,2024-Q3,f,Monthly
+NSC-10882,Granite Energy Holdings,Manufacturing,London & South East,SMB,3,Liam Carter,2024-09-22,2024-09-01,2024-Q3,f,Monthly
+NSC-10883,Lantern Manufacturing Holdings,Healthcare,London & South East,SMB,3,Ravi Mehta,2024-09-01,2024-09-01,2024-Q3,f,Monthly
+NSC-10884,Calder Partners Ltd,Healthcare,South West & Wales,SMB,3,Megan Shaw,2024-09-25,2024-09-01,2024-Q3,f,Monthly
+NSC-10885,Thames Care Ltd,Healthcare,Midlands,SMB,3,Owen Price,2024-09-23,2024-09-01,2024-Q3,f,Monthly
+NSC-10886,Lowther Analytics LLP,Manufacturing,Midlands,SMB,3,Owen Price,2024-09-04,2024-09-01,2024-Q3,f,Monthly
+NSC-10887,Moorland Capital Holdings,Healthcare,London & South East,Enterprise,1,Grace Okafor,2024-09-16,2024-09-01,2024-Q3,f,Annual
+NSC-10888,Clyde Manufacturing LLP,Financial Services,North West,SMB,3,Liam Carter,2024-09-12,2024-09-01,2024-Q3,f,Monthly
+NSC-10889,Calder Systems Ltd,Logistics,Ireland,Enterprise,1,Tom Whitfield,2024-09-22,2024-09-01,2024-Q3,f,Annual
+NSC-10890,Albion Medical Ltd,Manufacturing,Yorkshire & North East,Mid-Market,2,Hannah Doyle,2024-09-11,2024-09-01,2024-Q3,f,Annual
+NSC-10891,Heathrow Systems Holdings,Healthcare,South West & Wales,Mid-Market,2,Hannah Doyle,2024-09-22,2024-09-01,2024-Q3,f,Monthly
+NSC-10892,Saxon Supplies LLP,Education,Yorkshire & North East,Mid-Market,2,Daniel Hughes,2024-09-23,2024-09-01,2024-Q3,f,Monthly
+NSC-10893,Avon Analytics Ltd,Healthcare,Midlands,Mid-Market,2,Callum Reid,2024-10-02,2024-10-01,2024-Q4,f,Annual
+NSC-10894,Quayside Advisory Group,Financial Services,London & South East,SMB,3,Ravi Mehta,2024-10-31,2024-10-01,2024-Q4,f,Monthly
+NSC-10895,Westmoor Learning Ltd,Manufacturing,Yorkshire & North East,SMB,3,Liam Carter,2024-10-18,2024-10-01,2024-Q4,f,Monthly
+NSC-10896,Heathrow Health Ltd,Healthcare,Ireland,Enterprise,1,Priya Raman,2024-10-24,2024-10-01,2024-Q4,f,Annual
+NSC-10897,Calder Care Ltd,Professional Services,London & South East,Enterprise,1,Grace Okafor,2024-10-21,2024-10-01,2024-Q4,f,Annual
+NSC-10898,Clyde Engineering Ltd,Healthcare,Yorkshire & North East,SMB,3,Ravi Mehta,2024-10-30,2024-10-01,2024-Q4,f,Monthly
+NSC-10899,Harbour Foods Ltd,Education,Scotland,SMB,3,Liam Carter,2024-10-31,2024-10-01,2024-Q4,f,Monthly
+NSC-10900,Ashford Logistics LLP,Public Sector,South West & Wales,SMB,3,Megan Shaw,2024-10-04,2024-10-01,2024-Q4,f,Monthly
+NSC-10901,Heathrow Advisory Group,Logistics,North West,SMB,3,Ravi Mehta,2024-10-26,2024-10-01,2024-Q4,f,Monthly
+NSC-10902,Northgate Analytics Ltd,Professional Services,London & South East,Enterprise,1,Grace Okafor,2024-10-17,2024-10-01,2024-Q4,f,Annual
+NSC-10903,Quayside Distribution Ltd,Retail,North West,Mid-Market,2,Daniel Hughes,2024-10-02,2024-10-01,2024-Q4,f,Annual
+NSC-10904,Thames Systems Ltd,Education,London & South East,SMB,3,Ravi Mehta,2024-10-18,2024-10-01,2024-Q4,f,Monthly
+NSC-10905,Severn Freight Ltd,Healthcare,London & South East,SMB,3,Liam Carter,2024-10-24,2024-10-01,2024-Q4,f,Monthly
+NSC-10906,Sterling Freight Group,Public Sector,South West & Wales,Enterprise,1,Tom Whitfield,2024-10-23,2024-10-01,2024-Q4,f,Annual
+NSC-10907,Holloway Learning LLP,Retail,London & South East,SMB,3,Liam Carter,2024-10-13,2024-10-01,2024-Q4,f,Monthly
+NSC-10908,Cobalt Supplies Group,Retail,London & South East,SMB,3,Megan Shaw,2024-10-09,2024-10-01,2024-Q4,f,Annual
+NSC-10909,Saxon Medical LLP,Professional Services,Scotland,SMB,3,Ravi Mehta,2024-10-15,2024-10-01,2024-Q4,f,Annual
+NSC-10910,Peak Supplies LLP,Manufacturing,Yorkshire & North East,SMB,3,Sophie Turner,2024-10-01,2024-10-01,2024-Q4,f,Monthly
+NSC-10911,Redbrick Analytics Ltd,Education,Yorkshire & North East,SMB,3,Owen Price,2024-10-18,2024-10-01,2024-Q4,f,Annual
+NSC-10912,Oakridge Advisory Ltd,Retail,South West & Wales,Enterprise,1,Grace Okafor,2024-10-21,2024-10-01,2024-Q4,f,Annual
+NSC-10913,Lantern Systems Holdings,Logistics,Scotland,Enterprise,1,Priya Raman,2024-10-21,2024-10-01,2024-Q4,f,Annual
+NSC-10914,Kingsway Manufacturing Holdings,Logistics,London & South East,SMB,3,Ravi Mehta,2024-10-23,2024-10-01,2024-Q4,f,Annual
+NSC-10915,Clyde Distribution LLP,Retail,North West,SMB,3,Ravi Mehta,2024-10-02,2024-10-01,2024-Q4,f,Annual
+NSC-10916,Thames Manufacturing plc,Retail,London & South East,SMB,3,Sophie Turner,2024-10-05,2024-10-01,2024-Q4,f,Annual
+NSC-10917,Mersey Housing plc,Retail,London & South East,SMB,3,Ravi Mehta,2024-10-31,2024-10-01,2024-Q4,f,Monthly
+NSC-10918,Falcon Capital Group,Financial Services,Midlands,SMB,3,Liam Carter,2024-10-17,2024-10-01,2024-Q4,f,Monthly
+NSC-10919,Northgate Manufacturing Holdings,Retail,Scotland,Mid-Market,2,Callum Reid,2024-10-09,2024-10-01,2024-Q4,f,Monthly
+NSC-10920,Peak Energy Group,Healthcare,South West & Wales,SMB,3,Megan Shaw,2024-10-08,2024-10-01,2024-Q4,f,Monthly
+NSC-10921,Moorland Manufacturing plc,Manufacturing,London & South East,SMB,3,Owen Price,2024-11-26,2024-11-01,2024-Q4,f,Monthly
+NSC-10922,Granite Partners Ltd,Public Sector,Yorkshire & North East,Mid-Market,2,Callum Reid,2024-11-27,2024-11-01,2024-Q4,f,Monthly
+NSC-10923,Ironbridge Capital Group,Financial Services,North West,SMB,3,Liam Carter,2024-11-29,2024-11-01,2024-Q4,f,Annual
+NSC-10924,Sterling Consulting Ltd,Logistics,Yorkshire & North East,SMB,3,Liam Carter,2024-11-20,2024-11-01,2024-Q4,f,Annual
+NSC-10925,Castlefield Care Ltd,Manufacturing,Scotland,Mid-Market,2,Callum Reid,2024-11-10,2024-11-01,2024-Q4,f,Monthly
+NSC-10926,Clyde Medical Ltd,Financial Services,London & South East,Mid-Market,2,Hannah Doyle,2024-11-17,2024-11-01,2024-Q4,f,Annual
+NSC-10927,Lowther Supplies Group,Financial Services,Midlands,Mid-Market,2,Hannah Doyle,2024-11-07,2024-11-01,2024-Q4,f,Annual
+NSC-10928,Clyde Manufacturing Ltd,Education,London & South East,Mid-Market,2,Aisha Patel,2024-11-01,2024-11-01,2024-Q4,f,Annual
+NSC-10929,Ember Distribution Ltd,Public Sector,North West,Mid-Market,2,Unassigned,2024-11-16,2024-11-01,2024-Q4,f,Annual
+NSC-10930,Brightwater Systems LLP,Professional Services,North West,Mid-Market,2,Daniel Hughes,2024-11-28,2024-11-01,2024-Q4,f,Annual
+NSC-10931,Ember Freight Ltd,Professional Services,Ireland,SMB,3,Owen Price,2024-11-02,2024-11-01,2024-Q4,f,Monthly
+NSC-10932,Wessex Medical plc,Healthcare,London & South East,Enterprise,1,Tom Whitfield,2024-11-21,2024-11-01,2024-Q4,f,Annual
+NSC-10933,Pennine Housing LLP,Retail,Scotland,SMB,3,Owen Price,2024-11-05,2024-11-01,2024-Q4,f,Monthly
+NSC-10934,Clyde Health Ltd,Logistics,North West,Mid-Market,2,Aisha Patel,2024-11-13,2024-11-01,2024-Q4,f,Monthly
+NSC-10935,Northgate Medical Ltd,Education,London & South East,SMB,3,Owen Price,2024-11-05,2024-11-01,2024-Q4,f,Monthly
+NSC-10936,Northgate Learning Holdings,Public Sector,Ireland,SMB,3,Liam Carter,2024-11-01,2024-11-01,2024-Q4,f,Monthly
+NSC-10937,Beacon Health Group,Retail,South West & Wales,SMB,3,Liam Carter,2024-11-12,2024-11-01,2024-Q4,f,Annual
+NSC-10938,Beacon Systems Group,Public Sector,South West & Wales,SMB,3,Megan Shaw,2024-11-30,2024-11-01,2024-Q4,f,Monthly
+NSC-10939,Castlefield Foods LLP,Education,London & South East,SMB,3,Owen Price,2024-11-26,2024-11-01,2024-Q4,f,Monthly
+NSC-10940,Oakridge Advisory Holdings,Logistics,North West,SMB,3,Sophie Turner,2024-11-03,2024-11-01,2024-Q4,f,Annual
+NSC-10941,Harbour Medical Holdings,Professional Services,London & South East,Mid-Market,2,Daniel Hughes,2024-11-07,2024-11-01,2024-Q4,f,Annual
+NSC-10942,Ironbridge Health plc,Manufacturing,Midlands,SMB,3,Sophie Turner,2024-11-21,2024-11-01,2024-Q4,f,Monthly
+NSC-10943,Ironbridge Retail plc,Retail,Ireland,SMB,3,Megan Shaw,2024-11-21,2024-11-01,2024-Q4,f,Monthly
+NSC-10944,Sterling Health plc,Manufacturing,London & South East,SMB,3,Unassigned,2024-11-10,2024-11-01,2024-Q4,f,Monthly
+NSC-10945,Heathrow Health LLP,Logistics,Scotland,Mid-Market,2,Daniel Hughes,2024-11-24,2024-11-01,2024-Q4,f,Annual
+NSC-10946,Albion Distribution Ltd,Logistics,Ireland,SMB,3,Megan Shaw,2024-11-17,2024-11-01,2024-Q4,f,Annual
+NSC-10947,Tamar Capital Group,Education,Midlands,SMB,3,Unassigned,2024-11-21,2024-11-01,2024-Q4,f,Monthly
+NSC-10948,Ashford Energy plc,Financial Services,Midlands,Mid-Market,2,Aisha Patel,2024-11-30,2024-11-01,2024-Q4,f,Annual
+NSC-10949,Saxon Foods LLP,Manufacturing,South West & Wales,Mid-Market,2,Daniel Hughes,2024-11-02,2024-11-01,2024-Q4,f,Annual
+NSC-10950,Granite Logistics plc,Financial Services,London & South East,Mid-Market,2,Callum Reid,2024-11-17,2024-11-01,2024-Q4,f,Annual
+NSC-10951,Bluebell Freight Group,Retail,London & South East,SMB,3,Liam Carter,2024-11-28,2024-11-01,2024-Q4,f,Monthly
+NSC-10952,Castlefield Medical plc,Manufacturing,North West,SMB,3,Liam Carter,2024-11-29,2024-11-01,2024-Q4,f,Monthly
+NSC-10953,Granite Analytics Ltd,Professional Services,North West,Mid-Market,2,Daniel Hughes,2024-11-25,2024-11-01,2024-Q4,f,Monthly
+NSC-10954,Tamar Supplies Ltd,Financial Services,Ireland,SMB,3,Ravi Mehta,2024-11-22,2024-11-01,2024-Q4,f,Annual
+NSC-10955,Lantern Housing Holdings,Logistics,Scotland,SMB,3,Sophie Turner,2024-11-14,2024-11-01,2024-Q4,f,Monthly
+NSC-10956,Pennine Energy LLP,Professional Services,Scotland,Mid-Market,2,Hannah Doyle,2024-11-16,2024-11-01,2024-Q4,f,Annual
+NSC-10957,Peak Manufacturing Ltd,Logistics,South West & Wales,SMB,3,Liam Carter,2024-11-29,2024-11-01,2024-Q4,f,Annual
+NSC-10958,Cobalt Housing Group,Professional Services,London & South East,Enterprise,1,Tom Whitfield,2024-11-26,2024-11-01,2024-Q4,f,Annual
+NSC-10959,Westmoor Retail plc,Education,London & South East,SMB,3,Liam Carter,2024-12-10,2024-12-01,2024-Q4,f,Annual
+NSC-10960,Avon Foods Ltd,Professional Services,London & South East,Mid-Market,2,Daniel Hughes,2024-12-21,2024-12-01,2024-Q4,f,Annual
+NSC-10961,Castlefield Health plc,Healthcare,London & South East,SMB,3,Sophie Turner,2024-12-29,2024-12-01,2024-Q4,f,Monthly
+NSC-10962,Saxon Medical Ltd,Healthcare,London & South East,Mid-Market,2,Hannah Doyle,2024-12-19,2024-12-01,2024-Q4,f,Monthly
+NSC-10963,Westmoor Medical Ltd,Education,Yorkshire & North East,Mid-Market,2,Aisha Patel,2024-12-22,2024-12-01,2024-Q4,f,Annual
+NSC-10964,Thames Supplies plc,Logistics,Midlands,SMB,3,Megan Shaw,2024-12-18,2024-12-01,2024-Q4,f,Monthly
+NSC-10965,Highland Capital Ltd,Public Sector,London & South East,SMB,3,Owen Price,2024-12-27,2024-12-01,2024-Q4,f,Annual
+NSC-10966,Calder Learning plc,Professional Services,London & South East,SMB,3,Sophie Turner,2024-12-27,2024-12-01,2024-Q4,f,Monthly
+NSC-10967,Beacon Manufacturing plc,Logistics,London & South East,SMB,3,Megan Shaw,2024-12-16,2024-12-01,2024-Q4,f,Monthly
+NSC-10968,Ember Care Ltd,Public Sector,Yorkshire & North East,SMB,3,Sophie Turner,2024-12-21,2024-12-01,2024-Q4,f,Monthly
+NSC-10969,Ironbridge Health Ltd,Logistics,London & South East,Mid-Market,2,Hannah Doyle,2024-12-30,2024-12-01,2024-Q4,f,Monthly
+NSC-10970,Saxon Health Group,Retail,Midlands,Mid-Market,2,Daniel Hughes,2024-12-31,2024-12-01,2024-Q4,f,Monthly
+NSC-10971,Ashford Freight plc,Retail,North West,Enterprise,1,Tom Whitfield,2024-12-17,2024-12-01,2024-Q4,f,Annual
+NSC-10972,Lowther Learning Group,Logistics,London & South East,SMB,3,Megan Shaw,2024-12-08,2024-12-01,2024-Q4,f,Monthly
+NSC-10973,Orchard Partners Ltd,Logistics,Scotland,SMB,3,Liam Carter,2024-12-13,2024-12-01,2024-Q4,f,Monthly
+NSC-10974,Severn Capital Holdings,Professional Services,Scotland,SMB,3,Megan Shaw,2024-12-16,2024-12-01,2024-Q4,f,Annual
+NSC-10975,Lantern Housing LLP,Retail,London & South East,Mid-Market,2,Aisha Patel,2024-12-30,2024-12-01,2024-Q4,f,Monthly
+NSC-10976,Ironbridge Housing plc,Public Sector,Ireland,Mid-Market,2,Hannah Doyle,2025-01-29,2025-01-01,2025-Q1,f,Annual
+NSC-10977,Heathrow Analytics Ltd,Manufacturing,Scotland,SMB,3,Ravi Mehta,2025-01-30,2025-01-01,2025-Q1,f,Monthly
+NSC-10978,Granite Foods LLP,Education,Yorkshire & North East,Mid-Market,2,Aisha Patel,2025-01-17,2025-01-01,2025-Q1,f,Annual
+NSC-10979,Falcon Distribution Ltd,Financial Services,Yorkshire & North East,Enterprise,1,Grace Okafor,2025-01-10,2025-01-01,2025-Q1,f,Annual
+NSC-10980,Granite Health Holdings,Education,London & South East,SMB,3,Sophie Turner,2025-01-21,2025-01-01,2025-Q1,f,Annual
+NSC-10981,Kingsway Logistics plc,Education,North West,SMB,3,Owen Price,2025-01-12,2025-01-01,2025-Q1,f,Monthly
+NSC-10982,Ashford Systems Ltd,Retail,London & South East,SMB,3,Sophie Turner,2025-01-16,2025-01-01,2025-Q1,f,Monthly
+NSC-10983,Meridian Health plc,Professional Services,Ireland,SMB,3,Owen Price,2025-01-20,2025-01-01,2025-Q1,f,Monthly
+NSC-10984,Peak Learning Group,Retail,London & South East,Mid-Market,2,Aisha Patel,2025-01-12,2025-01-01,2025-Q1,f,Monthly
+NSC-10985,Avon Systems Group,Professional Services,Yorkshire & North East,SMB,3,Sophie Turner,2025-01-19,2025-01-01,2025-Q1,f,Annual
+NSC-10986,Oakridge Foods plc,Manufacturing,London & South East,SMB,3,Megan Shaw,2025-01-03,2025-01-01,2025-Q1,f,Annual
+NSC-10987,Bluebell Retail Group,Education,London & South East,SMB,3,Megan Shaw,2025-01-05,2025-01-01,2025-Q1,f,Annual
+NSC-10989,Brightwater Logistics Ltd,Manufacturing,Midlands,SMB,3,Megan Shaw,2025-01-08,2025-01-01,2025-Q1,f,Monthly
+NSC-10990,Granite Medical plc,Logistics,Midlands,Mid-Market,2,Hannah Doyle,2025-01-17,2025-01-01,2025-Q1,f,Annual
+NSC-10991,Lowther Distribution plc,Healthcare,London & South East,Mid-Market,2,Aisha Patel,2025-01-16,2025-01-01,2025-Q1,f,Annual
+NSC-10992,Harbour Systems Holdings,Healthcare,North West,Mid-Market,2,Callum Reid,2025-01-11,2025-01-01,2025-Q1,f,Monthly
+NSC-10993,Ember Analytics Holdings,Public Sector,London & South East,Mid-Market,2,Callum Reid,2025-01-23,2025-01-01,2025-Q1,f,Annual
+NSC-10994,Fenwick Capital LLP,Retail,Midlands,SMB,3,Sophie Turner,2025-01-30,2025-01-01,2025-Q1,f,Annual
+NSC-10995,Cobalt Retail LLP,Retail,Midlands,Enterprise,1,Tom Whitfield,2025-01-07,2025-01-01,2025-Q1,f,Monthly
+NSC-10996,Sterling Freight plc,Manufacturing,North West,Mid-Market,2,Callum Reid,2025-01-30,2025-01-01,2025-Q1,f,Annual
+NSC-10997,Sterling Supplies plc,Retail,Ireland,SMB,3,Owen Price,2025-01-02,2025-01-01,2025-Q1,f,Monthly
+NSC-10998,Avon Capital Ltd,Logistics,Scotland,SMB,3,Sophie Turner,2025-01-27,2025-01-01,2025-Q1,f,Monthly
+NSC-10999,Kingsway Freight LLP,Manufacturing,Scotland,Mid-Market,2,Aisha Patel,2025-01-09,2025-01-01,2025-Q1,f,Monthly
+NSC-11000,Ember Capital Ltd,Logistics,North West,Mid-Market,2,Daniel Hughes,2025-01-05,2025-01-01,2025-Q1,f,Monthly
+NSC-11001,Wessex Capital Ltd,Retail,Midlands,Mid-Market,2,Callum Reid,2025-01-12,2025-01-01,2025-Q1,f,Monthly
+NSC-11002,Ashford Foods LLP,Healthcare,North West,SMB,3,Ravi Mehta,2025-01-19,2025-01-01,2025-Q1,f,Annual
+NSC-11003,Holloway Housing LLP,Professional Services,Ireland,Mid-Market,2,Callum Reid,2025-01-04,2025-01-01,2025-Q1,f,Annual
+NSC-11004,Thames Distribution Group,Logistics,North West,Mid-Market,2,Aisha Patel,2025-01-08,2025-01-01,2025-Q1,f,Monthly
+NSC-11005,Wessex Supplies LLP,Manufacturing,London & South East,Mid-Market,2,Hannah Doyle,2025-01-18,2025-01-01,2025-Q1,f,Annual
+NSC-11006,Heathrow Housing Ltd,Education,Midlands,SMB,3,Ravi Mehta,2025-01-12,2025-01-01,2025-Q1,f,Annual
+NSC-11007,Ashford Distribution Ltd,Retail,Scotland,Mid-Market,2,Callum Reid,2025-01-17,2025-01-01,2025-Q1,f,Annual
+NSC-11008,Harbour Distribution Group,Professional Services,South West & Wales,Mid-Market,2,Aisha Patel,2025-01-22,2025-01-01,2025-Q1,f,Annual
+NSC-11009,Albion Medical Holdings,Professional Services,Yorkshire & North East,SMB,3,Megan Shaw,2025-01-15,2025-01-01,2025-Q1,f,Monthly
+NSC-11010,Orchard Learning Ltd,Healthcare,South West & Wales,Mid-Market,2,Callum Reid,2025-01-08,2025-01-01,2025-Q1,f,Annual
+NSC-11011,Cobalt Distribution Holdings,Public Sector,London & South East,SMB,3,Owen Price,2025-01-14,2025-01-01,2025-Q1,f,Monthly
+NSC-11012,Heathrow Distribution Group,Financial Services,London & South East,SMB,3,Ravi Mehta,2025-01-16,2025-01-01,2025-Q1,f,Annual
+NSC-11013,Clyde Care Holdings,Retail,Midlands,Enterprise,1,Priya Raman,2025-01-24,2025-01-01,2025-Q1,f,Annual
+NSC-11014,Clyde Analytics LLP,Manufacturing,London & South East,SMB,3,Megan Shaw,2025-01-22,2025-01-01,2025-Q1,f,Monthly
+NSC-11015,Pennine Systems Holdings,Manufacturing,North West,Enterprise,1,Grace Okafor,2025-01-18,2025-01-01,2025-Q1,f,Annual
+NSC-11016,Falcon Housing plc,Professional Services,Scotland,SMB,3,Owen Price,2025-01-27,2025-01-01,2025-Q1,f,Annual
+NSC-11017,Quayside Medical Ltd,Manufacturing,London & South East,Mid-Market,2,Daniel Hughes,2025-01-13,2025-01-01,2025-Q1,f,Monthly
+NSC-11018,Oakridge Foods Group,Education,Yorkshire & North East,SMB,3,Owen Price,2025-02-12,2025-02-01,2025-Q1,f,Annual
+NSC-11019,Highland Engineering Ltd,Education,Ireland,Mid-Market,2,Hannah Doyle,2025-02-23,2025-02-01,2025-Q1,f,Annual
+NSC-11020,Thames Care LLP,Unknown,London & South East,Mid-Market,2,Aisha Patel,2025-02-07,2025-02-01,2025-Q1,f,Annual
+NSC-11021,Heathrow Advisory Ltd,Manufacturing,North West,Mid-Market,2,Daniel Hughes,2025-02-18,2025-02-01,2025-Q1,f,Monthly
+NSC-11022,Bluebell Medical Group,Logistics,Midlands,Mid-Market,2,Daniel Hughes,2025-02-24,2025-02-01,2025-Q1,f,Annual
+NSC-11023,Wessex Engineering Ltd,Manufacturing,London & South East,Mid-Market,2,Aisha Patel,2025-02-24,2025-02-01,2025-Q1,f,Monthly
+NSC-11024,Calder Health LLP,Retail,London & South East,SMB,3,Megan Shaw,2025-02-22,2025-02-01,2025-Q1,f,Monthly
+NSC-11025,Holloway Consulting Group,Manufacturing,North West,SMB,3,Sophie Turner,2025-02-24,2025-02-01,2025-Q1,f,Annual
+NSC-11026,Westmoor Housing LLP,Manufacturing,London & South East,SMB,3,Liam Carter,2025-02-28,2025-02-01,2025-Q1,f,Monthly
+NSC-11027,Beacon Partners plc,Financial Services,London & South East,Mid-Market,2,Aisha Patel,2025-02-02,2025-02-01,2025-Q1,f,Monthly
+NSC-11028,Ironbridge Care LLP,Retail,Yorkshire & North East,SMB,3,Ravi Mehta,2025-02-05,2025-02-01,2025-Q1,f,Monthly
+NSC-11029,Calder Medical LLP,Public Sector,London & South East,SMB,3,Ravi Mehta,2025-02-14,2025-02-01,2025-Q1,f,Annual
+NSC-11030,Mersey Advisory Ltd,Retail,London & South East,SMB,3,Sophie Turner,2025-02-03,2025-02-01,2025-Q1,f,Annual
+NSC-11031,Oakridge Logistics Group,Healthcare,North West,Mid-Market,2,Callum Reid,2025-02-06,2025-02-01,2025-Q1,f,Annual
+NSC-11032,Fenwick Analytics plc,Professional Services,London & South East,Mid-Market,2,Daniel Hughes,2025-02-17,2025-02-01,2025-Q1,f,Annual
+NSC-11033,Brightwater Supplies Ltd,Retail,North West,SMB,3,Liam Carter,2025-02-13,2025-02-01,2025-Q1,f,Monthly
+NSC-11034,Castlefield Freight Ltd,Professional Services,London & South East,SMB,3,Ravi Mehta,2025-02-06,2025-02-01,2025-Q1,f,Monthly
+NSC-11035,Severn Logistics Ltd,Public Sector,North West,SMB,3,Sophie Turner,2025-02-11,2025-02-01,2025-Q1,f,Monthly
+NSC-11036,Granite Analytics Holdings,Education,London & South East,SMB,3,Ravi Mehta,2025-02-06,2025-02-01,2025-Q1,f,Annual
+NSC-11037,Ashford Learning Ltd,Retail,South West & Wales,SMB,3,Ravi Mehta,2025-02-10,2025-02-01,2025-Q1,f,Monthly
+NSC-11038,Oakridge Housing LLP,Healthcare,London & South East,Mid-Market,2,Aisha Patel,2025-02-25,2025-02-01,2025-Q1,f,Annual
+NSC-11039,Meridian Logistics Ltd,Logistics,London & South East,SMB,3,Liam Carter,2025-02-17,2025-02-01,2025-Q1,f,Monthly
+NSC-11040,Orchard Capital LLP,Healthcare,London & South East,SMB,3,Owen Price,2025-02-22,2025-02-01,2025-Q1,f,Monthly
+NSC-11041,Ashford Consulting Ltd,Professional Services,Yorkshire & North East,Mid-Market,2,Daniel Hughes,2025-02-11,2025-02-01,2025-Q1,f,Monthly
+NSC-11042,Sterling Medical Ltd,Healthcare,North West,SMB,3,Ravi Mehta,2025-02-14,2025-02-01,2025-Q1,f,Monthly
+NSC-11043,Ashford Medical Ltd,Retail,Scotland,SMB,3,Sophie Turner,2025-02-26,2025-02-01,2025-Q1,f,Monthly
+NSC-11044,Castlefield Supplies Holdings,Logistics,Midlands,SMB,3,Liam Carter,2025-03-11,2025-03-01,2025-Q1,f,Monthly
+NSC-11045,Quayside Energy Group,Retail,London & South East,SMB,3,Sophie Turner,2025-03-09,2025-03-01,2025-Q1,f,Monthly
+NSC-11046,Heathrow Medical LLP,Professional Services,Scotland,Enterprise,1,Tom Whitfield,2025-03-04,2025-03-01,2025-Q1,f,Annual
+NSC-11047,Ember Partners LLP,Logistics,Ireland,SMB,3,Megan Shaw,2025-03-04,2025-03-01,2025-Q1,f,Annual
+NSC-11048,Beacon Retail Ltd,Professional Services,Yorkshire & North East,Mid-Market,2,Daniel Hughes,2025-03-21,2025-03-01,2025-Q1,f,Annual
+NSC-11049,Lantern Foods plc,Unknown,London & South East,Enterprise,1,Tom Whitfield,2025-03-21,2025-03-01,2025-Q1,f,Annual
+NSC-11050,Tamar Medical Ltd,Logistics,London & South East,SMB,3,Liam Carter,2025-03-05,2025-03-01,2025-Q1,f,Monthly
+NSC-11051,Orchard Medical plc,Retail,London & South East,Enterprise,1,Grace Okafor,2025-03-04,2025-03-01,2025-Q1,f,Annual
+NSC-11052,Quayside Partners Ltd,Education,Ireland,SMB,3,Sophie Turner,2025-03-17,2025-03-01,2025-Q1,f,Annual
+NSC-11053,Beacon Housing Holdings,Retail,Yorkshire & North East,SMB,3,Ravi Mehta,2025-03-18,2025-03-01,2025-Q1,f,Annual
+NSC-11054,Albion Health Group,Manufacturing,Scotland,Mid-Market,2,Hannah Doyle,2025-03-28,2025-03-01,2025-Q1,f,Annual
+NSC-11055,Oakridge Housing Ltd,Logistics,North West,Mid-Market,2,Unassigned,2025-03-12,2025-03-01,2025-Q1,f,Annual
+NSC-11056,Saxon Energy plc,Retail,Scotland,Mid-Market,2,Daniel Hughes,2025-03-14,2025-03-01,2025-Q1,f,Monthly
+NSC-11057,Bluebell Analytics Group,Professional Services,London & South East,SMB,3,Ravi Mehta,2025-03-10,2025-03-01,2025-Q1,f,Monthly
+NSC-11058,Falcon Analytics Ltd,Retail,London & South East,SMB,3,Megan Shaw,2025-03-03,2025-03-01,2025-Q1,f,Annual
+NSC-11059,Kingsway Manufacturing Group,Professional Services,Yorkshire & North East,SMB,3,Owen Price,2025-03-17,2025-03-01,2025-Q1,f,Monthly
+NSC-11060,Bluebell Retail Ltd,Retail,South West & Wales,SMB,3,Megan Shaw,2025-03-24,2025-03-01,2025-Q1,f,Monthly
+NSC-11061,Holloway Systems Group,Financial Services,North West,SMB,3,Liam Carter,2025-03-07,2025-03-01,2025-Q1,f,Monthly
+NSC-11062,Westmoor Care Ltd,Logistics,South West & Wales,Mid-Market,2,Callum Reid,2025-03-28,2025-03-01,2025-Q1,f,Annual
+NSC-11063,Bluebell Distribution Holdings,Professional Services,Scotland,SMB,3,Liam Carter,2025-03-26,2025-03-01,2025-Q1,f,Annual
+NSC-11064,Severn Engineering Ltd,Financial Services,Scotland,SMB,3,Sophie Turner,2025-03-08,2025-03-01,2025-Q1,f,Monthly
+NSC-11065,Saxon Analytics LLP,Retail,Midlands,SMB,3,Ravi Mehta,2025-03-02,2025-03-01,2025-Q1,f,Annual
+NSC-11066,Northgate Learning plc,Manufacturing,Midlands,SMB,3,Sophie Turner,2025-03-15,2025-03-01,2025-Q1,f,Monthly
+NSC-11067,Sterling Distribution plc,Professional Services,Ireland,SMB,3,Ravi Mehta,2025-03-08,2025-03-01,2025-Q1,f,Annual
+NSC-11068,Ashford Energy Holdings,Logistics,South West & Wales,SMB,3,Sophie Turner,2025-03-08,2025-03-01,2025-Q1,f,Annual
+NSC-11069,Bluebell Distribution LLP,Retail,Yorkshire & North East,SMB,3,Liam Carter,2025-03-31,2025-03-01,2025-Q1,f,Monthly
+NSC-11070,Meridian Health LLP,Logistics,Scotland,SMB,3,Liam Carter,2025-03-16,2025-03-01,2025-Q1,f,Monthly
+NSC-11071,Ironbridge Distribution Ltd,Logistics,South West & Wales,Mid-Market,2,Hannah Doyle,2025-03-29,2025-03-01,2025-Q1,f,Annual
+NSC-11072,Lantern Analytics Holdings,Professional Services,London & South East,Mid-Market,2,Aisha Patel,2025-03-26,2025-03-01,2025-Q1,f,Annual
+NSC-11073,Castlefield Housing Ltd,Professional Services,London & South East,SMB,3,Ravi Mehta,2025-03-15,2025-03-01,2025-Q1,f,Monthly
+NSC-11074,Saxon Engineering Group,Manufacturing,London & South East,Enterprise,1,Grace Okafor,2025-03-16,2025-03-01,2025-Q1,f,Annual
+NSC-11075,Westmoor Health Holdings,Financial Services,London & South East,Mid-Market,2,Daniel Hughes,2025-03-12,2025-03-01,2025-Q1,f,Annual
+NSC-11076,Quayside Learning LLP,Retail,South West & Wales,Mid-Market,2,Aisha Patel,2025-03-19,2025-03-01,2025-Q1,f,Monthly
+NSC-11077,Wessex Distribution Holdings,Public Sector,North West,SMB,3,Megan Shaw,2025-03-03,2025-03-01,2025-Q1,f,Monthly
+NSC-11078,Thames Engineering plc,Healthcare,South West & Wales,SMB,3,Megan Shaw,2025-03-26,2025-03-01,2025-Q1,f,Monthly
+NSC-11079,Highland Partners Ltd,Logistics,Midlands,Mid-Market,2,Callum Reid,2025-03-11,2025-03-01,2025-Q1,f,Annual
+NSC-11080,Meridian Foods Group,Retail,Scotland,SMB,3,Unassigned,2025-03-02,2025-03-01,2025-Q1,f,Annual
+NSC-11082,Falcon Engineering Ltd,Education,Scotland,Enterprise,1,Grace Okafor,2025-03-18,2025-03-01,2025-Q1,f,Annual
+NSC-11083,Redbrick Capital Group,Education,London & South East,SMB,3,Liam Carter,2025-03-30,2025-03-01,2025-Q1,f,Monthly
+NSC-11084,Northgate Medical Holdings,Healthcare,Scotland,SMB,3,Ravi Mehta,2025-04-30,2025-04-01,2025-Q2,f,Annual
+NSC-11085,Beacon Analytics Group,Public Sector,Yorkshire & North East,Mid-Market,2,Hannah Doyle,2025-04-05,2025-04-01,2025-Q2,f,Monthly
+NSC-11086,Tamar Manufacturing LLP,Financial Services,North West,Mid-Market,2,Hannah Doyle,2025-04-15,2025-04-01,2025-Q2,f,Monthly
+NSC-11087,Albion Energy Group,Logistics,Ireland,SMB,3,Sophie Turner,2025-04-04,2025-04-01,2025-Q2,f,Monthly
+NSC-11088,Orchard Manufacturing Ltd,Healthcare,Ireland,SMB,3,Owen Price,2025-04-20,2025-04-01,2025-Q2,f,Monthly
+NSC-11089,Ashford Manufacturing plc,Unknown,Yorkshire & North East,SMB,3,Liam Carter,2025-04-22,2025-04-01,2025-Q2,f,Annual
+NSC-11090,Fenwick Consulting Holdings,Professional Services,Yorkshire & North East,Mid-Market,2,Daniel Hughes,2025-04-28,2025-04-01,2025-Q2,f,Monthly
+NSC-11091,Holloway Capital Ltd,Logistics,London & South East,Mid-Market,2,Callum Reid,2025-04-21,2025-04-01,2025-Q2,f,Annual
+NSC-11092,Harbour Supplies plc,Public Sector,North West,Mid-Market,2,Daniel Hughes,2025-04-25,2025-04-01,2025-Q2,f,Monthly
+NSC-11093,Holloway Medical Ltd,Logistics,North West,Mid-Market,2,Callum Reid,2025-04-27,2025-04-01,2025-Q2,f,Annual
+NSC-11094,Ember Advisory plc,Education,Yorkshire & North East,Mid-Market,2,Callum Reid,2025-04-05,2025-04-01,2025-Q2,f,Annual
+NSC-11095,Albion Capital LLP,Retail,Ireland,Mid-Market,2,Callum Reid,2025-04-23,2025-04-01,2025-Q2,f,Annual
+NSC-11096,Westmoor Distribution Ltd,Public Sector,South West & Wales,Mid-Market,2,Hannah Doyle,2025-04-27,2025-04-01,2025-Q2,f,Annual
+NSC-11097,Severn Learning Holdings,Logistics,Midlands,SMB,3,Liam Carter,2025-04-25,2025-04-01,2025-Q2,f,Monthly
+NSC-11098,Oakridge Housing Group,Manufacturing,Scotland,Mid-Market,2,Hannah Doyle,2025-04-14,2025-04-01,2025-Q2,f,Annual
+NSC-11099,Riverside Distribution Ltd,Logistics,South West & Wales,Mid-Market,2,Daniel Hughes,2025-04-08,2025-04-01,2025-Q2,f,Annual
+NSC-11100,Albion Housing Group,Retail,North West,SMB,3,Sophie Turner,2025-04-15,2025-04-01,2025-Q2,f,Annual
+NSC-11101,Riverside Supplies Group,Retail,Ireland,Enterprise,1,Priya Raman,2025-04-17,2025-04-01,2025-Q2,f,Annual
+NSC-11102,Pennine Partners Holdings,Logistics,London & South East,SMB,3,Sophie Turner,2025-04-17,2025-04-01,2025-Q2,f,Monthly
+NSC-11103,Saxon Housing Ltd,Manufacturing,London & South East,SMB,3,Liam Carter,2025-04-24,2025-04-01,2025-Q2,f,Monthly
+NSC-11104,Severn Supplies Holdings,Public Sector,South West & Wales,SMB,3,Sophie Turner,2025-04-20,2025-04-01,2025-Q2,f,Monthly
+NSC-11105,Quayside Advisory plc,Healthcare,London & South East,Enterprise,1,Grace Okafor,2025-04-25,2025-04-01,2025-Q2,f,Annual
+NSC-11106,Sterling Manufacturing plc,Unknown,Yorkshire & North East,SMB,3,Liam Carter,2025-04-28,2025-04-01,2025-Q2,f,Annual
+NSC-11107,Peak Advisory Group,Financial Services,Scotland,Mid-Market,2,Callum Reid,2025-04-24,2025-04-01,2025-Q2,f,Annual
+NSC-11108,Holloway Housing Holdings,Healthcare,London & South East,SMB,3,Sophie Turner,2025-04-19,2025-04-01,2025-Q2,f,Monthly
+NSC-11109,Northgate Logistics plc,Retail,Scotland,SMB,3,Owen Price,2025-04-20,2025-04-01,2025-Q2,f,Monthly
+NSC-11110,Brightwater Advisory Ltd,Financial Services,North West,SMB,3,Sophie Turner,2025-04-05,2025-04-01,2025-Q2,f,Monthly
+NSC-11111,Orchard Supplies LLP,Professional Services,South West & Wales,Mid-Market,2,Aisha Patel,2025-04-22,2025-04-01,2025-Q2,f,Annual
+NSC-11112,Heathrow Partners plc,Education,North West,SMB,3,Ravi Mehta,2025-05-03,2025-05-01,2025-Q2,f,Annual
+NSC-11113,Lowther Consulting Ltd,Logistics,Ireland,SMB,3,Liam Carter,2025-05-16,2025-05-01,2025-Q2,f,Annual
+NSC-11114,Wessex Energy Holdings,Manufacturing,Midlands,SMB,3,Owen Price,2025-05-04,2025-05-01,2025-Q2,f,Annual
+NSC-11116,Cobalt Engineering plc,Logistics,Midlands,Enterprise,1,Priya Raman,2025-05-04,2025-05-01,2025-Q2,f,Annual
+NSC-11117,Oakridge Energy plc,Manufacturing,Midlands,Mid-Market,2,Callum Reid,2025-05-27,2025-05-01,2025-Q2,f,Monthly
+NSC-11118,Lantern Engineering Holdings,Education,London & South East,SMB,3,Megan Shaw,2025-05-25,2025-05-01,2025-Q2,f,Annual
+NSC-11119,Calder Supplies Ltd,Healthcare,London & South East,Mid-Market,2,Callum Reid,2025-05-01,2025-05-01,2025-Q2,f,Monthly
+NSC-11120,Westmoor Systems Group,Professional Services,Midlands,SMB,3,Ravi Mehta,2025-05-15,2025-05-01,2025-Q2,f,Monthly
+NSC-11121,Ashford Capital Holdings,Financial Services,South West & Wales,Enterprise,1,Priya Raman,2025-05-26,2025-05-01,2025-Q2,f,Annual
+NSC-11122,Quayside Housing Holdings,Retail,Scotland,SMB,3,Liam Carter,2025-05-28,2025-05-01,2025-Q2,f,Monthly
+NSC-11123,Kingsway Consulting Holdings,Healthcare,Midlands,SMB,3,Liam Carter,2025-05-10,2025-05-01,2025-Q2,f,Monthly
+NSC-11124,Wessex Medical Holdings,Logistics,Midlands,SMB,3,Liam Carter,2025-05-17,2025-05-01,2025-Q2,f,Monthly
+NSC-11125,Kingsway Advisory Holdings,Healthcare,London & South East,SMB,3,Ravi Mehta,2025-05-19,2025-05-01,2025-Q2,f,Monthly
+NSC-11126,Cobalt Analytics Group,Financial Services,Scotland,SMB,3,Ravi Mehta,2025-05-11,2025-05-01,2025-Q2,f,Annual
+NSC-11127,Clyde Capital Group,Education,London & South East,Mid-Market,2,Daniel Hughes,2025-05-12,2025-05-01,2025-Q2,f,Annual
+NSC-11128,Wessex Care Ltd,Retail,Yorkshire & North East,Enterprise,1,Tom Whitfield,2025-05-19,2025-05-01,2025-Q2,f,Annual
+NSC-11129,Wessex Advisory Ltd,Financial Services,Midlands,SMB,3,Liam Carter,2025-05-19,2025-05-01,2025-Q2,f,Annual
+NSC-11130,Harbour Foods Holdings,Healthcare,Midlands,Mid-Market,2,Daniel Hughes,2025-05-23,2025-05-01,2025-Q2,f,Annual
+NSC-11131,Quayside Partners Group,Logistics,North West,Mid-Market,2,Aisha Patel,2025-05-28,2025-05-01,2025-Q2,f,Annual
+NSC-11132,Cobalt Systems Ltd,Healthcare,London & South East,SMB,3,Ravi Mehta,2025-05-16,2025-05-01,2025-Q2,f,Annual
+NSC-11133,Kingsway Partners Group,Professional Services,North West,Enterprise,1,Grace Okafor,2025-05-24,2025-05-01,2025-Q2,f,Annual
+NSC-11134,Mersey Energy plc,Retail,South West & Wales,SMB,3,Ravi Mehta,2025-05-20,2025-05-01,2025-Q2,f,Monthly
+NSC-11135,Albion Foods Ltd,Logistics,Ireland,SMB,3,Liam Carter,2025-05-03,2025-05-01,2025-Q2,f,Monthly
+NSC-11136,Castlefield Consulting Ltd,Retail,London & South East,SMB,3,Sophie Turner,2025-05-28,2025-05-01,2025-Q2,f,Monthly
+NSC-11137,Fenwick Housing Group,Healthcare,North West,SMB,3,Liam Carter,2025-05-25,2025-05-01,2025-Q2,f,Monthly
+NSC-11138,Westmoor Engineering Group,Manufacturing,London & South East,Mid-Market,2,Aisha Patel,2025-05-16,2025-05-01,2025-Q2,f,Annual
+NSC-11139,Thames Engineering Group,Financial Services,South West & Wales,SMB,3,Unassigned,2025-05-24,2025-05-01,2025-Q2,f,Monthly
+NSC-11140,Bluebell Analytics LLP,Logistics,London & South East,Enterprise,1,Tom Whitfield,2025-05-06,2025-05-01,2025-Q2,f,Annual
+NSC-11141,Highland Housing LLP,Healthcare,Scotland,Mid-Market,2,Aisha Patel,2025-05-05,2025-05-01,2025-Q2,f,Annual
+NSC-11142,Ironbridge Systems Ltd,Retail,North West,Enterprise,1,Grace Okafor,2025-05-01,2025-05-01,2025-Q2,f,Annual
+NSC-11143,Wessex Energy Ltd,Retail,London & South East,SMB,3,Liam Carter,2025-05-18,2025-05-01,2025-Q2,f,Monthly
+NSC-11144,Beacon Manufacturing Group,Retail,North West,Enterprise,1,Grace Okafor,2025-05-05,2025-05-01,2025-Q2,f,Annual
+NSC-11145,Saxon Learning plc,Healthcare,Ireland,SMB,3,Owen Price,2025-05-21,2025-05-01,2025-Q2,f,Annual
+NSC-11146,Fenwick Foods Group,Retail,Midlands,SMB,3,Sophie Turner,2025-05-25,2025-05-01,2025-Q2,f,Monthly
+NSC-11147,Lantern Manufacturing Ltd,Healthcare,London & South East,SMB,3,Sophie Turner,2025-05-09,2025-05-01,2025-Q2,f,Monthly
+NSC-11148,Heathrow Freight Ltd,Financial Services,Midlands,SMB,3,Megan Shaw,2025-05-25,2025-05-01,2025-Q2,f,Monthly
+NSC-11149,Beacon Consulting Group,Professional Services,Yorkshire & North East,Mid-Market,2,Daniel Hughes,2025-05-10,2025-05-01,2025-Q2,f,Monthly
+NSC-11150,Wessex Advisory Holdings,Logistics,Yorkshire & North East,SMB,3,Ravi Mehta,2025-05-14,2025-05-01,2025-Q2,f,Annual
+NSC-11151,Albion Supplies Group,Healthcare,South West & Wales,SMB,3,Liam Carter,2025-05-29,2025-05-01,2025-Q2,f,Annual
+NSC-11152,Harbour Care Holdings,Logistics,Scotland,Mid-Market,2,Unassigned,2025-06-19,2025-06-01,2025-Q2,f,Annual
+NSC-11153,Fenwick Retail Ltd,Manufacturing,London & South East,Mid-Market,2,Callum Reid,2025-06-16,2025-06-01,2025-Q2,f,Annual
+NSC-11154,Lowther Learning Ltd,Public Sector,North West,Mid-Market,2,Aisha Patel,2025-06-07,2025-06-01,2025-Q2,f,Annual
+NSC-11155,Ironbridge Consulting Group,Education,Yorkshire & North East,Enterprise,1,Priya Raman,2025-06-11,2025-06-01,2025-Q2,f,Annual
+NSC-11156,Harbour Engineering Ltd,Professional Services,South West & Wales,SMB,3,Liam Carter,2025-06-03,2025-06-01,2025-Q2,f,Monthly
+NSC-11157,Avon Medical LLP,Professional Services,Midlands,SMB,3,Owen Price,2025-06-30,2025-06-01,2025-Q2,f,Annual
+NSC-11158,Thames Retail plc,Manufacturing,Scotland,SMB,3,Megan Shaw,2025-06-22,2025-06-01,2025-Q2,f,Monthly
+NSC-11159,Albion Supplies Holdings,Professional Services,London & South East,Mid-Market,2,Hannah Doyle,2025-06-16,2025-06-01,2025-Q2,f,Annual
+NSC-11160,Castlefield Foods Ltd,Healthcare,Yorkshire & North East,SMB,3,Ravi Mehta,2025-06-21,2025-06-01,2025-Q2,f,Monthly
+NSC-11161,Ember Distribution Holdings,Retail,South West & Wales,SMB,3,Sophie Turner,2025-06-21,2025-06-01,2025-Q2,f,Monthly
+NSC-11162,Heathrow Manufacturing Ltd,Public Sector,Yorkshire & North East,Mid-Market,2,Aisha Patel,2025-06-23,2025-06-01,2025-Q2,f,Annual
+NSC-11163,Clyde Engineering Group,Healthcare,Midlands,SMB,3,Megan Shaw,2025-06-29,2025-06-01,2025-Q2,f,Annual
+NSC-11164,Oakridge Analytics Ltd,Retail,London & South East,Mid-Market,2,Hannah Doyle,2025-06-25,2025-06-01,2025-Q2,f,Annual
+NSC-11165,Ember Medical Ltd,Healthcare,North West,Mid-Market,2,Aisha Patel,2025-06-06,2025-06-01,2025-Q2,f,Monthly
+NSC-11166,Pennine Distribution plc,Logistics,London & South East,SMB,3,Liam Carter,2025-06-30,2025-06-01,2025-Q2,f,Monthly
+NSC-11167,Fenwick Capital Ltd,Manufacturing,London & South East,SMB,3,Sophie Turner,2025-06-15,2025-06-01,2025-Q2,f,Monthly
+NSC-11168,Redbrick Health Group,Healthcare,Yorkshire & North East,Mid-Market,2,Daniel Hughes,2025-06-27,2025-06-01,2025-Q2,f,Annual
+NSC-11169,Highland Analytics Holdings,Manufacturing,North West,SMB,3,Owen Price,2025-06-02,2025-06-01,2025-Q2,f,Monthly
+NSC-11170,Avon Health LLP,Retail,Yorkshire & North East,SMB,3,Sophie Turner,2025-06-08,2025-06-01,2025-Q2,f,Annual
+NSC-11171,Brightwater Retail Ltd,Retail,Scotland,SMB,3,Sophie Turner,2025-06-01,2025-06-01,2025-Q2,f,Monthly
+NSC-11172,Westmoor Engineering LLP,Logistics,Ireland,Mid-Market,2,Daniel Hughes,2025-06-08,2025-06-01,2025-Q2,f,Annual
+NSC-11173,Holloway Systems Ltd,Financial Services,Scotland,SMB,3,Ravi Mehta,2025-06-22,2025-06-01,2025-Q2,f,Monthly
+NSC-11174,Sterling Housing LLP,Retail,North West,SMB,3,Owen Price,2025-06-08,2025-06-01,2025-Q2,f,Annual
+NSC-11175,Fenwick Analytics Ltd,Financial Services,North West,Mid-Market,2,Aisha Patel,2025-06-17,2025-06-01,2025-Q2,f,Monthly
+NSC-11176,Pennine Energy Group,Logistics,South West & Wales,Enterprise,1,Tom Whitfield,2025-06-11,2025-06-01,2025-Q2,f,Annual
+NSC-11177,Saxon Partners LLP,Logistics,London & South East,SMB,3,Ravi Mehta,2025-07-28,2025-07-01,2025-Q3,f,Annual
+NSC-11178,Ember Engineering Ltd,Financial Services,Midlands,SMB,3,Sophie Turner,2025-07-20,2025-07-01,2025-Q3,f,Annual
+NSC-11179,Riverside Logistics Ltd,Healthcare,North West,SMB,3,Owen Price,2025-07-31,2025-07-01,2025-Q3,f,Monthly
+NSC-11180,Thames Medical LLP,Manufacturing,Yorkshire & North East,SMB,3,Sophie Turner,2025-07-21,2025-07-01,2025-Q3,f,Monthly
+NSC-11181,Lantern Care Ltd,Logistics,Midlands,Mid-Market,2,Daniel Hughes,2025-07-07,2025-07-01,2025-Q3,f,Annual
+NSC-11182,Falcon Systems Ltd,Professional Services,London & South East,Mid-Market,2,Callum Reid,2025-07-09,2025-07-01,2025-Q3,f,Annual
+NSC-11184,Mersey Manufacturing plc,Healthcare,Ireland,Mid-Market,2,Hannah Doyle,2025-07-23,2025-07-01,2025-Q3,f,Annual
+NSC-11185,Wessex Learning Ltd,Retail,North West,SMB,3,Owen Price,2025-07-06,2025-07-01,2025-Q3,f,Annual
+NSC-11186,Sterling Logistics Ltd,Retail,Midlands,SMB,3,Owen Price,2025-07-22,2025-07-01,2025-Q3,f,Annual
+NSC-11187,Albion Partners Holdings,Healthcare,London & South East,SMB,3,Sophie Turner,2025-07-17,2025-07-01,2025-Q3,f,Annual
+NSC-11188,Ember Medical Group,Manufacturing,London & South East,SMB,3,Sophie Turner,2025-07-31,2025-07-01,2025-Q3,f,Monthly
+NSC-11189,Harbour Analytics Ltd,Manufacturing,Yorkshire & North East,Mid-Market,2,Callum Reid,2025-07-18,2025-07-01,2025-Q3,f,Annual
+NSC-11190,Northgate Freight plc,Public Sector,Yorkshire & North East,SMB,3,Ravi Mehta,2025-07-28,2025-07-01,2025-Q3,f,Monthly
+NSC-11191,Ember Distribution plc,Financial Services,London & South East,SMB,3,Owen Price,2025-07-10,2025-07-01,2025-Q3,f,Monthly
+NSC-11192,Avon Medical Group,Healthcare,London & South East,Mid-Market,2,Callum Reid,2025-07-20,2025-07-01,2025-Q3,f,Annual
+NSC-11193,Falcon Learning Ltd,Professional Services,North West,SMB,3,Owen Price,2025-07-30,2025-07-01,2025-Q3,f,Annual
+NSC-11194,Cobalt Care Ltd,Manufacturing,London & South East,Mid-Market,2,Callum Reid,2025-07-01,2025-07-01,2025-Q3,f,Annual
+NSC-11195,Orchard Foods Ltd,Logistics,London & South East,SMB,3,Ravi Mehta,2025-07-10,2025-07-01,2025-Q3,f,Annual
+NSC-11196,Mersey Analytics Group,Manufacturing,London & South East,SMB,3,Owen Price,2025-07-25,2025-07-01,2025-Q3,f,Monthly
+NSC-11197,Saxon Freight Ltd,Manufacturing,South West & Wales,SMB,3,Owen Price,2025-07-30,2025-07-01,2025-Q3,f,Monthly
+NSC-11198,Riverside Partners LLP,Retail,Scotland,SMB,3,Owen Price,2025-07-11,2025-07-01,2025-Q3,f,Monthly
+NSC-11199,Ember Foods Ltd,Professional Services,Yorkshire & North East,Enterprise,1,Grace Okafor,2025-08-02,2025-08-01,2025-Q3,f,Annual
+NSC-11200,Mersey Learning Holdings,Professional Services,South West & Wales,SMB,3,Megan Shaw,2025-08-25,2025-08-01,2025-Q3,f,Monthly
+NSC-11201,Riverside Housing Ltd,Retail,London & South East,SMB,3,Ravi Mehta,2025-08-14,2025-08-01,2025-Q3,f,Monthly
+NSC-11202,Riverside Learning Ltd,Professional Services,Ireland,SMB,3,Ravi Mehta,2025-08-13,2025-08-01,2025-Q3,f,Annual
+NSC-11203,Thames Advisory Ltd,Logistics,London & South East,SMB,3,Megan Shaw,2025-08-02,2025-08-01,2025-Q3,f,Monthly
+NSC-11204,Orchard Housing Group,Financial Services,Yorkshire & North East,SMB,3,Owen Price,2025-08-28,2025-08-01,2025-Q3,f,Monthly
+NSC-11205,Sterling Consulting LLP,Retail,London & South East,SMB,3,Megan Shaw,2025-08-09,2025-08-01,2025-Q3,f,Monthly
+NSC-11206,Avon Energy LLP,Retail,London & South East,SMB,3,Ravi Mehta,2025-08-19,2025-08-01,2025-Q3,f,Monthly
+NSC-11207,Holloway Analytics Ltd,Retail,Midlands,SMB,3,Megan Shaw,2025-08-01,2025-08-01,2025-Q3,f,Monthly
+NSC-11208,Quayside Housing Group,Manufacturing,South West & Wales,Mid-Market,2,Callum Reid,2025-08-05,2025-08-01,2025-Q3,f,Annual
+NSC-11209,Orchard Consulting plc,Retail,North West,Enterprise,1,Grace Okafor,2025-08-01,2025-08-01,2025-Q3,f,Monthly
+NSC-11210,Peak Foods Ltd,Logistics,London & South East,SMB,3,Megan Shaw,2025-08-25,2025-08-01,2025-Q3,f,Annual
+NSC-11211,Falcon Logistics Ltd,Healthcare,London & South East,Mid-Market,2,Daniel Hughes,2025-08-15,2025-08-01,2025-Q3,f,Annual
+NSC-11212,Meridian Freight Holdings,Healthcare,Yorkshire & North East,SMB,3,Liam Carter,2025-08-16,2025-08-01,2025-Q3,f,Monthly
+NSC-11213,Beacon Capital Ltd,Retail,South West & Wales,Mid-Market,2,Hannah Doyle,2025-08-02,2025-08-01,2025-Q3,f,Annual
+NSC-11214,Westmoor Supplies plc,Retail,London & South East,Mid-Market,2,Aisha Patel,2025-08-18,2025-08-01,2025-Q3,f,Annual
+NSC-11215,Meridian Energy Ltd,Public Sector,Scotland,SMB,3,Liam Carter,2025-08-31,2025-08-01,2025-Q3,f,Annual
+NSC-11216,Falcon Medical Ltd,Logistics,London & South East,SMB,3,Sophie Turner,2025-08-10,2025-08-01,2025-Q3,f,Annual
+NSC-11217,Lowther Supplies Holdings,Financial Services,Yorkshire & North East,SMB,3,Megan Shaw,2025-08-25,2025-08-01,2025-Q3,f,Annual
+NSC-11218,Moorland Capital plc,Financial Services,North West,SMB,3,Liam Carter,2025-08-12,2025-08-01,2025-Q3,f,Annual
+NSC-11219,Highland Energy Group,Logistics,Scotland,Enterprise,1,Tom Whitfield,2025-08-04,2025-08-01,2025-Q3,f,Annual
+NSC-11220,Ember Capital plc,Manufacturing,London & South East,Mid-Market,2,Aisha Patel,2025-08-27,2025-08-01,2025-Q3,f,Annual
+NSC-11221,Northgate Care LLP,Healthcare,North West,Mid-Market,2,Daniel Hughes,2025-09-06,2025-09-01,2025-Q3,f,Annual
+NSC-11222,Redbrick Medical LLP,Healthcare,Scotland,Mid-Market,2,Callum Reid,2025-09-28,2025-09-01,2025-Q3,f,Monthly
+NSC-11223,Moorland Distribution Holdings,Professional Services,South West & Wales,SMB,3,Megan Shaw,2025-09-20,2025-09-01,2025-Q3,f,Monthly
+NSC-11224,Pennine Health Holdings,Manufacturing,Midlands,SMB,3,Ravi Mehta,2025-09-01,2025-09-01,2025-Q3,f,Annual
+NSC-11225,Riverside Foods LLP,Professional Services,North West,SMB,3,Sophie Turner,2025-09-09,2025-09-01,2025-Q3,f,Monthly
+NSC-11226,Pennine Engineering Ltd,Unknown,North West,Mid-Market,2,Hannah Doyle,2025-09-08,2025-09-01,2025-Q3,f,Monthly
+NSC-11227,Brightwater Health Group,Healthcare,London & South East,Mid-Market,2,Aisha Patel,2025-09-05,2025-09-01,2025-Q3,f,Annual
+NSC-11228,Saxon Retail plc,Professional Services,London & South East,SMB,3,Liam Carter,2025-09-03,2025-09-01,2025-Q3,f,Monthly
+NSC-11230,Avon Care Group,Financial Services,London & South East,Enterprise,1,Grace Okafor,2025-09-16,2025-09-01,2025-Q3,f,Annual
+NSC-11231,Riverside Advisory Ltd,Manufacturing,North West,SMB,3,Owen Price,2025-09-26,2025-09-01,2025-Q3,f,Monthly
+NSC-11232,Pennine Systems Group,Professional Services,Scotland,Enterprise,1,Tom Whitfield,2025-09-25,2025-09-01,2025-Q3,f,Annual
+NSC-11233,Beacon Distribution Ltd,Logistics,London & South East,Mid-Market,2,Aisha Patel,2025-09-26,2025-09-01,2025-Q3,f,Annual
+NSC-11234,Thames Distribution Ltd,Retail,North West,SMB,3,Megan Shaw,2025-09-26,2025-09-01,2025-Q3,f,Annual
+NSC-11235,Mersey Supplies LLP,Logistics,South West & Wales,Mid-Market,2,Callum Reid,2025-09-08,2025-09-01,2025-Q3,f,Annual
+NSC-11236,Calder Advisory LLP,Unknown,Midlands,SMB,3,Owen Price,2025-09-06,2025-09-01,2025-Q3,f,Monthly
+NSC-11237,Severn Advisory Group,Manufacturing,London & South East,Mid-Market,2,Aisha Patel,2025-09-01,2025-09-01,2025-Q3,f,Annual
+NSC-11238,Falcon Advisory Ltd,Professional Services,South West & Wales,Mid-Market,2,Aisha Patel,2025-09-11,2025-09-01,2025-Q3,f,Annual
+NSC-11239,Lowther Advisory Group,Manufacturing,Midlands,SMB,3,Megan Shaw,2025-09-22,2025-09-01,2025-Q3,f,Monthly
+NSC-11240,Cobalt Consulting Ltd,Retail,London & South East,Mid-Market,2,Daniel Hughes,2025-09-10,2025-09-01,2025-Q3,f,Annual
+NSC-11241,Clyde Care Ltd,Professional Services,North West,Enterprise,1,Tom Whitfield,2025-09-18,2025-09-01,2025-Q3,f,Annual
+NSC-11242,Cobalt Partners Group,Retail,London & South East,SMB,3,Ravi Mehta,2025-09-26,2025-09-01,2025-Q3,f,Monthly
+NSC-11243,Redbrick Learning Holdings,Retail,London & South East,SMB,3,Liam Carter,2025-09-07,2025-09-01,2025-Q3,f,Monthly
+NSC-11244,Riverside Analytics Holdings,Healthcare,London & South East,SMB,3,Owen Price,2025-09-07,2025-09-01,2025-Q3,f,Monthly
+NSC-11245,Ironbridge Manufacturing Holdings,Logistics,Midlands,SMB,3,Owen Price,2025-09-09,2025-09-01,2025-Q3,f,Monthly
+NSC-11246,Ironbridge Engineering Group,Healthcare,London & South East,SMB,3,Liam Carter,2025-09-13,2025-09-01,2025-Q3,f,Annual
+NSC-11247,Wessex Supplies Ltd,Manufacturing,North West,Mid-Market,2,Callum Reid,2025-09-23,2025-09-01,2025-Q3,f,Annual
+NSC-11248,Holloway Retail Ltd,Manufacturing,Midlands,Mid-Market,2,Aisha Patel,2025-09-11,2025-09-01,2025-Q3,f,Annual
+NSC-11249,Severn Partners LLP,Financial Services,London & South East,Mid-Market,2,Hannah Doyle,2025-09-28,2025-09-01,2025-Q3,f,Annual
+NSC-11250,Sterling Manufacturing LLP,Logistics,London & South East,Mid-Market,2,Aisha Patel,2025-09-11,2025-09-01,2025-Q3,f,Annual
+NSC-11251,Granite Partners LLP,Logistics,North West,SMB,3,Liam Carter,2025-09-14,2025-09-01,2025-Q3,f,Monthly
+NSC-11252,Ashford Manufacturing Ltd,Financial Services,London & South East,Mid-Market,2,Daniel Hughes,2025-09-21,2025-09-01,2025-Q3,f,Monthly
+NSC-11253,Kingsway Foods Ltd,Manufacturing,London & South East,SMB,3,Ravi Mehta,2025-09-28,2025-09-01,2025-Q3,f,Monthly
+NSC-11254,Oakridge Partners Group,Professional Services,London & South East,SMB,3,Ravi Mehta,2025-10-07,2025-10-01,2025-Q4,f,Monthly
+NSC-11255,Beacon Systems LLP,Financial Services,London & South East,Mid-Market,2,Hannah Doyle,2025-10-09,2025-10-01,2025-Q4,f,Annual
+NSC-11256,Falcon Supplies plc,Retail,North West,SMB,3,Megan Shaw,2025-10-08,2025-10-01,2025-Q4,f,Monthly
+NSC-11257,Cobalt Foods Ltd,Logistics,Midlands,SMB,3,Owen Price,2025-10-30,2025-10-01,2025-Q4,f,Annual
+NSC-11258,Sterling Health Ltd,Retail,London & South East,Mid-Market,2,Hannah Doyle,2025-10-26,2025-10-01,2025-Q4,f,Monthly
+NSC-11259,Avon Retail Ltd,Logistics,South West & Wales,SMB,3,Ravi Mehta,2025-10-27,2025-10-01,2025-Q4,f,Monthly
+NSC-11260,Heathrow Care Holdings,Manufacturing,London & South East,SMB,3,Ravi Mehta,2025-10-12,2025-10-01,2025-Q4,f,Annual
+NSC-11261,Ashford Housing Group,Financial Services,Scotland,SMB,3,Ravi Mehta,2025-10-22,2025-10-01,2025-Q4,f,Monthly
+NSC-11262,Lowther Health Ltd,Unknown,Scotland,SMB,3,Owen Price,2025-10-25,2025-10-01,2025-Q4,f,Monthly
+NSC-11263,Meridian Advisory Ltd,Professional Services,London & South East,Mid-Market,2,Hannah Doyle,2025-10-27,2025-10-01,2025-Q4,f,Annual
+NSC-11264,Orchard Energy Group,Logistics,North West,SMB,3,Liam Carter,2025-10-19,2025-10-01,2025-Q4,f,Annual
+NSC-11265,Westmoor Partners Ltd,Education,Ireland,SMB,3,Liam Carter,2025-10-18,2025-10-01,2025-Q4,f,Monthly
+NSC-11266,Westmoor Advisory plc,Manufacturing,Midlands,SMB,3,Owen Price,2025-10-27,2025-10-01,2025-Q4,f,Monthly
+NSC-11267,Holloway Engineering plc,Education,Yorkshire & North East,SMB,3,Owen Price,2025-10-17,2025-10-01,2025-Q4,f,Monthly
+NSC-11268,Wessex Learning plc,Manufacturing,London & South East,Mid-Market,2,Aisha Patel,2025-10-16,2025-10-01,2025-Q4,f,Annual
+NSC-11269,Granite Manufacturing Holdings,Logistics,London & South East,Enterprise,1,Unassigned,2025-10-28,2025-10-01,2025-Q4,f,Annual
+NSC-11270,Granite Logistics Ltd,Manufacturing,North West,SMB,3,Owen Price,2025-10-17,2025-10-01,2025-Q4,f,Annual
+NSC-11271,Beacon Energy plc,Retail,Midlands,Mid-Market,2,Aisha Patel,2025-10-01,2025-10-01,2025-Q4,f,Annual
+NSC-11272,Ember Housing Holdings,Retail,South West & Wales,Enterprise,1,Priya Raman,2025-10-21,2025-10-01,2025-Q4,f,Annual
+NSC-11273,Wessex Analytics Holdings,Financial Services,London & South East,SMB,3,Ravi Mehta,2025-10-22,2025-10-01,2025-Q4,f,Annual
+NSC-11274,Thames Capital Group,Financial Services,London & South East,Mid-Market,2,Callum Reid,2025-10-31,2025-10-01,2025-Q4,f,Annual
+NSC-11275,Brightwater Medical Holdings,Financial Services,London & South East,Enterprise,1,Priya Raman,2025-10-05,2025-10-01,2025-Q4,f,Monthly
+NSC-11276,Tamar Partners Ltd,Retail,Ireland,SMB,3,Liam Carter,2025-10-05,2025-10-01,2025-Q4,f,Monthly
+NSC-11277,Saxon Systems Holdings,Professional Services,South West & Wales,SMB,3,Liam Carter,2025-10-21,2025-10-01,2025-Q4,f,Monthly
+NSC-11278,Ashford Partners Ltd,Financial Services,Scotland,Mid-Market,2,Aisha Patel,2025-10-22,2025-10-01,2025-Q4,f,Annual
+NSC-11279,Holloway Housing Ltd,Professional Services,Ireland,Enterprise,1,Tom Whitfield,2025-10-22,2025-10-01,2025-Q4,f,Annual
+NSC-11280,Holloway Energy Ltd,Retail,London & South East,SMB,3,Megan Shaw,2025-10-22,2025-10-01,2025-Q4,f,Monthly
+NSC-11281,Meridian Foods Ltd,Education,Midlands,Mid-Market,2,Aisha Patel,2025-10-12,2025-10-01,2025-Q4,f,Annual
+NSC-11282,Wessex Engineering Group,Manufacturing,Scotland,SMB,3,Liam Carter,2025-10-18,2025-10-01,2025-Q4,f,Monthly
+NSC-11283,Kingsway Systems Group,Retail,Yorkshire & North East,Mid-Market,2,Aisha Patel,2025-10-30,2025-10-01,2025-Q4,f,Monthly
+NSC-11284,Severn Analytics Group,Healthcare,London & South East,SMB,3,Liam Carter,2025-10-05,2025-10-01,2025-Q4,f,Annual
+NSC-11285,Albion Medical plc,Retail,South West & Wales,SMB,3,Owen Price,2025-10-05,2025-10-01,2025-Q4,f,Monthly
+NSC-11286,Lowther Logistics Holdings,Public Sector,London & South East,SMB,3,Owen Price,2025-10-04,2025-10-01,2025-Q4,f,Monthly
+NSC-11287,Quayside Retail plc,Retail,North West,Mid-Market,2,Callum Reid,2025-10-25,2025-10-01,2025-Q4,f,Monthly
+NSC-11288,Beacon Housing Ltd,Professional Services,Ireland,Mid-Market,2,Daniel Hughes,2025-10-01,2025-10-01,2025-Q4,f,Annual
+NSC-11289,Ashford Advisory plc,Healthcare,Yorkshire & North East,Mid-Market,2,Daniel Hughes,2025-10-10,2025-10-01,2025-Q4,f,Monthly
+NSC-11290,Highland Health Holdings,Public Sector,Yorkshire & North East,SMB,3,Ravi Mehta,2025-11-02,2025-11-01,2025-Q4,f,Monthly
+NSC-11291,Fenwick Distribution Ltd,Public Sector,Ireland,SMB,3,Liam Carter,2025-11-15,2025-11-01,2025-Q4,f,Monthly
+NSC-11292,Cobalt Care plc,Education,North West,SMB,3,Ravi Mehta,2025-11-25,2025-11-01,2025-Q4,f,Annual
+NSC-11293,Thames Manufacturing Ltd,Retail,Ireland,SMB,3,Owen Price,2025-11-04,2025-11-01,2025-Q4,f,Monthly
+NSC-11294,Avon Supplies Holdings,Retail,Midlands,SMB,3,Owen Price,2025-11-07,2025-11-01,2025-Q4,f,Monthly
+NSC-11295,Mersey Supplies plc,Professional Services,Scotland,Enterprise,1,Priya Raman,2025-11-28,2025-11-01,2025-Q4,f,Annual
+NSC-11296,Orchard Care plc,Logistics,London & South East,SMB,3,Sophie Turner,2025-11-09,2025-11-01,2025-Q4,f,Annual
+NSC-11297,Orchard Logistics plc,Public Sector,Yorkshire & North East,SMB,3,Liam Carter,2025-11-07,2025-11-01,2025-Q4,f,Monthly
+NSC-11298,Falcon Advisory plc,Logistics,London & South East,SMB,3,Liam Carter,2025-11-12,2025-11-01,2025-Q4,f,Annual
+NSC-11299,Oakridge Energy LLP,Education,London & South East,SMB,3,Sophie Turner,2025-11-12,2025-11-01,2025-Q4,f,Monthly
+NSC-11300,Ironbridge Supplies LLP,Retail,Yorkshire & North East,Mid-Market,2,Aisha Patel,2025-11-22,2025-11-01,2025-Q4,f,Annual
+NSC-11301,Harbour Retail LLP,Healthcare,North West,SMB,3,Sophie Turner,2025-11-30,2025-11-01,2025-Q4,f,Monthly
+NSC-11302,Mersey Health plc,Financial Services,London & South East,Enterprise,1,Grace Okafor,2025-11-12,2025-11-01,2025-Q4,f,Annual
+NSC-11303,Moorland Housing Holdings,Manufacturing,North West,Mid-Market,2,Callum Reid,2025-11-11,2025-11-01,2025-Q4,f,Monthly
+NSC-11304,Orchard Capital Group,Financial Services,London & South East,SMB,3,Owen Price,2025-11-11,2025-11-01,2025-Q4,f,Monthly
+NSC-11305,Riverside Energy Ltd,Manufacturing,Scotland,Mid-Market,2,Daniel Hughes,2025-11-14,2025-11-01,2025-Q4,f,Annual
+NSC-11306,Severn Supplies Ltd,Healthcare,Midlands,Mid-Market,2,Aisha Patel,2025-11-14,2025-11-01,2025-Q4,f,Monthly
+NSC-11307,Redbrick Analytics LLP,Logistics,London & South East,SMB,3,Ravi Mehta,2025-11-13,2025-11-01,2025-Q4,f,Monthly
+NSC-11308,Severn Learning LLP,Financial Services,London & South East,Mid-Market,2,Callum Reid,2025-11-28,2025-11-01,2025-Q4,f,Annual
+NSC-11309,Redbrick Partners LLP,Professional Services,Scotland,Mid-Market,2,Aisha Patel,2025-11-09,2025-11-01,2025-Q4,f,Monthly
+NSC-11310,Kingsway Analytics plc,Healthcare,South West & Wales,SMB,3,Sophie Turner,2025-11-09,2025-11-01,2025-Q4,f,Annual
+NSC-11311,Meridian Freight plc,Healthcare,North West,SMB,3,Liam Carter,2025-11-21,2025-11-01,2025-Q4,f,Annual
+NSC-11312,Tamar Capital Holdings,Healthcare,Yorkshire & North East,Mid-Market,2,Daniel Hughes,2025-11-22,2025-11-01,2025-Q4,f,Monthly
+NSC-11313,Falcon Supplies Ltd,Healthcare,London & South East,SMB,3,Sophie Turner,2025-11-07,2025-11-01,2025-Q4,f,Monthly
+NSC-11314,Harbour Medical Ltd,Professional Services,London & South East,SMB,3,Liam Carter,2025-11-22,2025-11-01,2025-Q4,f,Annual
+NSC-11315,Saxon Foods Ltd,Professional Services,North West,SMB,3,Owen Price,2025-11-27,2025-11-01,2025-Q4,f,Monthly
+NSC-11316,Meridian Analytics plc,Financial Services,North West,Enterprise,1,Priya Raman,2025-12-15,2025-12-01,2025-Q4,f,Annual
+NSC-11317,Brightwater Health LLP,Retail,London & South East,Enterprise,1,Priya Raman,2025-12-29,2025-12-01,2025-Q4,f,Annual
+NSC-11318,Pennine Engineering Holdings,Healthcare,London & South East,SMB,3,Ravi Mehta,2025-12-09,2025-12-01,2025-Q4,f,Monthly
+NSC-11319,Sterling Advisory Ltd,Retail,South West & Wales,Mid-Market,2,Hannah Doyle,2025-12-13,2025-12-01,2025-Q4,f,Annual
+NSC-11320,Highland Logistics LLP,Professional Services,Yorkshire & North East,SMB,3,Owen Price,2025-12-01,2025-12-01,2025-Q4,f,Monthly
+NSC-11321,Clyde Housing Group,Public Sector,London & South East,Enterprise,1,Unassigned,2025-12-26,2025-12-01,2025-Q4,f,Annual
+NSC-11322,Cobalt Consulting LLP,Retail,Yorkshire & North East,SMB,3,Liam Carter,2025-12-27,2025-12-01,2025-Q4,f,Monthly
+NSC-11323,Castlefield Freight Holdings,Healthcare,Ireland,SMB,3,Owen Price,2025-12-12,2025-12-01,2025-Q4,f,Monthly
+NSC-11324,Calder Medical Ltd,Manufacturing,Midlands,SMB,3,Ravi Mehta,2025-12-08,2025-12-01,2025-Q4,f,Monthly
+NSC-11325,Mersey Partners plc,Professional Services,Scotland,Enterprise,1,Priya Raman,2025-12-19,2025-12-01,2025-Q4,f,Annual
+NSC-11326,Westmoor Care plc,Public Sector,North West,SMB,3,Liam Carter,2025-12-23,2025-12-01,2025-Q4,f,Monthly
+NSC-11327,Kingsway Partners Holdings,Retail,Ireland,SMB,3,Megan Shaw,2025-12-22,2025-12-01,2025-Q4,f,Monthly
+NSC-11328,Kingsway Distribution Group,Financial Services,South West & Wales,SMB,3,Megan Shaw,2025-12-07,2025-12-01,2025-Q4,f,Monthly
+NSC-11329,Beacon Supplies LLP,Logistics,London & South East,Mid-Market,2,Hannah Doyle,2025-12-17,2025-12-01,2025-Q4,f,Monthly
+NSC-11330,Oakridge Housing Holdings,Professional Services,South West & Wales,SMB,3,Sophie Turner,2025-12-04,2025-12-01,2025-Q4,f,Monthly
+NSC-11331,Tamar Supplies LLP,Professional Services,London & South East,SMB,3,Owen Price,2025-12-03,2025-12-01,2025-Q4,f,Monthly
+NSC-11332,Sterling Retail Ltd,Retail,London & South East,SMB,3,Liam Carter,2026-01-29,2026-01-01,2026-Q1,f,Monthly
+NSC-11333,Castlefield Housing LLP,Manufacturing,London & South East,Mid-Market,2,Callum Reid,2026-01-10,2026-01-01,2026-Q1,f,Annual
+NSC-11334,Northgate Retail LLP,Manufacturing,Yorkshire & North East,SMB,3,Liam Carter,2026-01-03,2026-01-01,2026-Q1,f,Monthly
+NSC-11335,Moorland Health LLP,Manufacturing,Ireland,SMB,3,Unassigned,2026-01-08,2026-01-01,2026-Q1,f,Annual
+NSC-11336,Beacon Logistics LLP,Manufacturing,North West,SMB,3,Sophie Turner,2026-01-28,2026-01-01,2026-Q1,f,Monthly
+NSC-11337,Beacon Manufacturing Ltd,Education,Yorkshire & North East,SMB,3,Owen Price,2026-01-28,2026-01-01,2026-Q1,f,Monthly
+NSC-11338,Saxon Housing LLP,Logistics,North West,SMB,3,Sophie Turner,2026-01-25,2026-01-01,2026-Q1,f,Annual
+NSC-11339,Mersey Logistics Holdings,Retail,Scotland,Enterprise,1,Tom Whitfield,2026-01-14,2026-01-01,2026-Q1,f,Annual
+NSC-11340,Meridian Learning Ltd,Financial Services,Ireland,SMB,3,Ravi Mehta,2026-01-07,2026-01-01,2026-Q1,f,Monthly
+NSC-11341,Fenwick Learning Ltd,Healthcare,Scotland,SMB,3,Owen Price,2026-01-15,2026-01-01,2026-Q1,f,Annual
+NSC-11342,Holloway Supplies plc,Manufacturing,Scotland,SMB,3,Megan Shaw,2026-01-23,2026-01-01,2026-Q1,f,Monthly
+NSC-11343,Sterling Learning Ltd,Education,Scotland,Mid-Market,2,Hannah Doyle,2026-01-27,2026-01-01,2026-Q1,f,Annual
+NSC-11344,Tamar Foods plc,Retail,London & South East,Mid-Market,2,Hannah Doyle,2026-01-16,2026-01-01,2026-Q1,f,Annual
+NSC-11345,Lantern Learning Group,Retail,Midlands,Enterprise,1,Grace Okafor,2026-01-20,2026-01-01,2026-Q1,f,Annual
+NSC-11346,Ironbridge Consulting Ltd,Retail,South West & Wales,SMB,3,Unassigned,2026-01-23,2026-01-01,2026-Q1,f,Annual
+NSC-11347,Clyde Partners Group,Manufacturing,London & South East,SMB,3,Sophie Turner,2026-01-22,2026-01-01,2026-Q1,f,Annual
+NSC-11348,Peak Energy Ltd,Retail,London & South East,Mid-Market,2,Daniel Hughes,2026-01-17,2026-01-01,2026-Q1,f,Monthly
+NSC-11349,Calder Analytics plc,Retail,Yorkshire & North East,SMB,3,Megan Shaw,2026-01-08,2026-01-01,2026-Q1,f,Monthly
+NSC-11350,Oakridge Distribution Ltd,Logistics,North West,SMB,3,Sophie Turner,2026-01-24,2026-01-01,2026-Q1,f,Monthly
+NSC-11351,Pennine Partners Ltd,Healthcare,London & South East,Enterprise,1,Tom Whitfield,2026-01-09,2026-01-01,2026-Q1,f,Annual
+NSC-11352,Sterling Energy Holdings,Healthcare,London & South East,SMB,3,Liam Carter,2026-01-04,2026-01-01,2026-Q1,f,Annual
+NSC-11353,Falcon Logistics Holdings,Retail,Midlands,SMB,3,Sophie Turner,2026-01-21,2026-01-01,2026-Q1,f,Monthly
+NSC-11354,Ironbridge Energy LLP,Financial Services,London & South East,SMB,3,Owen Price,2026-01-10,2026-01-01,2026-Q1,f,Monthly
+NSC-11355,Bluebell Care plc,Retail,Yorkshire & North East,Mid-Market,2,Daniel Hughes,2026-01-16,2026-01-01,2026-Q1,f,Annual
+NSC-11356,Fenwick Distribution plc,Public Sector,London & South East,Mid-Market,2,Callum Reid,2026-01-24,2026-01-01,2026-Q1,f,Annual
+NSC-11357,Oakridge Engineering Ltd,Professional Services,North West,SMB,3,Sophie Turner,2026-01-28,2026-01-01,2026-Q1,f,Monthly
+NSC-11358,Wessex Foods plc,Retail,London & South East,Enterprise,1,Grace Okafor,2026-01-06,2026-01-01,2026-Q1,f,Annual
+NSC-11359,Pennine Retail Holdings,Retail,North West,Enterprise,1,Grace Okafor,2026-01-29,2026-01-01,2026-Q1,f,Annual
+NSC-11360,Peak Retail Ltd,Logistics,Midlands,SMB,3,Ravi Mehta,2026-01-29,2026-01-01,2026-Q1,f,Monthly
+NSC-11361,Wessex Consulting Ltd,Professional Services,London & South East,Mid-Market,2,Hannah Doyle,2026-01-29,2026-01-01,2026-Q1,f,Monthly
+NSC-11362,Riverside Advisory plc,Manufacturing,London & South East,Mid-Market,2,Hannah Doyle,2026-01-24,2026-01-01,2026-Q1,f,Monthly
+NSC-11363,Cobalt Analytics Holdings,Professional Services,South West & Wales,Enterprise,1,Grace Okafor,2026-01-01,2026-01-01,2026-Q1,f,Annual
+NSC-11364,Mersey Manufacturing Ltd,Retail,Ireland,SMB,3,Owen Price,2026-01-23,2026-01-01,2026-Q1,f,Monthly
+NSC-11365,Holloway Analytics Group,Education,Midlands,SMB,3,Owen Price,2026-01-25,2026-01-01,2026-Q1,f,Monthly
+NSC-11366,Pennine Medical Ltd,Healthcare,South West & Wales,SMB,3,Sophie Turner,2026-01-27,2026-01-01,2026-Q1,f,Monthly
+NSC-11367,Harbour Supplies LLP,Public Sector,Scotland,SMB,3,Ravi Mehta,2026-01-26,2026-01-01,2026-Q1,f,Monthly
+NSC-11368,Sterling Capital Ltd,Public Sector,London & South East,SMB,3,Ravi Mehta,2026-02-28,2026-02-01,2026-Q1,f,Monthly
+NSC-11369,Meridian Analytics Ltd,Retail,London & South East,Enterprise,1,Tom Whitfield,2026-02-06,2026-02-01,2026-Q1,f,Monthly
+NSC-11370,Peak Learning Ltd,Public Sector,London & South East,SMB,3,Megan Shaw,2026-02-05,2026-02-01,2026-Q1,f,Annual
+NSC-11371,Riverside Freight Group,Financial Services,North West,SMB,3,Owen Price,2026-02-12,2026-02-01,2026-Q1,f,Monthly
+NSC-11372,Moorland Freight Ltd,Logistics,London & South East,Enterprise,1,Priya Raman,2026-02-26,2026-02-01,2026-Q1,f,Monthly
+NSC-11373,Meridian Analytics LLP,Retail,Yorkshire & North East,Enterprise,1,Priya Raman,2026-02-21,2026-02-01,2026-Q1,f,Monthly
+NSC-11374,Ironbridge Care Ltd,Manufacturing,London & South East,Mid-Market,2,Callum Reid,2026-02-21,2026-02-01,2026-Q1,f,Annual
+NSC-11375,Ironbridge Freight Ltd,Manufacturing,South West & Wales,Mid-Market,2,Daniel Hughes,2026-02-27,2026-02-01,2026-Q1,f,Monthly
+NSC-11376,Tamar Housing LLP,Healthcare,Midlands,SMB,3,Megan Shaw,2026-02-01,2026-02-01,2026-Q1,f,Monthly
+NSC-11377,Fenwick Engineering Holdings,Retail,Midlands,Mid-Market,2,Hannah Doyle,2026-02-24,2026-02-01,2026-Q1,f,Annual
+NSC-11378,Ironbridge Partners Holdings,Logistics,London & South East,Mid-Market,2,Hannah Doyle,2026-02-08,2026-02-01,2026-Q1,f,Monthly
+NSC-11379,Moorland Supplies Group,Financial Services,Scotland,SMB,3,Sophie Turner,2026-02-20,2026-02-01,2026-Q1,f,Monthly
+NSC-11380,Sterling Energy Ltd,Logistics,Midlands,SMB,3,Liam Carter,2026-02-14,2026-02-01,2026-Q1,f,Monthly
+NSC-11381,Northgate Foods plc,Retail,South West & Wales,SMB,3,Megan Shaw,2026-02-22,2026-02-01,2026-Q1,f,Monthly
+NSC-11382,Redbrick Manufacturing plc,Financial Services,South West & Wales,SMB,3,Owen Price,2026-02-09,2026-02-01,2026-Q1,f,Annual
+NSC-11383,Fenwick Engineering Ltd,Education,Midlands,Mid-Market,2,Daniel Hughes,2026-02-24,2026-02-01,2026-Q1,f,Monthly
+NSC-11384,Meridian Foods plc,Retail,North West,SMB,3,Owen Price,2026-02-21,2026-02-01,2026-Q1,f,Monthly
+NSC-11385,Harbour Care Ltd,Education,Midlands,SMB,3,Sophie Turner,2026-02-07,2026-02-01,2026-Q1,f,Annual
+NSC-11386,Bluebell Systems plc,Professional Services,London & South East,Mid-Market,2,Callum Reid,2026-02-27,2026-02-01,2026-Q1,f,Annual
+NSC-11387,Severn Engineering Group,Manufacturing,Scotland,SMB,3,Liam Carter,2026-02-16,2026-02-01,2026-Q1,f,Monthly
+NSC-11388,Kingsway Distribution Ltd,Healthcare,North West,SMB,3,Megan Shaw,2026-02-23,2026-02-01,2026-Q1,f,Monthly
+NSC-11389,Redbrick Learning plc,Logistics,Ireland,SMB,3,Owen Price,2026-02-05,2026-02-01,2026-Q1,f,Monthly
+NSC-11390,Lantern Freight Ltd,Healthcare,Yorkshire & North East,Mid-Market,2,Hannah Doyle,2026-02-06,2026-02-01,2026-Q1,f,Monthly
+NSC-11391,Redbrick Freight Group,Retail,Ireland,SMB,3,Megan Shaw,2026-02-15,2026-02-01,2026-Q1,f,Monthly
+NSC-11392,Meridian Supplies Holdings,Healthcare,Scotland,SMB,3,Owen Price,2026-02-11,2026-02-01,2026-Q1,f,Monthly
+NSC-11393,Holloway Foods Ltd,Healthcare,South West & Wales,Enterprise,1,Priya Raman,2026-02-05,2026-02-01,2026-Q1,f,Annual
+NSC-11394,Highland Medical Ltd,Logistics,South West & Wales,Mid-Market,2,Hannah Doyle,2026-02-02,2026-02-01,2026-Q1,f,Monthly
+NSC-11395,Northgate Energy Ltd,Manufacturing,North West,SMB,3,Sophie Turner,2026-02-06,2026-02-01,2026-Q1,f,Annual
+NSC-11396,Pennine Advisory LLP,Public Sector,Midlands,SMB,3,Unassigned,2026-03-09,2026-03-01,2026-Q1,f,Monthly
+NSC-11397,Albion Distribution Group,Manufacturing,London & South East,Mid-Market,2,Aisha Patel,2026-03-29,2026-03-01,2026-Q1,f,Annual
+NSC-11398,Bluebell Learning Group,Education,London & South East,Mid-Market,2,Aisha Patel,2026-03-22,2026-03-01,2026-Q1,f,Monthly
+NSC-11399,Harbour Capital Ltd,Logistics,London & South East,SMB,3,Ravi Mehta,2026-03-12,2026-03-01,2026-Q1,f,Monthly
+NSC-11400,Pennine Retail Group,Professional Services,North West,Mid-Market,2,Hannah Doyle,2026-03-24,2026-03-01,2026-Q1,f,Annual
+NSC-11401,Severn Systems LLP,Healthcare,London & South East,SMB,3,Megan Shaw,2026-03-20,2026-03-01,2026-Q1,f,Monthly
+NSC-11402,Brightwater Manufacturing Group,Public Sector,South West & Wales,Mid-Market,2,Callum Reid,2026-03-10,2026-03-01,2026-Q1,f,Annual
+NSC-11403,Granite Health Ltd,Logistics,Ireland,Enterprise,1,Tom Whitfield,2026-03-11,2026-03-01,2026-Q1,f,Annual
+NSC-11404,Sterling Housing Group,Professional Services,South West & Wales,SMB,3,Sophie Turner,2026-03-07,2026-03-01,2026-Q1,f,Monthly
+NSC-11405,Oakridge Housing plc,Retail,North West,SMB,3,Liam Carter,2026-03-13,2026-03-01,2026-Q1,f,Monthly
+NSC-11406,Calder Freight Ltd,Retail,London & South East,SMB,3,Megan Shaw,2026-03-14,2026-03-01,2026-Q1,f,Monthly
+NSC-11407,Bluebell Engineering LLP,Financial Services,North West,Mid-Market,2,Hannah Doyle,2026-03-23,2026-03-01,2026-Q1,f,Monthly
+NSC-11408,Falcon Consulting Group,Financial Services,North West,SMB,3,Owen Price,2026-03-06,2026-03-01,2026-Q1,f,Monthly
+NSC-11409,Kingsway Engineering plc,Logistics,North West,SMB,3,Megan Shaw,2026-03-24,2026-03-01,2026-Q1,f,Monthly
+NSC-11411,Meridian Systems Group,Education,London & South East,SMB,3,Owen Price,2026-03-14,2026-03-01,2026-Q1,f,Monthly
+NSC-11412,Ashford Supplies Holdings,Retail,London & South East,SMB,3,Liam Carter,2026-03-01,2026-03-01,2026-Q1,f,Monthly
+NSC-11413,Highland Learning Holdings,Financial Services,London & South East,Mid-Market,2,Callum Reid,2026-03-21,2026-03-01,2026-Q1,f,Annual
+NSC-11414,Severn Health Ltd,Retail,London & South East,Enterprise,1,Tom Whitfield,2026-03-16,2026-03-01,2026-Q1,f,Annual
+NSC-11415,Clyde Housing LLP,Professional Services,Midlands,SMB,3,Megan Shaw,2026-03-04,2026-03-01,2026-Q1,f,Monthly
+NSC-11416,Oakridge Retail Ltd,Professional Services,London & South East,Mid-Market,2,Daniel Hughes,2026-03-16,2026-03-01,2026-Q1,f,Monthly
+NSC-11417,Mersey Engineering Group,Manufacturing,South West & Wales,SMB,3,Megan Shaw,2026-03-25,2026-03-01,2026-Q1,f,Monthly
+NSC-11418,Thames Advisory LLP,Retail,Yorkshire & North East,Enterprise,1,Priya Raman,2026-04-12,2026-04-01,2026-Q2,f,Annual
+NSC-11420,Quayside Supplies LLP,Healthcare,London & South East,SMB,3,Sophie Turner,2026-04-07,2026-04-01,2026-Q2,f,Annual
+NSC-11421,Quayside Engineering Ltd,Professional Services,Midlands,Mid-Market,2,Callum Reid,2026-04-27,2026-04-01,2026-Q2,f,Annual
+NSC-11422,Riverside Analytics LLP,Healthcare,London & South East,SMB,3,Sophie Turner,2026-04-22,2026-04-01,2026-Q2,f,Monthly
+NSC-11423,Kingsway Consulting Ltd,Professional Services,London & South East,SMB,3,Sophie Turner,2026-04-18,2026-04-01,2026-Q2,f,Annual
+NSC-11424,Wessex Freight Group,Retail,Scotland,SMB,3,Liam Carter,2026-04-10,2026-04-01,2026-Q2,f,Annual
+NSC-11425,Beacon Supplies Group,Financial Services,Yorkshire & North East,SMB,3,Sophie Turner,2026-04-21,2026-04-01,2026-Q2,f,Annual
+NSC-11426,Severn Foods Group,Professional Services,Yorkshire & North East,SMB,3,Ravi Mehta,2026-04-03,2026-04-01,2026-Q2,f,Annual
+NSC-11427,Redbrick Systems LLP,Financial Services,Yorkshire & North East,SMB,3,Liam Carter,2026-04-19,2026-04-01,2026-Q2,f,Monthly
+NSC-11428,Avon Housing Group,Logistics,Yorkshire & North East,Mid-Market,2,Aisha Patel,2026-04-21,2026-04-01,2026-Q2,f,Monthly
+NSC-11429,Quayside Analytics Ltd,Retail,London & South East,SMB,3,Ravi Mehta,2026-04-11,2026-04-01,2026-Q2,f,Monthly
+NSC-11430,Calder Distribution plc,Retail,London & South East,SMB,3,Liam Carter,2026-04-18,2026-04-01,2026-Q2,f,Annual
+NSC-11431,Cobalt Housing Ltd,Education,Scotland,SMB,3,Liam Carter,2026-04-15,2026-04-01,2026-Q2,f,Monthly
+NSC-11432,Meridian Freight LLP,Professional Services,South West & Wales,Mid-Market,2,Hannah Doyle,2026-04-17,2026-04-01,2026-Q2,f,Monthly
+NSC-11433,Fenwick Supplies Group,Retail,London & South East,SMB,3,Sophie Turner,2026-05-04,2026-05-01,2026-Q2,f,Monthly
+NSC-11434,Granite Capital LLP,Manufacturing,South West & Wales,SMB,3,Megan Shaw,2026-05-09,2026-05-01,2026-Q2,f,Monthly
+NSC-11435,Castlefield Supplies Ltd,Healthcare,London & South East,SMB,3,Megan Shaw,2026-05-27,2026-05-01,2026-Q2,f,Annual
+NSC-11436,Kingsway Distribution Holdings,Logistics,Yorkshire & North East,SMB,3,Megan Shaw,2026-05-17,2026-05-01,2026-Q2,f,Monthly
+NSC-11437,Westmoor Systems Ltd,Healthcare,London & South East,Mid-Market,2,Aisha Patel,2026-05-12,2026-05-01,2026-Q2,f,Annual
+NSC-11438,Falcon Analytics Holdings,Retail,South West & Wales,SMB,3,Megan Shaw,2026-05-10,2026-05-01,2026-Q2,f,Annual
+NSC-11439,Redbrick Energy Ltd,Healthcare,London & South East,SMB,3,Unassigned,2026-05-12,2026-05-01,2026-Q2,f,Monthly
+NSC-11440,Lowther Learning LLP,Retail,North West,SMB,3,Liam Carter,2026-05-15,2026-05-01,2026-Q2,f,Annual
+NSC-11441,Avon Consulting Ltd,Healthcare,Yorkshire & North East,Mid-Market,2,Daniel Hughes,2026-05-09,2026-05-01,2026-Q2,f,Annual
+NSC-11442,Tamar Energy Group,Education,North West,Mid-Market,2,Callum Reid,2026-05-27,2026-05-01,2026-Q2,f,Monthly
+NSC-11443,Holloway Partners Ltd,Logistics,London & South East,SMB,3,Owen Price,2026-05-11,2026-05-01,2026-Q2,f,Annual
+NSC-11444,Sterling Energy Group,Manufacturing,Midlands,SMB,3,Liam Carter,2026-05-10,2026-05-01,2026-Q2,f,Monthly
+NSC-11445,Orchard Manufacturing Holdings,Professional Services,Midlands,SMB,3,Megan Shaw,2026-05-01,2026-05-01,2026-Q2,f,Annual
+NSC-11446,Saxon Manufacturing Group,Education,Yorkshire & North East,Enterprise,1,Grace Okafor,2026-05-25,2026-05-01,2026-Q2,f,Annual
+NSC-11447,Ember Energy Ltd,Education,London & South East,SMB,3,Sophie Turner,2026-05-21,2026-05-01,2026-Q2,f,Monthly
+NSC-11448,Mersey Consulting plc,Retail,South West & Wales,SMB,3,Sophie Turner,2026-05-13,2026-05-01,2026-Q2,f,Monthly
+NSC-11450,Quayside Distribution plc,Healthcare,Midlands,SMB,3,Owen Price,2026-05-03,2026-05-01,2026-Q2,f,Monthly
+NSC-11451,Holloway Freight LLP,Healthcare,London & South East,Mid-Market,2,Callum Reid,2026-05-18,2026-05-01,2026-Q2,f,Annual
+NSC-11452,Cobalt Learning Group,Logistics,South West & Wales,Mid-Market,2,Callum Reid,2026-05-16,2026-05-01,2026-Q2,f,Monthly
+NSC-11453,Moorland Learning LLP,Manufacturing,London & South East,SMB,3,Ravi Mehta,2026-05-17,2026-05-01,2026-Q2,f,Monthly
+NSC-11454,Pennine Logistics Group,Financial Services,North West,SMB,3,Megan Shaw,2026-05-21,2026-05-01,2026-Q2,f,Monthly
+NSC-11455,Tamar Health LLP,Retail,Scotland,Mid-Market,2,Callum Reid,2026-06-30,2026-06-01,2026-Q2,f,Annual
+NSC-11456,Mersey Freight plc,Financial Services,Yorkshire & North East,SMB,3,Megan Shaw,2026-06-27,2026-06-01,2026-Q2,f,Monthly
+NSC-11457,Castlefield Manufacturing Group,Professional Services,London & South East,SMB,3,Sophie Turner,2026-06-13,2026-06-01,2026-Q2,f,Annual
+NSC-11458,Pennine Learning Holdings,Logistics,Midlands,Mid-Market,2,Unassigned,2026-06-26,2026-06-01,2026-Q2,f,Annual
+NSC-11459,Mersey Systems LLP,Professional Services,London & South East,SMB,3,Megan Shaw,2026-06-05,2026-06-01,2026-Q2,f,Monthly
+NSC-11460,Calder Retail LLP,Manufacturing,London & South East,SMB,3,Ravi Mehta,2026-06-19,2026-06-01,2026-Q2,f,Monthly
+NSC-11461,Albion Systems Ltd,Logistics,Midlands,SMB,3,Ravi Mehta,2026-06-08,2026-06-01,2026-Q2,f,Monthly
+NSC-11462,Cobalt Systems Holdings,Healthcare,Midlands,SMB,3,Ravi Mehta,2026-06-16,2026-06-01,2026-Q2,f,Monthly
+NSC-11463,Bluebell Medical Ltd,Healthcare,London & South East,SMB,3,Liam Carter,2026-06-28,2026-06-01,2026-Q2,f,Monthly
+NSC-11464,Brightwater Systems Holdings,Unknown,London & South East,SMB,3,Sophie Turner,2026-06-27,2026-06-01,2026-Q2,f,Monthly
+NSC-11465,Ember Care Group,Healthcare,Midlands,SMB,3,Liam Carter,2026-06-16,2026-06-01,2026-Q2,f,Annual
+NSC-11466,Albion Analytics LLP,Manufacturing,South West & Wales,Enterprise,1,Tom Whitfield,2026-06-24,2026-06-01,2026-Q2,f,Annual
+NSC-11467,Kingsway Health Group,Financial Services,South West & Wales,Mid-Market,2,Hannah Doyle,2026-06-02,2026-06-01,2026-Q2,f,Monthly
+NSC-11468,Ashford Health plc,Manufacturing,North West,SMB,3,Sophie Turner,2026-06-13,2026-06-01,2026-Q2,f,Monthly
+NSC-11469,Riverside Retail LLP,Education,Midlands,Enterprise,1,Grace Okafor,2026-06-16,2026-06-01,2026-Q2,f,Annual
+NSC-11470,Ashford Health Ltd,Professional Services,Midlands,SMB,3,Owen Price,2026-06-08,2026-06-01,2026-Q2,f,Monthly
+NSC-11471,Lantern Health plc,Healthcare,South West & Wales,SMB,3,Megan Shaw,2026-06-12,2026-06-01,2026-Q2,f,Monthly
+NSC-11472,Thames Housing Ltd,Manufacturing,South West & Wales,Mid-Market,2,Callum Reid,2026-06-25,2026-06-01,2026-Q2,f,Monthly
+NSC-11473,Moorland Capital Ltd,Financial Services,Ireland,SMB,3,Sophie Turner,2026-06-09,2026-06-01,2026-Q2,f,Monthly
+NSC-11474,Saxon Supplies Ltd,Healthcare,Midlands,SMB,3,Megan Shaw,2026-06-15,2026-06-01,2026-Q2,f,Monthly
+NSC-11475,Heathrow Supplies Ltd,Logistics,Midlands,SMB,3,Liam Carter,2026-06-18,2026-06-01,2026-Q2,f,Annual
+NSC-11476,Avon Care Ltd,Financial Services,North West,Mid-Market,2,Callum Reid,2026-06-15,2026-06-01,2026-Q2,f,Annual
+NSC-11477,Wessex Engineering Holdings,Professional Services,North West,Enterprise,1,Priya Raman,2026-06-05,2026-06-01,2026-Q2,f,Annual
+NSC-11478,Quayside Care LLP,Retail,Midlands,Mid-Market,2,Aisha Patel,2026-06-08,2026-06-01,2026-Q2,f,Annual
+NSC-11479,Wessex Care LLP,Manufacturing,London & South East,SMB,3,Megan Shaw,2026-06-28,2026-06-01,2026-Q2,f,Annual
+NSC-11480,Redbrick Partners Group,Financial Services,Yorkshire & North East,Mid-Market,2,Aisha Patel,2026-07-30,2026-07-01,2026-Q3,f,Annual
+NSC-11481,Riverside Foods Group,Unknown,Midlands,SMB,3,Ravi Mehta,2026-07-20,2026-07-01,2026-Q3,f,Monthly
+NSC-11482,Peak Housing Ltd,Healthcare,Scotland,Mid-Market,2,Callum Reid,2026-07-23,2026-07-01,2026-Q3,f,Annual
+NSC-11483,Bluebell Advisory Holdings,Retail,South West & Wales,SMB,3,Ravi Mehta,2026-07-15,2026-07-01,2026-Q3,f,Annual
+NSC-11484,Tamar Housing Group,Healthcare,Scotland,SMB,3,Ravi Mehta,2026-07-15,2026-07-01,2026-Q3,f,Monthly
+NSC-11485,Pennine Analytics Ltd,Financial Services,Midlands,Mid-Market,2,Aisha Patel,2026-07-09,2026-07-01,2026-Q3,f,Annual
+NSC-11486,Granite Medical Holdings,Logistics,London & South East,SMB,3,Owen Price,2026-07-18,2026-07-01,2026-Q3,f,Monthly
+NSC-11487,Bluebell Analytics plc,Manufacturing,London & South East,Mid-Market,2,Callum Reid,2026-07-12,2026-07-01,2026-Q3,f,Monthly
+NSC-11488,Redbrick Capital Ltd,Public Sector,Yorkshire & North East,SMB,3,Owen Price,2026-07-28,2026-07-01,2026-Q3,f,Monthly
+NSC-11489,Sterling Analytics Group,Retail,Scotland,SMB,3,Ravi Mehta,2026-07-04,2026-07-01,2026-Q3,f,Annual
+NSC-11490,Beacon Freight plc,Healthcare,Midlands,Mid-Market,2,Aisha Patel,2026-07-27,2026-07-01,2026-Q3,f,Annual
+NSC-11491,Beacon Retail Group,Logistics,London & South East,SMB,3,Ravi Mehta,2026-07-10,2026-07-01,2026-Q3,f,Monthly
+NSC-11492,Brightwater Consulting Ltd,Healthcare,London & South East,Mid-Market,2,Daniel Hughes,2026-07-23,2026-07-01,2026-Q3,f,Annual
+NSC-11493,Thames Learning Group,Professional Services,London & South East,SMB,3,Owen Price,2026-08-31,2026-08-01,2026-Q3,f,Monthly
+NSC-11494,Kingsway Engineering Group,Public Sector,Yorkshire & North East,Mid-Market,2,Hannah Doyle,2026-08-01,2026-08-01,2026-Q3,f,Annual
+NSC-11495,Albion Analytics Group,Manufacturing,London & South East,Mid-Market,2,Daniel Hughes,2026-08-21,2026-08-01,2026-Q3,f,Annual
+NSC-11496,Tamar Systems plc,Logistics,London & South East,SMB,3,Ravi Mehta,2026-08-16,2026-08-01,2026-Q3,f,Monthly
+NSC-11497,Northgate Care Ltd,Financial Services,Yorkshire & North East,SMB,3,Sophie Turner,2026-08-02,2026-08-01,2026-Q3,f,Monthly
+NSC-11498,Avon Housing plc,Logistics,North West,SMB,3,Owen Price,2026-08-27,2026-08-01,2026-Q3,f,Monthly
+NSC-11499,Harbour Freight Group,Retail,London & South East,Mid-Market,2,Callum Reid,2026-08-04,2026-08-01,2026-Q3,f,Annual
+NSC-11500,Severn Foods Holdings,Education,South West & Wales,Mid-Market,2,Aisha Patel,2026-08-22,2026-08-01,2026-Q3,f,Monthly
+NSC-11501,Lowther Retail Ltd,Retail,London & South East,SMB,3,Megan Shaw,2026-08-30,2026-08-01,2026-Q3,f,Monthly
+NSC-11502,Highland Supplies LLP,Retail,North West,SMB,3,Owen Price,2026-08-06,2026-08-01,2026-Q3,f,Monthly
+NSC-11503,Harbour Capital plc,Retail,South West & Wales,SMB,3,Ravi Mehta,2026-08-02,2026-08-01,2026-Q3,f,Monthly
+NSC-11504,Avon Distribution Holdings,Education,Yorkshire & North East,SMB,3,Liam Carter,2026-08-18,2026-08-01,2026-Q3,f,Monthly
+NSC-11505,Ashford Engineering LLP,Public Sector,North West,Enterprise,1,Tom Whitfield,2026-08-24,2026-08-01,2026-Q3,f,Annual
+NSC-11506,Thames Engineering LLP,Retail,North West,Mid-Market,2,Hannah Doyle,2026-08-11,2026-08-01,2026-Q3,f,Annual
+NSC-11507,Ashford Analytics Holdings,Healthcare,South West & Wales,Enterprise,1,Tom Whitfield,2026-08-15,2026-08-01,2026-Q3,f,Annual
+NSC-11508,Harbour Distribution Ltd,Financial Services,North West,SMB,3,Owen Price,2026-08-12,2026-08-01,2026-Q3,f,Monthly
+NSC-11509,Holloway Housing plc,Logistics,Midlands,SMB,3,Megan Shaw,2026-08-19,2026-08-01,2026-Q3,f,Monthly
+NSC-11511,Ember Housing Ltd,Public Sector,London & South East,SMB,3,Owen Price,2026-08-16,2026-08-01,2026-Q3,f,Annual
+NSC-11512,Lantern Engineering Ltd,Education,London & South East,SMB,3,Liam Carter,2026-08-04,2026-08-01,2026-Q3,f,Annual
+NSC-11513,Calder Foods Ltd,Professional Services,Ireland,SMB,3,Megan Shaw,2026-08-17,2026-08-01,2026-Q3,f,Annual
+NSC-11514,Tamar Retail plc,Manufacturing,North West,SMB,3,Ravi Mehta,2026-09-28,2026-09-01,2026-Q3,f,Annual
+NSC-11515,Avon Analytics Holdings,Logistics,London & South East,SMB,3,Liam Carter,2026-09-22,2026-09-01,2026-Q3,f,Monthly
+NSC-11516,Saxon Logistics plc,Healthcare,Ireland,Enterprise,1,Tom Whitfield,2026-09-05,2026-09-01,2026-Q3,f,Annual
+NSC-11517,Clyde Logistics LLP,Retail,North West,SMB,3,Owen Price,2026-09-07,2026-09-01,2026-Q3,f,Monthly
+NSC-11518,Sterling Systems Group,Financial Services,London & South East,SMB,3,Liam Carter,2026-09-28,2026-09-01,2026-Q3,f,Monthly
+NSC-11519,Cobalt Analytics Ltd,Retail,London & South East,SMB,3,Megan Shaw,2026-09-09,2026-09-01,2026-Q3,f,Monthly
+NSC-11520,Riverside Foods Holdings,Financial Services,London & South East,SMB,3,Megan Shaw,2026-09-01,2026-09-01,2026-Q3,f,Monthly
+NSC-11521,Saxon Advisory Holdings,Retail,London & South East,SMB,3,Ravi Mehta,2026-09-03,2026-09-01,2026-Q3,f,Monthly
+NSC-11522,Granite Housing plc,Manufacturing,Yorkshire & North East,SMB,3,Owen Price,2026-09-05,2026-09-01,2026-Q3,f,Annual
+NSC-11523,Falcon Housing LLP,Logistics,North West,Mid-Market,2,Hannah Doyle,2026-09-13,2026-09-01,2026-Q3,f,Annual
+NSC-11524,Riverside Partners Ltd,Financial Services,Scotland,SMB,3,Owen Price,2026-09-16,2026-09-01,2026-Q3,f,Monthly
+NSC-11525,Heathrow Manufacturing plc,Public Sector,Midlands,SMB,3,Megan Shaw,2026-09-26,2026-09-01,2026-Q3,f,Monthly
+NSC-11526,Severn Analytics Ltd,Unknown,Yorkshire & North East,SMB,3,Sophie Turner,2026-09-13,2026-09-01,2026-Q3,f,Monthly
+NSC-11527,Harbour Manufacturing Group,Financial Services,London & South East,SMB,3,Ravi Mehta,2026-09-20,2026-09-01,2026-Q3,f,Annual
+NSC-11528,Lantern Freight plc,Healthcare,Midlands,SMB,3,Sophie Turner,2026-09-28,2026-09-01,2026-Q3,f,Annual
+NSC-11529,Sterling Partners plc,Professional Services,South West & Wales,SMB,3,Megan Shaw,2026-09-15,2026-09-01,2026-Q3,f,Annual
+NSC-11530,Wessex Analytics Ltd,Professional Services,London & South East,SMB,3,Liam Carter,2026-09-02,2026-09-01,2026-Q3,f,Monthly
+NSC-11531,Avon Systems Ltd,Healthcare,South West & Wales,Mid-Market,2,Daniel Hughes,2026-09-08,2026-09-01,2026-Q3,f,Annual
+NSC-11532,Severn Logistics Group,Retail,Midlands,Enterprise,1,Priya Raman,2026-09-08,2026-09-01,2026-Q3,f,Annual
+NSC-11533,Beacon Foods plc,Unknown,London & South East,Mid-Market,2,Aisha Patel,2026-09-17,2026-09-01,2026-Q3,f,Annual
+NSC-11534,Northgate Advisory Holdings,Public Sector,Yorkshire & North East,Mid-Market,2,Aisha Patel,2026-09-03,2026-09-01,2026-Q3,f,Annual
+NSC-11535,Kingsway Medical plc,Healthcare,Scotland,SMB,3,Unassigned,2026-09-29,2026-09-01,2026-Q3,f,Annual
+NSC-11536,Oakridge Freight Group,Retail,Ireland,SMB,3,Owen Price,2026-09-11,2026-09-01,2026-Q3,f,Monthly
+NSC-11537,Riverside Manufacturing Holdings,Professional Services,Midlands,SMB,3,Sophie Turner,2026-09-19,2026-09-01,2026-Q3,f,Monthly
+NSC-11538,Calder Manufacturing Group,Logistics,Yorkshire & North East,SMB,3,Sophie Turner,2026-09-20,2026-09-01,2026-Q3,f,Monthly
+NSC-11539,Lantern Foods LLP,Healthcare,London & South East,SMB,3,Sophie Turner,2026-09-17,2026-09-01,2026-Q3,f,Monthly
+NSC-11540,Wessex Engineering plc,Logistics,South West & Wales,SMB,3,Ravi Mehta,2026-09-18,2026-09-01,2026-Q3,f,Monthly
+NSC-11541,Westmoor Partners Group,Financial Services,London & South East,SMB,3,Megan Shaw,2026-09-09,2026-09-01,2026-Q3,f,Monthly
+NSC-11542,Brightwater Logistics Holdings,Retail,Ireland,Enterprise,1,Tom Whitfield,2026-09-13,2026-09-01,2026-Q3,f,Annual
+NSC-11543,Holloway Manufacturing LLP,Education,South West & Wales,SMB,3,Liam Carter,2026-09-03,2026-09-01,2026-Q3,f,Monthly
+NSC-11544,Ashford Advisory LLP,Manufacturing,Scotland,SMB,3,Owen Price,2026-09-21,2026-09-01,2026-Q3,f,Monthly
+NSC-10233,Falcon Learning Group,Professional Services,South West & Wales,Enterprise,1,Priya Raman,2023-10-01,2023-10-01,2023-Q4,f,Annual
+NSC-10356,Albion Care Ltd,Retail,North West,SMB,3,Ravi Mehta,2023-10-01,2023-10-01,2023-Q4,f,Monthly
+NSC-10435,Redbrick Manufacturing Ltd,Retail,London & South East,SMB,3,Ravi Mehta,2023-10-01,2023-10-01,2023-Q4,f,Monthly
+NSC-10483,Riverside Analytics Group,Retail,North West,Mid-Market,2,Daniel Hughes,2023-10-01,2023-10-01,2023-Q4,f,Annual
+NSC-10564,Harbour Housing Ltd,Retail,South West & Wales,SMB,3,Owen Price,2023-11-01,2023-11-01,2023-Q4,f,Monthly
+NSC-10699,Northgate Consulting Ltd,Retail,Midlands,Mid-Market,2,Callum Reid,2024-03-01,2024-03-01,2024-Q1,f,Annual
+NSC-10761,Castlefield Manufacturing Holdings,Manufacturing,North West,SMB,3,Megan Shaw,2024-05-01,2024-05-01,2024-Q2,f,Monthly
+NSC-10988,Heathrow Distribution Ltd,Logistics,Yorkshire & North East,SMB,3,Unassigned,2025-01-01,2025-01-01,2025-Q1,f,Annual
+NSC-11081,Quayside Capital LLP,Logistics,North West,SMB,3,Sophie Turner,2025-03-01,2025-03-01,2025-Q1,f,Annual
+NSC-11115,Westmoor Advisory Ltd,Logistics,North West,SMB,3,Megan Shaw,2025-05-01,2025-05-01,2025-Q2,f,Annual
+NSC-11183,Brightwater Analytics Ltd,Public Sector,London & South East,SMB,3,Megan Shaw,2025-07-01,2025-07-01,2025-Q3,f,Annual
+NSC-11229,Sterling Freight Ltd,Public Sector,London & South East,Enterprise,1,Grace Okafor,2025-09-01,2025-09-01,2025-Q3,f,Annual
+NSC-11410,Fenwick Manufacturing Holdings,Logistics,London & South East,Enterprise,1,Grace Okafor,2026-03-01,2026-03-01,2026-Q1,f,Annual
+NSC-11419,Avon Consulting Holdings,Financial Services,London & South East,SMB,3,Megan Shaw,2026-04-01,2026-04-01,2026-Q2,f,Monthly
+NSC-11449,Northgate Engineering Group,Logistics,Ireland,Mid-Market,2,Aisha Patel,2026-05-01,2026-05-01,2026-Q2,f,Annual

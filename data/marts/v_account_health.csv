@@ -1,0 +1,1180 @@
+account_id,company_name,tier,region,industry,account_manager,plan_type,mrr_gbp,arr_gbp,next_renewal_month,tickets_90d,hp_breaches_90d,all_breaches_90d,avg_resolution_hrs_90d,avg_csat_180d,open_tickets,adoption_13w,adoption_last_4w,adoption_prior_8w,adoption_trend_pts,active_users_last_4w,risk_score,risk_band
+NSC-10141,Saxon Logistics Ltd,SMB,London & South East,Logistics,Megan Shaw,Monthly,840.00,10080.00,,1,0,0,16.9,5.00,0,54.2,55.4,53.8,1.6,19.0,5,Low
+NSC-10198,Oakridge Foods Ltd,Enterprise,South West & Wales,Healthcare,Priya Raman,Annual,10825.00,129900.00,2026-12-01,9,0,0,39.6,3.55,0,40.4,39.4,40.4,-1.0,149.0,21,Medium
+NSC-10299,Tamar Systems Ltd,Mid-Market,London & South East,Logistics,Hannah Doyle,Annual,7235.00,86820.00,2026-11-01,2,0,1,103.1,3.50,0,56.3,61.5,53.9,7.6,149.8,7,Low
+NSC-10535,Ironbridge Supplies Ltd,SMB,London & South East,Financial Services,Owen Price,Annual,985.00,11820.00,2026-10-01,0,0,0,,3.00,0,65.5,65.1,65.6,-0.5,25.0,9,Medium
+NSC-10606,Pennine Systems plc,Mid-Market,Midlands,Professional Services,Hannah Doyle,Monthly,3420.00,41040.00,,4,0,0,42.9,3.75,0,55.5,55.2,55.3,-0.1,69.0,6,Low
+NSC-10611,Orchard Engineering plc,SMB,South West & Wales,Manufacturing,Sophie Turner,Monthly,250.00,3000.00,,2,0,0,57.0,4.00,0,69.3,72.1,67.8,4.3,6.3,0,Low
+NSC-10620,Lantern Care Holdings,Enterprise,London & South East,Public Sector,Priya Raman,Annual,12210.00,146520.00,2027-01-01,8,0,1,40.5,4.00,0,74.0,71.9,75.0,-3.1,253.8,5,Low
+NSC-10670,Peak Care Ltd,Enterprise,South West & Wales,Manufacturing,Priya Raman,Annual,35590.00,427080.00,2027-03-01,7,3,4,68.8,3.56,0,61.2,49.1,66.3,-17.2,512.5,89,Medium
+NSC-11032,Fenwick Analytics plc,Mid-Market,London & South East,Professional Services,Daniel Hughes,Annual,1605.00,19260.00,2027-02-01,2,0,0,20.7,3.00,0,63.4,68.6,60.3,8.3,37.5,8,Medium
+NSC-11283,Kingsway Systems Group,Mid-Market,Yorkshire & North East,Retail,Aisha Patel,Monthly,2820.00,33840.00,,7,0,0,21.3,5.00,0,63.7,65.3,62.7,2.6,63.5,0,Low
+NSC-11356,Fenwick Distribution plc,Mid-Market,London & South East,Public Sector,Callum Reid,Annual,2400.00,28800.00,2027-01-01,7,0,0,41.1,3.33,0,61.3,61.6,62.1,-0.5,52.0,6,Medium
+NSC-11402,Brightwater Manufacturing Group,Mid-Market,South West & Wales,Public Sector,Callum Reid,Annual,2640.00,31680.00,2027-03-01,2,0,0,25.8,4.00,0,78.1,79.8,76.7,3.1,66.0,0,Low
+NSC-11409,Kingsway Engineering plc,SMB,North West,Logistics,Megan Shaw,Monthly,115.00,1380.00,,3,0,0,38.4,4.00,0,74.7,69.4,77.2,-7.8,3.0,12,Medium
+NSC-11442,Tamar Energy Group,Mid-Market,North West,Education,Callum Reid,Monthly,3440.00,41280.00,,8,0,3,76.3,1.50,0,46.6,45.5,47.9,-2.4,60.8,34,Medium
+NSC-10006,Clyde Capital Ltd,Enterprise,North West,Public Sector,Priya Raman,Annual,19835.00,238020.00,2027-05-01,13,0,0,32.3,3.80,0,72.8,70.1,74.1,-4.0,426.3,8,Low
+NSC-10058,Mersey Care Ltd,Mid-Market,London & South East,Retail,Daniel Hughes,Annual,3100.00,37200.00,2027-01-01,5,0,0,42.0,3.00,0,72.6,69.7,73.7,-4.0,70.5,14,Medium
+NSC-10059,Peak Capital Holdings,SMB,Scotland,Professional Services,Megan Shaw,Monthly,175.00,2100.00,,1,0,0,4.7,5.00,0,77.4,79.8,76.8,3.0,5.0,0,Low
+NSC-10111,Mersey Partners LLP,SMB,Yorkshire & North East,Healthcare,Liam Carter,Monthly,1165.00,13980.00,,1,0,0,8.5,3.00,0,74.9,69.8,77.3,-7.5,30.8,19,Medium
+NSC-10163,Wessex Partners Ltd,SMB,South West & Wales,Manufacturing,Megan Shaw,Annual,1170.00,14040.00,2027-02-01,0,0,0,,,0,68.6,69.6,68.5,1.1,30.3,0,Low
+NSC-10344,Meridian Systems Ltd,Mid-Market,London & South East,Public Sector,Aisha Patel,Monthly,12380.00,148560.00,,3,0,1,65.4,4.25,0,66.2,68.9,65.2,3.7,266.5,0,Low
+NSC-10640,Mersey Partners Group,Mid-Market,Scotland,Professional Services,Callum Reid,Annual,2635.00,31620.00,2027-02-01,2,0,1,49.1,4.00,0,56.8,60.9,55.4,5.5,54.5,3,Low
+NSC-10664,Riverside Capital Group,SMB,London & South East,Professional Services,Owen Price,Monthly,290.00,3480.00,,5,0,2,85.7,4.00,1,69.4,70.7,69.2,1.5,7.5,0,Low
+NSC-10741,Falcon Manufacturing Ltd,Mid-Market,London & South East,Manufacturing,Callum Reid,Monthly,2830.00,33960.00,,6,2,3,51.9,4.20,0,56.7,55.7,57.1,-1.4,50.5,45,Medium
+NSC-10883,Lantern Manufacturing Holdings,SMB,London & South East,Healthcare,Ravi Mehta,Monthly,315.00,3780.00,,2,0,0,20.1,4.50,0,81.3,82.2,80.6,1.6,9.0,0,Low
+NSC-11013,Clyde Care Holdings,Enterprise,Midlands,Retail,Priya Raman,Annual,17620.00,211440.00,2027-01-01,7,1,1,29.7,4.44,0,62.5,63.7,62.9,0.8,329.0,20,Medium
+NSC-11033,Brightwater Supplies Ltd,SMB,North West,Retail,Liam Carter,Monthly,630.00,7560.00,,1,0,0,34.5,5.00,0,66.6,65.5,66.7,-1.2,16.0,2,Low
+NSC-11070,Meridian Health LLP,SMB,Scotland,Logistics,Liam Carter,Monthly,115.00,1380.00,,2,0,0,17.9,1.00,0,48.6,49.7,48.6,1.1,2.5,33,Medium
+NSC-11164,Oakridge Analytics Ltd,Mid-Market,London & South East,Retail,Hannah Doyle,Annual,2440.00,29280.00,2027-06-01,2,2,2,8.5,4.25,1,61.8,60.6,62.1,-1.5,48.5,42,Medium
+NSC-11166,Pennine Distribution plc,SMB,London & South East,Logistics,Liam Carter,Monthly,655.00,7860.00,,3,0,0,37.4,5.00,0,63.3,61.8,63.3,-1.5,15.8,2,Low
+NSC-11318,Pennine Engineering Holdings,SMB,London & South East,Healthcare,Ravi Mehta,Monthly,655.00,7860.00,,0,0,0,,,0,51.5,50.0,52.4,-2.4,13.8,10,Low
+NSC-11325,Mersey Partners plc,Enterprise,Scotland,Professional Services,Priya Raman,Annual,4765.00,57180.00,2026-12-01,17,0,3,51.5,3.33,0,40.3,35.6,42.9,-7.3,63.3,32,Medium
+NSC-11410,Fenwick Manufacturing Holdings,Enterprise,London & South East,Logistics,Grace Okafor,Annual,5710.00,68520.00,2027-03-01,10,0,1,29.7,3.00,1,75.0,70.3,76.9,-6.6,117.0,18,Medium
+NSC-10054,Kingsway Supplies Ltd,Mid-Market,London & South East,Education,Hannah Doyle,Annual,4760.00,57120.00,2026-12-01,6,0,0,14.1,5.00,0,62.7,60.0,64.7,-4.7,101.0,7,Low
+NSC-10073,Ashford Supplies Ltd,Mid-Market,London & South East,Public Sector,Aisha Patel,Monthly,2065.00,24780.00,,6,0,0,22.2,3.00,0,61.8,60.9,62.0,-1.1,38.8,10,Medium
+NSC-10118,Cobalt Capital Ltd,Mid-Market,North West,Education,Aisha Patel,Annual,1940.00,23280.00,2027-05-01,0,0,0,,4.00,0,75.1,80.0,73.0,7.0,48.8,0,Low
+NSC-10132,Bluebell Systems Ltd,Enterprise,London & South East,Professional Services,Grace Okafor,Annual,7330.00,87960.00,2027-04-01,16,1,1,31.1,2.33,0,43.4,45.1,42.7,2.4,102.8,47,Medium
+NSC-10245,Cobalt Engineering Ltd,Mid-Market,Midlands,Public Sector,Hannah Doyle,Annual,3660.00,43920.00,2027-02-01,3,0,1,62.5,3.50,0,75.8,75.7,75.8,-0.1,95.3,4,Low
+NSC-10300,Redbrick Advisory Holdings,Mid-Market,Midlands,Education,Aisha Patel,Annual,1780.00,21360.00,2027-03-01,2,0,0,11.4,3.00,0,71.2,72.8,71.1,1.7,42.3,8,Medium
+NSC-10312,Castlefield Energy Group,SMB,Midlands,Financial Services,Liam Carter,Monthly,190.00,2280.00,,1,0,0,4.6,4.50,0,74.6,79.1,73.5,5.6,4.8,0,Low
+NSC-10350,Severn Care LLP,SMB,London & South East,Healthcare,Owen Price,Monthly,1050.00,12600.00,,0,0,0,,5.00,0,82.6,83.8,81.8,2.0,33.3,0,Low
+NSC-10352,Severn Manufacturing Ltd,SMB,Scotland,Education,Owen Price,Monthly,1480.00,17760.00,,1,0,0,12.6,,0,63.2,59.9,64.6,-4.7,37.0,7,Low
+NSC-10392,Mersey Systems Ltd,SMB,North West,Manufacturing,Megan Shaw,Monthly,970.00,11640.00,,1,0,0,55.3,4.50,0,86.1,88.8,85.6,3.2,29.0,0,Low
+NSC-10411,Granite Retail Holdings,Mid-Market,Yorkshire & North East,Healthcare,Hannah Doyle,Monthly,2870.00,34440.00,,5,0,0,18.9,4.13,1,62.8,63.8,61.7,2.1,63.5,0,Low
+NSC-10412,Harbour Manufacturing LLP,Mid-Market,Yorkshire & North East,Education,Callum Reid,Annual,6055.00,72660.00,2027-03-01,4,1,1,34.7,2.00,0,79.9,81.7,79.0,2.7,152.3,36,Medium
+NSC-10452,Tamar Capital Ltd,Enterprise,Midlands,Financial Services,Grace Okafor,Annual,10670.00,128040.00,2026-11-01,12,2,2,31.1,3.15,0,36.2,39.1,35.0,4.1,151.0,66,High
+NSC-10642,Fenwick Consulting Group,SMB,Yorkshire & North East,Financial Services,Liam Carter,Annual,520.00,6240.00,2027-02-01,0,0,0,,,0,70.8,68.9,71.3,-2.4,13.3,4,Low
+NSC-10673,Brightwater Distribution Group,SMB,South West & Wales,Public Sector,Liam Carter,Monthly,245.00,2940.00,,4,0,0,48.9,3.00,0,47.6,43.7,49.1,-5.4,4.8,26,Medium
+NSC-10779,Highland Manufacturing Ltd,SMB,Midlands,Financial Services,Sophie Turner,Annual,255.00,3060.00,2027-06-01,1,0,0,112.5,,0,59.9,60.5,59.3,1.2,6.3,0,Low
+NSC-10814,Castlefield Analytics Group,SMB,North West,Unknown,Ravi Mehta,Annual,210.00,2520.00,2027-06-01,5,0,0,69.9,1.00,0,64.2,63.8,64.5,-0.7,5.0,25,Medium
+NSC-10889,Calder Systems Ltd,Enterprise,Ireland,Logistics,Tom Whitfield,Annual,10165.00,121980.00,2027-09-01,10,0,1,41.0,3.89,0,62.2,60.3,62.7,-2.4,181.3,4,Low
+NSC-10941,Harbour Medical Holdings,Mid-Market,London & South East,Professional Services,Daniel Hughes,Annual,1620.00,19440.00,2026-11-01,5,0,1,76.8,3.40,0,75.2,76.0,74.9,1.1,39.5,5,Medium
+NSC-10952,Castlefield Medical plc,SMB,North West,Manufacturing,Liam Carter,Monthly,1290.00,15480.00,,0,0,0,,,0,66.8,62.0,69.1,-7.1,31.0,11,Medium
+NSC-10994,Fenwick Capital LLP,SMB,Midlands,Retail,Sophie Turner,Annual,375.00,4500.00,2027-01-01,1,0,0,11.3,4.00,0,77.6,77.4,77.8,-0.4,10.3,1,Low
+NSC-10998,Avon Capital Ltd,SMB,Scotland,Logistics,Sophie Turner,Monthly,215.00,2580.00,,1,0,1,136.6,,0,59.9,60.5,60.4,0.1,5.0,0,Low
+NSC-11159,Albion Supplies Holdings,Mid-Market,London & South East,Professional Services,Hannah Doyle,Annual,2020.00,24240.00,2027-06-01,2,0,0,49.5,4.67,0,68.6,70.2,68.5,1.7,43.5,0,Low
+NSC-11195,Orchard Foods Ltd,SMB,London & South East,Logistics,Ravi Mehta,Annual,210.00,2520.00,2027-07-01,2,0,0,37.0,5.00,0,77.4,76.9,77.8,-0.9,5.3,1,Low
+NSC-11301,Harbour Retail LLP,SMB,North West,Healthcare,Sophie Turner,Monthly,105.00,1260.00,,2,0,0,13.3,4.50,0,64.2,66.6,62.6,4.0,2.0,0,Low
+NSC-11327,Kingsway Partners Holdings,SMB,Ireland,Retail,Megan Shaw,Monthly,295.00,3540.00,,1,0,0,16.5,2.00,0,71.2,71.9,70.6,1.3,8.0,16,Medium
+NSC-11331,Tamar Supplies LLP,SMB,London & South East,Professional Services,Owen Price,Monthly,450.00,5400.00,,1,0,0,15.6,,0,75.6,79.4,73.9,5.5,12.8,0,Low
+NSC-11470,Ashford Health Ltd,SMB,Midlands,Professional Services,Owen Price,Monthly,100.00,1200.00,,0,0,0,,,0,78.3,75.5,80.3,-4.8,2.0,7,Low
+NSC-10464,Ember Logistics Ltd,SMB,North West,Professional Services,Owen Price,Monthly,520.00,6240.00,,3,0,0,19.5,3.25,0,69.7,72.6,68.1,4.5,13.5,6,Medium
+NSC-10529,Ironbridge Freight LLP,SMB,Scotland,Unknown,Megan Shaw,Monthly,300.00,3600.00,,0,0,0,,3.00,0,64.6,61.2,65.6,-4.4,6.8,15,Medium
+NSC-10646,Albion Energy Ltd,Enterprise,London & South East,Logistics,Priya Raman,Annual,24090.00,289080.00,2027-02-01,15,2,2,29.3,3.75,0,53.3,57.2,52.5,4.7,437.3,47,Medium
+NSC-10743,Castlefield Systems LLP,SMB,South West & Wales,Logistics,Liam Carter,Monthly,630.00,7560.00,,1,0,0,7.4,,0,53.0,54.3,52.1,2.2,13.8,6,Low
+NSC-10802,Ember Consulting plc,SMB,Ireland,Logistics,Sophie Turner,Annual,605.00,7260.00,2027-06-01,0,0,0,,4.00,0,70.9,68.3,71.3,-3.0,16.0,5,Low
+NSC-10934,Clyde Health Ltd,Mid-Market,North West,Logistics,Aisha Patel,Monthly,1305.00,15660.00,,5,0,0,46.5,4.33,1,58.5,56.2,59.6,-3.4,26.0,6,Low
+NSC-10984,Peak Learning Group,Mid-Market,London & South East,Retail,Aisha Patel,Monthly,2450.00,29400.00,,3,0,0,21.5,4.14,0,59.9,62.0,58.9,3.1,51.0,0,Low
+NSC-11269,Granite Manufacturing Holdings,Enterprise,London & South East,Logistics,Unassigned,Annual,5190.00,62280.00,2026-10-01,15,2,3,46.4,3.22,2,59.1,57.8,59.7,-1.9,92.8,50,Medium
+NSC-11367,Harbour Supplies LLP,SMB,Scotland,Public Sector,Ravi Mehta,Monthly,500.00,6000.00,,0,0,0,,,0,56.5,55.6,57.0,-1.4,10.3,5,Low
+NSC-11376,Tamar Housing LLP,SMB,Midlands,Healthcare,Megan Shaw,Monthly,425.00,5100.00,,0,0,0,,5.00,0,83.4,80.6,85.4,-4.8,12.0,7,Low
+NSC-11426,Severn Foods Group,SMB,Yorkshire & North East,Professional Services,Ravi Mehta,Annual,620.00,7440.00,2027-04-01,0,0,0,,,0,73.9,71.3,74.8,-3.5,16.5,5,Low
+NSC-11440,Lowther Learning LLP,SMB,North West,Retail,Liam Carter,Annual,175.00,2100.00,2027-05-01,0,0,0,,,0,79.9,77.5,81.4,-3.9,5.0,6,Low
+NSC-11521,Saxon Advisory Holdings,SMB,London & South East,Retail,Ravi Mehta,Monthly,120.00,1440.00,,0,0,0,,,0,65.9,65.9,,,3.0,0,Low
+NSC-10081,Redbrick Retail Ltd,Mid-Market,Scotland,Unknown,Callum Reid,Monthly,2100.00,25200.00,,4,0,0,32.8,4.00,1,66.2,68.1,64.7,3.4,47.0,0,Low
+NSC-10104,Severn Advisory LLP,Enterprise,Midlands,Logistics,Grace Okafor,Monthly,14375.00,172500.00,,12,0,0,32.8,3.33,0,34.5,40.7,32.5,8.2,193.3,26,High
+NSC-10112,Severn Retail Ltd,SMB,London & South East,Professional Services,Sophie Turner,Monthly,430.00,5160.00,,1,0,0,,,1,88.0,86.3,88.8,-2.5,13.3,4,Low
+NSC-10375,Sterling Partners Ltd,SMB,North West,Education,Megan Shaw,Annual,440.00,5280.00,2026-12-01,0,0,0,,,0,74.2,72.8,75.0,-2.2,11.8,3,Low
+NSC-10514,Orchard Supplies Ltd,SMB,South West & Wales,Financial Services,Owen Price,Monthly,550.00,6600.00,,4,0,0,32.2,4.00,0,55.7,58.4,54.9,3.5,12.8,3,Low
+NSC-10601,Wessex Learning LLP,SMB,South West & Wales,Financial Services,Sophie Turner,Monthly,570.00,6840.00,,1,0,1,129.3,4.00,0,68.2,67.6,69.2,-1.6,15.0,2,Low
+NSC-10621,Ember Retail Ltd,Mid-Market,London & South East,Manufacturing,Callum Reid,Annual,4130.00,49560.00,2027-01-01,6,0,1,92.4,4.00,0,70.9,72.3,70.1,2.2,103.0,0,Low
+NSC-10660,Oakridge Systems Holdings,SMB,Ireland,Professional Services,Sophie Turner,Monthly,190.00,2280.00,,2,0,1,66.7,3.00,0,63.8,59.4,65.1,-5.7,4.3,17,Medium
+NSC-10771,Orchard Retail Holdings,SMB,North West,Professional Services,Megan Shaw,Monthly,160.00,1920.00,,4,0,2,105.7,3.00,0,39.8,39.4,40.5,-1.1,2.3,26,Medium
+NSC-10774,Severn Engineering Holdings,SMB,South West & Wales,Education,Megan Shaw,Monthly,250.00,3000.00,,3,0,0,50.8,5.00,0,73.2,73.2,72.5,0.7,6.3,0,Low
+NSC-10929,Ember Distribution Ltd,Mid-Market,North West,Public Sector,Unassigned,Annual,3390.00,40680.00,2026-11-01,8,1,3,50.5,3.25,0,64.6,60.3,66.1,-5.8,73.8,35,Medium
+NSC-10993,Ember Analytics Holdings,Mid-Market,London & South East,Public Sector,Callum Reid,Annual,1005.00,12060.00,2027-01-01,3,1,1,30.0,4.25,0,58.5,60.3,57.4,2.9,20.8,21,Medium
+NSC-11004,Thames Distribution Group,Mid-Market,North West,Logistics,Aisha Patel,Monthly,3570.00,42840.00,,2,0,1,139.6,5.00,1,60.3,61.5,60.0,1.5,77.8,0,Low
+NSC-11175,Fenwick Analytics Ltd,Mid-Market,North West,Financial Services,Aisha Patel,Monthly,4310.00,51720.00,,3,0,0,52.2,5.00,1,66.7,67.7,65.9,1.8,97.0,0,Low
+NSC-11250,Sterling Manufacturing LLP,Mid-Market,London & South East,Logistics,Aisha Patel,Annual,2475.00,29700.00,2027-09-01,6,1,2,47.7,3.67,0,37.2,33.2,38.4,-5.2,36.8,49,Medium
+NSC-11340,Meridian Learning Ltd,SMB,Ireland,Financial Services,Ravi Mehta,Monthly,825.00,9900.00,,3,0,0,32.5,5.00,0,72.9,73.0,72.3,0.7,22.3,0,Low
+NSC-11385,Harbour Care Ltd,SMB,Midlands,Education,Sophie Turner,Annual,440.00,5280.00,2027-02-01,2,0,1,88.3,2.00,0,62.3,61.2,63.0,-1.8,10.5,19,Medium
+NSC-11393,Holloway Foods Ltd,Enterprise,South West & Wales,Healthcare,Priya Raman,Annual,5285.00,63420.00,2027-02-01,14,0,1,26.9,4.50,1,79.8,78.6,79.9,-1.3,114.0,2,Low
+NSC-11505,Ashford Engineering LLP,Enterprise,North West,Public Sector,Tom Whitfield,Annual,7030.00,84360.00,2027-08-01,13,1,2,29.5,3.17,1,42.2,42.0,42.3,-0.3,107.8,41,Medium
+NSC-10041,Cobalt Supplies plc,SMB,Midlands,Professional Services,Unassigned,Monthly,450.00,5400.00,,0,0,0,,,0,54.7,59.7,51.9,7.8,10.8,4,Low
+NSC-10050,Saxon Analytics Ltd,SMB,London & South East,Retail,Ravi Mehta,Monthly,560.00,6720.00,,3,0,2,126.2,1.00,0,71.9,74.3,71.5,2.8,15.5,24,Medium
+NSC-10070,Avon Medical Ltd,SMB,South West & Wales,Financial Services,Ravi Mehta,Monthly,170.00,2040.00,,1,0,0,12.3,,0,75.4,76.0,74.6,1.4,5.0,0,Low
+NSC-10127,Peak Retail Holdings,SMB,London & South East,Healthcare,Sophie Turner,Annual,595.00,7140.00,2027-01-01,1,0,0,53.3,3.00,0,70.2,73.3,68.1,5.2,14.8,8,Medium
+NSC-10143,Holloway Logistics Ltd,Enterprise,London & South East,Retail,Priya Raman,Annual,11185.00,134220.00,2027-05-01,12,0,0,12.1,4.46,1,90.6,90.5,89.6,0.9,251.0,0,Low
+NSC-10162,Pennine Retail LLP,Enterprise,Midlands,Financial Services,Unassigned,Annual,11010.00,132120.00,2026-10-01,13,0,1,43.2,3.36,1,21.7,21.9,22.0,-0.1,101.0,36,High
+NSC-10211,Oakridge Distribution Group,Mid-Market,North West,Manufacturing,Callum Reid,Annual,8570.00,102840.00,2026-12-01,4,0,0,27.0,4.00,0,62.1,60.3,62.7,-2.4,177.0,4,Low
+NSC-10370,Severn Learning Ltd,Enterprise,Scotland,Healthcare,Tom Whitfield,Annual,7530.00,90360.00,2027-03-01,11,0,1,27.4,3.47,1,56.6,58.4,55.6,2.8,122.3,7,Medium
+NSC-10490,Tamar Energy Ltd,Mid-Market,London & South East,Retail,Daniel Hughes,Annual,4875.00,58500.00,2027-08-01,1,0,0,37.7,,0,64.4,63.0,64.0,-1.0,105.0,2,Low
+NSC-10507,Albion Manufacturing Ltd,SMB,South West & Wales,Unknown,Liam Carter,Monthly,710.00,8520.00,,0,0,0,,5.00,0,49.6,47.6,49.8,-2.2,15.0,12,Medium
+NSC-10510,Peak Care plc,SMB,North West,Professional Services,Ravi Mehta,Monthly,265.00,3180.00,,2,0,1,94.0,2.50,0,73.9,71.5,75.1,-3.6,6.8,17,Medium
+NSC-10531,Fenwick Partners Ltd,Mid-Market,Midlands,Professional Services,Hannah Doyle,Annual,1935.00,23220.00,2026-10-01,3,1,1,41.7,3.00,0,69.6,71.2,68.7,2.5,45.5,28,Medium
+NSC-10690,Heathrow Manufacturing Group,Mid-Market,London & South East,Education,Callum Reid,Annual,2740.00,32880.00,2027-03-01,7,0,1,56.8,3.60,1,64.4,61.9,65.9,-4.0,58.5,9,Low
+NSC-10724,Cobalt Distribution LLP,Mid-Market,North West,Education,Daniel Hughes,Annual,1715.00,20580.00,2027-04-01,3,0,1,106.7,2.50,0,68.7,70.9,67.8,3.1,41.0,12,Medium
+NSC-10725,Heathrow Learning Ltd,Mid-Market,North West,Logistics,Aisha Patel,Annual,1060.00,12720.00,2027-04-01,2,0,0,49.7,4.00,1,63.0,62.1,63.5,-1.4,23.8,2,Low
+NSC-10778,Falcon Housing Holdings,SMB,North West,Healthcare,Owen Price,Monthly,230.00,2760.00,,2,0,0,26.9,5.00,0,57.0,57.8,56.5,1.3,5.0,2,Low
+NSC-10788,Castlefield Manufacturing Ltd,Mid-Market,North West,Healthcare,Hannah Doyle,Annual,3035.00,36420.00,2027-06-01,2,0,0,6.3,3.50,0,84.4,86.0,84.1,1.9,77.5,4,Low
+NSC-10828,Brightwater Freight Ltd,SMB,Scotland,Manufacturing,Ravi Mehta,Monthly,175.00,2100.00,,1,0,0,58.5,5.00,0,72.1,75.1,69.9,5.2,4.5,0,Low
+NSC-10863,Lowther Care plc,SMB,London & South East,Retail,Ravi Mehta,Annual,300.00,3600.00,2027-08-01,0,0,0,,,0,82.3,81.2,82.0,-0.8,8.8,1,Low
+NSC-10987,Bluebell Retail Group,SMB,London & South East,Education,Megan Shaw,Annual,210.00,2520.00,2027-01-01,2,0,1,57.6,3.50,0,67.0,62.9,68.7,-5.8,4.8,13,Medium
+NSC-10991,Lowther Distribution plc,Mid-Market,London & South East,Healthcare,Aisha Patel,Annual,1865.00,22380.00,2027-01-01,3,1,2,62.8,1.75,0,74.4,74.9,74.3,0.6,46.3,38,Medium
+NSC-11082,Falcon Engineering Ltd,Enterprise,Scotland,Education,Grace Okafor,Annual,5545.00,66540.00,2027-03-01,7,0,1,27.2,3.20,0,44.4,42.7,45.2,-2.5,76.8,23,Medium
+NSC-11149,Beacon Consulting Group,Mid-Market,Yorkshire & North East,Professional Services,Daniel Hughes,Monthly,1345.00,16140.00,,1,0,0,24.4,3.50,0,59.8,57.8,61.0,-3.2,26.8,9,Low
+NSC-11220,Ember Capital plc,Mid-Market,London & South East,Manufacturing,Aisha Patel,Annual,2525.00,30300.00,2027-08-01,4,0,2,70.6,2.75,0,37.6,36.6,38.2,-1.6,42.5,30,Medium
+NSC-11315,Saxon Foods Ltd,SMB,North West,Professional Services,Owen Price,Monthly,175.00,2100.00,,0,0,0,,,0,67.5,67.2,67.6,-0.4,4.3,1,Low
+NSC-11335,Moorland Health LLP,SMB,Ireland,Manufacturing,Unassigned,Annual,625.00,7500.00,2027-01-01,1,0,0,40.3,5.00,0,76.5,77.5,76.1,1.4,17.3,0,Low
+NSC-11343,Sterling Learning Ltd,Mid-Market,Scotland,Education,Hannah Doyle,Annual,2255.00,27060.00,2027-01-01,6,0,0,32.1,3.33,1,62.8,62.4,63.4,-1.0,44.0,7,Medium
+NSC-11354,Ironbridge Energy LLP,SMB,London & South East,Financial Services,Owen Price,Monthly,425.00,5100.00,,1,0,0,42.0,,0,49.5,49.9,49.3,0.6,8.8,8,Medium
+NSC-11480,Redbrick Partners Group,Mid-Market,Yorkshire & North East,Financial Services,Aisha Patel,Annual,2525.00,30300.00,2027-07-01,1,0,0,12.1,,0,51.7,48.7,52.3,-3.6,51.0,12,Low
+NSC-11539,Lantern Foods LLP,SMB,London & South East,Healthcare,Sophie Turner,Monthly,420.00,5040.00,,0,0,0,,,0,70.7,70.7,,,11.0,0,Low
+NSC-10024,Bluebell Supplies Ltd,Enterprise,Midlands,Financial Services,Grace Okafor,Annual,5950.00,71400.00,2026-12-01,12,2,4,47.5,3.25,0,38.2,34.0,39.8,-5.8,67.8,72,High
+NSC-10042,Redbrick Learning LLP,Mid-Market,London & South East,Logistics,Callum Reid,Annual,3285.00,39420.00,2027-02-01,3,0,0,53.7,4.00,0,70.5,71.5,70.1,1.4,76.8,0,Low
+NSC-10285,Lantern Foods Ltd,Mid-Market,Yorkshire & North East,Logistics,Hannah Doyle,Annual,1725.00,20700.00,2026-12-01,3,0,0,37.7,2.50,0,54.8,52.7,56.3,-3.6,33.8,22,Medium
+NSC-10749,Thames Supplies Group,Enterprise,London & South East,Education,Priya Raman,Annual,4580.00,54960.00,2027-04-01,21,0,2,38.0,2.44,1,17.8,21.1,15.6,5.5,44.3,46,High
+NSC-11109,Northgate Logistics plc,SMB,Scotland,Retail,Owen Price,Monthly,355.00,4260.00,,1,0,0,75.4,3.00,0,83.8,82.0,84.9,-2.9,10.3,12,Medium
+NSC-10001,Ember Partners Ltd,Mid-Market,Scotland,Public Sector,Aisha Patel,Monthly,3120.00,37440.00,,3,0,0,11.5,4.00,1,73.9,75.3,73.0,2.3,75.5,0,Low
+NSC-10046,Riverside Consulting Ltd,Mid-Market,North West,Manufacturing,Aisha Patel,Annual,6945.00,83340.00,2027-05-01,1,0,0,47.9,4.50,0,70.6,74.5,68.1,6.4,170.8,0,Low
+NSC-10100,Pennine Manufacturing Group,Enterprise,Midlands,Manufacturing,Grace Okafor,Annual,9655.00,115860.00,2027-04-01,7,1,2,34.4,3.00,0,51.9,55.8,50.1,5.7,158.0,34,Medium
+NSC-10204,Westmoor Energy Ltd,SMB,London & South East,Manufacturing,Megan Shaw,Monthly,315.00,3780.00,,2,0,0,36.4,5.00,0,75.3,79.7,73.2,6.5,8.8,0,Low
+NSC-10349,Lowther Energy Ltd,Mid-Market,London & South East,Retail,Daniel Hughes,Annual,2380.00,28560.00,2027-01-01,2,0,0,11.4,4.33,0,68.6,72.7,66.6,6.1,56.8,0,Low
+NSC-10521,Moorland Logistics Ltd,Mid-Market,Yorkshire & North East,Education,Aisha Patel,Annual,2125.00,25500.00,2026-10-01,6,0,0,14.9,4.00,1,85.4,87.7,83.5,4.2,56.3,0,Low
+NSC-10645,Lantern Analytics LLP,Mid-Market,London & South East,Healthcare,Callum Reid,Monthly,1630.00,19560.00,,2,0,0,28.1,3.00,0,80.5,80.0,80.6,-0.6,41.0,9,Medium
+NSC-10688,Mersey Medical LLP,Mid-Market,Scotland,Education,Daniel Hughes,Monthly,2010.00,24120.00,,3,0,1,36.5,1.00,0,68.0,61.6,69.3,-7.7,44.3,36,Medium
+NSC-10696,Riverside Advisory Group,SMB,Yorkshire & North East,Professional Services,Ravi Mehta,Monthly,185.00,2220.00,,1,0,0,16.2,,0,72.6,70.5,73.8,-3.3,4.5,5,Low
+NSC-10719,Cobalt Freight plc,Mid-Market,Yorkshire & North East,Unknown,Callum Reid,Annual,1370.00,16440.00,2027-04-01,1,0,0,58.0,2.00,0,61.2,57.9,62.4,-4.5,29.0,23,Medium
+NSC-10735,Meridian Learning Group,Mid-Market,Midlands,Retail,Hannah Doyle,Annual,870.00,10440.00,2027-04-01,3,1,2,49.7,2.75,0,25.1,23.4,26.7,-3.3,12.0,63,High
+NSC-10744,Ember Manufacturing Group,Enterprise,Scotland,Professional Services,Tom Whitfield,Annual,8405.00,100860.00,2027-04-01,12,0,1,48.5,3.64,0,26.3,28.2,26.3,1.9,102.8,30,High
+NSC-10776,Saxon Capital Ltd,SMB,North West,Financial Services,Megan Shaw,Annual,285.00,3420.00,2027-06-01,2,0,0,44.4,,0,78.1,75.1,79.2,-4.1,7.8,6,Low
+NSC-10862,Northgate Systems Holdings,Mid-Market,London & South East,Financial Services,Callum Reid,Annual,5480.00,65760.00,2027-08-01,1,0,0,16.4,4.00,0,81.5,85.1,79.6,5.5,138.3,0,Low
+NSC-10996,Sterling Freight plc,Mid-Market,North West,Manufacturing,Callum Reid,Annual,3380.00,40560.00,2027-01-01,3,0,0,48.6,3.50,0,70.2,72.4,69.0,3.4,86.3,4,Low
+NSC-11116,Cobalt Engineering plc,Enterprise,Midlands,Logistics,Priya Raman,Annual,10945.00,131340.00,2027-05-01,9,1,1,17.3,3.50,0,72.0,68.4,73.0,-4.6,215.8,31,Medium
+NSC-11352,Sterling Energy Holdings,SMB,London & South East,Healthcare,Liam Carter,Annual,160.00,1920.00,2027-01-01,0,0,0,,,0,55.0,54.0,55.3,-1.3,3.0,6,Low
+NSC-11424,Wessex Freight Group,SMB,Scotland,Retail,Liam Carter,Annual,490.00,5880.00,2027-04-01,0,0,0,,,0,38.2,37.0,38.1,-1.1,8.3,19,Medium
+NSC-11522,Granite Housing plc,SMB,Yorkshire & North East,Manufacturing,Owen Price,Annual,195.00,2340.00,2027-09-01,0,0,0,,,0,72.1,72.1,,,5.0,0,Low
+NSC-11544,Ashford Advisory LLP,SMB,Scotland,Manufacturing,Owen Price,Monthly,260.00,3120.00,,0,0,0,,,0,75.9,75.9,,,7.3,0,Low
+NSC-10016,Calder Capital Ltd,SMB,Yorkshire & North East,Logistics,Owen Price,Monthly,1110.00,13320.00,,1,0,0,92.5,3.00,0,70.0,72.1,69.7,2.4,30.0,8,Medium
+NSC-10049,Lowther Logistics Ltd,Mid-Market,London & South East,Financial Services,Callum Reid,Monthly,5160.00,61920.00,,4,0,0,22.1,3.75,0,66.4,72.2,63.9,8.3,118.8,2,Low
+NSC-10174,Granite Advisory Group,Enterprise,Midlands,Financial Services,Priya Raman,Annual,11905.00,142860.00,2026-10-01,9,0,1,36.5,3.31,0,47.7,44.1,49.0,-4.9,187.0,23,Medium
+NSC-10218,Granite Retail Ltd,SMB,Midlands,Healthcare,Liam Carter,Monthly,355.00,4260.00,,0,0,0,,4.50,0,68.0,74.7,65.3,9.4,8.5,0,Low
+NSC-10337,Calder Learning Group,SMB,North West,Retail,Megan Shaw,Annual,610.00,7320.00,2026-12-01,0,0,0,,,0,84.3,82.3,85.1,-2.8,18.5,4,Low
+NSC-10758,Cobalt Care Holdings,Mid-Market,London & South East,Logistics,Unassigned,Annual,4985.00,59820.00,2027-05-01,2,0,1,83.9,4.00,0,72.4,70.2,73.5,-3.3,120.8,5,Low
+NSC-10768,Harbour Analytics Group,SMB,Yorkshire & North East,Manufacturing,Sophie Turner,Monthly,1040.00,12480.00,,0,0,0,,2.00,0,60.9,60.5,61.7,-1.2,25.0,18,Medium
+NSC-10911,Redbrick Analytics Ltd,SMB,Yorkshire & North East,Education,Owen Price,Annual,620.00,7440.00,2026-10-01,0,0,0,,,0,81.3,84.0,80.2,3.8,19.3,0,Low
+NSC-10912,Oakridge Advisory Ltd,Enterprise,South West & Wales,Retail,Grace Okafor,Annual,9470.00,113640.00,2026-10-01,5,0,3,56.3,3.13,2,56.0,51.5,58.1,-6.6,160.8,20,Medium
+NSC-11003,Holloway Housing LLP,Mid-Market,Ireland,Professional Services,Callum Reid,Annual,3480.00,41760.00,2027-01-01,3,1,2,58.7,1.25,0,58.4,55.5,59.7,-4.2,65.3,50,Medium
+NSC-11176,Pennine Energy Group,Enterprise,South West & Wales,Logistics,Tom Whitfield,Annual,8105.00,97260.00,2027-06-01,8,0,0,21.8,4.14,0,81.1,85.1,79.2,5.9,181.5,0,Low
+NSC-11181,Lantern Care Ltd,Mid-Market,Midlands,Logistics,Daniel Hughes,Annual,3530.00,42360.00,2027-07-01,4,0,0,14.7,4.00,0,69.5,69.6,70.1,-0.5,80.8,1,Low
+NSC-11296,Orchard Care plc,SMB,London & South East,Logistics,Sophie Turner,Annual,405.00,4860.00,2026-11-01,1,0,0,39.6,3.00,0,50.7,52.9,50.4,2.5,8.3,15,Medium
+NSC-11321,Clyde Housing Group,Enterprise,London & South East,Public Sector,Unassigned,Annual,6250.00,75000.00,2026-12-01,12,1,2,71.1,3.67,1,64.3,61.6,65.0,-3.4,116.5,28,Medium
+NSC-11394,Highland Medical Ltd,Mid-Market,South West & Wales,Logistics,Hannah Doyle,Monthly,2660.00,31920.00,,3,0,1,61.1,4.80,0,68.3,70.3,68.1,2.2,64.0,0,Low
+NSC-11425,Beacon Supplies Group,SMB,Yorkshire & North East,Financial Services,Sophie Turner,Annual,100.00,1200.00,2027-04-01,6,1,1,24.5,3.60,0,58.4,56.3,59.3,-3.0,2.0,29,Medium
+NSC-11453,Moorland Learning LLP,SMB,London & South East,Manufacturing,Ravi Mehta,Monthly,205.00,2460.00,,3,0,0,18.9,,0,79.9,79.9,80.0,-0.1,6.3,0,Low
+NSC-10097,Highland Engineering LLP,SMB,London & South East,Education,Unassigned,Monthly,790.00,9480.00,,4,0,1,46.7,5.00,0,57.2,60.8,56.4,4.4,20.0,2,Low
+NSC-10190,Harbour Learning plc,SMB,Yorkshire & North East,Manufacturing,Liam Carter,Monthly,560.00,6720.00,,2,0,1,53.4,3.00,0,60.3,58.3,61.9,-3.6,13.3,13,Medium
+NSC-10351,Meridian Learning Holdings,Mid-Market,Yorkshire & North East,Manufacturing,Hannah Doyle,Annual,3255.00,39060.00,2027-05-01,6,1,1,28.6,2.33,1,59.9,58.8,60.3,-1.5,65.0,36,Medium
+NSC-10539,Brightwater Energy Group,SMB,London & South East,Logistics,Sophie Turner,Annual,1065.00,12780.00,2026-10-01,0,0,0,,,0,82.1,82.4,82.6,-0.2,32.0,0,Low
+NSC-10581,Oakridge Systems Ltd,Enterprise,Midlands,Financial Services,Tom Whitfield,Annual,24450.00,293400.00,2026-11-01,9,0,0,31.1,4.75,0,64.8,66.6,64.1,2.5,483.5,0,Low
+NSC-11123,Kingsway Consulting Holdings,SMB,Midlands,Healthcare,Liam Carter,Monthly,500.00,6000.00,,3,0,1,47.8,,0,84.4,86.3,83.3,3.0,15.0,0,Low
+NSC-11218,Moorland Capital plc,SMB,North West,Financial Services,Liam Carter,Annual,810.00,9720.00,2027-08-01,1,0,0,75.7,,0,70.8,73.8,69.2,4.6,22.5,0,Low
+NSC-11254,Oakridge Partners Group,SMB,London & South East,Professional Services,Ravi Mehta,Monthly,150.00,1800.00,,1,0,0,54.0,4.00,0,36.1,34.4,37.3,-2.9,2.3,23,Medium
+NSC-11316,Meridian Analytics plc,Enterprise,North West,Financial Services,Priya Raman,Annual,8760.00,105120.00,2026-12-01,9,1,1,35.6,4.40,0,72.0,68.3,74.0,-5.7,157.5,29,Medium
+NSC-11334,Northgate Retail LLP,SMB,Yorkshire & North East,Manufacturing,Liam Carter,Monthly,580.00,6960.00,,1,0,0,27.6,5.00,0,73.4,77.0,72.8,4.2,15.5,0,Low
+NSC-10033,Moorland Care plc,SMB,London & South East,Professional Services,Ravi Mehta,Monthly,1005.00,12060.00,,1,0,0,26.9,,0,71.3,72.3,70.5,1.8,25.3,0,Low
+NSC-10133,Thames Health Ltd,Mid-Market,London & South East,Professional Services,Callum Reid,Annual,2215.00,26580.00,2027-08-01,5,0,0,25.6,3.83,0,64.8,68.4,62.6,5.8,49.8,1,Low
+NSC-10166,Oakridge Freight Holdings,SMB,North West,Healthcare,Sophie Turner,Monthly,450.00,5400.00,,1,0,0,11.4,5.00,0,63.8,60.9,64.2,-3.3,10.5,5,Low
+NSC-10227,Heathrow Retail Ltd,SMB,London & South East,Manufacturing,Megan Shaw,Monthly,785.00,9420.00,,0,0,0,,5.00,0,56.8,55.4,57.7,-2.3,17.8,6,Low
+NSC-10508,Castlefield Foods plc,Mid-Market,Ireland,Retail,Unassigned,Annual,1425.00,17100.00,2027-01-01,3,0,0,22.1,3.67,0,58.2,59.8,56.8,3.0,26.3,4,Low
+NSC-10564,Harbour Housing Ltd,SMB,South West & Wales,Retail,Owen Price,Monthly,465.00,5580.00,,1,0,0,41.8,,0,69.1,74.2,66.4,7.8,12.8,0,Low
+NSC-10676,Sterling Care Holdings,SMB,Ireland,Healthcare,Sophie Turner,Annual,180.00,2160.00,2027-03-01,1,0,0,10.5,4.00,0,57.5,58.7,57.2,1.5,3.8,2,Low
+NSC-10728,Heathrow Capital LLP,SMB,London & South East,Logistics,Megan Shaw,Monthly,225.00,2700.00,,1,0,0,18.4,2.50,0,63.8,64.9,63.6,1.3,5.8,12,Medium
+NSC-10740,Fenwick Supplies Holdings,Mid-Market,North West,Financial Services,Aisha Patel,Annual,4265.00,51180.00,2027-04-01,3,0,0,7.6,4.00,0,60.1,61.1,59.4,1.7,89.5,0,Low
+NSC-10742,Bluebell Supplies Holdings,SMB,London & South East,Professional Services,Megan Shaw,Annual,300.00,3600.00,2027-04-01,3,0,0,53.3,2.00,0,73.1,70.0,75.1,-5.1,8.0,24,Medium
+NSC-10762,Wessex Housing LLP,SMB,Ireland,Professional Services,Ravi Mehta,Monthly,420.00,5040.00,,0,0,0,,3.00,0,68.4,70.3,68.0,2.3,11.5,8,Medium
+NSC-10815,Falcon Foods LLP,Mid-Market,Scotland,Logistics,Daniel Hughes,Annual,5015.00,60180.00,2027-06-01,2,0,0,14.5,5.00,0,68.4,72.3,66.5,5.8,113.3,0,Low
+NSC-10903,Quayside Distribution Ltd,Mid-Market,North West,Retail,Daniel Hughes,Annual,1585.00,19020.00,2026-10-01,4,0,1,69.0,5.00,0,51.9,49.1,54.0,-4.9,26.3,14,Low
+NSC-10918,Falcon Capital Group,SMB,Midlands,Financial Services,Liam Carter,Monthly,65.00,780.00,,2,0,0,36.4,3.00,0,44.0,45.7,43.3,2.4,1.8,21,Medium
+NSC-10977,Heathrow Analytics Ltd,SMB,Scotland,Manufacturing,Ravi Mehta,Monthly,160.00,1920.00,,0,0,0,,,0,60.9,60.9,60.3,0.6,3.3,0,Low
+NSC-11050,Tamar Medical Ltd,SMB,London & South East,Logistics,Liam Carter,Monthly,1200.00,14400.00,,0,0,0,,5.00,0,69.1,73.7,67.7,6.0,30.8,0,Low
+NSC-11080,Meridian Foods Group,SMB,Scotland,Retail,Unassigned,Annual,200.00,2400.00,2027-03-01,0,0,0,,5.00,0,61.3,66.0,60.0,6.0,5.0,0,Low
+NSC-11188,Ember Medical Group,SMB,London & South East,Manufacturing,Sophie Turner,Monthly,425.00,5100.00,,2,0,0,13.6,5.00,0,59.4,58.5,60.1,-1.6,8.8,3,Low
+NSC-11216,Falcon Medical Ltd,SMB,London & South East,Logistics,Sophie Turner,Annual,375.00,4500.00,2027-08-01,0,0,0,,5.00,0,88.0,85.0,89.2,-4.2,11.0,6,Low
+NSC-11230,Avon Care Group,Enterprise,London & South East,Financial Services,Grace Okafor,Annual,7905.00,94860.00,2027-09-01,14,1,3,53.8,3.09,1,36.9,30.7,40.1,-9.4,97.3,60,Medium
+NSC-11271,Beacon Energy plc,Mid-Market,Midlands,Retail,Aisha Patel,Annual,1555.00,18660.00,2026-10-01,1,0,0,30.8,4.00,0,57.9,57.8,58.4,-0.6,30.3,3,Low
+NSC-11290,Highland Health Holdings,SMB,Yorkshire & North East,Public Sector,Ravi Mehta,Monthly,450.00,5400.00,,2,0,1,107.1,2.00,0,68.3,67.8,69.3,-1.5,11.5,18,Medium
+NSC-11391,Redbrick Freight Group,SMB,Ireland,Retail,Megan Shaw,Monthly,235.00,2820.00,,1,0,0,41.6,,0,72.1,68.1,73.6,-5.5,6.3,8,Medium
+NSC-11427,Redbrick Systems LLP,SMB,Yorkshire & North East,Financial Services,Liam Carter,Monthly,555.00,6660.00,,0,0,0,,4.00,0,67.0,67.1,67.4,-0.3,13.8,0,Low
+NSC-11461,Albion Systems Ltd,SMB,Midlands,Logistics,Ravi Mehta,Monthly,480.00,5760.00,,1,0,0,10.7,,0,52.7,55.7,51.5,4.2,10.8,6,Low
+NSC-11511,Ember Housing Ltd,SMB,London & South East,Public Sector,Owen Price,Annual,380.00,4560.00,2027-08-01,0,0,0,,,0,71.5,73.8,69.6,4.2,9.8,0,Low
+NSC-10158,Sterling Supplies Group,Mid-Market,London & South East,Retail,Aisha Patel,Annual,1690.00,20280.00,2026-11-01,3,0,1,63.9,4.33,0,64.6,61.0,66.0,-5.0,37.0,8,Medium
+NSC-10167,Bluebell Freight Ltd,Mid-Market,London & South East,Retail,Hannah Doyle,Annual,4730.00,56760.00,2026-11-01,4,0,1,50.5,4.00,0,63.6,61.6,64.9,-3.3,100.5,5,Low
+NSC-10347,Riverside Engineering Ltd,Enterprise,London & South East,Education,Priya Raman,Annual,27430.00,329160.00,2027-01-01,10,3,6,57.8,2.10,0,41.1,37.0,42.3,-5.3,348.8,98,High
+NSC-10365,Harbour Supplies Ltd,Mid-Market,South West & Wales,Financial Services,Daniel Hughes,Annual,4125.00,49500.00,2026-12-01,3,0,0,59.4,3.50,0,71.0,70.9,71.1,-0.2,95.3,4,Low
+NSC-10383,Orchard Care Ltd,Mid-Market,London & South East,Professional Services,Aisha Patel,Monthly,1960.00,23520.00,,6,0,0,49.0,3.33,1,53.5,55.1,53.0,2.1,40.5,11,Medium
+NSC-10481,Tamar Analytics Ltd,SMB,North West,Healthcare,Unassigned,Annual,850.00,10200.00,2027-07-01,0,0,0,,,0,63.6,61.1,64.8,-3.7,19.0,6,Low
+NSC-10557,Ember Learning Holdings,Mid-Market,Midlands,Retail,Aisha Patel,Monthly,1795.00,21540.00,,4,0,0,22.6,4.29,0,75.3,77.9,74.9,3.0,44.5,0,Low
+NSC-10579,Fenwick Retail Group,SMB,London & South East,Logistics,Ravi Mehta,Monthly,825.00,9900.00,,0,0,0,,,0,81.7,83.8,80.8,3.0,22.8,0,Low
+NSC-10628,Ironbridge Retail Group,Mid-Market,London & South East,Manufacturing,Daniel Hughes,Monthly,2070.00,24840.00,,4,0,1,65.5,4.00,1,62.6,64.9,61.8,3.1,46.3,0,Low
+NSC-10801,Northgate Advisory Group,SMB,London & South East,Healthcare,Megan Shaw,Monthly,830.00,9960.00,,3,0,0,36.9,3.00,0,65.7,67.0,65.3,1.7,21.8,8,Medium
+NSC-10817,Holloway Retail plc,Mid-Market,North West,Financial Services,Hannah Doyle,Monthly,6820.00,81840.00,,5,0,2,67.2,3.00,0,74.2,74.9,73.7,1.2,169.8,8,Medium
+NSC-10826,Orchard Supplies plc,Mid-Market,London & South East,Professional Services,Aisha Patel,Monthly,2080.00,24960.00,,4,0,0,57.6,3.25,0,75.4,79.9,73.4,6.5,49.5,6,Medium
+NSC-10831,Saxon Health Ltd,SMB,South West & Wales,Retail,Owen Price,Monthly,360.00,4320.00,,1,0,0,13.7,,0,68.4,70.9,67.9,3.0,9.5,0,Low
+NSC-10852,Highland Foods Group,SMB,London & South East,Retail,Liam Carter,Monthly,140.00,1680.00,,2,0,0,27.5,,0,63.8,63.6,64.3,-0.7,3.8,1,Low
+NSC-10881,Moorland Retail Ltd,SMB,London & South East,Retail,Ravi Mehta,Monthly,660.00,7920.00,,2,0,1,93.2,3.00,0,84.8,85.6,85.0,0.6,20.5,8,Medium
+NSC-10910,Peak Supplies LLP,SMB,Yorkshire & North East,Manufacturing,Sophie Turner,Monthly,475.00,5700.00,,1,0,0,68.4,4.00,0,54.9,57.3,54.9,2.4,10.8,4,Low
+NSC-10978,Granite Foods LLP,Mid-Market,Yorkshire & North East,Education,Aisha Patel,Annual,1515.00,18180.00,2027-01-01,7,1,2,42.5,2.67,0,43.7,38.7,46.3,-7.6,23.8,55,Medium
+NSC-10997,Sterling Supplies plc,SMB,Ireland,Retail,Owen Price,Monthly,290.00,3480.00,,1,0,0,35.7,2.00,0,46.7,47.3,46.6,0.7,5.8,27,Medium
+NSC-11090,Fenwick Consulting Holdings,Mid-Market,Yorkshire & North East,Professional Services,Daniel Hughes,Monthly,2490.00,29880.00,,3,0,0,6.7,4.33,0,58.7,55.7,60.1,-4.4,53.5,8,Low
+NSC-11197,Saxon Freight Ltd,SMB,South West & Wales,Manufacturing,Owen Price,Monthly,445.00,5340.00,,1,0,0,20.5,3.00,0,54.5,52.1,55.2,-3.1,9.8,17,Medium
+NSC-11245,Ironbridge Manufacturing Holdings,SMB,Midlands,Logistics,Owen Price,Monthly,225.00,2700.00,,1,0,0,13.6,1.00,0,66.9,73.5,63.6,9.9,6.0,24,Medium
+NSC-11248,Holloway Retail Ltd,Mid-Market,Midlands,Manufacturing,Aisha Patel,Annual,1210.00,14520.00,2027-09-01,1,0,0,3.8,5.00,0,61.0,58.9,61.4,-2.5,25.3,4,Low
+NSC-11282,Wessex Engineering Group,SMB,Scotland,Manufacturing,Liam Carter,Monthly,590.00,7080.00,,2,0,0,24.1,5.00,0,66.8,65.0,66.8,-1.8,15.5,3,Low
+NSC-11309,Redbrick Partners LLP,Mid-Market,Scotland,Professional Services,Aisha Patel,Monthly,1340.00,16080.00,,3,0,0,30.9,3.00,0,63.4,62.6,63.6,-1.0,26.5,10,Medium
+NSC-11399,Harbour Capital Ltd,SMB,London & South East,Logistics,Ravi Mehta,Monthly,195.00,2340.00,,3,0,0,53.0,4.25,0,56.8,60.3,55.2,5.1,4.0,3,Low
+NSC-11431,Cobalt Housing Ltd,SMB,Scotland,Education,Liam Carter,Monthly,215.00,2580.00,,1,0,0,42.5,3.00,0,69.5,67.2,70.6,-3.4,5.0,13,Medium
+NSC-11443,Holloway Partners Ltd,SMB,London & South East,Logistics,Owen Price,Annual,180.00,2160.00,2027-05-01,3,0,0,33.0,4.00,0,54.6,53.3,54.7,-1.4,3.8,6,Low
+NSC-10182,Pennine Energy Ltd,Enterprise,London & South East,Manufacturing,Grace Okafor,Monthly,35900.00,430800.00,,7,0,0,30.8,3.86,0,65.4,70.7,63.6,7.1,686.0,1,Low
+NSC-10330,Lowther Medical Ltd,SMB,South West & Wales,Healthcare,Sophie Turner,Monthly,935.00,11220.00,,1,0,0,17.9,,0,73.3,75.3,72.1,3.2,26.3,0,Low
+NSC-10560,Harbour Manufacturing Ltd,Enterprise,Yorkshire & North East,Logistics,Tom Whitfield,Annual,5480.00,65760.00,2026-11-01,17,2,3,35.5,3.25,0,23.0,25.4,21.4,4.0,54.8,76,High
+NSC-10723,Mersey Energy Holdings,SMB,Scotland,Healthcare,Sophie Turner,Monthly,195.00,2340.00,,1,0,0,71.5,,0,64.1,64.2,64.1,0.1,4.0,0,Low
+NSC-10790,Northgate Freight Holdings,SMB,Yorkshire & North East,Unknown,Liam Carter,Monthly,1150.00,13800.00,,0,0,0,,,0,83.1,83.7,81.2,2.5,35.3,0,Low
+NSC-10843,Mersey Engineering Holdings,SMB,London & South East,Professional Services,Sophie Turner,Annual,695.00,8340.00,2027-08-01,1,0,0,25.0,3.50,0,50.4,51.3,50.2,1.1,14.5,12,Low
+NSC-10947,Tamar Capital Group,SMB,Midlands,Education,Unassigned,Monthly,740.00,8880.00,,1,0,1,76.8,2.00,0,71.5,72.0,70.9,1.1,20.5,16,Medium
+NSC-11002,Ashford Foods LLP,SMB,North West,Healthcare,Ravi Mehta,Annual,460.00,5520.00,2027-01-01,1,0,0,87.2,3.00,0,61.7,59.3,63.7,-4.4,10.5,15,Medium
+NSC-11098,Oakridge Housing Group,Mid-Market,Scotland,Manufacturing,Hannah Doyle,Annual,1380.00,16560.00,2027-04-01,2,0,0,37.7,4.50,0,55.0,57.0,54.0,3.0,26.3,4,Low
+NSC-11217,Lowther Supplies Holdings,SMB,Yorkshire & North East,Financial Services,Megan Shaw,Annual,125.00,1500.00,2027-08-01,1,0,0,47.1,4.00,0,54.6,57.0,53.1,3.9,2.8,4,Low
+NSC-11264,Orchard Energy Group,SMB,North West,Logistics,Liam Carter,Annual,370.00,4440.00,2026-10-01,0,0,0,,,0,40.2,42.9,38.4,4.5,7.0,16,Medium
+NSC-11403,Granite Health Ltd,Enterprise,Ireland,Logistics,Tom Whitfield,Annual,21435.00,257220.00,2027-03-01,5,0,1,39.8,3.86,0,63.7,67.0,62.0,5.0,392.0,1,Low
+NSC-11433,Fenwick Supplies Group,SMB,London & South East,Retail,Sophie Turner,Monthly,445.00,5340.00,,2,0,1,111.0,,0,64.9,65.6,64.5,1.1,11.0,0,Low
+NSC-11494,Kingsway Engineering Group,Mid-Market,Yorkshire & North East,Public Sector,Hannah Doyle,Annual,1620.00,19440.00,2027-08-01,5,0,1,42.8,3.00,0,70.2,69.3,70.9,-1.6,37.3,10,Medium
+NSC-10406,Albion Analytics Ltd,Enterprise,London & South East,Logistics,Grace Okafor,Annual,15010.00,180120.00,2027-05-01,12,1,3,48.1,2.58,1,32.0,26.8,34.0,-7.2,156.0,65,High
+NSC-10545,Ember Health Ltd,SMB,London & South East,Education,Megan Shaw,Monthly,1015.00,12180.00,,1,0,0,43.0,4.00,0,72.9,74.1,71.2,2.9,29.3,0,Low
+NSC-10592,Meridian Logistics LLP,SMB,Yorkshire & North East,Manufacturing,Sophie Turner,Annual,390.00,4680.00,2026-12-01,2,0,0,73.8,4.00,0,60.5,58.5,61.7,-3.2,8.8,5,Low
+NSC-10824,Castlefield Retail plc,Mid-Market,Midlands,Professional Services,Hannah Doyle,Annual,1265.00,15180.00,2027-07-01,4,0,0,34.8,4.00,0,68.9,67.4,69.2,-1.8,30.3,3,Low
+NSC-10892,Saxon Supplies LLP,Mid-Market,Yorkshire & North East,Education,Daniel Hughes,Monthly,2725.00,32700.00,,4,0,1,51.3,3.33,0,61.0,61.4,60.1,1.3,60.5,5,Medium
+NSC-10894,Quayside Advisory Group,SMB,London & South East,Financial Services,Ravi Mehta,Monthly,425.00,5100.00,,4,1,2,55.2,3.00,0,65.4,61.6,66.9,-5.3,10.0,36,Medium
+NSC-11039,Meridian Logistics Ltd,SMB,London & South East,Logistics,Liam Carter,Monthly,145.00,1740.00,,0,0,0,,,0,77.1,77.7,76.0,1.7,4.0,0,Low
+NSC-11170,Avon Health LLP,SMB,Yorkshire & North East,Retail,Sophie Turner,Annual,600.00,7200.00,2027-06-01,2,0,0,28.6,2.00,0,73.4,73.8,73.5,0.3,16.5,16,Medium
+NSC-11194,Cobalt Care Ltd,Mid-Market,London & South East,Manufacturing,Callum Reid,Annual,1635.00,19620.00,2027-07-01,5,0,1,34.0,3.33,0,38.8,37.6,39.6,-2.0,24.5,25,Medium
+NSC-11236,Calder Advisory LLP,SMB,Midlands,Unknown,Owen Price,Monthly,1020.00,12240.00,,0,0,0,,4.50,0,65.2,67.0,65.5,1.5,26.8,0,Low
+NSC-11294,Avon Supplies Holdings,SMB,Midlands,Retail,Owen Price,Monthly,650.00,7800.00,,3,0,0,28.0,3.33,0,61.4,63.0,61.3,1.7,17.0,5,Medium
+NSC-11346,Ironbridge Consulting Ltd,SMB,South West & Wales,Retail,Unassigned,Annual,190.00,2280.00,2027-01-01,0,0,0,,5.00,0,82.5,82.4,82.0,0.4,5.0,0,Low
+NSC-11348,Peak Energy Ltd,Mid-Market,London & South East,Retail,Daniel Hughes,Monthly,825.00,9900.00,,2,0,0,31.1,4.00,0,45.1,45.9,43.8,2.1,14.0,12,Medium
+NSC-10113,Saxon Engineering Ltd,SMB,North West,Healthcare,Liam Carter,Monthly,1325.00,15900.00,,0,0,0,,,0,79.6,76.6,80.6,-4.0,37.5,6,Low
+NSC-10117,Moorland Systems Ltd,Mid-Market,London & South East,Manufacturing,Aisha Patel,Annual,7000.00,84000.00,2027-05-01,2,0,0,32.1,4.50,0,85.9,86.0,86.2,-0.2,190.8,0,Low
+NSC-10165,Fenwick Foods Holdings,Mid-Market,Scotland,Financial Services,Callum Reid,Annual,4410.00,52920.00,2027-08-01,2,0,0,35.0,3.50,0,51.7,52.2,51.2,1.0,79.8,11,Low
+NSC-10443,Granite Systems Holdings,Mid-Market,Scotland,Retail,Daniel Hughes,Annual,2955.00,35460.00,2026-11-01,4,0,1,66.2,3.00,0,54.8,53.4,55.2,-1.8,53.5,15,Medium
+NSC-10462,Holloway Logistics LLP,SMB,London & South East,Professional Services,Liam Carter,Monthly,1365.00,16380.00,,0,0,0,,,0,80.1,78.5,80.7,-2.2,37.5,3,Low
+NSC-10650,Holloway Supplies Ltd,Mid-Market,Yorkshire & North East,Financial Services,Daniel Hughes,Monthly,4370.00,52440.00,,2,0,1,45.4,4.00,0,65.2,67.1,64.7,2.4,97.0,0,Low
+NSC-10672,Highland Logistics Ltd,SMB,North West,Manufacturing,Sophie Turner,Monthly,410.00,4920.00,,0,0,0,,,0,86.6,86.4,88.6,-2.2,12.8,3,Low
+NSC-10803,Pennine Engineering plc,SMB,Midlands,Education,Sophie Turner,Monthly,510.00,6120.00,,2,0,0,24.0,5.00,0,68.0,64.9,70.1,-5.2,13.0,8,Medium
+NSC-10839,Moorland Health Ltd,Mid-Market,Ireland,Education,Daniel Hughes,Monthly,1330.00,15960.00,,7,1,1,40.1,4.00,1,63.7,61.2,64.5,-3.3,27.3,25,Medium
+NSC-10864,Northgate Health Group,SMB,North West,Logistics,Sophie Turner,Monthly,340.00,4080.00,,0,0,0,,4.00,0,65.5,63.9,66.2,-2.3,7.8,3,Low
+NSC-10953,Granite Analytics Ltd,Mid-Market,North West,Professional Services,Daniel Hughes,Monthly,975.00,11700.00,,3,0,0,23.9,3.50,0,57.0,57.0,57.6,-0.6,19.8,7,Low
+NSC-11046,Heathrow Medical LLP,Enterprise,Scotland,Professional Services,Tom Whitfield,Annual,6430.00,77160.00,2027-03-01,6,0,2,61.1,3.67,1,54.0,50.6,56.3,-5.7,98.5,16,Medium
+NSC-11051,Orchard Medical plc,Enterprise,London & South East,Retail,Grace Okafor,Annual,17915.00,214980.00,2027-03-01,15,2,2,30.3,3.39,0,49.3,48.4,49.6,-1.2,265.3,55,High
+NSC-11089,Ashford Manufacturing plc,SMB,Yorkshire & North East,Unknown,Liam Carter,Annual,100.00,1200.00,2027-04-01,1,0,0,2.9,,0,41.6,40.3,41.6,-1.3,1.5,17,Medium
+NSC-11146,Fenwick Foods Group,SMB,Midlands,Retail,Sophie Turner,Monthly,730.00,8760.00,,2,0,0,42.4,2.50,0,48.3,47.0,48.9,-1.9,13.8,24,Medium
+NSC-11186,Sterling Logistics Ltd,SMB,Midlands,Retail,Owen Price,Annual,380.00,4560.00,2027-07-01,2,0,1,98.1,1.00,0,76.8,72.4,79.5,-7.1,10.5,35,Medium
+NSC-11189,Harbour Analytics Ltd,Mid-Market,Yorkshire & North East,Manufacturing,Callum Reid,Annual,1030.00,12360.00,2027-07-01,6,0,0,44.8,4.20,0,66.4,65.4,67.0,-1.6,23.0,2,Low
+NSC-11209,Orchard Consulting plc,Enterprise,North West,Retail,Grace Okafor,Monthly,6835.00,82020.00,,12,0,0,19.0,2.50,0,44.9,47.1,44.3,2.8,97.0,24,Medium
+NSC-11256,Falcon Supplies plc,SMB,North West,Retail,Megan Shaw,Monthly,155.00,1860.00,,0,0,0,,,0,85.8,83.4,86.8,-3.4,4.0,5,Low
+NSC-11372,Moorland Freight Ltd,Enterprise,London & South East,Logistics,Priya Raman,Monthly,11645.00,139740.00,,10,2,5,66.6,4.13,1,65.8,63.7,65.9,-2.2,202.0,43,Medium
+NSC-10221,Mersey Logistics Ltd,SMB,Scotland,Unknown,Owen Price,Monthly,200.00,2400.00,,2,0,0,63.6,4.50,0,69.8,67.8,70.7,-2.9,5.0,4,Low
+NSC-10274,Westmoor Health Group,Mid-Market,London & South East,Logistics,Daniel Hughes,Annual,2835.00,34020.00,2027-02-01,1,0,0,13.4,2.67,0,69.5,71.3,68.8,2.5,63.8,11,Medium
+NSC-10430,Meridian Capital Group,Mid-Market,London & South East,Financial Services,Aisha Patel,Annual,6420.00,77040.00,2026-11-01,4,0,0,36.0,4.00,0,51.7,54.7,50.9,3.8,123.0,7,Low
+NSC-10605,Orchard Analytics LLP,Mid-Market,Scotland,Logistics,Daniel Hughes,Monthly,3500.00,42000.00,,3,0,0,33.5,3.67,0,63.2,65.8,62.5,3.3,75.3,3,Low
+NSC-10619,Lowther Health LLP,Mid-Market,Yorkshire & North East,Financial Services,Callum Reid,Annual,1965.00,23580.00,2027-01-01,4,0,1,40.7,4.00,0,62.8,63.7,61.7,2.0,37.8,0,Low
+NSC-10622,Avon Retail Group,Enterprise,Midlands,Manufacturing,Tom Whitfield,Annual,7010.00,84120.00,2027-01-01,10,0,5,114.0,2.47,0,48.7,45.8,50.4,-4.6,97.3,28,Medium
+NSC-10652,Cobalt Partners Ltd,SMB,London & South East,Education,Liam Carter,Monthly,215.00,2580.00,,2,0,0,65.0,1.00,0,69.2,71.0,68.8,2.2,5.0,24,Medium
+NSC-10671,Falcon Supplies Group,SMB,Ireland,Professional Services,Ravi Mehta,Monthly,510.00,6120.00,,1,0,0,55.8,5.00,0,57.1,57.4,57.1,0.3,12.5,2,Low
+NSC-10764,Bluebell Partners Ltd,SMB,London & South East,Retail,Megan Shaw,Annual,615.00,7380.00,2027-05-01,0,0,0,,,0,46.8,43.7,47.1,-3.4,11.3,16,Medium
+NSC-10968,Ember Care Ltd,SMB,Yorkshire & North East,Public Sector,Sophie Turner,Monthly,110.00,1320.00,,1,0,0,117.4,4.00,0,82.4,87.3,79.9,7.4,3.8,0,Low
+NSC-10982,Ashford Systems Ltd,SMB,London & South East,Retail,Sophie Turner,Monthly,110.00,1320.00,,0,0,0,,4.50,0,68.5,67.3,68.6,-1.3,2.0,2,Low
+NSC-11025,Holloway Consulting Group,SMB,North West,Manufacturing,Sophie Turner,Annual,730.00,8760.00,2027-02-01,0,0,0,,,0,66.6,59.4,69.8,-10.4,17.8,16,Medium
+NSC-11045,Quayside Energy Group,SMB,London & South East,Retail,Sophie Turner,Monthly,320.00,3840.00,,0,0,0,,,0,79.4,79.1,79.2,-0.1,10.0,0,Low
+NSC-11100,Albion Housing Group,SMB,North West,Retail,Sophie Turner,Annual,330.00,3960.00,2027-04-01,1,0,0,21.0,,0,42.1,44.1,41.2,2.9,5.8,14,Medium
+NSC-11131,Quayside Partners Group,Mid-Market,North West,Logistics,Aisha Patel,Annual,1035.00,12420.00,2027-05-01,3,0,0,18.3,5.00,0,63.8,65.6,63.2,2.4,22.5,0,Low
+NSC-11210,Peak Foods Ltd,SMB,London & South East,Logistics,Megan Shaw,Annual,190.00,2280.00,2027-08-01,0,0,0,,,0,68.9,64.8,70.8,-6.0,4.0,9,Medium
+NSC-11293,Thames Manufacturing Ltd,SMB,Ireland,Retail,Owen Price,Monthly,510.00,6120.00,,1,0,0,17.0,5.00,0,73.1,74.7,72.2,2.5,13.0,0,Low
+NSC-11353,Falcon Logistics Holdings,SMB,Midlands,Retail,Sophie Turner,Monthly,430.00,5160.00,,0,0,0,,4.00,0,88.1,88.3,87.5,0.8,13.8,0,Low
+NSC-11414,Severn Health Ltd,Enterprise,London & South East,Retail,Tom Whitfield,Annual,6590.00,79080.00,2027-03-01,16,1,3,54.2,4.29,0,66.1,60.5,69.6,-9.1,117.8,34,Medium
+NSC-11444,Sterling Energy Group,SMB,Midlands,Manufacturing,Liam Carter,Monthly,615.00,7380.00,,1,0,0,16.6,,0,79.5,78.9,78.8,0.1,17.3,0,Low
+NSC-10265,Lowther Engineering Ltd,Enterprise,Scotland,Public Sector,Grace Okafor,Annual,25690.00,308280.00,2027-06-01,9,0,0,30.8,4.00,1,64.7,62.6,65.0,-2.4,467.8,4,Low
+NSC-10287,Northgate Freight Ltd,SMB,Scotland,Retail,Liam Carter,Monthly,905.00,10860.00,,0,0,0,,,0,86.9,88.4,86.4,2.0,28.0,0,Low
+NSC-10489,Orchard Capital Ltd,Mid-Market,North West,Logistics,Callum Reid,Monthly,2860.00,34320.00,,2,0,0,41.3,3.00,0,59.1,57.2,59.9,-2.7,59.5,13,Medium
+NSC-10583,Mersey Care Holdings,SMB,Yorkshire & North East,Education,Megan Shaw,Monthly,220.00,2640.00,,0,0,0,,2.00,0,75.2,75.2,75.6,-0.4,5.5,17,Medium
+NSC-10593,Ashford Analytics Ltd,SMB,Midlands,Manufacturing,Owen Price,Annual,260.00,3120.00,2026-12-01,0,0,0,,,0,76.9,73.5,78.5,-5.0,7.3,8,Medium
+NSC-10705,Northgate Retail Group,Enterprise,Ireland,Financial Services,Grace Okafor,Annual,6950.00,83400.00,2027-03-01,11,0,1,44.6,3.85,0,64.9,65.7,64.2,1.5,136.0,1,Low
+NSC-10848,Wessex Retail LLP,SMB,Midlands,Retail,Liam Carter,Annual,605.00,7260.00,2027-08-01,2,0,1,91.4,4.00,0,64.5,65.1,64.0,1.1,14.8,0,Low
+NSC-10851,Castlefield Systems Ltd,Mid-Market,London & South East,Healthcare,Callum Reid,Annual,3790.00,45480.00,2027-08-01,3,0,0,43.4,3.86,0,61.3,59.9,61.7,-1.8,75.5,4,Low
+NSC-10871,Highland Systems LLP,SMB,Midlands,Professional Services,Megan Shaw,Annual,275.00,3300.00,2027-09-01,2,0,0,13.7,,0,70.1,71.7,69.8,1.9,7.0,0,Low
+NSC-10921,Moorland Manufacturing plc,SMB,London & South East,Manufacturing,Owen Price,Monthly,205.00,2460.00,,1,0,0,22.4,5.00,0,74.3,72.4,75.4,-3.0,5.0,5,Low
+NSC-10951,Bluebell Freight Group,SMB,London & South East,Retail,Liam Carter,Monthly,125.00,1500.00,,4,0,1,105.7,3.50,0,75.8,74.2,76.1,-1.9,3.0,7,Low
+NSC-11027,Beacon Partners plc,Mid-Market,London & South East,Financial Services,Aisha Patel,Monthly,1470.00,17640.00,,3,0,1,42.8,2.67,0,60.2,57.1,61.5,-4.4,29.3,17,Medium
+NSC-11054,Albion Health Group,Mid-Market,Scotland,Manufacturing,Hannah Doyle,Annual,2270.00,27240.00,2027-03-01,5,0,0,11.1,4.50,0,58.5,60.2,58.2,2.0,46.3,1,Low
+NSC-11108,Holloway Housing Holdings,SMB,London & South East,Healthcare,Sophie Turner,Monthly,330.00,3960.00,,2,0,0,45.2,2.00,0,41.6,41.6,41.7,-0.1,6.0,31,Medium
+NSC-11150,Wessex Advisory Holdings,SMB,Yorkshire & North East,Logistics,Ravi Mehta,Annual,755.00,9060.00,2027-05-01,0,0,0,,,0,67.8,68.0,66.8,1.2,18.5,0,Low
+NSC-11155,Ironbridge Consulting Group,Enterprise,Yorkshire & North East,Education,Priya Raman,Annual,14485.00,173820.00,2027-06-01,9,0,2,39.8,4.00,1,54.9,53.0,55.2,-2.2,229.0,7,Low
+NSC-11416,Oakridge Retail Ltd,Mid-Market,London & South East,Professional Services,Daniel Hughes,Monthly,1920.00,23040.00,,3,0,0,12.8,,0,81.4,78.8,82.3,-3.5,49.0,5,Low
+NSC-11496,Tamar Systems plc,SMB,London & South East,Logistics,Ravi Mehta,Monthly,175.00,2100.00,,1,0,0,21.5,4.00,0,51.4,51.2,51.5,-0.3,4.0,7,Low
+NSC-10038,Cobalt Manufacturing Ltd,SMB,London & South East,Professional Services,Megan Shaw,Monthly,755.00,9060.00,,0,0,0,,,0,46.2,46.6,46.0,0.6,14.0,11,Medium
+NSC-10226,Avon Distribution LLP,Enterprise,Ireland,Financial Services,Tom Whitfield,Annual,13410.00,160920.00,2027-02-01,9,2,3,53.9,3.43,1,48.1,41.3,49.4,-8.1,197.8,66,High
+NSC-10425,Ashford Retail Ltd,Mid-Market,Scotland,Manufacturing,Aisha Patel,Annual,1320.00,15840.00,2027-05-01,3,0,0,14.9,3.33,1,45.9,42.9,46.5,-3.6,23.3,22,Medium
+NSC-10570,Oakridge Manufacturing LLP,SMB,North West,Public Sector,Megan Shaw,Annual,235.00,2820.00,2026-11-01,0,0,0,,,0,77.1,73.8,78.6,-4.8,6.3,7,Low
+NSC-10730,Granite Housing Ltd,SMB,London & South East,Manufacturing,Owen Price,Monthly,1615.00,19380.00,,0,0,0,,,0,64.4,65.6,63.9,1.7,41.0,0,Low
+NSC-10739,Thames Partners Group,Mid-Market,North West,Retail,Hannah Doyle,Monthly,2015.00,24180.00,,7,0,3,60.0,4.50,1,53.0,52.5,52.9,-0.4,36.3,6,Low
+NSC-10750,Saxon Housing Group,SMB,North West,Professional Services,Sophie Turner,Annual,780.00,9360.00,2027-05-01,3,0,0,37.4,5.00,0,76.0,76.0,75.6,0.4,19.8,0,Low
+NSC-10825,Thames Manufacturing Group,Mid-Market,Yorkshire & North East,Retail,Daniel Hughes,Annual,4645.00,55740.00,2027-07-01,10,0,5,87.0,3.80,0,63.5,64.9,63.0,1.9,102.0,2,Low
+NSC-10835,Sterling Energy LLP,Mid-Market,London & South East,Education,Callum Reid,Monthly,855.00,10260.00,,8,0,1,43.1,4.33,0,58.8,61.0,57.3,3.7,17.0,1,Low
+NSC-10846,Oakridge Foods Holdings,SMB,Midlands,Education,Owen Price,Monthly,325.00,3900.00,,3,0,1,97.7,4.00,0,50.8,50.8,,,6.5,7,Low
+NSC-10867,Pennine Capital Ltd,Mid-Market,Scotland,Retail,Aisha Patel,Annual,4275.00,51300.00,2027-09-01,6,0,0,30.6,2.67,0,67.1,65.2,68.0,-2.8,98.8,15,Medium
+NSC-11169,Highland Analytics Holdings,SMB,North West,Manufacturing,Owen Price,Monthly,400.00,4800.00,,0,0,0,,4.50,0,85.4,85.4,84.6,0.8,12.3,0,Low
+NSC-11342,Holloway Supplies plc,SMB,Scotland,Manufacturing,Megan Shaw,Monthly,365.00,4380.00,,1,0,0,34.0,1.00,0,52.6,57.0,49.7,7.3,8.0,30,Medium
+NSC-11420,Quayside Supplies LLP,SMB,London & South East,Healthcare,Sophie Turner,Annual,685.00,8220.00,2027-04-01,4,0,0,47.6,3.00,0,66.4,64.1,67.0,-2.9,16.5,12,Medium
+NSC-11464,Brightwater Systems Holdings,SMB,London & South East,Unknown,Sophie Turner,Monthly,250.00,3000.00,,2,1,1,23.4,2.50,0,72.7,69.2,73.7,-4.5,6.0,39,Medium
+NSC-10029,Orchard Freight plc,SMB,North West,Manufacturing,Liam Carter,Monthly,220.00,2640.00,,1,0,1,166.6,5.00,0,84.3,82.1,85.5,-3.4,6.0,5,Low
+NSC-10083,Wessex Logistics Holdings,Mid-Market,Midlands,Public Sector,Aisha Patel,Monthly,1365.00,16380.00,,6,0,1,73.8,3.67,1,49.2,46.9,50.3,-3.4,24.8,16,Medium
+NSC-10156,Peak Supplies Group,Mid-Market,Scotland,Professional Services,Callum Reid,Annual,2645.00,31740.00,2027-01-01,9,0,0,20.3,4.00,0,63.3,65.4,62.5,2.9,57.0,0,Low
+NSC-10181,Riverside Freight plc,Enterprise,London & South East,Healthcare,Grace Okafor,Annual,12555.00,150660.00,2027-04-01,15,1,1,41.2,3.67,1,53.8,55.5,54.0,1.5,203.5,28,Medium
+NSC-10278,Clyde Advisory Ltd,SMB,Ireland,Professional Services,Sophie Turner,Monthly,220.00,2640.00,,3,0,0,43.0,3.33,0,46.8,46.6,45.7,0.9,4.0,16,Medium
+NSC-10408,Pennine Manufacturing Holdings,Mid-Market,Yorkshire & North East,Education,Hannah Doyle,Annual,4320.00,51840.00,2027-01-01,8,0,0,25.5,3.33,0,76.5,77.3,76.4,0.9,112.3,5,Medium
+NSC-10559,Bluebell Logistics Ltd,SMB,Scotland,Professional Services,Liam Carter,Monthly,210.00,2520.00,,1,0,0,38.6,4.00,0,67.6,67.3,67.7,-0.4,5.0,1,Low
+NSC-10562,Northgate Housing plc,SMB,North West,Retail,Sophie Turner,Annual,240.00,2880.00,2026-11-01,1,0,0,10.5,3.00,0,76.5,74.8,77.6,-2.8,6.3,12,Medium
+NSC-10636,Calder Energy Ltd,SMB,North West,Financial Services,Owen Price,Monthly,540.00,6480.00,,0,0,0,,,0,62.6,63.6,63.4,0.2,13.5,0,Low
+NSC-10675,Calder Health Group,SMB,South West & Wales,Manufacturing,Unassigned,Annual,235.00,2820.00,2027-03-01,0,0,0,,3.00,0,87.0,88.5,86.8,1.7,7.0,8,Medium
+NSC-10682,Mersey Freight Ltd,Enterprise,London & South East,Professional Services,Tom Whitfield,Annual,19010.00,228120.00,2027-03-01,13,0,0,41.9,3.73,1,57.5,56.3,57.9,-1.6,332.0,7,Low
+NSC-10715,Orchard Housing Holdings,Enterprise,London & South East,Retail,Tom Whitfield,Annual,23095.00,277140.00,2027-04-01,7,1,2,31.6,3.50,0,67.8,63.9,68.8,-4.9,414.0,31,Medium
+NSC-10721,Castlefield Energy LLP,SMB,London & South East,Healthcare,Sophie Turner,Monthly,260.00,3120.00,,3,0,0,33.4,4.00,0,73.4,70.4,73.8,-3.4,6.8,5,Low
+NSC-10759,Pennine Health plc,Enterprise,Scotland,Logistics,Tom Whitfield,Annual,8165.00,97980.00,2027-05-01,16,0,1,29.9,2.71,0,21.6,23.1,21.0,2.1,90.0,41,High
+NSC-10775,Clyde Advisory plc,Enterprise,North West,Professional Services,Priya Raman,Annual,26195.00,314340.00,2027-05-01,9,1,2,28.0,4.00,0,65.9,68.8,65.4,3.4,525.5,20,Medium
+NSC-10858,Moorland Freight LLP,SMB,London & South East,Public Sector,Megan Shaw,Monthly,280.00,3360.00,,2,0,0,8.1,4.00,0,65.0,65.9,64.6,1.3,6.8,0,Low
+NSC-10960,Avon Foods Ltd,Mid-Market,London & South East,Professional Services,Daniel Hughes,Annual,1930.00,23160.00,2026-12-01,3,0,0,44.5,2.00,0,60.2,63.6,59.4,4.2,41.3,16,Medium
+NSC-10975,Lantern Housing LLP,Mid-Market,London & South East,Retail,Aisha Patel,Monthly,980.00,11760.00,,1,0,0,37.1,2.00,0,45.9,44.5,46.5,-2.0,17.0,30,Medium
+NSC-11030,Mersey Advisory Ltd,SMB,London & South East,Retail,Sophie Turner,Annual,105.00,1260.00,2027-02-01,1,0,0,2.7,,0,56.8,59.5,55.4,4.1,2.0,3,Low
+NSC-11113,Lowther Consulting Ltd,SMB,Ireland,Logistics,Liam Carter,Annual,230.00,2760.00,2027-05-01,3,0,0,42.5,,0,68.7,69.8,68.6,1.2,6.3,0,Low
+NSC-11136,Castlefield Consulting Ltd,SMB,London & South East,Retail,Sophie Turner,Monthly,130.00,1560.00,,0,0,0,,,0,64.6,65.9,64.5,1.4,3.0,0,Low
+NSC-11151,Albion Supplies Group,SMB,South West & Wales,Healthcare,Liam Carter,Annual,225.00,2700.00,2027-05-01,2,0,0,25.6,5.00,0,79.3,78.5,79.9,-1.4,6.3,2,Low
+NSC-11204,Orchard Housing Group,SMB,Yorkshire & North East,Financial Services,Owen Price,Monthly,530.00,6360.00,,1,0,0,12.3,1.00,0,50.4,51.6,49.9,1.7,10.8,32,Medium
+NSC-11274,Thames Capital Group,Mid-Market,London & South East,Financial Services,Callum Reid,Annual,2505.00,30060.00,2026-10-01,4,2,2,18.9,2.67,0,73.2,77.2,71.2,6.0,61.0,51,Medium
+NSC-11357,Oakridge Engineering Ltd,SMB,North West,Professional Services,Sophie Turner,Monthly,380.00,4560.00,,1,0,0,7.6,5.00,0,81.7,81.7,81.7,0.0,11.3,0,Low
+NSC-11378,Ironbridge Partners Holdings,Mid-Market,London & South East,Logistics,Hannah Doyle,Monthly,3570.00,42840.00,,3,0,0,15.5,4.00,0,81.2,82.9,80.3,2.6,94.0,0,Low
+NSC-11387,Severn Engineering Group,SMB,Scotland,Manufacturing,Liam Carter,Monthly,430.00,5160.00,,1,0,1,96.0,5.00,0,61.1,59.1,62.3,-3.2,10.3,5,Low
+NSC-11451,Holloway Freight LLP,Mid-Market,London & South East,Healthcare,Callum Reid,Annual,1405.00,16860.00,2027-05-01,5,0,1,38.4,2.00,0,69.1,69.3,69.3,0.0,32.0,16,Medium
+NSC-11454,Pennine Logistics Group,SMB,North West,Financial Services,Megan Shaw,Monthly,375.00,4500.00,,0,0,0,,3.00,0,64.8,64.5,64.1,0.4,8.5,8,Medium
+NSC-11495,Albion Analytics Group,Mid-Market,London & South East,Manufacturing,Daniel Hughes,Annual,1290.00,15480.00,2027-08-01,4,0,0,29.2,3.67,0,45.1,46.5,44.1,2.4,22.3,15,Medium
+NSC-11513,Calder Foods Ltd,SMB,Ireland,Professional Services,Megan Shaw,Annual,275.00,3300.00,2027-08-01,1,0,0,5.9,,0,63.7,60.7,66.1,-5.4,6.0,8,Medium
+NSC-10040,Bluebell Capital Ltd,Mid-Market,London & South East,Professional Services,Callum Reid,Annual,2435.00,29220.00,2027-01-01,3,0,0,83.2,2.25,0,43.0,45.4,43.2,2.2,42.5,28,Medium
+NSC-10152,Saxon Systems Ltd,Enterprise,Ireland,Manufacturing,Priya Raman,Annual,9720.00,116640.00,2027-06-01,14,0,5,83.5,3.21,1,22.5,21.0,22.5,-1.5,87.0,39,High
+NSC-10173,Highland Distribution LLP,SMB,South West & Wales,Financial Services,Sophie Turner,Annual,1070.00,12840.00,2026-12-01,1,0,0,25.0,5.00,0,60.1,63.4,58.9,4.5,26.0,0,Low
+NSC-10196,Bluebell Manufacturing Holdings,SMB,London & South East,Manufacturing,Sophie Turner,Annual,345.00,4140.00,2027-04-01,2,0,0,66.8,2.00,0,46.8,47.4,46.7,0.7,7.3,27,Medium
+NSC-10277,Cobalt Medical Holdings,SMB,London & South East,Healthcare,Owen Price,Annual,335.00,4020.00,2027-03-01,1,0,1,118.3,3.50,0,67.7,69.6,67.8,1.8,8.0,4,Low
+NSC-10306,Northgate Engineering Ltd,SMB,North West,Manufacturing,Owen Price,Annual,165.00,1980.00,2026-12-01,1,0,0,70.0,,0,70.2,68.4,70.6,-2.2,3.5,3,Low
+NSC-10474,Orchard Distribution Ltd,SMB,London & South East,Logistics,Unassigned,Monthly,655.00,7860.00,,2,0,0,30.3,4.00,0,67.5,68.2,68.3,-0.1,16.8,0,Low
+NSC-10554,Meridian Medical plc,SMB,Yorkshire & North East,Public Sector,Ravi Mehta,Monthly,410.00,4920.00,,1,0,0,44.0,4.00,0,70.2,70.5,69.5,1.0,10.3,0,Low
+NSC-10685,Meridian Consulting LLP,SMB,Yorkshire & North East,Healthcare,Liam Carter,Monthly,590.00,7080.00,,1,0,0,85.7,5.00,0,72.6,72.8,73.0,-0.2,16.3,0,Low
+NSC-10807,Northgate Distribution Ltd,Mid-Market,Scotland,Professional Services,Callum Reid,Monthly,2345.00,28140.00,,6,0,0,18.8,4.00,0,73.1,75.9,72.2,3.7,59.5,0,Low
+NSC-11019,Highland Engineering Ltd,Mid-Market,Ireland,Education,Hannah Doyle,Annual,1520.00,18240.00,2027-02-01,2,0,1,82.6,,0,75.0,72.0,76.2,-4.2,36.8,6,Low
+NSC-11038,Oakridge Housing LLP,Mid-Market,London & South East,Healthcare,Aisha Patel,Annual,2050.00,24600.00,2027-02-01,6,0,0,17.8,3.83,1,52.3,51.1,53.2,-2.1,38.0,11,Low
+NSC-11092,Harbour Supplies plc,Mid-Market,North West,Public Sector,Daniel Hughes,Monthly,940.00,11280.00,,8,0,1,68.4,4.80,1,72.8,72.1,73.1,-1.0,22.8,2,Low
+NSC-11106,Sterling Manufacturing plc,SMB,Yorkshire & North East,Unknown,Liam Carter,Annual,270.00,3240.00,2027-04-01,2,0,2,159.1,3.50,0,68.1,66.3,68.1,-1.8,6.5,7,Low
+NSC-11177,Saxon Partners LLP,SMB,London & South East,Logistics,Ravi Mehta,Annual,605.00,7260.00,2027-07-01,0,0,0,,4.00,0,78.6,82.5,76.9,5.6,16.0,0,Low
+NSC-11272,Ember Housing Holdings,Enterprise,South West & Wales,Retail,Priya Raman,Annual,11660.00,139920.00,2026-10-01,15,3,4,41.0,3.36,0,57.8,55.6,58.1,-2.5,176.8,71,Medium
+NSC-11312,Tamar Capital Holdings,Mid-Market,Yorkshire & North East,Healthcare,Daniel Hughes,Monthly,3180.00,38160.00,,0,0,0,,,0,86.1,87.2,86.0,1.2,86.8,0,Low
+NSC-11350,Oakridge Distribution Ltd,SMB,North West,Logistics,Sophie Turner,Monthly,375.00,4500.00,,1,0,0,16.4,4.00,0,71.6,69.6,73.0,-3.4,10.3,5,Low
+NSC-11456,Mersey Freight plc,SMB,Yorkshire & North East,Financial Services,Megan Shaw,Monthly,360.00,4320.00,,2,0,0,14.4,4.50,0,58.2,62.4,56.6,5.8,8.5,1,Low
+NSC-11519,Cobalt Analytics Ltd,SMB,London & South East,Retail,Megan Shaw,Monthly,170.00,2040.00,,0,0,0,,,0,83.8,83.8,,,5.0,0,Low
+NSC-11531,Avon Systems Ltd,Mid-Market,South West & Wales,Healthcare,Daniel Hughes,Annual,1315.00,15780.00,2027-09-01,0,0,0,,,0,80.3,80.3,,,31.5,0,Low
+NSC-10134,Harbour Freight LLP,SMB,London & South East,Financial Services,Megan Shaw,Monthly,935.00,11220.00,,1,0,0,63.6,5.00,0,62.7,62.3,63.6,-1.3,23.3,2,Low
+NSC-10191,Ironbridge Housing Ltd,Enterprise,London & South East,Logistics,Tom Whitfield,Monthly,11500.00,138000.00,,5,1,2,44.5,3.75,0,63.5,65.9,63.0,2.9,215.8,22,Medium
+NSC-10298,Moorland Medical plc,Mid-Market,London & South East,Manufacturing,Unassigned,Annual,5235.00,62820.00,2026-12-01,3,0,0,49.2,2.00,0,63.7,64.1,63.4,0.7,112.0,16,Medium
+NSC-10427,Pennine Learning Ltd,SMB,Midlands,Education,Liam Carter,Monthly,320.00,3840.00,,1,0,0,63.1,2.50,0,59.1,59.0,58.7,0.3,7.3,13,Medium
+NSC-10459,Lowther Logistics Group,Mid-Market,Ireland,Financial Services,Hannah Doyle,Annual,3700.00,44400.00,2026-11-01,2,0,0,33.5,3.50,0,79.3,81.4,78.6,2.8,93.5,4,Low
+NSC-10470,Thames Consulting Holdings,SMB,Scotland,Healthcare,Ravi Mehta,Annual,1130.00,13560.00,2027-01-01,3,0,0,56.7,4.50,0,69.4,69.6,68.3,1.3,30.3,0,Low
+NSC-10512,Lantern Logistics Holdings,Mid-Market,Midlands,Healthcare,Aisha Patel,Annual,6585.00,79020.00,2027-07-01,1,0,0,,,1,73.5,68.1,76.3,-8.2,155.0,12,Medium
+NSC-10558,Holloway Care LLP,Mid-Market,Scotland,Public Sector,Daniel Hughes,Monthly,855.00,10260.00,,4,0,2,94.3,3.75,0,47.7,48.9,47.7,1.2,14.5,12,Medium
+NSC-10582,Clyde Systems Ltd,Mid-Market,Yorkshire & North East,Logistics,Callum Reid,Annual,3430.00,41160.00,2026-11-01,3,0,0,27.2,4.20,0,65.8,65.0,65.8,-0.8,78.8,1,Low
+NSC-10632,Beacon Capital Group,Mid-Market,Yorkshire & North East,Public Sector,Callum Reid,Monthly,3750.00,45000.00,,7,1,1,37.5,3.60,0,74.3,73.7,74.3,-0.6,95.8,24,Medium
+NSC-10633,Redbrick Energy Holdings,SMB,South West & Wales,Public Sector,Owen Price,Annual,550.00,6600.00,2027-01-01,2,0,0,47.8,3.00,0,62.5,67.0,61.5,5.5,14.0,8,Medium
+NSC-10697,Albion Systems Group,Mid-Market,London & South East,Manufacturing,Daniel Hughes,Annual,2200.00,26400.00,2027-03-01,2,0,0,17.6,3.00,0,74.1,72.5,75.2,-2.7,54.3,12,Medium
+NSC-10727,Northgate Partners Ltd,Enterprise,London & South East,Professional Services,Priya Raman,Annual,10445.00,125340.00,2027-04-01,10,0,0,37.7,3.17,1,35.0,39.7,33.8,5.9,143.0,27,Medium
+NSC-10838,Redbrick Partners plc,SMB,London & South East,Professional Services,Liam Carter,Monthly,180.00,2160.00,,2,0,0,56.5,5.00,0,77.9,75.9,79.3,-3.4,4.8,5,Low
+NSC-10917,Mersey Housing plc,SMB,London & South East,Retail,Ravi Mehta,Monthly,160.00,1920.00,,0,0,0,,,0,83.9,83.0,84.7,-1.7,4.0,3,Low
+NSC-10990,Granite Medical plc,Mid-Market,Midlands,Logistics,Hannah Doyle,Annual,4295.00,51540.00,2027-01-01,5,1,2,71.1,2.00,0,71.1,67.1,73.0,-5.9,94.8,45,Medium
+NSC-11007,Ashford Distribution Ltd,Mid-Market,Scotland,Retail,Callum Reid,Annual,2815.00,33780.00,2027-01-01,4,0,0,29.4,3.00,0,74.1,71.1,74.9,-3.8,67.5,14,Medium
+NSC-11016,Falcon Housing plc,SMB,Scotland,Professional Services,Owen Price,Annual,570.00,6840.00,2027-01-01,0,0,0,,5.00,0,76.8,77.2,76.4,0.8,16.3,0,Low
+NSC-11179,Riverside Logistics Ltd,SMB,North West,Healthcare,Owen Price,Monthly,520.00,6240.00,,2,0,1,252.9,3.50,0,54.3,56.7,53.4,3.3,12.0,9,Low
+NSC-11213,Beacon Capital Ltd,Mid-Market,South West & Wales,Retail,Hannah Doyle,Annual,840.00,10080.00,2027-08-01,2,0,1,105.9,2.50,0,73.0,71.5,74.4,-2.9,19.0,16,Medium
+NSC-11249,Severn Partners LLP,Mid-Market,London & South East,Financial Services,Hannah Doyle,Annual,1245.00,14940.00,2027-09-01,5,0,2,74.9,2.75,0,42.3,44.1,41.0,3.1,21.0,24,Medium
+NSC-11260,Heathrow Care Holdings,SMB,London & South East,Manufacturing,Ravi Mehta,Annual,205.00,2460.00,2026-10-01,0,0,0,,,0,65.4,66.5,65.9,0.6,5.3,0,Low
+NSC-11313,Falcon Supplies Ltd,SMB,London & South East,Healthcare,Sophie Turner,Monthly,310.00,3720.00,,1,0,0,49.3,,0,52.8,56.8,51.3,5.5,6.3,6,Low
+NSC-11449,Northgate Engineering Group,Mid-Market,Ireland,Logistics,Aisha Patel,Annual,1460.00,17520.00,2027-05-01,2,0,0,14.9,2.00,0,88.4,89.5,87.8,1.7,39.0,16,Medium
+NSC-11520,Riverside Foods Holdings,SMB,London & South East,Financial Services,Megan Shaw,Monthly,235.00,2820.00,,0,0,0,,,0,59.3,59.3,,,5.5,1,Low
+NSC-11524,Riverside Partners Ltd,SMB,Scotland,Financial Services,Owen Price,Monthly,115.00,1380.00,,1,0,0,85.9,5.00,0,33.6,33.6,,,2.0,21,High
+NSC-10121,Quayside Energy plc,Mid-Market,Ireland,Public Sector,Callum Reid,Annual,6715.00,80580.00,2027-04-01,1,0,0,32.5,2.80,0,63.5,63.5,63.6,-0.1,147.5,10,Medium
+NSC-10193,Mersey Learning Ltd,SMB,Midlands,Logistics,Liam Carter,Monthly,195.00,2340.00,,0,0,0,,,0,77.3,78.8,77.1,1.7,5.0,0,Low
+NSC-10240,Northgate Systems plc,SMB,Scotland,Retail,Ravi Mehta,Annual,805.00,9660.00,2027-03-01,2,0,0,17.1,5.00,0,57.2,55.9,57.7,-1.8,17.0,5,Low
+NSC-10434,Albion Capital Ltd,Mid-Market,London & South East,Manufacturing,Hannah Doyle,Monthly,3680.00,44160.00,,3,0,0,38.2,3.75,0,75.3,77.0,74.9,2.1,96.5,2,Low
+NSC-10445,Lowther Foods Ltd,SMB,London & South East,Manufacturing,Sophie Turner,Monthly,225.00,2700.00,,2,0,0,25.2,4.00,0,77.6,74.5,79.0,-4.5,6.3,7,Low
+NSC-10449,Beacon Logistics Ltd,SMB,London & South East,Professional Services,Liam Carter,Monthly,115.00,1380.00,,3,0,0,89.9,4.00,1,57.0,56.7,56.7,0.0,3.0,2,Low
+NSC-10651,Cobalt Learning LLP,Mid-Market,Ireland,Financial Services,Aisha Patel,Annual,2925.00,35100.00,2027-02-01,2,0,1,57.2,2.00,0,61.7,60.1,62.4,-2.3,60.8,19,Medium
+NSC-10887,Moorland Capital Holdings,Enterprise,London & South East,Healthcare,Grace Okafor,Annual,14355.00,172260.00,2027-09-01,10,0,0,11.1,3.11,0,36.9,37.5,37.3,0.2,181.5,26,Medium
+NSC-10954,Tamar Supplies Ltd,SMB,Ireland,Financial Services,Ravi Mehta,Annual,350.00,4200.00,2026-11-01,1,0,0,89.7,2.50,0,67.2,63.5,68.6,-5.1,9.0,20,Medium
+NSC-10983,Meridian Health plc,SMB,Ireland,Professional Services,Owen Price,Monthly,125.00,1500.00,,1,0,0,31.1,3.00,0,58.2,57.7,57.9,-0.2,3.0,10,Medium
+NSC-11172,Westmoor Engineering LLP,Mid-Market,Ireland,Logistics,Daniel Hughes,Annual,2040.00,24480.00,2027-06-01,1,0,0,35.4,3.00,0,71.7,78.8,67.6,11.2,47.0,8,Medium
+NSC-11225,Riverside Foods LLP,SMB,North West,Professional Services,Sophie Turner,Monthly,105.00,1260.00,,2,0,0,30.0,3.00,0,74.1,71.9,74.8,-2.9,2.0,12,Medium
+NSC-11289,Ashford Advisory plc,Mid-Market,Yorkshire & North East,Healthcare,Daniel Hughes,Monthly,2060.00,24720.00,,4,0,0,52.7,4.00,0,75.6,72.0,76.2,-4.2,51.8,6,Low
+NSC-11339,Mersey Logistics Holdings,Enterprise,Scotland,Retail,Tom Whitfield,Annual,17755.00,213060.00,2027-01-01,13,0,2,52.0,3.55,0,28.2,32.6,26.6,6.0,207.5,29,High
+NSC-11392,Meridian Supplies Holdings,SMB,Scotland,Healthcare,Owen Price,Monthly,520.00,6240.00,,2,0,0,34.2,3.00,0,78.7,80.3,77.5,2.8,14.3,8,Medium
+NSC-11460,Calder Retail LLP,SMB,London & South East,Manufacturing,Ravi Mehta,Monthly,275.00,3300.00,,0,0,0,,,0,88.3,88.4,88.5,-0.1,8.3,0,Low
+NSC-11468,Ashford Health plc,SMB,North West,Manufacturing,Sophie Turner,Monthly,145.00,1740.00,,0,0,0,,4.00,0,61.8,61.4,61.1,0.3,3.8,0,Low
+NSC-11518,Sterling Systems Group,SMB,London & South East,Financial Services,Liam Carter,Monthly,230.00,2760.00,,0,0,0,,,0,72.5,72.5,,,6.3,0,Low
+NSC-11533,Beacon Foods plc,Mid-Market,London & South East,Unknown,Aisha Patel,Annual,1155.00,13860.00,2027-09-01,4,0,1,59.0,2.00,0,68.2,68.2,,,26.0,16,Medium
+NSC-10126,Heathrow Foods LLP,SMB,North West,Public Sector,Owen Price,Monthly,365.00,4380.00,,1,0,0,4.6,5.00,0,79.1,81.1,77.1,4.0,11.0,0,Low
+NSC-10197,Severn Energy Group,Mid-Market,Yorkshire & North East,Healthcare,Callum Reid,Monthly,1335.00,16020.00,,7,0,1,57.8,3.50,0,68.6,70.9,67.3,3.6,30.8,4,Low
+NSC-10200,Heathrow Engineering Ltd,SMB,Yorkshire & North East,Logistics,Liam Carter,Monthly,1135.00,13620.00,,2,0,0,48.3,4.00,0,64.4,65.0,63.8,1.2,28.0,0,Low
+NSC-10318,Fenwick Analytics Holdings,Mid-Market,London & South East,Professional Services,Daniel Hughes,Annual,5405.00,64860.00,2027-01-01,2,0,0,61.8,4.00,0,64.8,66.2,65.4,0.8,124.0,0,Low
+NSC-10497,Severn Manufacturing Holdings,SMB,Scotland,Professional Services,Ravi Mehta,Monthly,225.00,2700.00,,1,0,0,43.7,3.00,0,64.6,65.6,63.8,1.8,5.8,8,Medium
+NSC-10667,Severn Foods Ltd,SMB,Midlands,Financial Services,Owen Price,Annual,170.00,2040.00,2027-02-01,2,0,0,66.7,,0,48.0,50.0,47.5,2.5,3.0,10,Medium
+NSC-10674,Mersey Energy Ltd,Mid-Market,Midlands,Retail,Daniel Hughes,Monthly,2380.00,28560.00,,6,0,1,38.0,3.80,0,75.4,72.5,75.7,-3.2,56.8,6,Low
+NSC-10956,Pennine Energy LLP,Mid-Market,Scotland,Professional Services,Hannah Doyle,Annual,2625.00,31500.00,2026-11-01,4,0,1,81.9,3.33,0,64.9,59.1,67.6,-8.5,56.8,18,Medium
+NSC-11091,Holloway Capital Ltd,Mid-Market,London & South East,Logistics,Callum Reid,Annual,1405.00,16860.00,2027-04-01,5,0,0,38.8,4.00,0,70.6,67.9,71.8,-3.9,33.0,6,Low
+NSC-11101,Riverside Supplies Group,Enterprise,Ireland,Retail,Priya Raman,Annual,5330.00,63960.00,2027-04-01,27,4,5,37.1,3.21,1,22.3,18.8,23.3,-4.5,48.0,100,High
+NSC-11163,Clyde Engineering Group,SMB,Midlands,Healthcare,Megan Shaw,Annual,300.00,3600.00,2027-06-01,2,0,0,23.9,4.00,0,75.8,78.4,74.6,3.8,8.0,0,Low
+NSC-11259,Avon Retail Ltd,SMB,South West & Wales,Logistics,Ravi Mehta,Monthly,255.00,3060.00,,1,0,1,117.0,,0,59.7,61.5,58.7,2.8,6.0,0,Low
+NSC-11380,Sterling Energy Ltd,SMB,Midlands,Logistics,Liam Carter,Monthly,175.00,2100.00,,1,0,0,65.7,3.00,0,57.1,58.3,57.1,1.2,4.0,10,Medium
+NSC-11404,Sterling Housing Group,SMB,South West & Wales,Professional Services,Sophie Turner,Monthly,325.00,3900.00,,0,0,0,,,0,72.9,74.8,72.4,2.4,8.3,0,Low
+NSC-11436,Kingsway Distribution Holdings,SMB,Yorkshire & North East,Logistics,Megan Shaw,Monthly,240.00,2880.00,,1,0,0,15.9,4.00,0,74.4,72.0,76.4,-4.4,6.0,7,Low
+NSC-11475,Heathrow Supplies Ltd,SMB,Midlands,Logistics,Liam Carter,Annual,545.00,6540.00,2027-06-01,0,0,0,,,0,65.2,64.6,65.5,-0.9,12.8,1,Low
+NSC-11503,Harbour Capital plc,SMB,South West & Wales,Retail,Ravi Mehta,Monthly,650.00,7800.00,,2,0,0,9.7,4.00,0,66.3,65.3,67.1,-1.8,16.3,3,Low
+NSC-10062,Wessex Distribution Ltd,SMB,North West,Retail,Sophie Turner,Annual,380.00,4560.00,2027-03-01,0,0,0,,3.00,0,79.0,77.2,79.7,-2.5,10.3,12,Medium
+NSC-10170,Kingsway Systems plc,Enterprise,London & South East,Education,Grace Okafor,Annual,10130.00,121560.00,2027-01-01,12,0,0,20.3,3.27,0,63.6,64.9,63.3,1.6,185.8,6,Medium
+NSC-10206,Kingsway Retail Group,SMB,London & South East,Education,Megan Shaw,Monthly,275.00,3300.00,,0,0,0,,,0,69.3,68.3,69.8,-1.5,7.0,2,Low
+NSC-10301,Saxon Systems LLP,Mid-Market,Midlands,Healthcare,Callum Reid,Monthly,1495.00,17940.00,,5,0,3,85.3,3.40,1,73.4,69.6,74.4,-4.8,35.8,12,Medium
+NSC-10302,Severn Foods plc,SMB,Midlands,Healthcare,Sophie Turner,Monthly,440.00,5280.00,,0,0,0,,5.00,0,53.8,55.0,53.4,1.6,9.3,5,Low
+NSC-10340,Castlefield Analytics plc,Enterprise,London & South East,Education,Grace Okafor,Annual,50980.00,611760.00,2027-04-01,17,0,1,28.7,4.22,0,57.4,59.5,57.4,2.1,916.0,2,Low
+NSC-10461,Riverside Care Ltd,Mid-Market,South West & Wales,Retail,Callum Reid,Annual,2655.00,31860.00,2027-03-01,2,0,1,64.9,3.50,0,67.9,65.0,69.4,-4.4,58.3,11,Low
+NSC-10766,Albion Logistics Group,SMB,Yorkshire & North East,Manufacturing,Owen Price,Monthly,510.00,6120.00,,1,0,0,43.9,,0,63.4,68.2,61.0,7.2,12.8,0,Low
+NSC-10798,Beacon Advisory plc,Enterprise,North West,Retail,Tom Whitfield,Annual,21870.00,262440.00,2027-06-01,12,0,1,31.2,4.07,0,59.3,62.5,58.1,4.4,385.5,1,Low
+NSC-10985,Avon Systems Group,SMB,Yorkshire & North East,Professional Services,Sophie Turner,Annual,175.00,2100.00,2027-01-01,0,0,0,,,0,78.3,74.1,80.4,-6.3,4.5,9,Medium
+NSC-11085,Beacon Analytics Group,Mid-Market,Yorkshire & North East,Public Sector,Hannah Doyle,Monthly,2025.00,24300.00,,4,0,0,38.2,3.50,0,69.9,71.6,68.9,2.7,45.5,4,Low
+NSC-11111,Orchard Supplies LLP,Mid-Market,South West & Wales,Professional Services,Aisha Patel,Annual,3805.00,45660.00,2027-04-01,8,0,2,52.2,3.57,0,54.9,48.1,58.0,-9.9,74.8,22,Medium
+NSC-11144,Beacon Manufacturing Group,Enterprise,North West,Retail,Grace Okafor,Annual,14240.00,170880.00,2027-05-01,14,1,4,50.0,2.50,1,35.7,39.2,33.3,5.9,196.3,51,Medium
+NSC-11153,Fenwick Retail Ltd,Mid-Market,London & South East,Manufacturing,Callum Reid,Annual,2900.00,34800.00,2027-06-01,3,0,0,58.6,4.50,0,46.8,44.5,48.2,-3.7,49.0,16,Medium
+NSC-11158,Thames Retail plc,SMB,Scotland,Manufacturing,Megan Shaw,Monthly,380.00,4560.00,,0,0,0,,4.00,0,60.5,60.8,60.0,0.8,9.3,0,Low
+NSC-11178,Ember Engineering Ltd,SMB,Midlands,Financial Services,Sophie Turner,Annual,420.00,5040.00,2027-07-01,0,0,0,,,0,70.0,66.2,71.7,-5.5,10.8,8,Medium
+NSC-11205,Sterling Consulting LLP,SMB,London & South East,Retail,Megan Shaw,Monthly,165.00,1980.00,,2,0,0,50.4,,0,81.1,81.5,81.5,0.0,4.3,0,Low
+NSC-11241,Clyde Care Ltd,Enterprise,North West,Professional Services,Tom Whitfield,Annual,4685.00,56220.00,2027-09-01,14,0,0,29.7,3.79,0,71.1,72.8,70.4,2.4,95.0,2,Low
+NSC-11381,Northgate Foods plc,SMB,South West & Wales,Retail,Megan Shaw,Monthly,195.00,2340.00,,0,0,0,,,0,63.2,63.7,62.0,1.7,4.3,0,Low
+NSC-11445,Orchard Manufacturing Holdings,SMB,Midlands,Professional Services,Megan Shaw,Annual,115.00,1380.00,2027-05-01,1,0,0,23.7,,0,84.6,84.0,84.2,-0.2,3.3,0,Low
+NSC-11507,Ashford Analytics Holdings,Enterprise,South West & Wales,Healthcare,Tom Whitfield,Annual,12705.00,152460.00,2027-08-01,7,0,2,57.1,3.00,0,42.6,38.9,45.6,-6.7,163.5,32,Medium
+NSC-10199,Avon Logistics Ltd,SMB,North West,Manufacturing,Liam Carter,Monthly,190.00,2280.00,,3,0,1,113.4,2.67,0,54.3,56.8,53.7,3.1,3.8,15,Medium
+NSC-10280,Sterling Housing Ltd,Mid-Market,South West & Wales,Financial Services,Aisha Patel,Annual,3510.00,42120.00,2026-12-01,3,0,0,51.3,4.00,0,70.5,72.2,69.3,2.9,79.8,0,Low
+NSC-10556,Avon Manufacturing Ltd,Mid-Market,London & South East,Financial Services,Aisha Patel,Annual,1150.00,13800.00,2026-10-01,2,0,0,27.0,3.50,0,57.3,51.7,60.0,-8.3,22.5,19,Medium
+NSC-10585,Beacon Distribution Group,SMB,South West & Wales,Logistics,Ravi Mehta,Annual,455.00,5460.00,2026-12-01,4,0,1,29.4,3.00,0,59.4,61.0,58.5,2.5,10.8,8,Medium
+NSC-10626,Orchard Learning plc,SMB,Yorkshire & North East,Logistics,Liam Carter,Monthly,1660.00,19920.00,,0,0,0,,,0,80.8,80.6,80.4,0.2,47.5,0,Low
+NSC-10710,Orchard Engineering Ltd,Mid-Market,Scotland,Logistics,Hannah Doyle,Annual,1170.00,14040.00,2027-04-01,6,0,1,41.5,5.00,0,68.9,70.3,68.5,1.8,26.3,0,Low
+NSC-10720,Granite Partners Holdings,SMB,North West,Unknown,Sophie Turner,Monthly,165.00,1980.00,,2,0,1,104.6,2.50,0,61.8,63.8,60.7,3.1,3.8,12,Medium
+NSC-10769,Severn Energy Ltd,Enterprise,Midlands,Logistics,Priya Raman,Annual,4955.00,59460.00,2027-05-01,9,0,1,49.3,2.33,0,22.8,27.3,21.5,5.8,53.3,43,High
+NSC-10797,Castlefield Learning LLP,Mid-Market,Yorkshire & North East,Public Sector,Hannah Doyle,Monthly,1355.00,16260.00,,1,0,1,187.9,4.00,0,67.5,66.8,68.2,-1.4,30.3,2,Low
+NSC-10829,Kingsway Foods plc,Mid-Market,South West & Wales,Public Sector,Aisha Patel,Annual,1835.00,22020.00,2027-07-01,3,0,0,56.7,4.00,0,64.5,68.6,63.1,5.5,40.5,0,Low
+NSC-10849,Granite Analytics plc,SMB,London & South East,Manufacturing,Unassigned,Monthly,960.00,11520.00,,2,0,0,24.9,,0,58.0,60.7,57.0,3.7,24.3,2,Low
+NSC-10861,Mersey Freight Holdings,SMB,London & South East,Financial Services,Liam Carter,Monthly,450.00,5400.00,,3,0,0,40.6,3.50,0,67.9,68.9,67.1,1.8,11.3,4,Low
+NSC-10957,Peak Manufacturing Ltd,SMB,South West & Wales,Logistics,Liam Carter,Annual,330.00,3960.00,2026-11-01,1,0,0,23.0,5.00,0,63.2,59.9,63.4,-3.5,7.3,5,Low
+NSC-11008,Harbour Distribution Group,Mid-Market,South West & Wales,Professional Services,Aisha Patel,Annual,2675.00,32100.00,2027-01-01,3,0,3,109.3,4.00,0,38.1,38.4,37.4,1.0,39.8,18,Medium
+NSC-11047,Ember Partners LLP,SMB,Ireland,Logistics,Megan Shaw,Annual,150.00,1800.00,2027-03-01,2,0,1,116.5,2.00,0,65.5,65.3,65.9,-0.6,3.5,17,Medium
+NSC-11118,Lantern Engineering Holdings,SMB,London & South East,Education,Megan Shaw,Annual,180.00,2160.00,2027-05-01,0,0,0,,3.00,0,56.9,57.1,57.4,-0.3,3.8,11,Medium
+NSC-11310,Kingsway Analytics plc,SMB,South West & Wales,Healthcare,Sophie Turner,Annual,390.00,4680.00,2026-11-01,0,0,0,,,0,76.6,73.8,78.5,-4.7,10.0,7,Low
+NSC-11390,Lantern Freight Ltd,Mid-Market,Yorkshire & North East,Healthcare,Hannah Doyle,Monthly,1175.00,14100.00,,4,0,0,23.3,3.33,0,59.4,55.8,61.3,-5.5,21.8,14,Medium
+NSC-11542,Brightwater Logistics Holdings,Enterprise,Ireland,Retail,Tom Whitfield,Annual,11235.00,134820.00,2027-09-01,1,0,0,46.2,,0,59.0,59.0,,,194.3,1,Low
+NSC-10014,Orchard Consulting Ltd,Mid-Market,London & South East,Healthcare,Unassigned,Monthly,5690.00,68280.00,,2,0,0,9.9,4.25,0,59.8,59.8,60.1,-0.3,123.3,1,Low
+NSC-10131,Quayside Freight LLP,SMB,London & South East,Retail,Owen Price,Monthly,465.00,5580.00,,1,0,0,9.6,3.00,0,57.4,54.0,57.7,-3.7,10.0,16,Medium
+NSC-10159,Beacon Care Holdings,Mid-Market,London & South East,Education,Callum Reid,Monthly,1700.00,20400.00,,3,0,2,123.3,3.00,0,62.8,64.6,61.5,3.1,35.0,8,Medium
+NSC-10303,Harbour Analytics plc,SMB,London & South East,Retail,Ravi Mehta,Monthly,200.00,2400.00,,2,0,0,55.4,5.00,0,81.8,82.1,81.5,0.6,5.8,0,Low
+NSC-10822,Quayside Energy LLP,Enterprise,Yorkshire & North East,Manufacturing,Priya Raman,Annual,22225.00,266700.00,2027-07-01,11,0,2,52.9,3.55,0,61.5,61.2,61.3,-0.1,412.5,4,Low
+NSC-10833,Harbour Health Group,SMB,London & South East,Manufacturing,Ravi Mehta,Annual,145.00,1740.00,2027-07-01,1,0,0,24.5,5.00,0,49.5,47.6,51.1,-3.5,3.0,14,Medium
+NSC-10926,Clyde Medical Ltd,Mid-Market,London & South East,Financial Services,Hannah Doyle,Annual,1025.00,12300.00,2026-11-01,4,0,2,110.4,3.00,0,69.0,68.4,69.7,-1.3,22.0,10,Medium
+NSC-10962,Saxon Medical Ltd,Mid-Market,London & South East,Healthcare,Hannah Doyle,Monthly,3315.00,39780.00,,4,0,0,24.7,3.60,1,78.1,75.7,78.6,-2.9,80.5,8,Low
+NSC-11037,Ashford Learning Ltd,SMB,South West & Wales,Retail,Ravi Mehta,Monthly,125.00,1500.00,,3,0,0,23.7,3.50,0,81.6,83.3,80.9,2.4,3.5,4,Low
+NSC-11076,Quayside Learning LLP,Mid-Market,South West & Wales,Retail,Aisha Patel,Monthly,9495.00,113940.00,,3,0,1,50.1,5.00,0,59.3,56.4,61.4,-5.0,189.3,8,Medium
+NSC-11093,Holloway Medical Ltd,Mid-Market,North West,Logistics,Callum Reid,Annual,2000.00,24000.00,2027-04-01,5,0,0,36.6,4.50,0,62.3,65.9,61.1,4.8,42.8,0,Low
+NSC-11193,Falcon Learning Ltd,SMB,North West,Professional Services,Owen Price,Annual,120.00,1440.00,2027-07-01,0,0,0,,3.00,0,82.7,80.3,83.6,-3.3,3.5,13,Medium
+NSC-11322,Cobalt Consulting LLP,SMB,Yorkshire & North East,Retail,Liam Carter,Monthly,325.00,3900.00,,0,0,0,,4.00,0,70.4,76.8,67.3,9.5,8.3,0,Low
+NSC-11345,Lantern Learning Group,Enterprise,Midlands,Retail,Grace Okafor,Annual,17000.00,204000.00,2027-01-01,12,0,2,55.8,2.50,0,44.2,42.6,45.4,-2.8,254.8,29,Medium
+NSC-11349,Calder Analytics plc,SMB,Yorkshire & North East,Retail,Megan Shaw,Monthly,860.00,10320.00,,0,0,0,,4.00,0,69.4,69.6,69.1,0.5,24.0,0,Low
+NSC-11365,Holloway Analytics Group,SMB,Midlands,Education,Owen Price,Monthly,180.00,2160.00,,2,0,1,60.2,,0,77.1,70.7,79.9,-9.2,4.5,14,Medium
+NSC-11413,Highland Learning Holdings,Mid-Market,London & South East,Financial Services,Callum Reid,Annual,1000.00,12000.00,2027-03-01,3,0,1,33.5,2.00,0,45.0,44.7,46.0,-1.3,17.8,30,Medium
+NSC-10020,Castlefield Logistics Ltd,Mid-Market,London & South East,Logistics,Daniel Hughes,Annual,3920.00,47040.00,2027-05-01,5,0,0,65.3,4.67,0,57.2,60.7,56.1,4.6,81.5,2,Low
+NSC-10047,Ashford Learning Holdings,SMB,North West,Logistics,Owen Price,Annual,130.00,1560.00,2027-06-01,1,0,0,69.5,5.00,0,47.4,47.3,46.9,0.4,2.5,10,Medium
+NSC-10114,Ember Energy LLP,Mid-Market,Ireland,Education,Hannah Doyle,Annual,2070.00,24840.00,2027-06-01,2,0,0,18.4,3.50,0,63.4,59.8,64.7,-4.9,45.3,11,Low
+NSC-10272,Redbrick Learning Ltd,SMB,Yorkshire & North East,Financial Services,Sophie Turner,Monthly,325.00,3900.00,,1,0,0,9.9,,0,65.6,67.1,65.4,1.7,7.8,0,Low
+NSC-10380,Beacon Learning Ltd,Mid-Market,London & South East,Healthcare,Hannah Doyle,Monthly,1240.00,14880.00,,3,0,0,41.1,3.50,0,47.5,46.2,47.9,-1.7,21.0,17,Medium
+NSC-10506,Albion Advisory Holdings,Mid-Market,London & South East,Financial Services,Aisha Patel,Annual,2585.00,31020.00,2027-08-01,2,0,0,62.8,2.78,0,59.1,62.0,58.7,3.3,57.0,10,Medium
+NSC-10729,Mersey Care Group,SMB,Midlands,Professional Services,Owen Price,Monthly,125.00,1500.00,,1,0,0,20.5,,0,66.8,61.7,68.7,-7.0,3.0,11,Medium
+NSC-10810,Moorland Freight Holdings,Mid-Market,London & South East,Public Sector,Unassigned,Monthly,2685.00,32220.00,,6,1,2,69.7,,0,62.4,63.1,61.9,1.2,60.3,20,Medium
+NSC-10842,Oakridge Partners Ltd,SMB,South West & Wales,Logistics,Liam Carter,Monthly,1045.00,12540.00,,1,1,1,26.8,,0,57.6,57.0,56.7,0.3,23.3,22,Medium
+NSC-11103,Saxon Housing Ltd,SMB,London & South East,Manufacturing,Liam Carter,Monthly,470.00,5640.00,,2,0,1,107.0,3.33,0,77.8,74.2,79.7,-5.5,12.0,14,Medium
+NSC-11311,Meridian Freight plc,SMB,North West,Healthcare,Liam Carter,Annual,195.00,2340.00,2026-11-01,1,0,1,78.9,3.67,0,66.7,64.7,68.0,-3.3,4.0,8,Low
+NSC-11333,Castlefield Housing LLP,Mid-Market,London & South East,Manufacturing,Callum Reid,Annual,2075.00,24900.00,2027-01-01,6,0,1,43.3,4.00,1,64.3,64.3,65.0,-0.7,48.5,1,Low
+NSC-11415,Clyde Housing LLP,SMB,Midlands,Professional Services,Megan Shaw,Monthly,230.00,2760.00,,0,0,0,,,0,64.1,67.7,61.8,5.9,5.7,0,Low
+NSC-11478,Quayside Care LLP,Mid-Market,Midlands,Retail,Aisha Patel,Annual,990.00,11880.00,2027-06-01,5,0,1,51.0,2.00,0,49.1,48.7,49.2,-0.5,17.3,25,Medium
+NSC-10004,Ember Manufacturing plc,Mid-Market,Scotland,Manufacturing,Callum Reid,Annual,2980.00,35760.00,2027-06-01,2,0,0,45.7,5.00,0,68.3,68.0,68.3,-0.3,69.3,0,Low
+NSC-10164,Holloway Engineering Ltd,SMB,North West,Financial Services,Ravi Mehta,Monthly,300.00,3600.00,,1,0,0,19.0,3.33,0,80.2,80.1,79.9,0.2,8.3,5,Medium
+NSC-10577,Ember Health plc,SMB,London & South East,Healthcare,Liam Carter,Monthly,480.00,5760.00,,2,1,1,29.5,3.00,0,58.1,56.5,59.4,-2.9,11.3,34,Medium
+NSC-10613,Saxon Engineering Holdings,SMB,South West & Wales,Healthcare,Megan Shaw,Monthly,245.00,2940.00,,0,0,0,,4.00,0,74.8,74.9,74.5,0.4,6.3,0,Low
+NSC-10698,Pennine Health Ltd,SMB,North West,Healthcare,Megan Shaw,Monthly,155.00,1860.00,,0,0,0,,,0,55.5,52.9,56.8,-3.9,3.0,9,Low
+NSC-10733,Mersey Health Holdings,SMB,North West,Logistics,Megan Shaw,Annual,530.00,6360.00,2027-04-01,2,0,0,3.9,4.50,0,62.6,62.7,63.2,-0.5,12.5,1,Low
+NSC-10748,Peak Consulting Ltd,Mid-Market,London & South East,Logistics,Hannah Doyle,Monthly,5150.00,61800.00,,4,0,1,64.5,3.50,0,59.4,58.9,59.2,-0.3,107.3,5,Low
+NSC-10944,Sterling Health plc,SMB,London & South East,Manufacturing,Unassigned,Monthly,125.00,1500.00,,1,0,0,1.7,4.50,0,47.8,46.0,48.4,-2.4,2.0,13,Medium
+NSC-11117,Oakridge Energy plc,Mid-Market,Midlands,Manufacturing,Callum Reid,Monthly,1650.00,19800.00,,3,0,0,14.3,1.00,0,81.9,82.7,81.2,1.5,43.8,24,Medium
+NSC-11240,Cobalt Consulting Ltd,Mid-Market,London & South East,Retail,Daniel Hughes,Annual,4185.00,50220.00,2027-09-01,1,0,1,196.9,4.33,0,80.3,83.3,79.1,4.2,109.0,0,Low
+NSC-11386,Bluebell Systems plc,Mid-Market,London & South East,Professional Services,Callum Reid,Annual,3135.00,37620.00,2027-02-01,3,0,0,13.2,5.00,0,58.9,57.8,60.4,-2.6,69.3,5,Low
+NSC-11412,Ashford Supplies Holdings,SMB,London & South East,Retail,Liam Carter,Monthly,650.00,7800.00,,0,0,0,,,0,50.2,51.7,48.5,3.2,13.3,8,Low
+NSC-11491,Beacon Retail Group,SMB,London & South East,Logistics,Ravi Mehta,Monthly,255.00,3060.00,,1,0,1,118.6,,0,59.2,62.0,57.1,4.9,5.8,1,Low
+NSC-10124,Granite Distribution Ltd,SMB,London & South East,Manufacturing,Owen Price,Annual,1305.00,15660.00,2027-05-01,1,0,0,17.1,4.00,0,70.0,65.5,71.7,-6.2,33.3,9,Medium
+NSC-10192,Northgate Advisory LLP,SMB,Scotland,Logistics,Ravi Mehta,Annual,215.00,2580.00,2027-08-01,0,0,0,,,0,67.9,69.5,67.0,2.5,4.8,0,Low
+NSC-10216,Thames Consulting plc,Mid-Market,London & South East,Logistics,Daniel Hughes,Annual,2965.00,35580.00,2027-01-01,3,0,0,16.0,4.00,0,82.7,82.4,82.3,0.1,80.0,0,Low
+NSC-10222,Holloway Health Ltd,SMB,North West,Retail,Sophie Turner,Monthly,315.00,3780.00,,0,0,0,,,0,55.5,54.0,56.2,-2.2,6.8,7,Low
+NSC-10317,Quayside Logistics Ltd,SMB,London & South East,Professional Services,Owen Price,Monthly,215.00,2580.00,,3,1,2,66.3,2.67,0,41.3,39.8,42.2,-2.4,4.0,49,Medium
+NSC-10319,Brightwater Manufacturing Ltd,SMB,North West,Healthcare,Ravi Mehta,Monthly,795.00,9540.00,,2,0,1,50.1,,0,72.2,70.1,73.6,-3.5,21.0,5,Low
+NSC-10395,Tamar Logistics Ltd,SMB,Yorkshire & North East,Public Sector,Sophie Turner,Monthly,280.00,3360.00,,2,0,1,146.1,5.00,1,75.4,75.1,75.1,0.0,8.0,0,Low
+NSC-10479,Lantern Medical Ltd,Mid-Market,Scotland,Professional Services,Hannah Doyle,Annual,1615.00,19380.00,2027-07-01,6,0,1,53.2,2.60,0,48.1,50.8,47.1,3.7,28.5,21,Medium
+NSC-10528,Northgate Freight LLP,SMB,London & South East,Healthcare,Owen Price,Annual,295.00,3540.00,2026-10-01,0,0,0,,,0,60.8,66.0,58.6,7.4,6.3,0,Low
+NSC-10538,Orchard Analytics Ltd,SMB,North West,Financial Services,Sophie Turner,Monthly,150.00,1800.00,,0,0,0,,5.00,0,52.3,51.5,52.0,-0.5,3.0,7,Low
+NSC-10737,Highland Housing Ltd,Mid-Market,Yorkshire & North East,Logistics,Aisha Patel,Monthly,1075.00,12900.00,,3,0,0,36.1,3.33,0,71.9,75.9,70.3,5.6,25.8,5,Medium
+NSC-10794,Avon Health Holdings,SMB,London & South East,Logistics,Ravi Mehta,Monthly,170.00,2040.00,,1,0,0,11.8,4.00,0,60.1,55.6,62.5,-6.9,4.0,10,Medium
+NSC-10805,Holloway Advisory Group,Mid-Market,Yorkshire & North East,Manufacturing,Callum Reid,Annual,3905.00,46860.00,2027-06-01,1,0,0,18.0,3.25,0,88.1,87.5,89.0,-1.5,107.8,8,Medium
+NSC-10902,Northgate Analytics Ltd,Enterprise,London & South East,Professional Services,Grace Okafor,Annual,13390.00,160680.00,2026-10-01,12,1,3,48.6,4.00,0,61.9,59.0,63.0,-4.0,228.8,26,Medium
+NSC-10970,Saxon Health Group,Mid-Market,Midlands,Retail,Daniel Hughes,Monthly,4105.00,49260.00,,7,1,2,33.3,3.00,0,84.6,79.3,86.0,-6.7,108.5,38,Medium
+NSC-11048,Beacon Retail Ltd,Mid-Market,Yorkshire & North East,Professional Services,Daniel Hughes,Annual,2620.00,31440.00,2027-03-01,3,0,0,13.8,3.25,0,47.5,44.0,48.7,-4.7,43.8,23,Medium
+NSC-11066,Northgate Learning plc,SMB,Midlands,Manufacturing,Sophie Turner,Monthly,210.00,2520.00,,0,0,0,,,0,65.1,64.9,65.4,-0.5,4.8,1,Low
+NSC-11224,Pennine Health Holdings,SMB,Midlands,Manufacturing,Ravi Mehta,Annual,145.00,1740.00,2027-09-01,3,0,0,58.8,4.50,0,53.0,54.5,51.9,2.6,3.0,6,Low
+NSC-11237,Severn Advisory Group,Mid-Market,London & South East,Manufacturing,Aisha Patel,Annual,1325.00,15900.00,2027-09-01,4,1,2,55.2,3.60,0,51.6,45.8,54.1,-8.3,22.5,42,Medium
+NSC-11297,Orchard Logistics plc,SMB,Yorkshire & North East,Public Sector,Liam Carter,Monthly,310.00,3720.00,,0,0,0,,,0,86.9,87.1,87.0,0.1,9.3,0,Low
+NSC-11300,Ironbridge Supplies LLP,Mid-Market,Yorkshire & North East,Retail,Aisha Patel,Annual,1155.00,13860.00,2026-11-01,2,0,0,30.0,1.00,0,87.7,91.2,86.5,4.7,30.3,24,Medium
+NSC-11304,Orchard Capital Group,SMB,London & South East,Financial Services,Owen Price,Monthly,170.00,2040.00,,2,0,0,19.2,,1,72.1,71.8,72.2,-0.4,4.3,1,Low
+NSC-11306,Severn Supplies Ltd,Mid-Market,Midlands,Healthcare,Aisha Patel,Monthly,1160.00,13920.00,,6,0,1,43.7,5.00,0,58.7,59.6,58.7,0.9,23.8,1,Low
+NSC-11368,Sterling Capital Ltd,SMB,London & South East,Public Sector,Ravi Mehta,Monthly,210.00,2520.00,,1,0,0,45.2,2.00,0,77.2,77.4,77.0,0.4,5.5,16,Medium
+NSC-11490,Beacon Freight plc,Mid-Market,Midlands,Healthcare,Aisha Patel,Annual,880.00,10560.00,2027-07-01,3,0,0,19.7,,0,56.2,55.9,56.0,-0.1,17.5,3,Low
+NSC-10179,Lantern Retail Ltd,Enterprise,London & South East,Retail,Tom Whitfield,Annual,28365.00,340380.00,2027-03-01,8,0,1,35.7,3.55,0,63.3,64.4,63.0,1.4,541.0,4,Low
+NSC-10194,Thames Medical Ltd,Mid-Market,Yorkshire & North East,Professional Services,Callum Reid,Monthly,5725.00,68700.00,,3,1,2,71.0,4.00,0,70.9,64.5,74.0,-9.5,128.0,34,Medium
+NSC-10246,Harbour Analytics LLP,Mid-Market,Scotland,Logistics,Daniel Hughes,Annual,1825.00,21900.00,2027-01-01,2,0,1,86.9,3.50,0,76.1,70.2,79.2,-9.0,44.5,18,Medium
+NSC-10252,Lowther Analytics Holdings,Mid-Market,Midlands,Financial Services,Hannah Doyle,Annual,4680.00,56160.00,2026-12-01,5,1,1,14.3,4.33,0,57.9,55.6,58.4,-2.8,87.3,26,Medium
+NSC-10293,Ashford Capital Group,Enterprise,London & South East,Professional Services,Tom Whitfield,Annual,6580.00,78960.00,2027-09-01,6,0,0,18.7,3.50,0,81.9,84.0,80.6,3.4,153.0,4,Low
+NSC-10413,Quayside Care Ltd,SMB,Midlands,Professional Services,Megan Shaw,Monthly,960.00,11520.00,,4,1,1,14.9,4.00,0,63.1,62.8,63.9,-1.1,22.8,22,Medium
+NSC-10438,Clyde Freight LLP,SMB,London & South East,Professional Services,Sophie Turner,Annual,295.00,3540.00,2027-09-01,1,0,1,293.3,,0,77.1,74.1,79.0,-4.9,8.3,7,Low
+NSC-10503,Lantern Advisory Ltd,Enterprise,Midlands,Manufacturing,Grace Okafor,Annual,19445.00,233340.00,2027-09-01,14,2,5,56.9,3.80,0,46.7,45.6,47.2,-1.6,257.5,55,High
+NSC-10532,Calder Care LLP,SMB,Scotland,Public Sector,Sophie Turner,Monthly,220.00,2640.00,,1,0,0,48.3,,0,77.0,75.7,78.0,-2.3,5.5,3,Low
+NSC-10722,Calder Engineering Holdings,Mid-Market,Midlands,Logistics,Daniel Hughes,Annual,2285.00,27420.00,2027-04-01,3,0,2,61.4,2.50,0,54.2,55.3,53.7,1.6,45.8,17,Medium
+NSC-10763,Brightwater Housing Ltd,SMB,London & South East,Financial Services,Ravi Mehta,Monthly,415.00,4980.00,,3,0,1,96.0,5.00,0,67.2,67.4,67.3,0.1,10.3,0,Low
+NSC-10900,Ashford Logistics LLP,SMB,South West & Wales,Public Sector,Megan Shaw,Monthly,250.00,3000.00,,1,0,0,5.5,5.00,0,66.1,67.9,65.3,2.6,5.8,0,Low
+NSC-10955,Lantern Housing Holdings,SMB,Scotland,Logistics,Sophie Turner,Monthly,580.00,6960.00,,1,0,0,25.0,4.00,0,63.9,62.5,64.0,-1.5,15.0,2,Low
+NSC-11031,Oakridge Logistics Group,Mid-Market,North West,Healthcare,Callum Reid,Annual,1015.00,12180.00,2027-02-01,4,0,1,83.9,3.20,0,42.5,41.9,42.8,-0.9,16.5,22,Medium
+NSC-11072,Lantern Analytics Holdings,Mid-Market,London & South East,Professional Services,Aisha Patel,Annual,2880.00,34560.00,2027-03-01,4,0,1,165.0,3.00,1,40.1,38.0,40.9,-2.9,45.0,28,Medium
+NSC-11132,Cobalt Systems Ltd,SMB,London & South East,Healthcare,Ravi Mehta,Annual,125.00,1500.00,2027-05-01,2,0,1,82.6,1.00,0,46.2,48.5,44.4,4.1,2.0,35,Medium
+NSC-11156,Harbour Engineering Ltd,SMB,South West & Wales,Professional Services,Liam Carter,Monthly,385.00,4620.00,,1,0,0,47.0,4.00,0,48.3,43.3,50.4,-7.1,6.8,20,Medium
+NSC-11504,Avon Distribution Holdings,SMB,Yorkshire & North East,Education,Liam Carter,Monthly,370.00,4440.00,,1,0,0,90.3,,0,74.6,77.2,72.6,4.6,10.3,0,Low
+NSC-10025,Sterling Analytics Holdings,Mid-Market,Midlands,Healthcare,Daniel Hughes,Annual,1720.00,20640.00,2027-02-01,4,0,1,59.0,3.00,0,31.9,32.9,31.2,1.7,22.8,30,High
+NSC-10101,Calder Energy Holdings,Enterprise,Yorkshire & North East,Retail,Tom Whitfield,Annual,7550.00,90600.00,2027-01-01,17,2,4,44.6,3.40,0,30.8,23.6,34.1,-10.5,76.5,84,High
+NSC-10275,Falcon Health Ltd,Mid-Market,London & South East,Healthcare,Callum Reid,Annual,1305.00,15660.00,2027-04-01,7,1,1,40.4,3.00,0,45.1,42.8,46.0,-3.2,22.3,45,Medium
+NSC-10343,Orchard Partners plc,Mid-Market,North West,Professional Services,Hannah Doyle,Annual,3000.00,36000.00,2027-02-01,3,0,0,76.0,3.80,0,68.3,68.3,68.0,0.3,63.8,2,Low
+NSC-10381,Calder Retail Group,Mid-Market,London & South East,Retail,Aisha Patel,Monthly,6435.00,77220.00,,3,0,1,63.8,3.75,0,74.3,78.3,72.2,6.1,145.0,2,Low
+NSC-10429,Westmoor Foods Holdings,SMB,Ireland,Professional Services,Owen Price,Monthly,120.00,1440.00,,1,0,1,368.8,2.00,0,56.3,56.9,56.2,0.7,2.5,19,Medium
+NSC-10451,Lantern Medical Group,SMB,London & South East,Financial Services,Sophie Turner,Annual,765.00,9180.00,2027-03-01,0,0,0,,3.00,0,84.2,88.1,82.9,5.2,22.3,8,Medium
+NSC-10471,Harbour Retail plc,SMB,Yorkshire & North East,Financial Services,Ravi Mehta,Monthly,415.00,4980.00,,1,0,0,69.4,,0,61.6,59.6,61.6,-2.0,9.3,3,Low
+NSC-10555,Holloway Health Group,Mid-Market,London & South East,Retail,Aisha Patel,Annual,1875.00,22500.00,2026-10-01,2,0,0,4.0,5.00,0,68.2,73.3,66.2,7.1,42.8,0,Low
+NSC-10568,Ironbridge Foods Group,SMB,Ireland,Professional Services,Ravi Mehta,Monthly,160.00,1920.00,,1,0,0,,,1,61.8,61.8,,,3.5,0,Low
+NSC-10689,Meridian Retail Ltd,Mid-Market,Midlands,Retail,Unassigned,Annual,960.00,11520.00,2027-03-01,3,0,0,36.3,5.00,0,43.5,43.9,43.3,0.6,16.0,13,Medium
+NSC-10701,Orchard Energy Ltd,SMB,London & South East,Professional Services,Megan Shaw,Monthly,105.00,1260.00,,1,0,0,34.5,5.00,0,76.8,74.6,79.1,-4.5,2.5,7,Low
+NSC-10747,Tamar Learning LLP,SMB,North West,Public Sector,Liam Carter,Annual,605.00,7260.00,2027-04-01,1,0,0,61.4,5.00,0,77.9,76.7,77.7,-1.0,17.3,2,Low
+NSC-10785,Highland Foods Ltd,Mid-Market,Midlands,Professional Services,Aisha Patel,Annual,5710.00,68520.00,2027-06-01,4,1,1,36.5,4.00,0,75.5,78.4,73.9,4.5,139.8,20,Medium
+NSC-10868,Castlefield Foods Group,Mid-Market,Yorkshire & North East,Professional Services,Hannah Doyle,Annual,2490.00,29880.00,2027-09-01,1,0,0,37.1,3.00,0,49.9,57.8,46.7,11.1,51.0,16,Medium
+NSC-10973,Orchard Partners Ltd,SMB,Scotland,Logistics,Liam Carter,Monthly,105.00,1260.00,,1,0,0,11.8,,0,78.9,74.3,82.0,-7.7,2.0,12,Medium
+NSC-11001,Wessex Capital Ltd,Mid-Market,Midlands,Retail,Callum Reid,Monthly,1345.00,16140.00,,2,0,1,84.2,3.33,0,64.1,65.2,63.4,1.8,31.5,5,Medium
+NSC-11011,Cobalt Distribution Holdings,SMB,London & South East,Public Sector,Owen Price,Monthly,110.00,1320.00,,1,0,0,7.4,,0,54.2,55.7,53.5,2.2,2.0,5,Low
+NSC-11022,Bluebell Medical Group,Mid-Market,Midlands,Logistics,Daniel Hughes,Annual,2245.00,26940.00,2027-02-01,3,0,0,37.9,3.67,0,74.6,73.3,75.4,-2.1,54.8,6,Low
+NSC-11041,Ashford Consulting Ltd,Mid-Market,Yorkshire & North East,Professional Services,Daniel Hughes,Monthly,4445.00,53340.00,,0,0,0,,4.00,0,78.9,80.3,78.3,2.0,106.0,0,Low
+NSC-11104,Severn Supplies Holdings,SMB,South West & Wales,Public Sector,Sophie Turner,Monthly,900.00,10800.00,,1,0,0,44.7,4.00,0,72.8,73.6,73.1,0.5,23.5,0,Low
+NSC-11258,Sterling Health Ltd,Mid-Market,London & South East,Retail,Hannah Doyle,Monthly,2580.00,30960.00,,2,0,0,7.6,3.33,0,65.6,66.4,65.0,1.4,51.8,5,Medium
+NSC-11279,Holloway Housing Ltd,Enterprise,Ireland,Professional Services,Tom Whitfield,Annual,12690.00,152280.00,2026-10-01,8,0,0,41.6,4.00,0,57.7,60.2,56.8,3.4,219.8,2,Low
+NSC-11422,Riverside Analytics LLP,SMB,London & South East,Healthcare,Sophie Turner,Monthly,360.00,4320.00,,2,1,1,32.2,2.00,0,65.8,68.0,64.4,3.6,8.3,36,Medium
+NSC-11506,Thames Engineering LLP,Mid-Market,North West,Retail,Hannah Doyle,Annual,1115.00,13380.00,2027-08-01,4,0,0,23.7,5.00,0,67.2,68.6,66.1,2.5,25.3,0,Low
+NSC-10110,Kingsway Analytics Ltd,Enterprise,London & South East,Professional Services,Tom Whitfield,Annual,15645.00,187740.00,2027-03-01,9,0,0,20.3,3.25,0,54.1,54.4,55.0,-0.6,253.3,12,Medium
+NSC-10210,Saxon Manufacturing Ltd,SMB,North West,Healthcare,Ravi Mehta,Annual,150.00,1800.00,2026-10-01,2,0,1,60.2,5.00,0,67.5,63.0,69.9,-6.9,3.0,10,Medium
+NSC-10235,Moorland Manufacturing Ltd,Enterprise,North West,Manufacturing,Grace Okafor,Annual,4940.00,59280.00,2027-03-01,11,2,3,51.0,3.07,0,37.8,28.3,42.0,-13.7,59.0,86,High
+NSC-10307,Northgate Distribution Holdings,SMB,London & South East,Healthcare,Unassigned,Monthly,390.00,4680.00,,3,0,1,63.4,5.00,0,78.8,78.9,79.3,-0.4,10.3,1,Low
+NSC-10323,Ashford Capital Ltd,SMB,London & South East,Healthcare,Sophie Turner,Monthly,360.00,4320.00,,2,0,0,14.3,5.00,0,51.8,51.5,51.8,-0.3,7.8,7,Low
+NSC-10348,Ironbridge Logistics plc,SMB,London & South East,Manufacturing,Megan Shaw,Monthly,160.00,1920.00,,0,0,0,,2.00,0,47.4,51.7,46.5,5.2,3.3,26,Medium
+NSC-10517,Peak Health Group,SMB,London & South East,Professional Services,Owen Price,Annual,295.00,3540.00,2027-07-01,2,0,0,24.9,4.00,0,76.0,73.1,77.6,-4.5,8.0,7,Low
+NSC-10525,Beacon Systems Ltd,SMB,London & South East,Professional Services,Unassigned,Monthly,915.00,10980.00,,0,0,0,,4.00,0,71.4,70.9,71.4,-0.5,23.8,1,Low
+NSC-10734,Ironbridge Retail Holdings,SMB,London & South East,Logistics,Sophie Turner,Annual,295.00,3540.00,2027-04-01,1,0,1,216.7,3.00,0,63.8,62.3,64.7,-2.4,6.8,12,Medium
+NSC-10841,Albion Freight Ltd,SMB,London & South East,Healthcare,Ravi Mehta,Monthly,405.00,4860.00,,1,0,0,17.8,5.00,0,58.0,57.7,58.5,-0.8,9.5,3,Low
+NSC-10855,Albion Distribution LLP,SMB,Midlands,Financial Services,Liam Carter,Annual,270.00,3240.00,2027-08-01,2,0,0,54.9,3.00,0,67.0,67.1,66.4,0.7,6.0,8,Medium
+NSC-10876,Sterling Distribution Ltd,Mid-Market,North West,Retail,Aisha Patel,Annual,1600.00,19200.00,2027-09-01,7,0,0,30.2,4.00,0,62.3,64.6,61.6,3.0,33.5,0,Low
+NSC-10937,Beacon Health Group,SMB,South West & Wales,Retail,Liam Carter,Annual,125.00,1500.00,2026-11-01,0,0,0,,,0,59.3,58.4,59.7,-1.3,2.8,3,Low
+NSC-10939,Castlefield Foods LLP,SMB,London & South East,Education,Owen Price,Monthly,630.00,7560.00,,1,0,0,,,1,73.0,69.6,74.3,-4.7,17.0,7,Low
+NSC-10969,Ironbridge Health Ltd,Mid-Market,London & South East,Logistics,Hannah Doyle,Monthly,800.00,9600.00,,3,0,0,40.9,,0,47.1,50.7,45.7,5.0,14.3,10,Medium
+NSC-11034,Castlefield Freight Ltd,SMB,London & South East,Professional Services,Ravi Mehta,Monthly,415.00,4980.00,,1,0,0,106.1,4.50,0,56.4,55.3,57.2,-1.9,9.3,6,Low
+NSC-11042,Sterling Medical Ltd,SMB,North West,Healthcare,Ravi Mehta,Monthly,1060.00,12720.00,,3,0,0,31.9,4.00,0,69.0,65.0,69.8,-4.8,27.0,7,Low
+NSC-11363,Cobalt Analytics Holdings,Enterprise,South West & Wales,Professional Services,Grace Okafor,Annual,6030.00,72360.00,2027-01-01,11,0,1,33.1,3.67,0,77.1,76.7,77.2,-0.5,127.3,3,Low
+NSC-11492,Brightwater Consulting Ltd,Mid-Market,London & South East,Healthcare,Daniel Hughes,Annual,2060.00,24720.00,2027-07-01,3,0,0,47.0,4.00,0,60.3,59.6,60.9,-1.3,44.3,2,Low
+NSC-11514,Tamar Retail plc,SMB,North West,Manufacturing,Ravi Mehta,Annual,270.00,3240.00,2027-09-01,1,0,0,40.4,,0,78.7,78.7,,,7.3,0,Low
+NSC-10258,Northgate Logistics Holdings,SMB,Yorkshire & North East,Manufacturing,Liam Carter,Monthly,140.00,1680.00,,5,0,1,69.3,3.33,0,74.7,74.3,74.0,0.3,4.0,5,Medium
+NSC-10329,Avon Freight Ltd,Mid-Market,Midlands,Financial Services,Callum Reid,Annual,2955.00,35460.00,2026-12-01,3,0,0,34.1,4.33,0,56.0,54.8,57.4,-2.6,60.3,7,Low
+NSC-10361,Falcon Partners plc,Enterprise,London & South East,Logistics,Priya Raman,Annual,12395.00,148740.00,2026-12-01,9,0,0,23.5,3.67,2,80.2,80.4,80.1,0.3,283.3,3,Low
+NSC-10578,Lowther Learning plc,Mid-Market,North West,Healthcare,Callum Reid,Monthly,1380.00,16560.00,,5,0,0,47.1,4.00,1,63.8,62.0,64.9,-2.9,27.8,4,Low
+NSC-10609,Ashford Systems Group,Enterprise,North West,Education,Tom Whitfield,Annual,7705.00,92460.00,2027-01-01,10,0,0,29.4,3.43,0,62.7,62.9,63.0,-0.1,135.8,5,Medium
+NSC-10707,Lantern Freight Holdings,Enterprise,Yorkshire & North East,Financial Services,Tom Whitfield,Annual,5910.00,70920.00,2027-04-01,9,0,1,30.5,2.89,1,47.1,48.3,46.0,2.3,95.3,19,Medium
+NSC-10777,Orchard Retail Ltd,SMB,Scotland,Retail,Sophie Turner,Annual,465.00,5580.00,2027-06-01,1,0,0,2.4,,0,76.0,77.7,74.8,2.9,13.8,0,Low
+NSC-10844,Orchard Learning Holdings,Enterprise,Midlands,Professional Services,Priya Raman,Annual,36675.00,440100.00,2027-08-01,7,0,1,48.5,3.63,0,67.9,64.2,70.0,-5.8,675.5,12,Medium
+NSC-10880,Albion Health Holdings,SMB,London & South East,Logistics,Owen Price,Monthly,1455.00,17460.00,,5,0,2,87.7,4.33,0,70.2,73.2,69.2,4.0,37.5,0,Low
+NSC-10923,Ironbridge Capital Group,SMB,North West,Financial Services,Liam Carter,Annual,560.00,6720.00,2026-11-01,1,0,0,5.9,4.00,0,56.8,57.2,57.6,-0.4,13.0,3,Low
+NSC-10999,Kingsway Freight LLP,Mid-Market,Scotland,Manufacturing,Aisha Patel,Monthly,885.00,10620.00,,8,1,1,25.9,3.75,0,67.7,67.5,67.8,-0.3,20.3,22,Medium
+NSC-11075,Westmoor Health Holdings,Mid-Market,London & South East,Financial Services,Daniel Hughes,Annual,2620.00,31440.00,2027-03-01,2,0,0,3.1,4.40,0,59.6,60.5,59.5,1.0,51.8,0,Low
+NSC-11281,Meridian Foods Ltd,Mid-Market,Midlands,Education,Aisha Patel,Annual,1945.00,23340.00,2026-10-01,4,1,1,30.2,3.67,0,69.0,67.2,70.1,-2.9,45.0,27,Medium
+NSC-11314,Harbour Medical Ltd,SMB,London & South East,Professional Services,Liam Carter,Annual,300.00,3600.00,2026-11-01,1,0,0,3.6,,0,67.2,67.3,66.5,0.8,8.0,0,Low
+NSC-11377,Fenwick Engineering Holdings,Mid-Market,Midlands,Retail,Hannah Doyle,Annual,1405.00,16860.00,2027-02-01,3,0,2,152.1,3.00,0,25.8,26.2,25.8,0.4,20.0,35,High
+NSC-11389,Redbrick Learning plc,SMB,Ireland,Logistics,Owen Price,Monthly,145.00,1740.00,,3,0,0,25.1,4.00,0,70.1,68.0,71.7,-3.7,3.8,6,Low
+NSC-11476,Avon Care Ltd,Mid-Market,North West,Financial Services,Callum Reid,Annual,1290.00,15480.00,2027-06-01,4,0,1,11.2,4.25,1,81.7,81.7,81.6,0.1,33.3,0,Low
+NSC-11517,Clyde Logistics LLP,SMB,North West,Retail,Owen Price,Monthly,325.00,3900.00,,0,0,0,,,0,62.9,62.9,,,7.5,0,Low
+NSC-10082,Westmoor Engineering Ltd,SMB,London & South East,Retail,Megan Shaw,Annual,220.00,2640.00,2027-09-01,0,0,0,,,0,69.3,66.2,71.0,-4.8,4.8,7,Low
+NSC-10360,Fenwick Consulting plc,Mid-Market,London & South East,Financial Services,Callum Reid,Annual,7845.00,94140.00,2027-05-01,5,1,2,29.6,3.00,0,56.0,51.4,58.1,-6.7,139.5,41,Medium
+NSC-10572,Mersey Supplies Group,SMB,Scotland,Retail,Ravi Mehta,Monthly,60.00,720.00,,2,0,0,34.2,2.33,0,45.6,45.2,44.9,0.3,2.0,25,Medium
+NSC-10573,Meridian Medical Ltd,Mid-Market,Scotland,Education,Unassigned,Annual,1080.00,12960.00,2026-11-01,2,0,0,33.2,3.50,0,62.0,67.5,60.0,7.5,25.0,4,Low
+NSC-10713,Wessex Housing Holdings,Mid-Market,Ireland,Professional Services,Hannah Doyle,Annual,1685.00,20220.00,2027-04-01,3,1,2,40.5,3.33,0,54.1,51.4,54.9,-3.5,33.0,35,Medium
+NSC-11068,Ashford Energy Holdings,SMB,South West & Wales,Logistics,Sophie Turner,Annual,240.00,2880.00,2027-03-01,0,0,0,,,0,58.0,61.4,57.2,4.2,5.0,2,Low
+NSC-11369,Meridian Analytics Ltd,Enterprise,London & South East,Retail,Tom Whitfield,Monthly,8035.00,96420.00,,8,0,0,25.6,4.33,1,57.8,58.3,57.3,1.0,139.8,2,Low
+NSC-11488,Redbrick Capital Ltd,SMB,Yorkshire & North East,Public Sector,Owen Price,Monthly,175.00,2100.00,,1,0,0,62.0,5.00,0,80.7,78.9,81.3,-2.4,4.8,4,Low
+NSC-11528,Lantern Freight plc,SMB,Midlands,Healthcare,Sophie Turner,Annual,200.00,2400.00,2027-09-01,1,0,0,40.1,5.00,0,71.3,71.3,,,5.3,0,Low
+NSC-10092,Castlefield Manufacturing plc,Mid-Market,Scotland,Logistics,Hannah Doyle,Monthly,3950.00,47400.00,,0,0,0,,,0,66.7,65.5,67.9,-2.4,87.8,4,Low
+NSC-10145,Northgate Health Ltd,SMB,London & South East,Professional Services,Ravi Mehta,Annual,340.00,4080.00,2027-04-01,2,0,2,127.9,3.00,0,84.5,81.7,85.5,-3.8,10.7,14,Medium
+NSC-10160,Riverside Medical plc,Mid-Market,North West,Professional Services,Aisha Patel,Annual,3965.00,47580.00,2027-09-01,1,0,0,49.9,2.33,0,69.8,71.6,69.1,2.5,98.5,13,Medium
+NSC-10504,Ember Housing plc,SMB,Yorkshire & North East,Education,Sophie Turner,Monthly,630.00,7560.00,,3,0,0,49.5,2.50,0,78.7,77.3,79.4,-2.1,17.3,15,Medium
+NSC-10638,Sterling Energy plc,Mid-Market,Scotland,Healthcare,Callum Reid,Annual,1295.00,15540.00,2027-01-01,6,0,0,39.2,3.00,0,52.2,45.9,54.6,-8.7,21.8,27,Medium
+NSC-10695,Peak Care Holdings,Mid-Market,Midlands,Education,Callum Reid,Annual,4225.00,50700.00,2027-03-01,5,0,1,42.4,4.00,0,71.6,71.4,71.4,0.0,94.3,0,Low
+NSC-10702,Holloway Freight Holdings,SMB,London & South East,Logistics,Sophie Turner,Monthly,215.00,2580.00,,2,0,0,66.5,3.00,0,70.5,72.6,69.2,3.4,5.0,8,Medium
+NSC-10888,Clyde Manufacturing LLP,SMB,North West,Financial Services,Liam Carter,Monthly,320.00,3840.00,,4,0,0,43.2,5.00,0,88.9,89.2,88.7,0.5,9.8,0,Low
+NSC-11005,Wessex Supplies LLP,Mid-Market,London & South East,Manufacturing,Hannah Doyle,Annual,2345.00,28140.00,2027-01-01,3,1,2,48.8,3.00,0,59.2,59.9,59.5,0.4,51.5,29,Medium
+NSC-11035,Severn Logistics Ltd,SMB,North West,Public Sector,Sophie Turner,Monthly,110.00,1320.00,,3,0,1,63.1,2.50,0,60.1,57.5,61.2,-3.7,2.0,18,Medium
+NSC-11052,Quayside Partners Ltd,SMB,Ireland,Education,Sophie Turner,Annual,240.00,2880.00,2027-03-01,0,0,0,,4.00,0,72.1,71.6,71.9,-0.3,5.5,0,Low
+NSC-11069,Bluebell Distribution LLP,SMB,Yorkshire & North East,Retail,Liam Carter,Monthly,250.00,3000.00,,0,0,0,,,0,81.1,82.9,81.2,1.7,6.3,0,Low
+NSC-11071,Ironbridge Distribution Ltd,Mid-Market,South West & Wales,Logistics,Hannah Doyle,Annual,2750.00,33000.00,2027-03-01,4,0,0,42.9,3.75,0,62.2,63.3,61.1,2.2,54.8,2,Low
+NSC-11141,Highland Housing LLP,Mid-Market,Scotland,Healthcare,Aisha Patel,Annual,2200.00,26400.00,2027-05-01,2,0,1,89.0,4.25,0,73.3,70.2,73.6,-3.4,52.5,5,Low
+NSC-11472,Thames Housing Ltd,Mid-Market,South West & Wales,Manufacturing,Callum Reid,Monthly,1445.00,17340.00,,1,0,1,,,1,69.0,65.7,69.7,-4.0,32.3,6,Low
+NSC-11493,Thames Learning Group,SMB,London & South East,Professional Services,Owen Price,Monthly,105.00,1260.00,,2,0,0,19.4,,0,65.5,64.6,66.2,-1.6,2.0,2,Low
+NSC-10009,Lantern Health Holdings,SMB,Midlands,Logistics,Owen Price,Monthly,1485.00,17820.00,,1,0,0,77.4,4.00,0,81.5,83.2,80.2,3.0,43.0,0,Low
+NSC-10074,Wessex Medical Ltd,SMB,London & South East,Manufacturing,Owen Price,Monthly,125.00,1500.00,,2,0,0,20.8,5.00,0,74.2,73.7,74.8,-1.1,3.0,2,Low
+NSC-10075,Peak Analytics Group,SMB,Midlands,Professional Services,Owen Price,Monthly,130.00,1560.00,,0,0,0,,,0,52.7,49.5,54.6,-5.1,2.0,13,Medium
+NSC-10184,Pennine Care plc,SMB,London & South East,Healthcare,Liam Carter,Monthly,555.00,6660.00,,1,0,0,81.8,,0,57.6,55.5,58.7,-3.2,11.0,7,Low
+NSC-10314,Lowther Housing Ltd,SMB,Yorkshire & North East,Professional Services,Owen Price,Annual,300.00,3600.00,2027-06-01,5,0,1,76.6,4.00,0,65.4,65.3,65.6,-0.3,7.3,0,Low
+NSC-10387,Wessex Manufacturing LLP,Mid-Market,London & South East,Public Sector,Daniel Hughes,Monthly,4105.00,49260.00,,2,0,0,47.0,2.83,0,66.9,68.9,66.6,2.3,92.3,9,Medium
+NSC-10468,Clyde Retail Ltd,Enterprise,London & South East,Retail,Priya Raman,Annual,57620.00,691440.00,2027-05-01,15,1,3,38.7,3.19,0,51.5,48.6,52.8,-4.2,901.0,40,Medium
+NSC-10546,Granite Medical LLP,Mid-Market,North West,Logistics,Daniel Hughes,Annual,4870.00,58440.00,2026-10-01,5,0,0,28.8,4.25,0,70.0,69.1,69.8,-0.7,115.3,1,Low
+NSC-10657,Westmoor Energy Group,SMB,London & South East,Retail,Liam Carter,Monthly,225.00,2700.00,,1,0,0,24.3,,0,80.2,81.5,79.6,1.9,7.0,0,Low
+NSC-10760,Granite Health LLP,SMB,North West,Education,Megan Shaw,Monthly,140.00,1680.00,,1,0,0,73.1,4.00,0,57.4,55.6,58.4,-2.8,3.5,6,Low
+NSC-10808,Redbrick Analytics Group,SMB,London & South East,Public Sector,Sophie Turner,Monthly,475.00,5700.00,,1,0,0,26.7,3.00,0,67.0,66.6,67.1,-0.5,11.8,9,Medium
+NSC-10819,Kingsway Medical Ltd,Enterprise,Scotland,Unknown,Priya Raman,Annual,6915.00,82980.00,2027-07-01,18,1,5,86.5,3.43,1,34.3,34.5,33.4,1.1,81.5,45,High
+NSC-10964,Thames Supplies plc,SMB,Midlands,Logistics,Megan Shaw,Monthly,225.00,2700.00,,4,0,2,87.0,2.50,0,70.9,71.6,70.9,0.7,6.0,12,Medium
+NSC-11096,Westmoor Distribution Ltd,Mid-Market,South West & Wales,Public Sector,Hannah Doyle,Annual,1585.00,19020.00,2027-04-01,0,0,0,,5.00,0,53.3,58.5,51.3,7.2,31.3,5,Low
+NSC-11107,Peak Advisory Group,Mid-Market,Scotland,Financial Services,Callum Reid,Annual,1505.00,18060.00,2027-04-01,3,0,0,11.4,3.25,0,65.7,63.3,66.2,-2.9,32.5,10,Medium
+NSC-11395,Northgate Energy Ltd,SMB,North West,Manufacturing,Sophie Turner,Annual,215.00,2580.00,2027-02-01,1,0,0,25.0,,0,58.5,55.5,60.0,-4.5,4.8,8,Low
+NSC-11455,Tamar Health LLP,Mid-Market,Scotland,Retail,Callum Reid,Annual,815.00,9780.00,2027-06-01,5,0,0,28.9,4.00,0,59.8,59.6,60.1,-0.5,18.3,1,Low
+NSC-11462,Cobalt Systems Holdings,SMB,Midlands,Healthcare,Ravi Mehta,Monthly,145.00,1740.00,,1,0,0,,,0,63.1,61.9,64.1,-2.2,3.5,3,Low
+NSC-11463,Bluebell Medical Ltd,SMB,London & South East,Healthcare,Liam Carter,Monthly,110.00,1320.00,,1,0,0,65.9,5.00,0,61.9,61.5,61.2,0.3,2.0,0,Low
+NSC-10129,Westmoor Analytics Holdings,SMB,London & South East,Public Sector,Sophie Turner,Monthly,645.00,7740.00,,4,0,1,34.4,3.50,0,61.8,62.5,61.7,0.8,15.8,4,Low
+NSC-10202,Northgate Manufacturing Ltd,Enterprise,London & South East,Healthcare,Tom Whitfield,Annual,27425.00,329100.00,2026-10-01,13,2,4,61.7,3.85,0,62.2,64.6,61.5,3.1,486.3,41,Medium
+NSC-10309,Lowther Care Ltd,SMB,London & South East,Public Sector,Ravi Mehta,Annual,440.00,5280.00,2026-11-01,1,0,1,138.5,4.50,0,78.7,76.5,80.2,-3.7,12.0,6,Low
+NSC-10618,Highland Supplies Group,SMB,Midlands,Healthcare,Owen Price,Monthly,60.00,720.00,,3,0,0,24.5,3.00,0,48.3,51.3,46.8,4.5,2.0,17,Medium
+NSC-10770,Thames Manufacturing Holdings,Mid-Market,South West & Wales,Unknown,Callum Reid,Annual,4305.00,51660.00,2027-05-01,2,1,1,7.7,4.00,0,58.1,55.4,59.9,-4.5,79.7,28,Medium
+NSC-10791,Lowther Freight Ltd,Mid-Market,London & South East,Healthcare,Aisha Patel,Annual,1435.00,17220.00,2027-06-01,5,0,0,26.0,4.20,0,60.2,57.7,60.8,-3.1,27.8,5,Low
+NSC-10827,Calder Energy Group,SMB,Midlands,Public Sector,Megan Shaw,Monthly,895.00,10740.00,,1,0,0,13.1,3.50,0,53.4,51.6,53.5,-1.9,20.5,12,Low
+NSC-10925,Castlefield Care Ltd,Mid-Market,Scotland,Manufacturing,Callum Reid,Monthly,1290.00,15480.00,,3,0,1,38.3,3.25,0,63.3,61.4,64.4,-3.0,28.5,11,Medium
+NSC-11015,Pennine Systems Holdings,Enterprise,North West,Manufacturing,Grace Okafor,Annual,21605.00,259260.00,2027-01-01,10,0,1,23.7,3.43,0,57.8,56.5,59.2,-2.7,355.8,10,Medium
+NSC-11200,Mersey Learning Holdings,SMB,South West & Wales,Professional Services,Megan Shaw,Monthly,105.00,1260.00,,1,0,0,10.0,3.00,0,55.7,57.1,55.0,2.1,2.0,11,Medium
+NSC-11202,Riverside Learning Ltd,SMB,Ireland,Professional Services,Ravi Mehta,Annual,560.00,6720.00,2027-08-01,2,0,0,40.0,5.00,0,78.8,78.7,78.2,0.5,15.0,0,Low
+NSC-11231,Riverside Advisory Ltd,SMB,North West,Manufacturing,Owen Price,Monthly,105.00,1260.00,,2,0,0,21.3,5.00,0,59.4,58.8,59.6,-0.8,2.0,2,Low
+NSC-11285,Albion Medical plc,SMB,South West & Wales,Retail,Owen Price,Monthly,620.00,7440.00,,4,0,0,45.5,4.67,0,77.1,74.8,77.9,-3.1,17.3,5,Low
+NSC-11291,Fenwick Distribution Ltd,SMB,Ireland,Public Sector,Liam Carter,Monthly,175.00,2100.00,,1,0,0,47.0,4.00,0,63.8,63.5,64.8,-1.3,4.3,2,Low
+NSC-10031,Meridian Logistics Group,Mid-Market,Yorkshire & North East,Public Sector,Callum Reid,Annual,2215.00,26580.00,2026-10-01,3,0,0,32.7,4.00,0,56.7,55.1,57.2,-2.1,41.5,6,Low
+NSC-10249,Lantern Health LLP,SMB,North West,Healthcare,Megan Shaw,Annual,1570.00,18840.00,2027-01-01,2,1,2,54.4,2.33,0,61.7,58.8,62.9,-4.1,39.0,40,Medium
+NSC-10386,Heathrow Foods Ltd,Enterprise,Yorkshire & North East,Logistics,Tom Whitfield,Annual,7625.00,91500.00,2027-08-01,18,2,7,54.0,3.20,4,18.6,14.7,20.2,-5.5,73.5,88,High
+NSC-10444,Albion Care Group,SMB,London & South East,Retail,Liam Carter,Annual,680.00,8160.00,2027-06-01,3,0,2,110.8,4.00,0,72.2,67.7,73.6,-5.9,17.5,9,Medium
+NSC-10495,Pennine Supplies Ltd,Mid-Market,London & South East,Manufacturing,Hannah Doyle,Monthly,6380.00,76560.00,,5,0,2,142.6,3.50,1,70.5,73.7,68.7,5.0,154.5,4,Low
+NSC-10869,Moorland Advisory LLP,SMB,Midlands,Professional Services,Liam Carter,Monthly,430.00,5160.00,,0,0,0,,5.00,0,83.1,84.8,82.3,2.5,12.8,0,Low
+NSC-10928,Clyde Manufacturing Ltd,Mid-Market,London & South East,Education,Aisha Patel,Annual,2915.00,34980.00,2026-11-01,1,0,0,25.6,5.00,0,75.9,80.2,74.6,5.6,72.5,0,Low
+NSC-10979,Falcon Distribution Ltd,Enterprise,Yorkshire & North East,Financial Services,Grace Okafor,Annual,16740.00,200880.00,2027-01-01,9,1,3,45.3,2.45,2,37.8,32.5,40.8,-8.3,208.0,63,Medium
+NSC-11078,Thames Engineering plc,SMB,South West & Wales,Healthcare,Megan Shaw,Monthly,435.00,5220.00,,0,0,0,,,0,68.6,73.0,66.6,6.4,11.5,0,Low
+NSC-11299,Oakridge Energy LLP,SMB,London & South East,Education,Sophie Turner,Monthly,605.00,7260.00,,1,0,1,127.6,3.00,0,67.6,64.8,68.7,-3.9,14.8,14,Medium
+NSC-11355,Bluebell Care plc,Mid-Market,Yorkshire & North East,Retail,Daniel Hughes,Annual,2310.00,27720.00,2027-01-01,5,0,0,14.4,3.71,0,53.3,54.0,52.8,1.2,48.0,8,Low
+NSC-11375,Ironbridge Freight Ltd,Mid-Market,South West & Wales,Manufacturing,Daniel Hughes,Monthly,3650.00,43800.00,,1,0,0,11.5,2.50,0,75.3,76.7,74.0,2.7,86.3,12,Medium
+NSC-11429,Quayside Analytics Ltd,SMB,London & South East,Retail,Ravi Mehta,Monthly,315.00,3780.00,,1,0,0,10.4,5.00,0,70.7,64.4,72.8,-8.4,8.0,13,Medium
+NSC-11432,Meridian Freight LLP,Mid-Market,South West & Wales,Professional Services,Hannah Doyle,Monthly,2795.00,33540.00,,6,1,3,87.1,3.88,0,67.4,64.5,68.5,-4.0,58.3,27,Medium
+NSC-11499,Harbour Freight Group,Mid-Market,London & South East,Retail,Callum Reid,Annual,3320.00,39840.00,2027-08-01,5,1,1,48.3,5.00,0,74.2,78.2,70.9,7.3,74.8,20,Medium
+NSC-10116,Ironbridge Medical plc,Mid-Market,South West & Wales,Healthcare,Callum Reid,Annual,3915.00,46980.00,2026-10-01,2,0,0,46.2,3.50,0,83.5,86.0,82.8,3.2,106.5,4,Low
+NSC-10138,Highland Care Ltd,SMB,Yorkshire & North East,Retail,Owen Price,Monthly,380.00,4560.00,,3,0,1,73.6,,0,80.7,84.3,79.1,5.2,11.3,0,Low
+NSC-10157,Riverside Engineering LLP,SMB,London & South East,Financial Services,Ravi Mehta,Monthly,200.00,2400.00,,4,0,1,55.4,1.50,0,67.0,67.1,66.0,1.1,5.3,20,Medium
+NSC-10294,Sterling Housing plc,SMB,Scotland,Retail,Owen Price,Monthly,1615.00,19380.00,,1,0,0,68.6,,0,82.1,84.7,79.8,4.9,49.3,0,Low
+NSC-10432,Thames Logistics Ltd,Mid-Market,Midlands,Logistics,Daniel Hughes,Monthly,1315.00,15780.00,,8,1,1,21.3,2.25,0,35.7,36.6,35.4,1.2,22.0,53,Medium
+NSC-10610,Ember Care Holdings,SMB,Yorkshire & North East,Professional Services,Owen Price,Monthly,505.00,6060.00,,1,0,0,19.6,4.00,0,62.3,60.2,63.5,-3.3,12.8,5,Low
+NSC-10612,Severn Systems Ltd,Mid-Market,Yorkshire & North East,Public Sector,Callum Reid,Annual,1215.00,14580.00,2027-01-01,8,0,0,41.6,2.80,0,46.8,47.7,46.5,1.2,21.3,20,Medium
+NSC-10653,Peak Health Ltd,Mid-Market,London & South East,Manufacturing,Aisha Patel,Annual,2515.00,30180.00,2027-02-01,2,0,1,102.9,3.00,0,72.1,68.8,74.3,-5.5,55.0,16,Medium
+NSC-10665,Oakridge Advisory LLP,SMB,London & South East,Unknown,Unassigned,Monthly,400.00,4800.00,,1,0,0,57.4,5.00,0,75.4,73.5,76.6,-3.1,11.0,5,Low
+NSC-10699,Northgate Consulting Ltd,Mid-Market,Midlands,Retail,Callum Reid,Annual,2270.00,27240.00,2027-03-01,1,1,1,76.7,5.00,0,68.6,66.0,69.6,-3.6,48.5,25,Medium
+NSC-10890,Albion Medical Ltd,Mid-Market,Yorkshire & North East,Manufacturing,Hannah Doyle,Annual,1765.00,21180.00,2027-09-01,2,0,0,36.4,4.00,0,54.6,54.0,54.9,-0.9,36.5,6,Low
+NSC-10914,Kingsway Manufacturing Holdings,SMB,London & South East,Logistics,Ravi Mehta,Annual,165.00,1980.00,2026-10-01,4,0,0,30.0,4.00,0,53.2,53.2,53.7,-0.5,3.0,6,Low
+NSC-11017,Quayside Medical Ltd,Mid-Market,London & South East,Manufacturing,Daniel Hughes,Monthly,1145.00,13740.00,,0,0,0,,4.33,0,66.2,69.3,65.1,4.2,24.5,0,Low
+NSC-11187,Albion Partners Holdings,SMB,London & South East,Healthcare,Sophie Turner,Annual,110.00,1320.00,2027-07-01,1,0,1,94.8,3.00,0,52.9,50.6,54.3,-3.7,2.0,19,Medium
+NSC-11268,Wessex Learning plc,Mid-Market,London & South East,Manufacturing,Aisha Patel,Annual,890.00,10680.00,2026-10-01,6,2,3,42.9,3.40,0,53.6,57.2,52.3,4.9,18.0,50,Medium
+NSC-11338,Saxon Housing LLP,SMB,North West,Logistics,Sophie Turner,Annual,150.00,1800.00,2027-01-01,6,0,2,56.1,3.67,0,51.7,47.8,53.8,-6.0,2.8,18,Medium
+NSC-11405,Oakridge Housing plc,SMB,North West,Retail,Liam Carter,Monthly,230.00,2760.00,,0,0,0,,,0,79.9,79.6,80.0,-0.4,6.3,1,Low
+NSC-11417,Mersey Engineering Group,SMB,South West & Wales,Manufacturing,Megan Shaw,Monthly,245.00,2940.00,,0,0,0,,,0,52.5,53.9,52.2,1.7,4.5,6,Low
+NSC-11516,Saxon Logistics plc,Enterprise,Ireland,Healthcare,Tom Whitfield,Annual,17675.00,212100.00,2027-09-01,3,0,2,126.3,5.00,0,75.2,75.2,,,347.8,0,Low
+NSC-11537,Riverside Manufacturing Holdings,SMB,Midlands,Professional Services,Sophie Turner,Monthly,135.00,1620.00,,0,0,0,,,0,39.7,39.7,,,2.0,16,Medium
+NSC-10119,Thames Consulting Group,SMB,North West,Manufacturing,Liam Carter,Monthly,285.00,3420.00,,0,0,0,,4.00,0,65.4,65.3,64.7,0.6,6.8,0,Low
+NSC-10398,Lantern Consulting Ltd,SMB,London & South East,Manufacturing,Megan Shaw,Monthly,290.00,3480.00,,2,0,0,40.2,5.00,0,43.9,45.9,42.6,3.3,5.8,13,Medium
+NSC-10435,Redbrick Manufacturing Ltd,SMB,London & South East,Retail,Ravi Mehta,Monthly,360.00,4320.00,,1,0,0,28.0,5.00,0,73.9,73.0,73.6,-0.6,8.5,1,Low
+NSC-10448,Tamar Foods Ltd,Mid-Market,Yorkshire & North East,Logistics,Callum Reid,Monthly,3910.00,46920.00,,3,0,0,14.0,2.67,0,46.4,50.4,44.6,5.8,70.8,22,Medium
+NSC-10597,Kingsway Analytics LLP,Mid-Market,Yorkshire & North East,Retail,Aisha Patel,Annual,2590.00,31080.00,2026-12-01,1,0,1,75.5,5.00,0,57.2,61.0,55.8,5.2,56.8,2,Low
+NSC-10655,Northgate Distribution plc,Mid-Market,London & South East,Manufacturing,Aisha Patel,Annual,1550.00,18600.00,2027-02-01,4,0,2,82.5,3.67,0,67.7,65.3,69.1,-3.8,32.3,8,Low
+NSC-11137,Fenwick Housing Group,SMB,North West,Healthcare,Liam Carter,Monthly,300.00,3600.00,,2,0,0,34.3,3.33,0,61.9,64.3,60.9,3.4,7.0,5,Medium
+NSC-11214,Westmoor Supplies plc,Mid-Market,London & South East,Retail,Aisha Patel,Annual,3700.00,44400.00,2027-08-01,4,0,0,17.9,4.33,0,54.4,51.3,55.9,-4.6,71.3,11,Low
+NSC-11229,Sterling Freight Ltd,Enterprise,London & South East,Public Sector,Grace Okafor,Annual,14560.00,174720.00,2027-09-01,10,1,4,63.4,3.50,0,61.7,59.9,62.5,-2.6,249.3,28,Medium
+NSC-11244,Riverside Analytics Holdings,SMB,London & South East,Healthcare,Owen Price,Monthly,165.00,1980.00,,0,0,0,,,0,72.5,71.0,73.1,-2.1,4.0,3,Low
+NSC-11428,Avon Housing Group,Mid-Market,Yorkshire & North East,Logistics,Aisha Patel,Monthly,1485.00,17820.00,,3,0,0,21.5,3.67,1,50.1,48.6,50.7,-2.1,26.8,14,Low
+NSC-11430,Calder Distribution plc,SMB,London & South East,Retail,Liam Carter,Annual,325.00,3900.00,2027-04-01,0,0,0,,,0,65.3,67.3,64.5,2.8,7.8,0,Low
+NSC-11532,Severn Logistics Group,Enterprise,Midlands,Retail,Priya Raman,Annual,21105.00,253260.00,2027-09-01,8,1,1,41.8,4.25,1,82.0,82.0,,,465.3,20,Medium
+NSC-10022,Sterling Engineering plc,SMB,London & South East,Retail,Unassigned,Annual,270.00,3240.00,2027-01-01,3,0,0,45.6,4.00,0,58.1,61.7,56.3,5.4,6.5,2,Low
+NSC-10241,Clyde Logistics Holdings,Mid-Market,North West,Professional Services,Callum Reid,Monthly,3865.00,46380.00,,3,0,0,36.4,4.25,0,62.7,66.3,61.2,5.1,83.3,0,Low
+NSC-10271,Peak Freight Ltd,SMB,London & South East,Financial Services,Liam Carter,Monthly,1940.00,23280.00,,0,0,0,,5.00,0,64.6,64.9,64.7,0.2,50.5,0,Low
+NSC-10367,Tamar Systems Holdings,Mid-Market,South West & Wales,Public Sector,Daniel Hughes,Annual,965.00,11580.00,2026-12-01,1,0,0,63.4,4.33,0,63.4,61.7,64.9,-3.2,21.0,5,Low
+NSC-10644,Meridian Logistics Holdings,SMB,North West,Unknown,Liam Carter,Monthly,750.00,9000.00,,4,0,0,18.8,4.00,0,76.5,81.4,74.0,7.4,19.5,0,Low
+NSC-10709,Lowther Systems Group,SMB,Midlands,Professional Services,Megan Shaw,Monthly,160.00,1920.00,,0,0,0,,4.00,0,64.5,58.8,67.3,-8.5,3.5,13,Medium
+NSC-10866,Harbour Care Group,SMB,London & South East,Public Sector,Ravi Mehta,Monthly,195.00,2340.00,,0,0,0,,5.00,0,77.2,80.4,76.4,4.0,5.3,0,Low
+NSC-10965,Highland Capital Ltd,SMB,London & South East,Public Sector,Owen Price,Annual,155.00,1860.00,2026-12-01,3,0,0,20.5,4.00,0,84.2,84.8,83.0,1.8,4.5,0,Low
+NSC-11006,Heathrow Housing Ltd,SMB,Midlands,Education,Ravi Mehta,Annual,750.00,9000.00,2027-01-01,1,0,1,92.7,2.00,0,68.6,66.3,70.0,-3.7,18.0,22,Medium
+NSC-11018,Oakridge Foods Group,SMB,Yorkshire & North East,Education,Owen Price,Annual,275.00,3300.00,2027-02-01,1,1,1,29.9,,0,60.0,55.3,62.2,-6.9,5.8,30,Medium
+NSC-11040,Orchard Capital LLP,SMB,London & South East,Healthcare,Owen Price,Monthly,250.00,3000.00,,1,0,0,92.1,3.50,0,72.2,73.6,72.1,1.5,6.0,4,Low
+NSC-11308,Severn Learning LLP,Mid-Market,London & South East,Financial Services,Callum Reid,Annual,2605.00,31260.00,2026-11-01,5,1,1,42.4,2.33,0,69.9,62.4,72.6,-10.2,58.0,49,Medium
+NSC-11435,Castlefield Supplies Ltd,SMB,London & South East,Healthcare,Megan Shaw,Annual,340.00,4080.00,2027-05-01,3,0,1,55.9,4.50,1,75.5,77.4,74.9,2.5,9.3,0,Low
+NSC-11448,Mersey Consulting plc,SMB,South West & Wales,Retail,Sophie Turner,Monthly,165.00,1980.00,,3,0,0,19.0,4.00,0,80.8,78.8,81.7,-2.9,4.0,4,Low
+NSC-11508,Harbour Distribution Ltd,SMB,North West,Financial Services,Owen Price,Monthly,590.00,7080.00,,3,0,1,70.8,,0,74.3,77.7,71.6,6.1,17.5,0,Low
+NSC-10061,Redbrick Distribution Ltd,Mid-Market,North West,Retail,Hannah Doyle,Monthly,1770.00,21240.00,,3,0,0,16.3,4.80,0,56.9,58.1,56.7,1.4,38.0,2,Low
+NSC-10289,Westmoor Health Ltd,SMB,London & South East,Healthcare,Megan Shaw,Monthly,335.00,4020.00,,1,0,0,11.7,5.00,0,77.4,76.4,78.3,-1.9,8.5,3,Low
+NSC-10305,Quayside Capital Group,Mid-Market,Yorkshire & North East,Logistics,Aisha Patel,Annual,2670.00,32040.00,2027-07-01,3,1,1,25.5,3.50,0,56.0,50.9,58.7,-7.8,48.8,39,Medium
+NSC-10473,Pennine Advisory Holdings,SMB,London & South East,Financial Services,Ravi Mehta,Monthly,4065.00,48780.00,,1,0,1,73.8,3.00,0,64.3,62.7,65.0,-2.3,99.5,11,Medium
+NSC-10516,Westmoor Health LLP,SMB,Midlands,Public Sector,Ravi Mehta,Monthly,240.00,2880.00,,2,0,0,15.7,,0,82.9,84.7,81.8,2.9,6.8,0,Low
+NSC-10703,Orchard Housing Ltd,Mid-Market,London & South East,Financial Services,Daniel Hughes,Annual,2300.00,27600.00,2027-03-01,6,0,2,88.6,3.67,0,56.6,56.1,56.2,-0.1,47.0,6,Low
+NSC-10789,Kingsway Logistics Ltd,SMB,London & South East,Retail,Megan Shaw,Monthly,880.00,10560.00,,0,0,0,,4.00,0,78.0,76.5,78.4,-1.9,24.5,3,Low
+NSC-10920,Peak Energy Group,SMB,South West & Wales,Healthcare,Megan Shaw,Monthly,225.00,2700.00,,1,0,1,139.1,3.67,0,57.5,57.7,57.4,0.3,6.0,5,Low
+NSC-10945,Heathrow Health LLP,Mid-Market,Scotland,Logistics,Daniel Hughes,Annual,2615.00,31380.00,2026-11-01,5,0,0,42.8,3.00,0,59.7,56.5,61.9,-5.4,57.0,16,Medium
+NSC-11014,Clyde Analytics LLP,SMB,London & South East,Manufacturing,Megan Shaw,Monthly,425.00,5100.00,,0,0,0,,4.00,0,88.6,86.9,90.0,-3.1,12.5,5,Low
+NSC-11112,Heathrow Partners plc,SMB,North West,Education,Ravi Mehta,Annual,765.00,9180.00,2027-05-01,2,0,0,25.5,4.00,0,62.4,63.4,62.0,1.4,19.5,0,Low
+NSC-11167,Fenwick Capital Ltd,SMB,London & South East,Manufacturing,Sophie Turner,Monthly,195.00,2340.00,,1,0,1,90.9,3.50,0,80.5,82.2,79.4,2.8,5.0,4,Low
+NSC-11171,Brightwater Retail Ltd,SMB,Scotland,Retail,Sophie Turner,Monthly,370.00,4440.00,,0,0,0,,4.00,0,68.2,65.9,69.6,-3.7,9.8,6,Low
+NSC-11219,Highland Energy Group,Enterprise,Scotland,Logistics,Tom Whitfield,Annual,13540.00,162480.00,2027-08-01,10,2,5,56.7,2.71,0,36.3,38.6,35.3,3.3,200.5,69,High
+NSC-11232,Pennine Systems Group,Enterprise,Scotland,Professional Services,Tom Whitfield,Annual,19570.00,234840.00,2027-09-01,11,0,1,29.2,3.36,0,39.1,35.8,40.9,-5.1,249.8,29,Medium
+NSC-11257,Cobalt Foods Ltd,SMB,Midlands,Logistics,Owen Price,Annual,250.00,3000.00,2026-10-01,1,0,0,67.8,4.00,0,70.1,66.2,71.8,-5.6,6.0,8,Medium
+NSC-11302,Mersey Health plc,Enterprise,London & South East,Financial Services,Grace Okafor,Annual,5245.00,62940.00,2026-11-01,11,1,1,28.2,2.71,0,31.9,35.1,31.3,3.8,64.5,53,High
+NSC-11370,Peak Learning Ltd,SMB,London & South East,Public Sector,Megan Shaw,Annual,690.00,8280.00,2027-02-01,1,0,0,53.5,,0,82.9,83.3,81.3,2.0,20.0,0,Low
+NSC-11418,Thames Advisory LLP,Enterprise,Yorkshire & North East,Retail,Priya Raman,Annual,4840.00,58080.00,2027-04-01,9,1,4,63.9,3.63,1,49.7,42.8,52.9,-10.1,72.5,46,Medium
+NSC-11534,Northgate Advisory Holdings,Mid-Market,Yorkshire & North East,Public Sector,Aisha Patel,Annual,1910.00,22920.00,2027-09-01,1,0,0,27.4,,0,61.8,61.8,,,40.8,0,Low
+NSC-11535,Kingsway Medical plc,SMB,Scotland,Healthcare,Unassigned,Annual,300.00,3600.00,2027-09-01,0,0,0,,,0,64.3,64.3,,,7.0,0,Low
+NSC-10154,Riverside Advisory Holdings,Mid-Market,London & South East,Manufacturing,Aisha Patel,Annual,3800.00,45600.00,2026-12-01,5,0,0,54.0,4.33,1,58.1,57.3,58.7,-1.4,80.0,4,Low
+NSC-10178,Clyde Analytics Ltd,Enterprise,Scotland,Healthcare,Priya Raman,Annual,9240.00,110880.00,2027-05-01,9,0,0,32.4,4.17,1,64.5,68.1,63.0,5.1,181.3,0,Low
+NSC-10426,Northgate Learning Ltd,Mid-Market,Scotland,Financial Services,Callum Reid,Annual,5220.00,62640.00,2027-02-01,3,1,1,31.0,3.00,0,69.3,73.4,67.3,6.1,122.0,28,Medium
+NSC-10437,Granite Supplies Group,SMB,North West,Logistics,Liam Carter,Monthly,4200.00,50400.00,,2,0,0,22.2,4.00,0,70.1,71.5,70.1,1.4,108.3,0,Low
+NSC-10467,Lantern Capital Ltd,Mid-Market,North West,Logistics,Hannah Doyle,Monthly,1015.00,12180.00,,1,0,0,7.5,3.50,0,60.1,58.8,59.8,-1.0,20.3,6,Low
+NSC-10513,Riverside Housing LLP,SMB,Scotland,Financial Services,Owen Price,Monthly,490.00,5880.00,,0,0,0,,3.00,0,66.0,71.3,63.8,7.5,13.3,8,Medium
+NSC-10523,Ashford Housing Ltd,Mid-Market,London & South East,Logistics,Daniel Hughes,Monthly,2600.00,31200.00,,4,0,0,15.9,4.20,0,54.0,53.5,54.3,-0.8,48.8,6,Low
+NSC-10658,Westmoor Housing Ltd,SMB,London & South East,Financial Services,Ravi Mehta,Monthly,220.00,2640.00,,1,0,0,34.1,2.00,0,68.1,65.6,69.1,-3.5,5.0,21,Medium
+NSC-10677,Wessex Health Holdings,Mid-Market,Midlands,Manufacturing,Daniel Hughes,Annual,1920.00,23040.00,2027-03-01,5,0,1,36.4,3.25,0,50.1,47.0,52.1,-5.1,33.3,22,Medium
+NSC-10746,Tamar Medical Holdings,SMB,Yorkshire & North East,Manufacturing,Ravi Mehta,Monthly,265.00,3180.00,,0,0,0,,1.00,0,62.4,64.8,61.3,3.5,6.3,24,Medium
+NSC-10850,Falcon Energy plc,Mid-Market,London & South East,Financial Services,Hannah Doyle,Annual,2375.00,28500.00,2027-08-01,2,0,0,67.4,4.67,0,67.1,71.9,65.2,6.7,57.3,0,Low
+NSC-11168,Redbrick Health Group,Mid-Market,Yorkshire & North East,Healthcare,Daniel Hughes,Annual,1025.00,12300.00,2027-06-01,2,1,1,46.5,3.00,0,67.4,62.7,69.1,-6.4,23.0,38,Medium
+NSC-11261,Ashford Housing Group,SMB,Scotland,Financial Services,Ravi Mehta,Monthly,120.00,1440.00,,1,0,0,25.9,5.00,0,66.3,67.5,64.9,2.6,3.0,0,Low
+NSC-11270,Granite Logistics Ltd,SMB,North West,Manufacturing,Owen Price,Annual,360.00,4320.00,2026-10-01,2,0,0,31.4,4.00,0,65.1,62.1,65.7,-3.6,8.8,5,Low
+NSC-11275,Brightwater Medical Holdings,Enterprise,London & South East,Financial Services,Priya Raman,Monthly,13690.00,164280.00,,5,0,0,31.9,4.50,0,58.9,65.6,55.7,9.9,256.8,1,Low
+NSC-11280,Holloway Energy Ltd,SMB,London & South East,Retail,Megan Shaw,Monthly,265.00,3180.00,,1,0,0,2.9,4.00,0,82.8,87.7,81.1,6.6,8.3,0,Low
+NSC-11292,Cobalt Care plc,SMB,North West,Education,Ravi Mehta,Annual,600.00,7200.00,2026-11-01,1,0,0,54.9,4.00,0,70.1,68.1,70.3,-2.2,16.3,3,Low
+NSC-11388,Kingsway Distribution Ltd,SMB,North West,Healthcare,Megan Shaw,Monthly,115.00,1380.00,,1,0,0,46.9,,0,45.4,46.8,44.8,2.0,2.0,12,Medium
+NSC-11421,Quayside Engineering Ltd,Mid-Market,Midlands,Professional Services,Callum Reid,Annual,1915.00,22980.00,2027-04-01,0,0,0,,5.00,0,73.7,75.1,73.9,1.2,46.7,0,Low
+NSC-11482,Peak Housing Ltd,Mid-Market,Scotland,Healthcare,Callum Reid,Annual,3620.00,43440.00,2027-07-01,4,0,0,36.0,4.75,0,74.8,76.3,74.0,2.3,85.5,0,Low
+NSC-11487,Bluebell Analytics plc,Mid-Market,London & South East,Manufacturing,Callum Reid,Monthly,830.00,9960.00,,3,0,0,34.5,4.00,0,53.5,47.3,56.3,-9.0,15.3,19,Medium
+NSC-11529,Sterling Partners plc,SMB,South West & Wales,Professional Services,Megan Shaw,Annual,160.00,1920.00,2027-09-01,0,0,0,,,0,60.3,60.3,,,4.0,0,Low
+NSC-10013,Redbrick Freight Ltd,Mid-Market,London & South East,Retail,Aisha Patel,Annual,2860.00,34320.00,2027-07-01,4,0,0,44.1,4.50,0,55.9,55.5,56.7,-1.2,51.0,5,Low
+NSC-10079,Fenwick Distribution LLP,Mid-Market,London & South East,Logistics,Aisha Patel,Monthly,9395.00,112740.00,,2,0,0,32.5,1.50,0,75.6,78.0,74.6,3.4,225.5,20,Medium
+NSC-10148,Moorland Distribution Ltd,SMB,Scotland,Logistics,Liam Carter,Annual,225.00,2700.00,2026-11-01,2,0,0,19.5,3.00,0,79.6,85.1,77.2,7.9,7.0,8,Medium
+NSC-10296,Moorland Foods Group,Enterprise,Midlands,Financial Services,Grace Okafor,Annual,7575.00,90900.00,2027-02-01,10,0,1,26.4,4.11,1,50.4,51.5,50.2,1.3,125.8,8,Low
+NSC-10313,Lowther Supplies Ltd,SMB,London & South East,Logistics,Sophie Turner,Monthly,245.00,2940.00,,2,0,0,34.8,3.33,1,76.5,76.8,76.3,0.5,6.0,5,Medium
+NSC-10324,Orchard Distribution Holdings,SMB,London & South East,Logistics,Megan Shaw,Monthly,725.00,8700.00,,0,0,0,,,0,80.5,83.6,78.5,5.1,21.0,0,Low
+NSC-10424,Granite Foods Ltd,SMB,London & South East,Financial Services,Megan Shaw,Monthly,975.00,11700.00,,0,0,0,,,0,67.0,70.9,64.9,6.0,25.8,0,Low
+NSC-10482,Fenwick Partners plc,SMB,London & South East,Logistics,Megan Shaw,Monthly,760.00,9120.00,,0,0,0,,5.00,0,70.6,74.4,68.8,5.6,20.8,0,Low
+NSC-10595,Castlefield Energy Ltd,Mid-Market,North West,Public Sector,Callum Reid,Annual,2630.00,31560.00,2026-12-01,1,0,0,112.2,1.50,0,52.1,54.0,50.9,3.1,53.0,26,Medium
+NSC-10596,Cobalt Capital plc,SMB,Midlands,Financial Services,Sophie Turner,Monthly,800.00,9600.00,,0,0,0,,4.00,0,59.4,58.1,60.1,-2.0,19.5,3,Low
+NSC-10641,Moorland Learning Group,SMB,North West,Professional Services,Liam Carter,Monthly,255.00,3060.00,,1,0,0,32.9,4.00,0,78.3,80.6,76.8,3.8,7.8,0,Low
+NSC-10678,Saxon Consulting Group,SMB,London & South East,Manufacturing,Owen Price,Monthly,170.00,2040.00,,1,0,0,45.2,3.00,0,64.2,67.0,63.4,3.6,4.3,8,Medium
+NSC-11234,Thames Distribution Ltd,SMB,North West,Retail,Megan Shaw,Annual,505.00,6060.00,2027-09-01,2,0,0,53.6,3.00,0,77.2,76.1,78.4,-2.3,14.0,11,Medium
+NSC-11319,Sterling Advisory Ltd,Mid-Market,South West & Wales,Retail,Hannah Doyle,Annual,2120.00,25440.00,2026-12-01,1,0,0,3.6,2.50,0,46.5,44.0,48.5,-4.5,37.0,30,Medium
+NSC-11364,Mersey Manufacturing Ltd,SMB,Ireland,Retail,Owen Price,Monthly,265.00,3180.00,,0,0,0,,5.00,0,75.7,74.0,76.8,-2.8,7.0,4,Low
+NSC-11379,Moorland Supplies Group,SMB,Scotland,Financial Services,Sophie Turner,Monthly,150.00,1800.00,,2,0,0,35.6,4.00,0,58.2,56.4,58.4,-2.0,3.0,4,Low
+NSC-11407,Bluebell Engineering LLP,Mid-Market,North West,Financial Services,Hannah Doyle,Monthly,2340.00,28080.00,,4,1,1,36.6,3.00,0,72.8,76.6,70.7,5.9,54.5,28,Medium
+NSC-11439,Redbrick Energy Ltd,SMB,London & South East,Healthcare,Unassigned,Monthly,165.00,1980.00,,3,0,1,21.5,,1,57.7,52.0,59.1,-7.1,3.0,12,Medium
+NSC-11536,Oakridge Freight Group,SMB,Ireland,Retail,Owen Price,Monthly,355.00,4260.00,,1,0,0,78.0,,0,50.6,50.6,,,7.0,8,Low
+NSC-10067,Peak Partners plc,Mid-Market,London & South East,Manufacturing,Aisha Patel,Monthly,2010.00,24120.00,,3,0,0,33.6,3.67,0,47.2,47.5,46.7,0.8,35.3,13,Medium
+NSC-10341,Albion Learning Ltd,SMB,Midlands,Financial Services,Owen Price,Annual,300.00,3600.00,2027-08-01,3,0,0,47.4,,0,75.1,73.7,76.1,-2.4,7.8,4,Low
+NSC-10368,Pennine Foods Ltd,Mid-Market,North West,Financial Services,Hannah Doyle,Annual,2605.00,31260.00,2027-04-01,4,0,0,41.4,3.83,0,82.9,84.7,82.0,2.7,66.8,1,Low
+NSC-10409,Falcon Capital Ltd,SMB,London & South East,Manufacturing,Megan Shaw,Annual,1240.00,14880.00,2027-01-01,2,0,0,41.4,,0,61.5,57.1,63.6,-6.5,28.3,10,Medium
+NSC-10949,Saxon Foods LLP,Mid-Market,South West & Wales,Manufacturing,Daniel Hughes,Annual,3290.00,39480.00,2026-11-01,0,0,0,,4.50,0,75.4,71.6,77.0,-5.4,81.3,8,Medium
+NSC-10976,Ironbridge Housing plc,Mid-Market,Ireland,Public Sector,Hannah Doyle,Annual,2400.00,28800.00,2027-01-01,1,0,0,42.8,,0,69.4,73.0,68.1,4.9,52.0,0,Low
+NSC-11115,Westmoor Advisory Ltd,SMB,North West,Logistics,Megan Shaw,Annual,230.00,2760.00,2027-05-01,1,0,0,5.2,,0,65.9,65.4,66.7,-1.3,5.5,2,Low
+NSC-11127,Clyde Capital Group,Mid-Market,London & South East,Education,Daniel Hughes,Annual,3725.00,44700.00,2027-05-01,2,0,0,34.3,4.00,0,66.3,65.5,66.7,-1.2,78.5,2,Low
+NSC-11303,Moorland Housing Holdings,Mid-Market,North West,Manufacturing,Callum Reid,Monthly,1910.00,22920.00,,2,0,0,5.8,2.33,1,83.1,84.4,83.0,1.4,47.0,13,Medium
+NSC-11307,Redbrick Analytics LLP,SMB,London & South East,Logistics,Ravi Mehta,Monthly,105.00,1260.00,,1,0,0,6.9,2.00,0,73.4,75.6,72.1,3.5,2.0,16,Medium
+NSC-11397,Albion Distribution Group,Mid-Market,London & South East,Manufacturing,Aisha Patel,Annual,3110.00,37320.00,2027-03-01,3,1,1,38.0,3.67,0,63.1,60.5,65.1,-4.6,64.3,30,Medium
+NSC-11400,Pennine Retail Group,Mid-Market,North West,Professional Services,Hannah Doyle,Annual,3400.00,40800.00,2027-03-01,4,0,0,37.2,4.50,0,75.8,78.5,75.8,2.7,85.0,0,Low
+NSC-11401,Severn Systems LLP,SMB,London & South East,Healthcare,Megan Shaw,Monthly,600.00,7200.00,,0,0,0,,4.00,0,65.1,63.6,65.8,-2.2,14.0,3,Low
+NSC-11408,Falcon Consulting Group,SMB,North West,Financial Services,Owen Price,Monthly,140.00,1680.00,,1,0,1,308.7,4.00,0,64.0,63.4,64.4,-1.0,4.0,2,Low
+NSC-11486,Granite Medical Holdings,SMB,London & South East,Logistics,Owen Price,Monthly,545.00,6540.00,,1,0,0,38.5,5.00,0,77.9,75.1,79.1,-4.0,15.3,6,Low
+NSC-11541,Westmoor Partners Group,SMB,London & South East,Financial Services,Megan Shaw,Monthly,115.00,1380.00,,1,0,0,13.9,4.00,0,82.6,82.6,,,3.0,0,Low
+NSC-10297,Kingsway Freight Holdings,Enterprise,Midlands,Manufacturing,Grace Okafor,Annual,39450.00,473400.00,2027-07-01,9,0,1,60.7,4.00,0,56.4,53.5,56.8,-3.3,681.0,8,Low
+NSC-10353,Moorland Supplies Holdings,Mid-Market,Midlands,Logistics,Aisha Patel,Annual,2155.00,25860.00,2027-05-01,7,0,1,31.0,3.75,0,65.4,67.0,64.8,2.2,50.0,2,Low
+NSC-10458,Clyde Logistics plc,SMB,London & South East,Professional Services,Sophie Turner,Annual,205.00,2460.00,2026-10-01,1,0,0,4.9,,0,76.0,77.6,75.3,2.3,5.5,0,Low
+NSC-10460,Meridian Foods Holdings,Mid-Market,London & South East,Logistics,Aisha Patel,Annual,3810.00,45720.00,2027-06-01,6,1,2,45.3,4.00,0,54.5,50.1,56.5,-6.4,75.3,34,Medium
+NSC-10498,Moorland Energy Ltd,Mid-Market,Midlands,Retail,Hannah Doyle,Annual,5990.00,71880.00,2026-10-01,4,0,1,64.1,5.00,0,65.6,63.6,66.4,-2.8,134.3,4,Low
+NSC-10608,Wessex Retail Ltd,SMB,London & South East,Education,Ravi Mehta,Annual,270.00,3240.00,2027-01-01,2,0,0,43.2,4.00,0,64.7,64.4,64.6,-0.2,6.3,0,Low
+NSC-10656,Fenwick Systems Ltd,Mid-Market,London & South East,Education,Hannah Doyle,Monthly,895.00,10740.00,,1,0,1,119.3,4.50,0,75.8,72.8,77.3,-4.5,20.8,7,Low
+NSC-10704,Ashford Engineering Group,SMB,London & South East,Manufacturing,Liam Carter,Monthly,1115.00,13380.00,,1,0,0,23.8,4.00,0,83.8,82.1,84.8,-2.7,32.3,4,Low
+NSC-10804,Lowther Systems Ltd,SMB,London & South East,Manufacturing,Liam Carter,Annual,890.00,10680.00,2027-06-01,1,0,0,53.4,5.00,0,85.3,88.0,84.2,3.8,26.5,0,Low
+NSC-10938,Beacon Systems Group,SMB,South West & Wales,Public Sector,Megan Shaw,Monthly,345.00,4140.00,,0,0,0,,3.00,0,88.5,84.8,89.4,-4.6,10.8,15,Medium
+NSC-10940,Oakridge Advisory Holdings,SMB,North West,Logistics,Sophie Turner,Annual,125.00,1500.00,2026-11-01,2,0,0,12.8,3.33,0,76.9,79.1,75.8,3.3,3.0,5,Medium
+NSC-11147,Lantern Manufacturing Ltd,SMB,London & South East,Healthcare,Sophie Turner,Monthly,665.00,7980.00,,0,0,0,,5.00,0,72.3,72.1,73.7,-1.6,18.8,2,Low
+NSC-11277,Saxon Systems Holdings,SMB,South West & Wales,Professional Services,Liam Carter,Monthly,705.00,8460.00,,1,0,0,91.1,3.00,0,74.9,73.3,76.3,-3.0,20.0,13,Medium
+NSC-11361,Wessex Consulting Ltd,Mid-Market,London & South East,Professional Services,Hannah Doyle,Monthly,3790.00,45480.00,,7,0,3,69.5,3.80,0,57.4,58.9,56.3,2.6,81.0,4,Low
+NSC-11366,Pennine Medical Ltd,SMB,South West & Wales,Healthcare,Sophie Turner,Monthly,240.00,2880.00,,2,0,0,52.3,3.50,0,50.8,54.5,49.1,5.4,5.0,11,Low
+NSC-11373,Meridian Analytics LLP,Enterprise,Yorkshire & North East,Retail,Priya Raman,Monthly,23180.00,278160.00,,13,2,6,67.0,3.18,0,37.1,33.3,39.3,-6.0,274.5,74,High
+NSC-11465,Ember Care Group,SMB,Midlands,Healthcare,Liam Carter,Annual,165.00,1980.00,2027-06-01,1,0,0,60.5,,0,74.3,77.7,73.2,4.5,4.0,0,Low
+NSC-11466,Albion Analytics LLP,Enterprise,South West & Wales,Manufacturing,Tom Whitfield,Annual,12870.00,154440.00,2027-06-01,8,0,0,40.7,4.67,0,54.1,53.4,55.5,-2.1,189.3,8,Low
+NSC-11501,Lowther Retail Ltd,SMB,London & South East,Retail,Megan Shaw,Monthly,160.00,1920.00,,1,0,0,31.3,,0,57.5,55.3,59.2,-3.9,3.3,8,Low
+NSC-11510,Peak Analytics LLP,SMB,North West,Education,Megan Shaw,Monthly,125.00,1500.00,,1,0,0,51.4,4.00,0,80.5,80.2,80.8,-0.6,3.0,1,Low
+NSC-11538,Calder Manufacturing Group,SMB,Yorkshire & North East,Logistics,Sophie Turner,Monthly,705.00,8460.00,,3,0,0,34.9,5.00,0,70.6,70.6,,,18.0,0,Low
+NSC-10036,Castlefield Systems Holdings,SMB,Midlands,Healthcare,Ravi Mehta,Annual,535.00,6420.00,2027-08-01,0,0,0,,,0,73.5,73.2,72.6,0.6,13.3,0,Low
+NSC-10053,Albion Manufacturing Holdings,Mid-Market,London & South East,Logistics,Aisha Patel,Annual,4575.00,54900.00,2026-11-01,0,0,0,,,0,71.6,71.4,71.7,-0.3,114.5,0,Low
+NSC-10095,Calder Partners Holdings,SMB,Ireland,Retail,Owen Price,Monthly,845.00,10140.00,,2,0,0,10.8,4.50,0,50.2,51.7,49.6,2.1,18.8,8,Low
+NSC-10135,Mersey Care LLP,Mid-Market,London & South East,Retail,Aisha Patel,Monthly,2555.00,30660.00,,2,0,0,10.6,4.50,0,72.5,70.6,73.1,-2.5,64.0,4,Low
+NSC-10137,Kingsway Capital LLP,Enterprise,North West,Manufacturing,Priya Raman,Annual,7995.00,95940.00,2027-02-01,15,1,3,26.7,4.00,1,34.8,32.6,35.1,-2.5,101.0,44,High
+NSC-10223,Calder Learning Holdings,Mid-Market,Scotland,Manufacturing,Hannah Doyle,Annual,2445.00,29340.00,2027-08-01,5,0,0,26.4,4.33,0,80.0,83.0,79.1,3.9,64.0,0,Low
+NSC-10224,Pennine Distribution LLP,Enterprise,London & South East,Manufacturing,Priya Raman,Annual,9260.00,111120.00,2027-03-01,17,1,1,29.0,3.17,0,40.3,43.7,39.2,4.5,117.5,42,Medium
+NSC-10403,Ironbridge Capital Ltd,Mid-Market,North West,Professional Services,Callum Reid,Monthly,4340.00,52080.00,,2,1,1,22.2,4.00,0,66.0,68.1,65.1,3.0,90.3,20,Medium
+NSC-10422,Riverside Supplies Ltd,SMB,London & South East,Public Sector,Liam Carter,Monthly,160.00,1920.00,,3,2,2,49.6,1.50,0,45.6,43.7,45.7,-2.0,2.5,75,High
+NSC-10637,Thames Foods Holdings,Mid-Market,Yorkshire & North East,Professional Services,Aisha Patel,Monthly,1210.00,14520.00,,5,1,1,35.5,3.60,0,55.9,52.0,56.8,-4.8,22.8,34,Medium
+NSC-10754,Albion Supplies Ltd,SMB,Scotland,Public Sector,Megan Shaw,Annual,1020.00,12240.00,2027-05-01,0,0,0,,,0,84.1,84.9,84.6,0.3,31.5,0,Low
+NSC-10772,Saxon Partners plc,SMB,Midlands,Financial Services,Sophie Turner,Annual,745.00,8940.00,2027-05-01,0,0,0,,4.00,0,85.2,88.6,83.7,4.9,22.8,0,Low
+NSC-10793,Ember Housing Group,SMB,Ireland,Unknown,Liam Carter,Annual,375.00,4500.00,2027-06-01,0,0,0,,4.67,0,72.7,73.8,72.3,1.5,10.0,0,Low
+NSC-10891,Heathrow Systems Holdings,Mid-Market,South West & Wales,Healthcare,Hannah Doyle,Monthly,2805.00,33660.00,,3,1,1,27.1,,0,57.6,57.7,57.3,0.4,54.3,22,Medium
+NSC-10933,Pennine Housing LLP,SMB,Scotland,Retail,Owen Price,Monthly,505.00,6060.00,,1,0,1,224.4,,0,65.9,71.5,63.4,8.1,14.3,0,Low
+NSC-10967,Beacon Manufacturing plc,SMB,London & South East,Logistics,Megan Shaw,Monthly,125.00,1500.00,,0,0,0,,4.00,0,80.2,81.4,78.8,2.6,3.0,0,Low
+NSC-11036,Granite Analytics Holdings,SMB,London & South East,Education,Ravi Mehta,Annual,715.00,8580.00,2027-02-01,5,0,1,64.6,3.75,0,82.5,84.0,82.0,2.0,20.0,2,Low
+NSC-11120,Westmoor Systems Group,SMB,Midlands,Professional Services,Ravi Mehta,Monthly,215.00,2580.00,,1,0,0,19.2,5.00,0,79.5,85.4,78.2,7.2,6.0,0,Low
+NSC-11273,Wessex Analytics Holdings,SMB,London & South East,Financial Services,Ravi Mehta,Annual,430.00,5160.00,2026-10-01,1,0,0,20.8,5.00,0,75.6,79.2,74.3,4.9,12.0,0,Low
+NSC-11360,Peak Retail Ltd,SMB,Midlands,Logistics,Ravi Mehta,Monthly,850.00,10200.00,,1,0,0,11.8,3.00,0,67.3,69.2,66.7,2.5,22.5,8,Medium
+NSC-11489,Sterling Analytics Group,SMB,Scotland,Retail,Ravi Mehta,Annual,165.00,1980.00,2027-07-01,0,0,0,,,0,62.1,59.9,63.7,-3.8,3.0,6,Low
+NSC-10015,Ironbridge Freight Holdings,SMB,Midlands,Retail,Sophie Turner,Monthly,495.00,5940.00,,2,0,0,28.6,5.00,0,51.2,51.0,50.3,0.7,10.3,7,Low
+NSC-10018,Ashford Logistics Ltd,SMB,London & South East,Education,Liam Carter,Monthly,1825.00,21900.00,,0,0,0,,,0,63.3,64.0,62.3,1.7,45.5,0,Low
+NSC-10023,Ashford Retail plc,Enterprise,London & South East,Logistics,Grace Okafor,Annual,22050.00,264600.00,2026-12-01,11,1,2,31.3,2.58,0,47.2,46.1,48.1,-2.0,321.3,45,Medium
+NSC-10045,Ember Analytics Ltd,Mid-Market,South West & Wales,Education,Aisha Patel,Monthly,3125.00,37500.00,,2,0,0,9.0,3.00,0,65.3,65.0,65.9,-0.9,70.3,9,Medium
+NSC-10120,Oakridge Engineering plc,Mid-Market,Midlands,Logistics,Hannah Doyle,Annual,2035.00,24420.00,2026-11-01,0,0,0,,4.00,0,78.9,81.8,77.9,3.9,51.3,0,Low
+NSC-10122,Redbrick Partners Ltd,Mid-Market,Ireland,Financial Services,Aisha Patel,Annual,3730.00,44760.00,2027-07-01,4,0,1,78.9,4.00,0,75.8,76.6,76.0,0.6,89.8,0,Low
+NSC-10263,Moorland Logistics Group,SMB,Yorkshire & North East,Logistics,Liam Carter,Monthly,215.00,2580.00,,1,0,0,15.9,,0,69.1,70.7,68.5,2.2,5.3,0,Low
+NSC-10282,Brightwater Housing plc,SMB,London & South East,Financial Services,Ravi Mehta,Monthly,915.00,10980.00,,2,0,0,27.2,5.00,0,82.6,83.7,82.6,1.1,27.0,0,Low
+NSC-10436,Bluebell Engineering Ltd,SMB,North West,Logistics,Ravi Mehta,Annual,245.00,2940.00,2027-07-01,1,0,0,32.0,2.00,0,62.5,67.2,60.8,6.4,6.0,16,Medium
+NSC-10483,Riverside Analytics Group,Mid-Market,North West,Retail,Daniel Hughes,Annual,1955.00,23460.00,2026-10-01,5,0,2,124.2,2.80,1,38.0,39.0,37.9,1.1,28.3,27,Medium
+NSC-10706,Cobalt Consulting plc,SMB,South West & Wales,Retail,Sophie Turner,Monthly,730.00,8760.00,,4,0,0,55.6,4.33,0,70.1,66.5,72.2,-5.7,19.5,9,Medium
+NSC-10821,Meridian Partners Group,Mid-Market,Ireland,Manufacturing,Callum Reid,Monthly,2785.00,33420.00,,2,0,0,31.9,4.00,0,66.8,66.7,67.3,-0.6,65.0,1,Low
+NSC-10885,Thames Care Ltd,SMB,Midlands,Healthcare,Owen Price,Monthly,445.00,5340.00,,0,0,0,,,0,54.6,56.8,54.2,2.6,9.5,4,Low
+NSC-10980,Granite Health Holdings,SMB,London & South East,Education,Sophie Turner,Annual,575.00,6900.00,2027-01-01,0,0,0,,,0,63.1,61.3,65.1,-3.8,13.8,6,Low
+NSC-11162,Heathrow Manufacturing Ltd,Mid-Market,Yorkshire & North East,Public Sector,Aisha Patel,Annual,2105.00,25260.00,2027-06-01,4,0,1,37.7,4.33,0,47.3,47.2,47.6,-0.4,38.5,11,Medium
+NSC-11180,Thames Medical LLP,SMB,Yorkshire & North East,Manufacturing,Sophie Turner,Monthly,555.00,6660.00,,0,0,0,,,0,81.5,83.1,81.4,1.7,16.3,0,Low
+NSC-11358,Wessex Foods plc,Enterprise,London & South East,Retail,Grace Okafor,Annual,9595.00,115140.00,2027-01-01,12,0,1,31.6,4.00,0,69.9,66.8,71.5,-4.7,187.0,7,Low
+NSC-11383,Fenwick Engineering Ltd,Mid-Market,Midlands,Education,Daniel Hughes,Monthly,1565.00,18780.00,,1,0,0,33.1,1.00,0,74.7,74.8,76.1,-1.3,38.3,26,Medium
+NSC-11447,Ember Energy Ltd,SMB,London & South East,Education,Sophie Turner,Monthly,130.00,1560.00,,1,0,0,29.6,,0,52.2,46.7,54.6,-7.9,2.3,18,Medium
+NSC-11497,Northgate Care Ltd,SMB,Yorkshire & North East,Financial Services,Sophie Turner,Monthly,235.00,2820.00,,1,0,0,21.8,,0,63.0,64.1,62.1,2.0,5.5,0,Low
+NSC-11523,Falcon Housing LLP,Mid-Market,North West,Logistics,Hannah Doyle,Annual,3440.00,41280.00,2027-09-01,2,0,0,35.5,,0,85.7,85.7,,,84.3,0,Low
+NSC-10078,Kingsway Supplies Holdings,Mid-Market,Yorkshire & North East,Retail,Callum Reid,Monthly,1775.00,21300.00,,5,0,0,29.6,4.33,0,46.4,46.1,47.1,-1.0,28.0,12,Medium
+NSC-10238,Lantern Housing plc,Mid-Market,London & South East,Education,Daniel Hughes,Annual,2800.00,33600.00,2027-07-01,5,1,1,54.9,,0,70.0,71.1,69.2,1.9,62.5,20,Medium
+NSC-10480,Harbour Systems plc,SMB,Midlands,Education,Megan Shaw,Monthly,660.00,7920.00,,0,0,0,,,0,66.3,60.0,71.0,-11.0,16.3,17,Medium
+NSC-10687,Albion Systems Holdings,Mid-Market,Midlands,Healthcare,Daniel Hughes,Annual,2725.00,32700.00,2027-03-01,3,0,1,34.0,3.67,0,61.3,65.5,59.6,5.9,61.0,3,Low
+NSC-10712,Clyde Learning Ltd,SMB,London & South East,Professional Services,Owen Price,Monthly,120.00,1440.00,,1,0,0,23.8,,0,53.3,53.8,52.3,1.5,3.0,5,Low
+NSC-10893,Avon Analytics Ltd,Mid-Market,Midlands,Healthcare,Callum Reid,Annual,3075.00,36900.00,2026-10-01,3,0,0,28.7,4.00,0,59.4,58.2,59.6,-1.4,62.3,3,Low
+NSC-10895,Westmoor Learning Ltd,SMB,Yorkshire & North East,Manufacturing,Liam Carter,Monthly,415.00,4980.00,,0,0,0,,3.00,0,33.1,33.6,33.8,-0.2,7.3,30,High
+NSC-10908,Cobalt Supplies Group,SMB,London & South East,Retail,Megan Shaw,Annual,330.00,3960.00,2026-10-01,2,0,1,94.0,4.00,0,72.3,72.1,71.4,0.7,7.8,0,Low
+NSC-10950,Granite Logistics plc,Mid-Market,London & South East,Financial Services,Callum Reid,Annual,3830.00,45960.00,2026-11-01,12,0,1,33.1,3.20,0,46.3,45.8,46.6,-0.8,62.0,19,Medium
+NSC-11110,Brightwater Advisory Ltd,SMB,North West,Financial Services,Sophie Turner,Monthly,945.00,11340.00,,1,0,1,158.6,1.00,0,65.1,62.8,66.7,-3.9,23.3,30,Medium
+NSC-11265,Westmoor Partners Ltd,SMB,Ireland,Education,Liam Carter,Monthly,400.00,4800.00,,1,0,0,54.3,,0,66.2,68.3,65.7,2.6,10.5,0,Low
+NSC-11398,Bluebell Learning Group,Mid-Market,London & South East,Education,Aisha Patel,Monthly,925.00,11100.00,,2,0,0,37.8,3.50,0,68.4,68.4,68.3,0.1,20.0,4,Low
+NSC-11419,Avon Consulting Holdings,SMB,London & South East,Financial Services,Megan Shaw,Monthly,360.00,4320.00,,2,0,0,22.9,,0,65.5,65.0,65.7,-0.7,8.0,1,Low
+NSC-11485,Pennine Analytics Ltd,Mid-Market,Midlands,Financial Services,Aisha Patel,Annual,3355.00,40260.00,2027-07-01,6,0,3,87.8,4.00,0,61.5,63.7,60.3,3.4,73.8,0,Low
+NSC-11543,Holloway Manufacturing LLP,SMB,South West & Wales,Education,Liam Carter,Monthly,750.00,9000.00,,0,0,0,,,0,86.1,86.1,,,21.3,0,Low
+NSC-10093,Tamar Advisory Ltd,SMB,Midlands,Financial Services,Owen Price,Monthly,330.00,3960.00,,0,0,0,,5.00,0,81.7,86.8,79.7,7.1,8.8,0,Low
+NSC-10187,Clyde Partners Ltd,SMB,London & South East,Financial Services,Unassigned,Annual,270.00,3240.00,2027-09-01,0,0,0,,,0,68.0,68.3,68.6,-0.3,7.0,0,Low
+NSC-10268,Avon Health Ltd,SMB,Midlands,Manufacturing,Megan Shaw,Annual,495.00,5940.00,2027-02-01,0,0,0,,,0,68.6,64.9,70.3,-5.4,12.0,8,Medium
+NSC-10270,Moorland Supplies Ltd,SMB,Ireland,Retail,Megan Shaw,Monthly,290.00,3480.00,,4,1,1,36.1,,0,79.1,77.8,80.2,-2.4,8.0,24,Medium
+NSC-10418,Ashford Retail Group,Mid-Market,London & South East,Manufacturing,Daniel Hughes,Annual,5735.00,68820.00,2027-03-01,5,0,0,40.0,3.67,1,53.4,55.2,53.0,2.2,110.3,8,Low
+NSC-10472,Tamar Engineering plc,SMB,Scotland,Financial Services,Owen Price,Monthly,555.00,6660.00,,3,0,1,86.6,2.50,0,79.0,79.0,79.8,-0.8,15.3,13,Medium
+NSC-10511,Heathrow Energy Ltd,SMB,London & South East,Healthcare,Megan Shaw,Monthly,660.00,7920.00,,0,0,0,,,0,70.6,69.5,71.3,-1.8,16.8,3,Low
+NSC-10530,Pennine Analytics Holdings,SMB,Midlands,Professional Services,Owen Price,Annual,185.00,2220.00,2026-10-01,4,0,0,34.5,4.00,1,72.5,72.6,72.1,0.5,4.8,0,Low
+NSC-10544,Bluebell Learning LLP,Mid-Market,Yorkshire & North East,Healthcare,Aisha Patel,Monthly,2940.00,35280.00,,2,0,0,25.8,5.00,0,65.8,68.0,65.2,2.8,63.3,0,Low
+NSC-10738,Falcon Medical Holdings,SMB,Midlands,Logistics,Ravi Mehta,Monthly,725.00,8700.00,,0,0,0,,,0,61.1,59.4,62.9,-3.5,16.7,5,Low
+NSC-10927,Lowther Supplies Group,Mid-Market,Midlands,Financial Services,Hannah Doyle,Annual,2845.00,34140.00,2026-11-01,1,0,0,87.1,3.00,0,55.8,55.7,55.8,-0.1,56.3,12,Medium
+NSC-11086,Tamar Manufacturing LLP,Mid-Market,North West,Financial Services,Hannah Doyle,Monthly,2965.00,35580.00,,4,0,0,41.5,4.67,0,61.5,62.4,60.8,1.6,61.3,0,Low
+NSC-11135,Albion Foods Ltd,SMB,Ireland,Logistics,Liam Carter,Monthly,650.00,7800.00,,1,0,0,,,1,58.7,61.7,57.0,4.7,15.5,1,Low
+NSC-11138,Westmoor Engineering Group,Mid-Market,London & South East,Manufacturing,Aisha Patel,Annual,2075.00,24900.00,2027-05-01,3,0,0,22.1,3.80,0,58.4,57.6,58.2,-0.6,39.0,4,Low
+NSC-11198,Riverside Partners LLP,SMB,Scotland,Retail,Owen Price,Monthly,400.00,4800.00,,1,0,0,91.3,4.00,0,52.5,54.5,52.4,2.1,8.0,6,Low
+NSC-11320,Highland Logistics LLP,SMB,Yorkshire & North East,Professional Services,Owen Price,Monthly,615.00,7380.00,,2,0,0,60.4,4.00,0,83.1,83.0,83.4,-0.4,16.7,1,Low
+NSC-11526,Severn Analytics Ltd,SMB,Yorkshire & North East,Unknown,Sophie Turner,Monthly,105.00,1260.00,,0,0,0,,,0,71.9,71.9,,,2.3,0,Low
+NSC-10008,Harbour Advisory Ltd,Mid-Market,Yorkshire & North East,Professional Services,Aisha Patel,Annual,3330.00,39960.00,2026-11-01,3,0,0,46.4,3.67,0,51.9,51.1,52.3,-1.2,60.3,11,Low
+NSC-10172,Severn Partners Ltd,SMB,South West & Wales,Retail,Ravi Mehta,Monthly,270.00,3240.00,,1,0,0,27.1,4.00,0,79.0,80.8,78.3,2.5,7.8,0,Low
+NSC-10515,Thames Housing Holdings,SMB,Yorkshire & North East,Retail,Liam Carter,Monthly,295.00,3540.00,,1,0,0,13.7,4.40,0,76.9,74.4,78.1,-3.7,8.3,6,Low
+NSC-10574,Granite Manufacturing Group,Mid-Market,London & South East,Healthcare,Hannah Doyle,Annual,3555.00,42660.00,2026-11-01,7,1,1,23.8,3.50,1,55.9,57.9,55.2,2.7,74.5,27,Medium
+NSC-10680,Calder Learning Ltd,Mid-Market,London & South East,Education,Daniel Hughes,Monthly,3520.00,42240.00,,1,0,0,11.8,3.00,0,71.7,72.1,72.3,-0.2,87.5,8,Medium
+NSC-10757,Thames Analytics Ltd,SMB,London & South East,Healthcare,Liam Carter,Monthly,185.00,2220.00,,0,0,0,,,0,56.3,54.5,57.0,-2.5,4.0,7,Low
+NSC-10800,Falcon Retail Group,Enterprise,South West & Wales,Education,Tom Whitfield,Annual,14315.00,171780.00,2027-06-01,17,4,5,35.1,3.31,0,50.7,49.8,51.6,-1.8,239.8,76,Medium
+NSC-10837,Mersey Consulting Group,Mid-Market,Scotland,Public Sector,Daniel Hughes,Annual,2650.00,31800.00,2027-07-01,3,0,0,11.8,4.00,0,55.4,59.4,53.4,6.0,56.8,4,Low
+NSC-10840,Avon Health Group,SMB,London & South East,Professional Services,Liam Carter,Monthly,60.00,720.00,,1,0,1,104.5,2.00,0,39.2,36.9,40.0,-3.1,1.5,37,Medium
+NSC-10974,Severn Capital Holdings,SMB,Scotland,Professional Services,Megan Shaw,Annual,210.00,2520.00,2026-12-01,0,0,0,,,0,58.9,59.3,57.8,1.5,4.5,1,Low
+NSC-11049,Lantern Foods plc,Enterprise,London & South East,Unknown,Tom Whitfield,Annual,14515.00,174180.00,2027-03-01,7,0,2,37.9,4.00,2,72.3,69.2,73.3,-4.1,291.5,6,Low
+NSC-11053,Beacon Housing Holdings,SMB,Yorkshire & North East,Retail,Ravi Mehta,Annual,280.00,3360.00,2027-03-01,1,1,1,79.3,3.50,0,65.1,61.4,66.8,-5.4,7.0,32,Medium
+NSC-11064,Severn Engineering Ltd,SMB,Scotland,Financial Services,Sophie Turner,Monthly,555.00,6660.00,,1,0,0,25.4,5.00,0,73.1,72.6,73.3,-0.7,15.5,1,Low
+NSC-11278,Ashford Partners Ltd,Mid-Market,Scotland,Financial Services,Aisha Patel,Annual,995.00,11940.00,2026-10-01,3,1,1,35.1,3.75,0,78.3,73.5,78.9,-5.4,24.5,30,Medium
+NSC-11341,Fenwick Learning Ltd,SMB,Scotland,Healthcare,Owen Price,Annual,245.00,2940.00,2027-01-01,0,0,0,,4.50,0,61.0,60.9,61.2,-0.3,5.3,0,Low
+NSC-11347,Clyde Partners Group,SMB,London & South East,Manufacturing,Sophie Turner,Annual,360.00,4320.00,2027-01-01,1,0,0,15.4,4.50,0,69.6,73.9,67.2,6.7,9.3,0,Low
+NSC-11441,Avon Consulting Ltd,Mid-Market,Yorkshire & North East,Healthcare,Daniel Hughes,Annual,2320.00,27840.00,2027-05-01,3,1,3,99.7,2.00,0,61.8,56.1,64.2,-8.1,47.0,48,Medium
+NSC-11540,Wessex Engineering plc,SMB,South West & Wales,Logistics,Ravi Mehta,Monthly,120.00,1440.00,,0,0,0,,,0,78.3,78.3,,,3.0,0,Low
+NSC-10087,Beacon Advisory Group,Mid-Market,Scotland,Healthcare,Callum Reid,Annual,2260.00,27120.00,2026-10-01,5,0,1,45.0,3.80,0,67.6,65.6,68.6,-3.0,50.3,6,Low
+NSC-10140,Meridian Housing LLP,SMB,London & South East,Healthcare,Owen Price,Monthly,2010.00,24120.00,,1,0,0,43.1,1.00,0,88.0,89.6,87.3,2.3,62.3,24,Medium
+NSC-10177,Avon Supplies plc,SMB,Midlands,Manufacturing,Megan Shaw,Monthly,885.00,10620.00,,1,0,0,10.1,4.00,0,56.8,53.7,57.6,-3.9,19.3,8,Low
+NSC-10276,Peak Capital Ltd,SMB,Midlands,Manufacturing,Ravi Mehta,Monthly,750.00,9000.00,,2,0,1,121.8,4.00,0,69.4,70.2,68.5,1.7,20.3,0,Low
+NSC-10357,Fenwick Foods Ltd,Mid-Market,North West,Public Sector,Daniel Hughes,Monthly,1135.00,13620.00,,6,0,0,11.1,2.67,0,51.7,55.4,50.9,4.5,20.0,17,Medium
+NSC-10478,Ironbridge Advisory LLP,Mid-Market,Midlands,Financial Services,Callum Reid,Annual,1770.00,21240.00,2026-11-01,4,0,1,52.7,4.33,0,66.8,67.8,65.9,1.9,42.8,0,Low
+NSC-10732,Lowther Retail Group,Mid-Market,Scotland,Professional Services,Callum Reid,Annual,1590.00,19080.00,2027-04-01,6,0,1,52.1,4.10,0,63.2,68.9,60.6,8.3,33.5,0,Low
+NSC-10813,Heathrow Capital Ltd,SMB,London & South East,Retail,Liam Carter,Annual,360.00,4320.00,2027-06-01,1,0,0,39.8,,0,73.9,73.7,74.9,-1.2,9.8,2,Low
+NSC-10845,Albion Engineering Ltd,SMB,London & South East,Manufacturing,Ravi Mehta,Annual,350.00,4200.00,2027-08-01,0,0,0,,,0,76.1,75.6,76.8,-1.2,9.8,2,Low
+NSC-10898,Clyde Engineering Ltd,SMB,Yorkshire & North East,Healthcare,Ravi Mehta,Monthly,875.00,10500.00,,1,0,0,3.8,4.00,0,85.0,83.4,85.4,-2.0,26.0,3,Low
+NSC-10972,Lowther Learning Group,SMB,London & South East,Logistics,Megan Shaw,Monthly,155.00,1860.00,,2,0,0,29.4,5.00,0,77.3,75.7,78.6,-2.9,3.8,4,Low
+NSC-11012,Heathrow Distribution Group,SMB,London & South East,Financial Services,Ravi Mehta,Annual,365.00,4380.00,2027-01-01,4,0,0,36.7,3.00,0,79.3,79.7,79.1,0.6,10.3,8,Medium
+NSC-11152,Harbour Care Holdings,Mid-Market,Scotland,Logistics,Unassigned,Annual,1730.00,20760.00,2027-06-01,3,0,1,53.6,4.00,0,70.0,67.9,70.6,-2.7,37.8,4,Low
+NSC-11191,Ember Distribution plc,SMB,London & South East,Financial Services,Owen Price,Monthly,75.00,900.00,,4,0,0,35.1,4.25,0,44.1,44.1,43.6,0.5,2.0,13,Medium
+NSC-11201,Riverside Housing Ltd,SMB,London & South East,Retail,Ravi Mehta,Monthly,275.00,3300.00,,0,0,0,,,0,68.6,69.9,67.3,2.6,6.5,0,Low
+NSC-11226,Pennine Engineering Ltd,Mid-Market,North West,Unknown,Hannah Doyle,Monthly,2600.00,31200.00,,3,0,0,48.9,3.33,0,68.4,66.4,69.4,-3.0,60.3,10,Medium
+NSC-11288,Beacon Housing Ltd,Mid-Market,Ireland,Professional Services,Daniel Hughes,Annual,2795.00,33540.00,2026-10-01,8,0,0,17.9,4.75,0,60.8,60.6,61.1,-0.5,59.0,1,Low
+NSC-11423,Kingsway Consulting Ltd,SMB,London & South East,Professional Services,Sophie Turner,Annual,155.00,1860.00,2027-04-01,2,0,0,41.4,3.50,0,74.3,73.3,75.2,-1.9,3.8,7,Low
+NSC-10125,Thames Engineering Ltd,SMB,London & South East,Retail,Ravi Mehta,Monthly,1555.00,18660.00,,3,0,1,88.2,4.25,0,77.4,77.3,76.8,0.5,42.5,0,Low
+NSC-10257,Lantern Learning Ltd,Mid-Market,South West & Wales,Professional Services,Aisha Patel,Annual,3515.00,42180.00,2026-10-01,8,0,0,30.4,5.00,0,77.6,80.5,76.2,4.3,94.8,0,Low
+NSC-10486,Avon Supplies Ltd,SMB,Midlands,Logistics,Owen Price,Monthly,525.00,6300.00,,1,0,0,2.6,5.00,0,76.9,75.2,77.8,-2.6,13.5,4,Low
+NSC-10542,Northgate Retail Ltd,Mid-Market,Scotland,Professional Services,Callum Reid,Annual,1285.00,15420.00,2026-10-01,5,0,1,56.9,4.00,0,80.8,83.2,79.5,3.7,35.5,0,Low
+NSC-10865,Brightwater Systems Ltd,Mid-Market,London & South East,Manufacturing,Callum Reid,Annual,3030.00,36360.00,2027-09-01,3,0,1,60.1,4.00,0,72.9,68.7,75.8,-7.1,70.8,11,Medium
+NSC-10875,Castlefield Medical Ltd,Mid-Market,Scotland,Retail,Hannah Doyle,Annual,2370.00,28440.00,2027-09-01,3,0,1,78.4,3.00,0,54.8,51.9,55.8,-3.9,48.5,18,Medium
+NSC-10930,Brightwater Systems LLP,Mid-Market,North West,Professional Services,Daniel Hughes,Annual,2420.00,29040.00,2026-11-01,2,0,1,70.3,4.00,0,76.6,74.8,78.0,-3.2,59.3,5,Low
+NSC-10948,Ashford Energy plc,Mid-Market,Midlands,Financial Services,Aisha Patel,Annual,1485.00,17820.00,2026-11-01,3,0,0,13.8,4.33,0,74.3,69.7,76.4,-6.7,38.3,10,Medium
+NSC-11023,Wessex Engineering Ltd,Mid-Market,London & South East,Manufacturing,Aisha Patel,Monthly,870.00,10440.00,,3,1,1,38.2,2.00,0,54.8,55.4,55.1,0.3,16.8,40,Medium
+NSC-11081,Quayside Capital LLP,SMB,North West,Logistics,Sophie Turner,Annual,740.00,8880.00,2027-03-01,2,0,0,8.1,5.00,0,58.5,63.5,55.7,7.8,17.8,1,Low
+NSC-11129,Wessex Advisory Ltd,SMB,Midlands,Financial Services,Liam Carter,Annual,310.00,3720.00,2027-05-01,1,0,0,13.7,3.50,0,69.4,67.8,70.4,-2.6,7.5,8,Low
+NSC-11233,Beacon Distribution Ltd,Mid-Market,London & South East,Logistics,Aisha Patel,Annual,865.00,10380.00,2027-09-01,2,0,0,30.4,4.33,0,73.6,73.8,73.8,0.0,22.0,0,Low
+NSC-11247,Wessex Supplies Ltd,Mid-Market,North West,Manufacturing,Callum Reid,Annual,2990.00,35880.00,2027-09-01,4,0,2,76.8,3.20,1,34.4,33.3,34.3,-1.0,45.5,28,High
+NSC-11406,Calder Freight Ltd,SMB,London & South East,Retail,Megan Shaw,Monthly,250.00,3000.00,,0,0,0,,4.00,0,75.3,73.9,75.9,-2.0,6.0,3,Low
+NSC-11484,Tamar Housing Group,SMB,Scotland,Healthcare,Ravi Mehta,Monthly,600.00,7200.00,,2,0,0,17.8,5.00,0,88.9,90.2,88.7,1.5,18.0,0,Low
+NSC-10007,Sterling Advisory Holdings,Mid-Market,Yorkshire & North East,Education,Aisha Patel,Monthly,2635.00,31620.00,,4,0,1,74.2,4.00,0,47.8,47.4,47.5,-0.1,44.3,10,Medium
+NSC-10065,Redbrick Systems Ltd,Mid-Market,Ireland,Public Sector,Callum Reid,Monthly,2470.00,29640.00,,6,0,0,25.8,4.60,0,72.6,71.1,74.1,-3.0,61.0,5,Low
+NSC-10128,Highland Consulting Holdings,SMB,South West & Wales,Public Sector,Liam Carter,Monthly,215.00,2580.00,,1,0,0,32.1,,0,54.9,56.1,54.5,1.6,4.0,4,Low
+NSC-10213,Holloway Consulting plc,SMB,Yorkshire & North East,Professional Services,Ravi Mehta,Annual,625.00,7500.00,2026-12-01,3,0,0,21.0,2.67,0,56.8,60.3,55.2,5.1,14.5,13,Medium
+NSC-10225,Northgate Supplies plc,SMB,London & South East,Education,Liam Carter,Monthly,210.00,2520.00,,0,0,0,,2.00,0,60.0,58.5,60.9,-2.4,4.5,20,Medium
+NSC-10362,Clyde Distribution Ltd,SMB,Yorkshire & North East,Healthcare,Liam Carter,Monthly,740.00,8880.00,,1,0,0,8.5,,0,65.2,64.4,65.4,-1.0,18.3,2,Low
+NSC-10396,Brightwater Consulting plc,SMB,North West,Manufacturing,Owen Price,Monthly,610.00,7320.00,,1,0,0,28.5,4.33,0,75.6,70.5,77.7,-7.2,15.5,11,Medium
+NSC-10419,Severn Capital LLP,SMB,Ireland,Logistics,Unassigned,Monthly,570.00,6840.00,,0,0,0,,,0,62.5,64.9,61.6,3.3,14.5,0,Low
+NSC-10421,Falcon Manufacturing Holdings,Mid-Market,South West & Wales,Professional Services,Daniel Hughes,Annual,1325.00,15900.00,2026-11-01,5,1,1,41.7,2.67,0,66.8,66.0,67.3,-1.3,28.3,33,Medium
+NSC-10447,Kingsway Manufacturing Ltd,Enterprise,North West,Manufacturing,Priya Raman,Annual,6800.00,81600.00,2027-08-01,16,1,2,34.8,3.71,0,29.1,30.5,28.3,2.2,79.8,47,High
+NSC-10522,Granite Care Ltd,SMB,South West & Wales,Retail,Owen Price,Annual,115.00,1380.00,2026-10-01,0,0,0,,5.00,0,57.2,59.5,55.8,3.7,2.5,2,Low
+NSC-10536,Quayside Manufacturing Ltd,Enterprise,North West,Financial Services,Tom Whitfield,Annual,25930.00,311160.00,2026-10-01,18,1,5,33.3,3.47,1,34.2,30.2,35.9,-5.7,243.5,53,High
+NSC-10906,Sterling Freight Group,Enterprise,South West & Wales,Public Sector,Tom Whitfield,Annual,16320.00,195840.00,2026-10-01,12,1,3,58.1,1.70,0,31.9,25.6,35.3,-9.7,198.5,75,High
+NSC-10942,Ironbridge Health plc,SMB,Midlands,Manufacturing,Sophie Turner,Monthly,245.00,2940.00,,1,0,0,15.5,4.00,0,78.5,75.4,80.1,-4.7,6.3,7,Low
+NSC-11057,Bluebell Analytics Group,SMB,London & South East,Professional Services,Ravi Mehta,Monthly,260.00,3120.00,,1,0,1,250.8,1.00,0,60.8,60.3,60.8,-0.5,6.0,25,Medium
+NSC-11084,Northgate Medical Holdings,SMB,Scotland,Healthcare,Ravi Mehta,Annual,370.00,4440.00,2027-04-01,3,0,0,33.2,4.50,0,61.2,63.4,60.5,2.9,9.3,0,Low
+NSC-11087,Albion Energy Group,SMB,Ireland,Logistics,Sophie Turner,Monthly,135.00,1620.00,,2,0,0,60.3,3.67,0,43.3,42.4,44.0,-1.6,2.0,18,Medium
+NSC-11095,Albion Capital LLP,Mid-Market,Ireland,Retail,Callum Reid,Annual,840.00,10080.00,2027-04-01,6,0,0,27.7,3.50,0,39.3,38.8,40.8,-2.0,12.8,24,Medium
+NSC-11221,Northgate Care LLP,Mid-Market,North West,Healthcare,Daniel Hughes,Annual,1200.00,14400.00,2027-09-01,4,0,1,81.6,5.00,0,65.4,66.2,64.9,1.3,26.8,0,Low
+NSC-11328,Kingsway Distribution Group,SMB,South West & Wales,Financial Services,Megan Shaw,Monthly,790.00,9480.00,,2,0,0,24.9,5.00,0,70.5,67.4,71.7,-4.3,20.3,6,Low
+NSC-11452,Cobalt Learning Group,Mid-Market,South West & Wales,Logistics,Callum Reid,Monthly,2715.00,32580.00,,2,0,0,27.2,4.67,0,54.3,57.6,52.1,5.5,47.5,5,Low
+NSC-11473,Moorland Capital Ltd,SMB,Ireland,Financial Services,Sophie Turner,Monthly,325.00,3900.00,,4,0,0,28.6,4.00,0,51.5,51.8,51.4,0.4,6.8,7,Low
+NSC-11481,Riverside Foods Group,SMB,Midlands,Unknown,Ravi Mehta,Monthly,245.00,2940.00,,0,0,0,,,0,75.9,73.2,76.8,-3.6,5.8,5,Low
+NSC-10149,Kingsway Advisory Ltd,SMB,London & South East,Healthcare,Sophie Turner,Monthly,1280.00,15360.00,,1,0,0,3.1,,0,70.6,69.8,70.6,-0.8,35.3,1,Low
+NSC-10262,Riverside Housing plc,Mid-Market,North West,Retail,Daniel Hughes,Annual,3810.00,45720.00,2026-12-01,6,0,0,25.9,4.60,0,65.0,64.7,65.0,-0.3,86.8,0,Low
+NSC-10269,Fenwick Freight Ltd,SMB,London & South East,Financial Services,Megan Shaw,Annual,430.00,5160.00,2027-06-01,1,0,0,38.7,4.50,0,50.8,44.8,52.6,-7.8,8.5,19,Medium
+NSC-10334,Castlefield Advisory Holdings,Mid-Market,Yorkshire & North East,Retail,Aisha Patel,Monthly,2595.00,31140.00,,0,0,0,,2.67,0,61.8,61.0,62.5,-1.5,51.3,13,Medium
+NSC-10354,Bluebell Care Group,Mid-Market,London & South East,Public Sector,Daniel Hughes,Monthly,5250.00,63000.00,,9,0,1,42.5,3.75,0,76.6,73.9,77.9,-4.0,130.5,8,Low
+NSC-10614,Holloway Foods Holdings,Mid-Market,Ireland,Retail,Daniel Hughes,Monthly,1665.00,19980.00,,1,0,0,8.6,3.50,0,73.8,75.4,72.9,2.5,38.5,4,Low
+NSC-10627,Saxon Consulting LLP,Mid-Market,Scotland,Public Sector,Daniel Hughes,Monthly,670.00,8040.00,,8,0,1,25.8,1.86,0,43.4,44.6,42.5,2.1,10.3,30,Medium
+NSC-10669,Westmoor Learning Holdings,SMB,London & South East,Professional Services,Megan Shaw,Monthly,980.00,11760.00,,2,0,0,42.2,3.33,0,74.6,75.6,74.2,1.4,26.0,5,Medium
+NSC-10782,Quayside Distribution LLP,SMB,Midlands,Healthcare,Megan Shaw,Monthly,1010.00,12120.00,,2,0,1,64.1,4.00,0,74.5,72.8,75.2,-2.4,26.5,4,Low
+NSC-10811,Avon Care LLP,SMB,Yorkshire & North East,Education,Sophie Turner,Monthly,2240.00,26880.00,,1,0,0,,1.00,1,61.8,62.4,61.6,0.8,54.3,24,Medium
+NSC-11124,Wessex Medical Holdings,SMB,Midlands,Logistics,Liam Carter,Monthly,530.00,6360.00,,0,0,0,,3.00,0,78.2,74.6,79.0,-4.4,15.3,15,Medium
+NSC-11142,Ironbridge Systems Ltd,Enterprise,North West,Retail,Grace Okafor,Annual,11075.00,132900.00,2027-05-01,5,2,2,49.1,3.50,0,70.2,72.1,70.2,1.9,215.8,44,Medium
+NSC-11182,Falcon Systems Ltd,Mid-Market,London & South East,Professional Services,Callum Reid,Annual,895.00,10740.00,2027-07-01,5,0,1,73.2,4.00,0,57.8,54.1,60.1,-6.0,15.8,11,Medium
+NSC-11238,Falcon Advisory Ltd,Mid-Market,South West & Wales,Professional Services,Aisha Patel,Annual,4020.00,48240.00,2027-09-01,4,0,0,50.2,5.00,0,72.7,75.3,71.7,3.6,99.5,0,Low
+NSC-11317,Brightwater Health LLP,Enterprise,London & South East,Retail,Priya Raman,Annual,6340.00,76080.00,2026-12-01,12,0,0,25.0,4.18,0,73.2,70.5,74.3,-3.8,122.5,6,Low
+NSC-11344,Tamar Foods plc,Mid-Market,London & South East,Retail,Hannah Doyle,Annual,1875.00,22500.00,2027-01-01,9,1,2,43.2,2.67,0,27.6,29.0,26.6,2.4,22.3,57,High
+NSC-11351,Pennine Partners Ltd,Enterprise,London & South East,Healthcare,Tom Whitfield,Annual,12520.00,150240.00,2027-01-01,11,2,3,24.8,3.78,1,55.7,51.2,57.0,-5.8,208.3,54,Medium
+NSC-11437,Westmoor Systems Ltd,Mid-Market,London & South East,Healthcare,Aisha Patel,Annual,3080.00,36960.00,2027-05-01,2,0,0,38.4,4.50,0,71.5,68.6,72.0,-3.4,74.8,5,Low
+NSC-11512,Lantern Engineering Ltd,SMB,London & South East,Education,Liam Carter,Annual,120.00,1440.00,2027-08-01,0,0,0,,,0,79.2,80.6,78.0,2.6,3.0,0,Low
+NSC-10002,Westmoor Capital Group,SMB,Midlands,Public Sector,Ravi Mehta,Monthly,390.00,4680.00,,1,0,0,63.2,,0,64.2,63.3,64.6,-1.3,8.8,2,Low
+NSC-10012,Saxon Health LLP,Enterprise,Scotland,Professional Services,Tom Whitfield,Monthly,32285.00,387420.00,,11,0,3,71.5,2.89,2,40.1,42.8,38.2,4.6,448.3,25,Medium
+NSC-10017,Pennine Advisory Group,Mid-Market,London & South East,Financial Services,Daniel Hughes,Annual,7735.00,92820.00,2027-02-01,3,0,1,88.7,5.00,0,75.9,72.7,77.1,-4.4,191.8,7,Low
+NSC-10026,Peak Logistics Ltd,SMB,North West,Financial Services,Megan Shaw,Annual,715.00,8580.00,2027-07-01,3,0,0,50.5,3.50,0,68.1,69.0,68.2,0.8,16.8,4,Low
+NSC-10228,Tamar Energy LLP,Mid-Market,Midlands,Logistics,Callum Reid,Annual,4015.00,48180.00,2027-06-01,2,0,0,23.7,5.00,0,63.4,62.4,63.1,-0.7,82.8,1,Low
+NSC-10336,Beacon Capital plc,Mid-Market,Midlands,Manufacturing,Aisha Patel,Annual,3680.00,44160.00,2026-10-01,6,0,0,32.3,3.67,0,39.1,45.2,36.9,8.3,57.3,19,Medium
+NSC-10533,Albion Partners Ltd,SMB,Yorkshire & North East,Professional Services,Megan Shaw,Monthly,365.00,4380.00,,1,0,1,178.3,3.67,0,51.0,49.3,52.3,-3.0,8.0,14,Low
+NSC-10602,Redbrick Advisory Ltd,SMB,London & South East,Healthcare,Sophie Turner,Monthly,935.00,11220.00,,2,0,0,9.9,4.00,0,74.4,74.5,74.3,0.2,25.3,0,Low
+NSC-10616,Ironbridge Analytics Group,SMB,London & South East,Healthcare,Liam Carter,Monthly,455.00,5460.00,,0,0,0,,,0,72.4,69.9,72.6,-2.7,12.5,4,Low
+NSC-10623,Mersey Care plc,Enterprise,Scotland,Professional Services,Grace Okafor,Annual,8215.00,98580.00,2027-01-01,17,3,7,62.9,2.07,0,30.7,18.6,37.0,-18.4,77.0,100,High
+NSC-10681,Quayside Supplies Holdings,SMB,Yorkshire & North East,Public Sector,Liam Carter,Annual,165.00,1980.00,2027-03-01,1,0,0,34.6,5.00,0,71.0,71.9,70.3,1.6,4.0,0,Low
+NSC-10787,Mersey Engineering plc,Mid-Market,South West & Wales,Manufacturing,Daniel Hughes,Monthly,2520.00,30240.00,,3,0,0,26.6,4.50,1,72.0,71.2,73.4,-2.2,59.0,3,Low
+NSC-10897,Calder Care Ltd,Enterprise,London & South East,Professional Services,Grace Okafor,Annual,5205.00,62460.00,2026-10-01,18,2,5,46.0,3.11,0,36.6,31.9,37.6,-5.7,57.3,74,High
+NSC-10913,Lantern Systems Holdings,Enterprise,Scotland,Logistics,Priya Raman,Annual,10260.00,123120.00,2026-10-01,9,0,1,32.0,4.10,0,67.8,66.6,68.6,-2.0,192.3,3,Low
+NSC-10922,Granite Partners Ltd,Mid-Market,Yorkshire & North East,Public Sector,Callum Reid,Monthly,3530.00,42360.00,,4,0,0,29.7,5.00,0,82.3,80.7,82.5,-1.8,91.0,3,Low
+NSC-10963,Westmoor Medical Ltd,Mid-Market,Yorkshire & North East,Education,Aisha Patel,Annual,3005.00,36060.00,2026-12-01,5,0,0,20.3,4.20,0,82.6,85.5,81.2,4.3,81.3,0,Low
+NSC-11010,Orchard Learning Ltd,Mid-Market,South West & Wales,Healthcare,Callum Reid,Annual,1130.00,13560.00,2027-01-01,2,0,0,18.9,4.00,0,81.8,79.6,82.6,-3.0,30.3,5,Low
+NSC-11021,Heathrow Advisory Ltd,Mid-Market,North West,Manufacturing,Daniel Hughes,Monthly,875.00,10500.00,,2,0,0,24.3,,0,80.5,79.2,81.1,-1.9,21.0,3,Low
+NSC-11060,Bluebell Retail Ltd,SMB,South West & Wales,Retail,Megan Shaw,Monthly,475.00,5700.00,,1,0,0,73.2,4.00,0,47.5,49.2,47.2,2.0,10.0,10,Medium
+NSC-11215,Meridian Energy Ltd,SMB,Scotland,Public Sector,Liam Carter,Annual,445.00,5340.00,2027-08-01,0,0,0,,5.00,0,78.8,80.6,77.6,3.0,12.0,0,Low
+NSC-11227,Brightwater Health Group,Mid-Market,London & South East,Healthcare,Aisha Patel,Annual,1475.00,17700.00,2027-09-01,5,0,0,26.9,4.00,0,60.2,58.0,60.8,-2.8,30.0,4,Low
+NSC-11263,Meridian Advisory Ltd,Mid-Market,London & South East,Professional Services,Hannah Doyle,Annual,2685.00,32220.00,2026-10-01,6,1,2,45.3,2.67,0,44.7,47.9,43.2,4.7,48.5,43,Medium
+NSC-11267,Holloway Engineering plc,SMB,Yorkshire & North East,Education,Owen Price,Monthly,165.00,1980.00,,2,0,0,26.0,4.00,0,47.0,48.1,46.5,1.6,2.8,10,Medium
+NSC-11295,Mersey Supplies plc,Enterprise,Scotland,Professional Services,Priya Raman,Annual,4635.00,55620.00,2026-11-01,16,4,8,58.0,3.46,0,41.5,29.3,46.4,-17.1,53.5,100,High
+NSC-11362,Riverside Advisory plc,Mid-Market,London & South East,Manufacturing,Hannah Doyle,Monthly,2705.00,32460.00,,3,1,1,33.0,4.50,0,65.2,63.2,64.9,-1.7,57.5,23,Medium
+NSC-11371,Riverside Freight Group,SMB,North West,Financial Services,Owen Price,Monthly,460.00,5520.00,,3,0,0,39.6,4.67,0,53.9,53.1,54.7,-1.6,10.0,7,Low
+NSC-10030,Pennine Freight Ltd,Mid-Market,London & South East,Healthcare,Hannah Doyle,Monthly,2360.00,28320.00,,5,1,1,55.8,3.00,0,55.6,56.9,55.0,1.9,46.8,32,Medium
+NSC-10096,Avon Housing Ltd,Mid-Market,London & South East,Financial Services,Callum Reid,Annual,5200.00,62400.00,2027-03-01,4,0,0,44.0,4.50,0,77.6,78.4,77.1,1.3,140.3,0,Low
+NSC-10231,Tamar Logistics LLP,SMB,London & South East,Financial Services,Liam Carter,Monthly,325.00,3900.00,,5,0,0,41.0,,0,74.6,72.4,75.1,-2.7,8.3,4,Low
+NSC-10264,Ashford Retail Holdings,SMB,North West,Public Sector,Liam Carter,Annual,200.00,2400.00,2027-04-01,0,0,0,,,0,69.9,72.3,68.8,3.5,5.5,0,Low
+NSC-10266,Pennine Foods Holdings,SMB,London & South East,Healthcare,Liam Carter,Monthly,510.00,6120.00,,2,0,0,44.6,3.33,0,87.6,92.1,85.5,6.6,16.3,5,Medium
+NSC-10339,Harbour Learning Group,SMB,London & South East,Professional Services,Liam Carter,Monthly,270.00,3240.00,,1,0,0,64.4,,0,84.6,85.7,84.6,1.1,7.5,0,Low
+NSC-10372,Peak Housing LLP,SMB,Ireland,Professional Services,Liam Carter,Monthly,655.00,7860.00,,1,0,0,25.1,4.50,0,55.5,55.1,55.5,-0.4,14.0,4,Low
+NSC-10453,Oakridge Analytics Holdings,Mid-Market,North West,Manufacturing,Unassigned,Annual,2765.00,33180.00,2026-10-01,3,0,0,59.6,4.00,1,79.6,81.1,78.4,2.7,67.5,0,Low
+NSC-10475,Lowther Partners Ltd,SMB,London & South East,Public Sector,Liam Carter,Monthly,230.00,2760.00,,0,0,0,,1.00,0,64.5,67.4,63.9,3.5,5.5,24,Medium
+NSC-10598,Tamar Health Group,Mid-Market,London & South East,Financial Services,Callum Reid,Annual,1045.00,12540.00,2026-12-01,5,0,1,47.8,4.00,0,45.6,44.0,46.6,-2.6,17.8,15,Medium
+NSC-10625,Highland Health LLP,Mid-Market,London & South East,Education,Daniel Hughes,Monthly,1985.00,23820.00,,3,0,1,59.4,4.67,0,69.8,66.8,71.5,-4.7,45.0,7,Low
+NSC-10834,Castlefield Analytics Holdings,SMB,London & South East,Healthcare,Liam Carter,Annual,295.00,3540.00,2027-07-01,0,0,0,,5.00,0,79.5,81.1,78.1,3.0,8.8,0,Low
+NSC-10916,Thames Manufacturing plc,SMB,London & South East,Retail,Sophie Turner,Annual,140.00,1680.00,2026-10-01,1,0,1,75.7,5.00,0,59.3,59.1,59.8,-0.7,3.0,2,Low
+NSC-11000,Ember Capital Ltd,Mid-Market,North West,Logistics,Daniel Hughes,Monthly,4655.00,55860.00,,2,0,0,37.6,3.50,0,67.1,66.3,67.7,-1.4,104.5,6,Low
+NSC-11065,Saxon Analytics LLP,SMB,Midlands,Retail,Ravi Mehta,Annual,165.00,1980.00,2027-03-01,1,0,0,71.3,,0,68.6,69.6,67.9,1.7,3.8,0,Low
+NSC-11128,Wessex Care Ltd,Enterprise,Yorkshire & North East,Retail,Tom Whitfield,Annual,18900.00,226800.00,2027-05-01,9,1,2,45.2,3.38,0,56.7,48.4,60.6,-12.2,285.5,46,Medium
+NSC-11140,Bluebell Analytics LLP,Enterprise,London & South East,Logistics,Tom Whitfield,Annual,7430.00,89160.00,2027-05-01,6,1,1,25.4,4.67,0,76.7,73.5,77.5,-4.0,160.3,26,Medium
+NSC-11252,Ashford Manufacturing Ltd,Mid-Market,London & South East,Financial Services,Daniel Hughes,Monthly,1360.00,16320.00,,3,0,1,91.6,4.00,0,83.3,82.7,83.1,-0.4,35.8,1,Low
+NSC-11255,Beacon Systems LLP,Mid-Market,London & South East,Financial Services,Hannah Doyle,Annual,1485.00,17820.00,2026-10-01,3,0,0,33.0,,0,80.6,81.8,80.8,1.0,37.8,0,Low
+NSC-11469,Riverside Retail LLP,Enterprise,Midlands,Education,Grace Okafor,Annual,21440.00,257280.00,2027-06-01,9,1,2,41.2,3.20,0,65.0,65.7,64.4,1.3,400.8,26,Medium
+NSC-11471,Lantern Health plc,SMB,South West & Wales,Healthcare,Megan Shaw,Monthly,345.00,4140.00,,0,0,0,,,0,43.2,48.4,41.3,7.1,7.0,13,Medium
+NSC-11509,Holloway Housing plc,SMB,Midlands,Logistics,Megan Shaw,Monthly,235.00,2820.00,,3,0,0,56.8,2.00,0,49.4,50.4,48.6,1.8,5.3,24,Medium
+NSC-11527,Harbour Manufacturing Group,SMB,London & South East,Financial Services,Ravi Mehta,Annual,135.00,1620.00,2027-09-01,0,0,0,,,0,54.3,54.3,,,2.0,5,Low
+NSC-10037,Harbour Partners plc,SMB,Ireland,Healthcare,Liam Carter,Monthly,1020.00,12240.00,,0,0,0,,,0,68.7,67.9,68.9,-1.0,27.3,2,Low
+NSC-10051,Tamar Consulting Ltd,SMB,London & South East,Logistics,Liam Carter,Monthly,135.00,1620.00,,1,0,0,36.3,5.00,0,68.5,68.0,69.2,-1.2,3.0,2,Low
+NSC-10250,Moorland Health Holdings,SMB,North West,Professional Services,Owen Price,Annual,1130.00,13560.00,2026-10-01,0,0,0,,,0,78.9,79.9,78.1,1.8,34.3,0,Low
+NSC-10446,Fenwick Care Ltd,Mid-Market,Yorkshire & North East,Retail,Daniel Hughes,Monthly,2180.00,26160.00,,2,0,0,9.5,4.00,0,76.4,81.3,74.9,6.4,55.8,0,Low
+NSC-10450,Thames Freight Ltd,Mid-Market,South West & Wales,Professional Services,Hannah Doyle,Monthly,1475.00,17700.00,,3,1,2,49.9,5.00,0,44.0,44.1,43.7,0.4,26.8,33,Medium
+NSC-10520,Westmoor Advisory Group,Mid-Market,London & South East,Financial Services,Hannah Doyle,Annual,3660.00,43920.00,2027-09-01,3,0,0,21.3,5.00,0,54.2,59.6,51.8,7.8,67.8,5,Low
+NSC-10591,Highland Analytics LLP,SMB,North West,Manufacturing,Liam Carter,Annual,385.00,4620.00,2026-12-01,0,0,0,,,0,61.4,61.1,61.2,-0.1,9.0,0,Low
+NSC-10692,Avon Care plc,SMB,London & South East,Healthcare,Owen Price,Monthly,215.00,2580.00,,3,0,0,41.5,5.00,0,66.2,65.1,66.7,-1.6,5.0,2,Low
+NSC-10958,Cobalt Housing Group,Enterprise,London & South East,Professional Services,Tom Whitfield,Annual,18880.00,226560.00,2026-11-01,12,1,5,64.2,2.83,1,16.6,20.9,15.3,5.6,164.0,64,High
+NSC-11056,Saxon Energy plc,Mid-Market,Scotland,Retail,Daniel Hughes,Monthly,1140.00,13680.00,,4,0,0,26.5,4.75,0,82.6,82.8,82.6,0.2,32.5,0,Low
+NSC-11058,Falcon Analytics Ltd,SMB,London & South East,Retail,Megan Shaw,Annual,390.00,4680.00,2027-03-01,0,0,0,,,0,67.1,65.8,67.6,-1.8,10.0,3,Low
+NSC-11207,Holloway Analytics Ltd,SMB,Midlands,Retail,Megan Shaw,Monthly,305.00,3660.00,,3,1,2,43.3,2.67,0,51.2,47.9,52.6,-4.7,6.0,45,Medium
+NSC-11222,Redbrick Medical LLP,Mid-Market,Scotland,Healthcare,Callum Reid,Monthly,2625.00,31500.00,,5,0,0,45.0,3.00,0,72.8,75.0,70.3,4.7,63.8,8,Medium
+NSC-11242,Cobalt Partners Group,SMB,London & South East,Retail,Ravi Mehta,Monthly,250.00,3000.00,,2,0,0,41.2,5.00,0,53.9,54.8,53.5,1.3,4.8,5,Low
+NSC-11284,Severn Analytics Group,SMB,London & South East,Healthcare,Liam Carter,Annual,105.00,1260.00,2026-10-01,0,0,0,,,0,57.4,55.8,56.9,-1.1,2.0,4,Low
+NSC-11287,Quayside Retail plc,Mid-Market,North West,Retail,Callum Reid,Monthly,2365.00,28380.00,,4,1,1,59.7,3.50,0,65.0,64.1,64.6,-0.5,49.5,25,Medium
+NSC-11438,Falcon Analytics Holdings,SMB,South West & Wales,Retail,Megan Shaw,Annual,290.00,3480.00,2027-05-01,1,0,1,97.7,3.00,0,52.5,54.0,52.2,1.8,6.8,14,Medium
+NSC-10229,Thames Learning Ltd,Mid-Market,Midlands,Logistics,Aisha Patel,Annual,3120.00,37440.00,2027-06-01,3,0,0,27.5,2.50,0,59.4,57.1,60.3,-3.2,64.5,17,Medium
+NSC-10549,Quayside Freight Ltd,Mid-Market,Yorkshire & North East,Manufacturing,Hannah Doyle,Annual,4160.00,49920.00,2026-10-01,4,0,0,25.8,4.67,0,85.8,91.6,83.6,8.0,118.0,0,Low
+NSC-10567,Saxon Retail Ltd,Mid-Market,London & South East,Financial Services,Aisha Patel,Annual,1900.00,22800.00,2026-11-01,2,0,0,49.4,3.50,0,61.4,59.4,61.6,-2.2,41.5,7,Low
+NSC-10693,Thames Care Holdings,Mid-Market,Scotland,Retail,Hannah Doyle,Annual,3435.00,41220.00,2027-03-01,4,0,1,34.2,3.33,0,75.5,74.7,76.3,-1.6,81.8,8,Medium
+NSC-10700,Peak Systems LLP,SMB,South West & Wales,Manufacturing,Sophie Turner,Monthly,70.00,840.00,,2,0,0,25.6,2.75,0,39.2,39.7,39.1,0.6,1.5,27,Medium
+NSC-10708,Sterling Consulting plc,SMB,Ireland,Financial Services,Megan Shaw,Monthly,865.00,10380.00,,1,0,0,47.6,4.50,0,68.1,70.7,67.2,3.5,22.0,0,Low
+NSC-10836,Lantern Housing Ltd,Mid-Market,Yorkshire & North East,Professional Services,Callum Reid,Annual,4340.00,52080.00,2027-07-01,2,0,1,47.8,4.67,0,71.4,74.4,69.8,4.6,109.3,0,Low
+NSC-10959,Westmoor Retail plc,SMB,London & South East,Education,Liam Carter,Annual,725.00,8700.00,2026-12-01,1,0,0,22.2,,0,64.8,65.6,64.7,0.9,17.0,0,Low
+NSC-11079,Highland Partners Ltd,Mid-Market,Midlands,Logistics,Callum Reid,Annual,1165.00,13980.00,2027-03-01,3,0,1,78.0,2.67,0,69.1,70.1,69.1,1.0,26.5,11,Medium
+NSC-11097,Severn Learning Holdings,SMB,Midlands,Logistics,Liam Carter,Monthly,705.00,8460.00,,1,0,0,17.9,4.00,0,67.0,70.2,65.4,4.8,19.0,0,Low
+NSC-11099,Riverside Distribution Ltd,Mid-Market,South West & Wales,Logistics,Daniel Hughes,Annual,1850.00,22200.00,2027-04-01,10,0,2,61.5,3.83,0,71.6,68.7,72.4,-3.7,40.0,7,Low
+NSC-11145,Saxon Learning plc,SMB,Ireland,Healthcare,Owen Price,Annual,305.00,3660.00,2027-05-01,1,0,0,75.1,,0,73.6,71.8,74.4,-2.6,7.5,4,Low
+NSC-11192,Avon Medical Group,Mid-Market,London & South East,Healthcare,Callum Reid,Annual,1555.00,18660.00,2027-07-01,5,0,0,33.7,4.40,0,75.3,79.6,73.7,5.9,40.3,0,Low
+NSC-11212,Meridian Freight Holdings,SMB,Yorkshire & North East,Healthcare,Liam Carter,Monthly,495.00,5940.00,,0,0,0,,2.50,0,32.9,29.7,33.7,-4.0,8.0,40,High
+NSC-11298,Falcon Advisory plc,SMB,London & South East,Logistics,Liam Carter,Annual,335.00,4020.00,2026-11-01,1,0,0,14.5,3.00,0,80.4,82.4,79.4,3.0,9.0,8,Medium
+NSC-11326,Westmoor Care plc,SMB,North West,Public Sector,Liam Carter,Monthly,315.00,3780.00,,2,0,1,57.3,4.50,0,67.7,69.4,67.2,2.2,8.8,0,Low
+NSC-11382,Redbrick Manufacturing plc,SMB,South West & Wales,Financial Services,Owen Price,Annual,165.00,1980.00,2027-02-01,2,1,1,48.4,4.25,0,86.5,85.9,87.3,-1.4,4.0,22,Medium
+NSC-10077,Severn Housing LLP,SMB,Ireland,Logistics,Liam Carter,Monthly,375.00,4500.00,,0,0,0,,,0,87.3,86.8,87.1,-0.3,11.8,0,Low
+NSC-10103,Mersey Foods Holdings,SMB,Scotland,Healthcare,Megan Shaw,Monthly,175.00,2100.00,,2,0,0,48.1,,0,69.1,73.7,67.3,6.4,4.5,0,Low
+NSC-10106,Peak Consulting Holdings,Mid-Market,South West & Wales,Healthcare,Hannah Doyle,Monthly,1795.00,21540.00,,7,1,1,26.5,4.13,0,63.5,63.1,63.8,-0.7,40.5,21,Medium
+NSC-10108,Granite Advisory Ltd,SMB,Midlands,Retail,Unassigned,Monthly,585.00,7020.00,,1,0,0,10.3,4.00,0,73.7,68.2,76.1,-7.9,14.0,12,Medium
+NSC-10186,Lowther Energy plc,Mid-Market,London & South East,Financial Services,Aisha Patel,Annual,1310.00,15720.00,2027-01-01,3,0,0,14.5,4.00,0,84.0,78.7,85.8,-7.1,34.0,11,Medium
+NSC-10326,Lantern Supplies LLP,Mid-Market,Scotland,Logistics,Hannah Doyle,Monthly,1750.00,21000.00,,2,0,1,92.3,2.50,0,83.0,81.0,82.7,-1.7,45.8,15,Medium
+NSC-10345,Lowther Capital Ltd,Mid-Market,North West,Healthcare,Aisha Patel,Annual,2040.00,24480.00,2027-04-01,3,0,1,89.4,3.00,0,60.6,60.5,60.1,0.4,40.5,8,Medium
+NSC-10548,Lowther Distribution Group,SMB,Scotland,Public Sector,Unassigned,Annual,285.00,3420.00,2026-10-01,2,0,0,46.7,3.00,0,66.1,65.0,66.6,-1.6,7.3,10,Medium
+NSC-10683,Riverside Medical Ltd,Mid-Market,London & South East,Retail,Callum Reid,Annual,1330.00,15960.00,2027-03-01,1,0,0,7.5,,0,54.3,54.4,54.4,0.0,27.8,5,Low
+NSC-10726,Westmoor Capital Ltd,Enterprise,South West & Wales,Logistics,Tom Whitfield,Annual,20415.00,244980.00,2027-04-01,13,1,1,22.1,3.43,0,56.9,53.3,58.8,-5.5,338.8,35,Medium
+NSC-10874,Harbour Learning Ltd,SMB,London & South East,Financial Services,Megan Shaw,Monthly,100.00,1200.00,,4,0,1,39.9,2.00,0,29.2,31.0,29.3,1.7,1.0,41,High
+NSC-10878,Tamar Energy plc,SMB,London & South East,Professional Services,Ravi Mehta,Monthly,355.00,4260.00,,1,0,0,34.5,1.50,0,63.6,64.0,63.3,0.7,8.0,20,Medium
+NSC-10932,Wessex Medical plc,Enterprise,London & South East,Healthcare,Tom Whitfield,Annual,5415.00,64980.00,2026-11-01,14,1,2,51.7,3.18,1,36.8,38.4,35.3,3.1,71.5,45,Medium
+NSC-10989,Brightwater Logistics Ltd,SMB,Midlands,Manufacturing,Megan Shaw,Monthly,745.00,8940.00,,1,0,0,7.4,4.00,0,75.0,78.5,72.9,5.6,19.8,0,Low
+NSC-11119,Calder Supplies Ltd,Mid-Market,London & South East,Healthcare,Callum Reid,Monthly,2945.00,35340.00,,4,0,0,43.2,2.75,1,59.7,62.9,58.4,4.5,58.3,10,Medium
+NSC-11459,Mersey Systems LLP,SMB,London & South East,Professional Services,Megan Shaw,Monthly,600.00,7200.00,,1,0,0,26.7,,0,77.4,74.8,78.1,-3.3,15.8,5,Low
+NSC-11500,Severn Foods Holdings,Mid-Market,South West & Wales,Education,Aisha Patel,Monthly,1380.00,16560.00,,3,0,2,119.4,3.50,0,72.8,68.5,76.4,-7.9,31.5,16,Medium
+NSC-11525,Heathrow Manufacturing plc,SMB,Midlands,Public Sector,Megan Shaw,Monthly,145.00,1740.00,,1,0,0,93.3,4.00,0,52.5,52.5,,,3.0,6,Low
+NSC-10043,Oakridge Consulting LLP,Mid-Market,London & South East,Education,Hannah Doyle,Monthly,3685.00,44220.00,,4,0,0,25.0,4.83,0,71.8,76.1,70.2,5.9,85.5,0,Low
+NSC-10063,Highland Advisory Ltd,Mid-Market,Yorkshire & North East,Manufacturing,Hannah Doyle,Monthly,1980.00,23760.00,,4,1,2,87.3,4.60,0,59.2,52.8,62.8,-10.0,36.8,36,Medium
+NSC-10076,Quayside Capital Holdings,SMB,Midlands,Financial Services,Liam Carter,Monthly,215.00,2580.00,,2,0,0,29.2,5.00,0,60.1,60.3,59.8,0.5,4.0,0,Low
+NSC-10195,Falcon Partners Ltd,SMB,Scotland,Manufacturing,Liam Carter,Monthly,185.00,2220.00,,1,0,0,35.3,,0,66.0,63.3,67.6,-4.3,4.0,6,Low
+NSC-10457,Kingsway Supplies plc,Enterprise,Ireland,Logistics,Priya Raman,Annual,23270.00,279240.00,2027-07-01,11,1,1,26.7,4.60,0,58.9,59.6,58.9,0.7,429.8,21,Medium
+NSC-10518,Avon Distribution Ltd,Mid-Market,North West,Healthcare,Aisha Patel,Annual,3675.00,44100.00,2027-07-01,2,0,1,115.7,2.80,0,55.5,52.4,57.5,-5.1,71.8,21,Medium
+NSC-10905,Severn Freight Ltd,SMB,London & South East,Healthcare,Liam Carter,Monthly,985.00,11820.00,,1,0,1,169.0,2.50,0,55.4,55.6,55.0,0.6,23.8,16,Medium
+NSC-10935,Northgate Medical Ltd,SMB,London & South East,Education,Owen Price,Monthly,390.00,4680.00,,0,0,0,,2.00,0,69.0,70.5,68.6,1.9,9.8,16,Medium
+NSC-11059,Kingsway Manufacturing Group,SMB,Yorkshire & North East,Professional Services,Owen Price,Monthly,545.00,6540.00,,1,0,0,13.9,,0,78.1,86.2,75.9,10.3,16.3,0,Low
+NSC-11199,Ember Foods Ltd,Enterprise,Yorkshire & North East,Professional Services,Grace Okafor,Annual,4965.00,59580.00,2027-08-01,6,1,3,95.5,1.60,1,51.7,53.5,51.3,2.2,86.8,46,Medium
+NSC-11305,Riverside Energy Ltd,Mid-Market,Scotland,Manufacturing,Daniel Hughes,Annual,1130.00,13560.00,2026-11-01,3,0,0,38.6,5.00,0,64.7,66.3,63.9,2.4,25.5,0,Low
+NSC-11329,Beacon Supplies LLP,Mid-Market,London & South East,Logistics,Hannah Doyle,Monthly,4780.00,57360.00,,7,0,2,74.4,3.40,0,75.3,77.8,74.9,2.9,123.3,5,Medium
+NSC-11359,Pennine Retail Holdings,Enterprise,North West,Retail,Grace Okafor,Annual,4570.00,54840.00,2027-01-01,4,0,0,17.5,4.50,0,77.5,75.0,78.8,-3.8,94.0,6,Low
+NSC-11474,Saxon Supplies Ltd,SMB,Midlands,Healthcare,Megan Shaw,Monthly,150.00,1800.00,,4,0,1,83.6,3.50,0,56.1,56.0,56.6,-0.6,3.5,8,Low
+NSC-11530,Wessex Analytics Ltd,SMB,London & South East,Professional Services,Liam Carter,Monthly,270.00,3240.00,,2,0,1,88.3,,0,48.9,48.9,,,5.0,9,Medium
+NSC-10244,Wessex Capital Holdings,SMB,Midlands,Public Sector,Sophie Turner,Annual,665.00,7980.00,2026-11-01,2,0,0,15.2,3.67,0,69.9,68.6,70.0,-1.4,15.8,5,Low
+NSC-10376,Quayside Foods Ltd,SMB,Yorkshire & North East,Professional Services,Sophie Turner,Annual,205.00,2460.00,2027-05-01,1,0,0,16.2,4.50,0,59.6,59.6,59.5,0.1,4.8,0,Low
+NSC-10377,Moorland Supplies LLP,Enterprise,London & South East,Retail,Tom Whitfield,Annual,14920.00,179040.00,2027-07-01,27,3,12,67.0,2.60,2,22.5,16.5,23.6,-7.1,138.0,100,High
+NSC-10401,Moorland Advisory Ltd,SMB,Midlands,Financial Services,Liam Carter,Annual,265.00,3180.00,2027-08-01,1,0,1,130.3,,0,49.8,50.0,50.2,-0.2,5.5,8,Medium
+NSC-10428,Albion Health Ltd,Mid-Market,South West & Wales,Manufacturing,Aisha Patel,Monthly,4580.00,54960.00,,7,1,4,71.0,1.71,0,39.6,35.5,41.5,-6.0,73.3,64,Medium
+NSC-10505,Granite Distribution plc,SMB,Ireland,Logistics,Owen Price,Monthly,630.00,7560.00,,2,0,0,22.1,5.00,0,75.0,73.5,76.1,-2.6,17.3,4,Low
+NSC-10509,Fenwick Capital Holdings,SMB,London & South East,Healthcare,Liam Carter,Monthly,190.00,2280.00,,0,0,0,,,0,42.7,38.6,44.2,-5.6,3.0,22,Medium
+NSC-10571,Thames Energy Ltd,SMB,South West & Wales,Professional Services,Sophie Turner,Monthly,800.00,9600.00,,1,0,0,85.2,3.67,0,57.9,61.1,55.4,5.7,18.3,4,Low
+NSC-10901,Heathrow Advisory Group,SMB,North West,Logistics,Ravi Mehta,Monthly,180.00,2160.00,,1,0,0,47.8,3.50,0,66.8,65.2,68.0,-2.8,4.5,8,Low
+NSC-11074,Saxon Engineering Group,Enterprise,London & South East,Manufacturing,Grace Okafor,Annual,9320.00,111840.00,2027-03-01,12,2,4,54.6,2.92,1,47.3,46.6,47.8,-1.2,129.5,61,High
+NSC-11206,Avon Energy LLP,SMB,London & South East,Retail,Ravi Mehta,Monthly,460.00,5520.00,,0,0,0,,,0,76.8,76.7,77.0,-0.3,13.3,0,Low
+NSC-11211,Falcon Logistics Ltd,Mid-Market,London & South East,Healthcare,Daniel Hughes,Annual,1910.00,22920.00,2027-08-01,4,1,2,50.1,3.00,0,43.0,42.7,43.6,-0.9,31.3,43,Medium
+NSC-11276,Tamar Partners Ltd,SMB,Ireland,Retail,Liam Carter,Monthly,425.00,5100.00,,1,0,0,12.5,2.00,0,79.3,80.6,78.3,2.3,12.3,16,Medium
+NSC-11396,Pennine Advisory LLP,SMB,Midlands,Public Sector,Unassigned,Monthly,355.00,4260.00,,0,0,0,,,0,49.6,51.5,48.8,2.7,7.3,8,Medium
+NSC-11434,Granite Capital LLP,SMB,South West & Wales,Manufacturing,Megan Shaw,Monthly,565.00,6780.00,,0,0,0,,,0,68.4,71.8,66.8,5.0,15.3,0,Low
+NSC-11446,Saxon Manufacturing Group,Enterprise,Yorkshire & North East,Education,Grace Okafor,Annual,18015.00,216180.00,2027-05-01,8,1,2,28.1,3.00,2,66.5,67.1,66.4,0.7,334.8,28,Medium
+NSC-11515,Avon Analytics Holdings,SMB,London & South East,Logistics,Liam Carter,Monthly,565.00,6780.00,,0,0,0,,,0,89.4,89.4,,,17.5,0,Low
+NSC-10171,Fenwick Energy Holdings,SMB,North West,Professional Services,Megan Shaw,Monthly,185.00,2220.00,,1,0,0,2.9,,0,58.7,56.5,59.6,-3.1,4.0,6,Low
+NSC-10288,Severn Medical Ltd,SMB,London & South East,Logistics,Ravi Mehta,Annual,995.00,11940.00,2027-06-01,1,0,0,10.5,5.00,0,84.5,84.1,84.8,-0.7,28.8,1,Low
+NSC-10363,Orchard Advisory Group,SMB,North West,Logistics,Ravi Mehta,Monthly,170.00,2040.00,,1,0,0,28.5,4.00,0,62.9,65.4,62.5,2.9,4.3,0,Low
+NSC-10465,Northgate Learning Group,Mid-Market,London & South East,Public Sector,Daniel Hughes,Monthly,4265.00,51180.00,,3,1,2,88.9,1.00,0,78.4,74.4,80.3,-5.9,102.8,53,Medium
+NSC-10643,Falcon Energy Ltd,SMB,South West & Wales,Financial Services,Megan Shaw,Monthly,220.00,2640.00,,1,0,1,177.8,2.75,0,58.8,61.1,58.3,2.8,4.5,11,Medium
+NSC-10986,Oakridge Foods plc,SMB,London & South East,Manufacturing,Megan Shaw,Annual,180.00,2160.00,2027-01-01,1,0,0,21.0,4.00,0,70.4,71.2,70.4,0.8,4.5,0,Low
+NSC-10995,Cobalt Retail LLP,Enterprise,Midlands,Retail,Tom Whitfield,Monthly,5125.00,61500.00,,7,0,1,35.1,3.50,0,41.5,41.0,42.0,-1.0,73.0,20,Medium
+NSC-11073,Castlefield Housing Ltd,SMB,London & South East,Professional Services,Ravi Mehta,Monthly,235.00,2820.00,,0,0,0,,,0,60.3,62.3,59.0,3.3,5.5,0,Low
+NSC-11157,Avon Medical LLP,SMB,Midlands,Professional Services,Owen Price,Annual,205.00,2460.00,2027-06-01,1,0,0,42.2,,0,63.9,65.9,63.2,2.7,5.0,0,Low
+NSC-11374,Ironbridge Care Ltd,Mid-Market,London & South East,Manufacturing,Callum Reid,Annual,1200.00,14400.00,2027-02-01,4,0,0,36.8,3.50,0,69.7,72.4,68.5,3.9,28.0,4,Low
+NSC-11457,Castlefield Manufacturing Group,SMB,London & South East,Professional Services,Sophie Turner,Annual,420.00,5040.00,2027-06-01,2,0,0,42.6,1.50,0,62.8,58.8,65.0,-6.2,10.5,29,Medium
+NSC-11458,Pennine Learning Holdings,Mid-Market,Midlands,Logistics,Unassigned,Annual,1905.00,22860.00,2027-06-01,8,1,1,38.9,2.75,2,45.5,40.7,47.8,-7.1,30.5,52,Medium
+NSC-11479,Wessex Care LLP,SMB,London & South East,Manufacturing,Megan Shaw,Annual,215.00,2580.00,2027-06-01,2,0,1,59.4,3.50,0,63.9,65.1,63.0,2.1,4.8,4,Low
+NSC-11483,Bluebell Advisory Holdings,SMB,South West & Wales,Retail,Ravi Mehta,Annual,115.00,1380.00,2027-07-01,1,0,0,22.9,,0,75.5,76.5,75.7,0.8,3.0,0,Low
+NSC-11502,Highland Supplies LLP,SMB,North West,Retail,Owen Price,Monthly,365.00,4380.00,,0,0,0,,,0,79.2,76.6,81.3,-4.7,10.3,7,Low
+NSC-10115,Moorland Housing Ltd,SMB,Scotland,Professional Services,Owen Price,Monthly,460.00,5520.00,,0,0,0,,,0,59.1,56.2,60.2,-4.0,10.8,7,Low
+NSC-10153,Holloway Distribution Ltd,SMB,Midlands,Retail,Liam Carter,Monthly,2900.00,34800.00,,0,0,0,,,0,71.2,65.6,72.6,-7.0,75.3,11,Medium
+NSC-10180,Peak Analytics Holdings,Mid-Market,Midlands,Manufacturing,Hannah Doyle,Monthly,3105.00,37260.00,,3,0,0,35.8,2.00,0,79.0,72.2,82.1,-9.9,76.3,31,Medium
+NSC-10382,Ashford Energy Ltd,Enterprise,London & South East,Unknown,Priya Raman,Annual,8475.00,101700.00,2027-05-01,8,1,1,47.1,3.77,0,52.4,51.9,52.5,-0.6,133.3,29,Medium
+NSC-10731,Saxon Partners Ltd,Mid-Market,London & South East,Professional Services,Hannah Doyle,Annual,1135.00,13620.00,2027-04-01,3,0,0,16.7,3.40,0,47.6,49.0,46.6,2.4,21.3,15,Medium
+NSC-10830,Severn Engineering LLP,SMB,North West,Financial Services,Megan Shaw,Monthly,915.00,10980.00,,1,0,0,44.8,4.00,0,66.7,70.6,65.1,5.5,23.3,0,Low
+NSC-10886,Lowther Analytics LLP,SMB,Midlands,Manufacturing,Owen Price,Monthly,380.00,4560.00,,2,0,0,9.2,3.00,0,48.6,47.8,48.6,-0.8,8.0,18,Medium
+NSC-10931,Ember Freight Ltd,SMB,Ireland,Professional Services,Owen Price,Monthly,775.00,9300.00,,0,0,0,,4.00,0,73.7,70.8,75.3,-4.5,20.3,7,Low
+NSC-11028,Ironbridge Care LLP,SMB,Yorkshire & North East,Retail,Ravi Mehta,Monthly,180.00,2160.00,,1,0,0,16.3,,0,52.6,53.8,51.4,2.4,3.8,6,Low
+NSC-11160,Castlefield Foods Ltd,SMB,Yorkshire & North East,Healthcare,Ravi Mehta,Monthly,215.00,2580.00,,2,0,1,93.6,,0,71.6,76.3,69.1,7.2,6.0,0,Low
+NSC-11262,Lowther Health Ltd,SMB,Scotland,Unknown,Owen Price,Monthly,250.00,3000.00,,2,0,2,129.2,3.00,0,75.9,74.9,76.9,-2.0,6.3,11,Medium
+NSC-11324,Calder Medical Ltd,SMB,Midlands,Manufacturing,Ravi Mehta,Monthly,225.00,2700.00,,2,0,0,55.0,4.50,0,55.8,55.0,56.1,-1.1,5.3,5,Low
+NSC-11477,Wessex Engineering Holdings,Enterprise,North West,Professional Services,Priya Raman,Annual,22205.00,266460.00,2027-06-01,14,1,3,43.7,3.50,0,60.1,58.7,61.1,-2.4,359.5,28,Medium

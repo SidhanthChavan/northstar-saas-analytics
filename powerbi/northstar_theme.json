@@ -1,0 +1,27 @@
+{
+  "name": "NorthStar Cloud",
+  "dataColors": ["#1B2A41", "#2A9D8F", "#8A8886", "#E9A23B", "#C42B1C", "#4F6D8F", "#7FC8BF", "#C8C6C4"],
+  "background": "#FFFFFF",
+  "foreground": "#1B2A41",
+  "tableAccent": "#1B2A41",
+  "good": "#2A9D8F",
+  "neutral": "#E9A23B",
+  "bad": "#C42B1C",
+  "maximum": "#2A9D8F",
+  "center": "#E9A23B",
+  "minimum": "#C42B1C",
+  "textClasses": {
+    "title":   { "fontFace": "Segoe UI Semibold", "fontSize": 14, "color": "#1B2A41" },
+    "header":  { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#1B2A41" },
+    "label":   { "fontFace": "Segoe UI", "fontSize": 10, "color": "#3B3A39" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 28, "color": "#1B2A41" }
+  },
+  "visualStyles": {
+    "*": { "*": {
+      "border":     [{ "show": false }],
+      "dropShadow": [{ "show": false }],
+      "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }]
+    }},
+    "page": { "*": { "background": [{ "color": { "solid": { "color": "#F4F5F7" } }, "transparency": 0 }] } }
+  }
+}

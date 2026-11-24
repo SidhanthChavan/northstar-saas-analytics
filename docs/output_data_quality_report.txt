@@ -1,0 +1,23 @@
+      table_name      |           check_name            | row_count 
+----------------------+---------------------------------+-----------
+ dim_customers        | Rows landed                     |      1570
+ dim_customers        | Duplicate CRM rows removed      |        23
+ dim_customers        | Signup dates imputed            |        15
+ dim_customers        | Test accounts removed           |         3
+ dim_customers        | UK-format dates parsed          |       110
+ dim_customers        | Unassigned account manager      |        46
+ fact_product_usage   | Rows landed                     |    145703
+ fact_product_usage   | Rows after clean                |    143550
+ fact_product_usage   | Adoption rescaled from 0-1      |      2906
+ fact_product_usage   | Negative API counts nulled      |       434
+ fact_subscriptions   | Rows landed                     |     33735
+ fact_subscriptions   | Rows after clean                |     33330
+ fact_subscriptions   | Churn reason not recorded       |        31
+ fact_subscriptions   | Currency-formatted MRR parsed   |      1010
+ fact_subscriptions   | Missing MRR carried forward     |       133
+ fact_support_tickets | Rows landed                     |     37700
+ fact_support_tickets | Rows after clean                |     36961
+ fact_support_tickets | Invalid CSAT nulled             |        69
+ fact_support_tickets | Resolved-before-created flagged |       110
+(19 rows)
+

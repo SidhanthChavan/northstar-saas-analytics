@@ -1,0 +1,392 @@
+// ============================================================================
+//  NorthStar Cloud - Power BI measures
+//  ----------------------------------------------------------------------------
+//  Paste each measure into a dedicated "_Measures" table (Enter data > blank
+//  table, then hide its column). Display folders are noted above each block.
+//
+//  Model assumptions (see docs/04_powerbi_data_model.md):
+//    dim_date            marked as date table on dim_date[date]
+//    fact_mrr_movements  one row per account per month, month_date = 1st
+//    fact_support_tickets, fact_product_usage, fact_renewals
+//    dim_customers       1:* to every fact, single-direction filters
+//    Bridge Steps        disconnected table for the MRR waterfall (bottom)
+//
+//  MRR is a balance, not a flow: it can't be summed across months. The
+//  balance measures below always return the value for the LAST month in the
+//  current filter context. Movement measures (new, expansion...) are flows
+//  and sum normally.
+// ============================================================================
+
+
+// ---------------------------------------------------------------------------
+//  Folder: 0. Helpers (hide from report view)
+// ---------------------------------------------------------------------------
+
+Last Data Month =
+// Latest month the billing extract covers, ignoring every filter
+CALCULATE (
+    MAX ( fact_mrr_movements[month_date] ),
+    REMOVEFILTERS ()
+)
+
+
+Selected Month =
+// The month a balance measure should report: the last month in context,
+// capped at the last month with data. Blank for future months.
+VAR _contextStart = MIN ( dim_date[month_start] )
+VAR _contextEnd   = MAX ( dim_date[month_start] )
+VAR _lastData     = [Last Data Month]
+RETURN
+    IF ( _contextStart <= _lastData, MIN ( _contextEnd, _lastData ) )
+
+
+High-Priority SLA Breaches =
+CALCULATE (
+    COUNTROWS ( fact_support_tickets ),
+    fact_support_tickets[is_high_priority] = TRUE (),
+    fact_support_tickets[sla_breached] = TRUE ()
+)
+
+
+// ---------------------------------------------------------------------------
+//  Folder: 1. Revenue
+// ---------------------------------------------------------------------------
+
+// [1]
+Total MRR (£) =
+VAR _month = [Selected Month]
+RETURN
+    IF (
+        NOT ISBLANK ( _month ),
+        CALCULATE (
+            SUM ( fact_mrr_movements[mrr_gbp] ),
+            REMOVEFILTERS ( dim_date ),
+            dim_date[month_start] = _month
+        )
+    )
+// Format: £#,0
+
+
+// [2]
+MRR Previous Month (£) =
+VAR _month = [Selected Month]
+RETURN
+    IF (
+        NOT ISBLANK ( _month ),
+        CALCULATE (
+            SUM ( fact_mrr_movements[mrr_gbp] ),
+            REMOVEFILTERS ( dim_date ),
+            dim_date[month_start] = EDATE ( _month, -1 )
+        )
+    )
+// Format: £#,0
+
+
+// [3]
+MoM MRR Growth % =
+VAR _current  = [Total MRR (£)]
+VAR _previous = [MRR Previous Month (£)]
+RETURN
+    DIVIDE ( _current - _previous, _previous )
+// Format: +0.0%;-0.0%;0.0%
+
+
+// [4]
+ARR (£) =
+[Total MRR (£)] * 12
+// Format: £#,0.0,,"m"   (shows £38.6m)
+
+
+// [5]
+Active Customers =
+VAR _month = [Selected Month]
+RETURN
+    CALCULATE (
+        DISTINCTCOUNT ( fact_mrr_movements[account_id] ),
+        REMOVEFILTERS ( dim_date ),
+        dim_date[month_start] = _month,
+        fact_mrr_movements[mrr_gbp] > 0
+    )
+// Format: #,0
+
+
+// Movement measures - flows, so they add up over any period selected.
+New MRR (£)          = SUM ( fact_mrr_movements[new_mrr_gbp] )
+Expansion MRR (£)    = SUM ( fact_mrr_movements[expansion_mrr_gbp] )
+Contraction MRR (£)  = SUM ( fact_mrr_movements[contraction_mrr_gbp] )
+Churned MRR (£)      = SUM ( fact_mrr_movements[churned_mrr_gbp] )
+Reactivation MRR (£) = SUM ( fact_mrr_movements[reactivation_mrr_gbp] )
+
+Opening MRR (£) =
+// MRR going into the first month of the selected period
+VAR _firstMonth = MIN ( dim_date[month_start] )
+RETURN
+    CALCULATE (
+        SUM ( fact_mrr_movements[prev_mrr_gbp] ),
+        REMOVEFILTERS ( dim_date ),
+        dim_date[month_start] = _firstMonth
+    )
+
+
+// ---------------------------------------------------------------------------
+//  Folder: 2. Retention
+// ---------------------------------------------------------------------------
+
+// [6]
+NRR % (TTM) =
+// MRR now from accounts that were paying 12 months ago, divided by what
+// those same accounts paid then. Matches mart.v_nrr_monthly.
+VAR _month     = [Selected Month]
+VAR _baseMonth = EDATE ( _month, -12 )
+VAR _baseAccounts =
+    CALCULATETABLE (
+        VALUES ( fact_mrr_movements[account_id] ),
+        REMOVEFILTERS ( dim_date ),
+        fact_mrr_movements[month_date] = _baseMonth,
+        fact_mrr_movements[mrr_gbp] > 0
+    )
+VAR _baseMRR =
+    CALCULATE (
+        SUM ( fact_mrr_movements[mrr_gbp] ),
+        REMOVEFILTERS ( dim_date ),
+        fact_mrr_movements[month_date] = _baseMonth,
+        _baseAccounts
+    )
+VAR _retainedMRR =
+    CALCULATE (
+        SUM ( fact_mrr_movements[mrr_gbp] ),
+        REMOVEFILTERS ( dim_date ),
+        fact_mrr_movements[month_date] = _month,
+        _baseAccounts
+    )
+RETURN
+    IF ( _baseMRR > 0, DIVIDE ( _retainedMRR, _baseMRR ) )
+// Format: 0.0%
+
+
+GRR % (TTM) =
+// Gross revenue retention: as NRR, but each account is capped at what it
+// paid 12 months ago, so upsell can't hide churn and downgrades.
+VAR _month     = [Selected Month]
+VAR _baseMonth = EDATE ( _month, -12 )
+VAR _baseAccounts =
+    CALCULATETABLE (
+        VALUES ( fact_mrr_movements[account_id] ),
+        REMOVEFILTERS ( dim_date ),
+        fact_mrr_movements[month_date] = _baseMonth,
+        fact_mrr_movements[mrr_gbp] > 0
+    )
+VAR _byAccount =
+    ADDCOLUMNS (
+        _baseAccounts,
+        "@then", CALCULATE ( SUM ( fact_mrr_movements[mrr_gbp] ), REMOVEFILTERS ( dim_date ),
+                             fact_mrr_movements[month_date] = _baseMonth ),
+        "@now",  CALCULATE ( SUM ( fact_mrr_movements[mrr_gbp] ), REMOVEFILTERS ( dim_date ),
+                             fact_mrr_movements[month_date] = _month )
+    )
+VAR _then = SUMX ( _byAccount, [@then] )
+VAR _kept = SUMX ( _byAccount, MIN ( COALESCE ( [@now], 0 ), [@then] ) )
+RETURN
+    IF ( _then > 0, DIVIDE ( _kept, _then ) )
+// Format: 0.0%
+
+
+// [7]
+Logo Churn % =
+// Accounts lost / accounts live at the start of the month. Over a multi-
+// month selection this is the pooled average monthly rate.
+VAR _churned =
+    CALCULATE ( COUNTROWS ( fact_mrr_movements ), fact_mrr_movements[is_churned_logo] = TRUE () )
+VAR _opening =
+    CALCULATE ( COUNTROWS ( fact_mrr_movements ), fact_mrr_movements[is_opening_logo] = TRUE () )
+RETURN
+    DIVIDE ( _churned, _opening )
+// Format: 0.00%
+
+
+// [8]
+Rolling 3-Month Churn Rate % =
+// Churned logos over the 3 months ending in the selected month, divided by
+// opening logos over the same 3 months. Smooths out single-month noise.
+VAR _end   = [Selected Month]
+VAR _start = EDATE ( _end, -2 )
+VAR _churned =
+    CALCULATE (
+        COUNTROWS ( fact_mrr_movements ),
+        REMOVEFILTERS ( dim_date ),
+        dim_date[month_start] >= _start && dim_date[month_start] <= _end,
+        fact_mrr_movements[is_churned_logo] = TRUE ()
+    )
+VAR _opening =
+    CALCULATE (
+        COUNTROWS ( fact_mrr_movements ),
+        REMOVEFILTERS ( dim_date ),
+        dim_date[month_start] >= _start && dim_date[month_start] <= _end,
+        fact_mrr_movements[is_opening_logo] = TRUE ()
+    )
+RETURN
+    DIVIDE ( _churned, _opening )
+// Format: 0.00%
+
+
+// [9]
+High-Risk Revenue at Risk (£) =
+// MRR on accounts that, as at the selected month, show:
+//   2+ P1/P2 SLA breaches in the last 90 days AND adoption below 50%, or
+//   average adoption below 35% over the last 13 weeks.
+// Same rule as mart.v_account_health[risk_band] = "High".
+VAR _monthEnd = EOMONTH ( [Selected Month], 0 )
+VAR _atRiskAccounts =
+    FILTER (
+        VALUES ( dim_customers[account_id] ),
+        VAR _hpBreaches =
+            CALCULATE (
+                [High-Priority SLA Breaches],
+                REMOVEFILTERS ( dim_date ),
+                dim_date[date] > _monthEnd - 90 && dim_date[date] <= _monthEnd
+            )
+        VAR _adoption =
+            CALCULATE (
+                AVERAGE ( fact_product_usage[feature_adoption_pct] ),
+                REMOVEFILTERS ( dim_date ),
+                dim_date[date] > _monthEnd - 91 && dim_date[date] <= _monthEnd
+            )
+        RETURN
+            NOT ISBLANK ( _adoption )
+                && ( ( _hpBreaches >= 2 && _adoption < 50 ) || _adoption < 35 )
+    )
+RETURN
+    CALCULATE ( [Total MRR (£)], _atRiskAccounts )
+// Format: £#,0   (x12 for ARR - see next measure)
+
+High-Risk ARR at Risk (£) =
+[High-Risk Revenue at Risk (£)] * 12
+
+
+// ---------------------------------------------------------------------------
+//  Folder: 3. Support
+// ---------------------------------------------------------------------------
+
+// [10]
+SLA Breach % =
+// Breached tickets / tickets whose SLA outcome is known. Open tickets still
+// inside their SLA window are excluded (sla_evaluable = FALSE).
+VAR _breached =
+    CALCULATE ( COUNTROWS ( fact_support_tickets ), fact_support_tickets[sla_breached] = TRUE () )
+VAR _evaluable =
+    CALCULATE ( COUNTROWS ( fact_support_tickets ), fact_support_tickets[sla_evaluable] = TRUE () )
+RETURN
+    DIVIDE ( _breached, _evaluable )
+// Format: 0.0%
+
+SLA Compliance % =
+VAR _breachRate = [SLA Breach %]
+RETURN
+    IF ( NOT ISBLANK ( _breachRate ), 1 - _breachRate )
+// Format: 0.0%
+
+
+// [11]
+Median Resolution Time (hrs) =
+// Median, not mean: a handful of week-long escalations would drag the mean.
+MEDIAN ( fact_support_tickets[resolution_hours] )
+// Format: 0.0
+
+Tickets = COUNTROWS ( fact_support_tickets )
+
+Avg CSAT =
+AVERAGE ( fact_support_tickets[csat_score] )
+// Format: 0.00
+
+
+// [12]
+Renewal Rate % =
+// Annual contracts renewed / annual contracts that came up for renewal
+VAR _due     = COUNTROWS ( fact_renewals )
+VAR _renewed = CALCULATE ( COUNTROWS ( fact_renewals ), fact_renewals[is_renewed] = TRUE () )
+RETURN
+    DIVIDE ( _renewed, _due )
+// Format: 0.0%
+
+
+// ---------------------------------------------------------------------------
+//  Folder: 4. Product & cohorts
+// ---------------------------------------------------------------------------
+
+Avg Feature Adoption % =
+AVERAGE ( fact_product_usage[feature_adoption_pct] ) / 100
+// Format: 0.0%   (source is 0-100)
+
+Cohort Logo Retention % =
+// For the cohort heatmap: rows = dim_customers[cohort_quarter],
+// columns = fact_mrr_movements[months_since_signup].
+// Cohort size ignores the column filter; the numerator respects it.
+VAR _cohortSize =
+    CALCULATE (
+        DISTINCTCOUNT ( fact_mrr_movements[account_id] ),
+        fact_mrr_movements[movement_type] = "New",
+        REMOVEFILTERS ( fact_mrr_movements[months_since_signup] ),
+        REMOVEFILTERS ( dim_date )
+    )
+VAR _stillPaying =
+    CALCULATE (
+        DISTINCTCOUNT ( fact_mrr_movements[account_id] ),
+        fact_mrr_movements[mrr_gbp] > 0,
+        REMOVEFILTERS ( dim_date )
+    )
+RETURN
+    DIVIDE ( _stillPaying, _cohortSize )
+// Format: 0%
+
+
+// ---------------------------------------------------------------------------
+//  Folder: 5. KPI card helpers (delta labels and colours)
+// ---------------------------------------------------------------------------
+
+MRR MoM Label =
+VAR _g = [MoM MRR Growth %]
+RETURN
+    IF ( NOT ISBLANK ( _g ),
+         IF ( _g >= 0, "▲ ", "▼ " ) & FORMAT ( ABS ( _g ), "0.0%" ) & " vs last month" )
+
+NRR Change vs 3M Ago (pts) =
+VAR _now  = [NRR % (TTM)]
+VAR _then =
+    CALCULATE ( [NRR % (TTM)], DATEADD ( dim_date[date], -3, MONTH ) )
+RETURN
+    IF ( NOT ISBLANK ( _now ) && NOT ISBLANK ( _then ), ( _now - _then ) * 100 )
+// Format: +0.0" pts";-0.0" pts"
+
+KPI Colour - Higher Is Better =
+// Use in conditional formatting > Field value. Bind to a delta measure.
+VAR _d = [MoM MRR Growth %]
+RETURN SWITCH ( TRUE (), ISBLANK ( _d ), "#605E5C", _d >= 0, "#107C41", "#C42B1C" )
+
+
+// ---------------------------------------------------------------------------
+//  MRR waterfall (Page 1)
+//  1) Create a disconnected table:
+//
+//     Bridge Steps =
+//     DATATABLE (
+//         "Step", STRING, "Sort", INTEGER,
+//         { { "Opening MRR", 1 }, { "New", 2 }, { "Expansion", 3 },
+//           { "Reactivation", 4 }, { "Contraction", 5 }, { "Churn", 6 } }
+//     )
+//
+//  2) Sort Step by Sort. Waterfall: Category = Bridge Steps[Step],
+//     Y-axis = [MRR Bridge Value]. The visual's automatic Total bar is
+//     closing MRR, and reconciles to [Total MRR (£)].
+// ---------------------------------------------------------------------------
+
+MRR Bridge Value =
+SWITCH (
+    SELECTEDVALUE ( 'Bridge Steps'[Step] ),
+    "Opening MRR",  [Opening MRR (£)],
+    "New",          [New MRR (£)],
+    "Expansion",    [Expansion MRR (£)],
+    "Reactivation", [Reactivation MRR (£)],
+    "Contraction",  - [Contraction MRR (£)],
+    "Churn",        - [Churned MRR (£)]
+)
+// Format: £#,0
